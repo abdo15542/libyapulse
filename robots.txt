@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abdo15542.github.io/libyapulse/sitemap.xml
