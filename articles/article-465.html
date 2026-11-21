@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>🐍 How Did Attackers Hack Microsoft&#x27;s Own Account? A Stolen Certificate and an AI Tool Behind the Malicious Package! | Libya Pulse</title>
+<meta name="description" content="🐍 How Did Attackers Hack Microsoft&#x27;s Own Account? A Stolen Certificate and an AI Tool Behind the Malicious Package! A new investigation revealed how attackers managed to publish two malicious versions of Microsoft&#x27;s Agent Framework pack…">
+<link rel="canonical" href="https://abdo15542.github.io/libyapulse/articles/article-465.html">
+<meta property="og:site_name" content="Libya Pulse">
+<meta property="og:title" content="🐍 How Did Attackers Hack Microsoft&#x27;s Own Account? A Stolen Certificate and an AI Tool Behind the Malicious Package! | Libya Pulse">
+<meta property="og:description" content="🐍 How Did Attackers Hack Microsoft&#x27;s Own Account? A Stolen Certificate and an AI Tool Behind the Malicious Package! A new investigation revealed how attackers managed to publish two malicious versions of Microsoft&#x27;s Agent Framework pack…">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://abdo15542.github.io/libyapulse/articles/article-465.html">
+<meta property="og:image" content="https://wamdalibya.netlify.app/images/r133-w133-03.jpg">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/png" href="https://wamdalibya.netlify.app/assets/logo.png">
+<link rel="stylesheet" href="../assets/style.css">
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6317687886565811" crossorigin="anonymous"></script>
+</head>
+<body>
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="../index.html">
+      <img src="https://wamdalibya.netlify.app/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
+      <span class="brand-text"><strong>Libya Pulse</strong><small>Tech news from Libya to the world</small></span>
+    </a>
+    <button class="menu-toggle" id="menuToggle" aria-label="Menu" aria-expanded="false">☰</button>
+    <nav class="main-nav" id="mainNav"><a href="../index.html">Home</a><a href="../about.html">About</a><a href="../contact.html">Contact</a><a href="../privacy-policy.html">Privacy Policy</a></nav>
+  </div>
+  <div class="container cat-bar"><a href="../categories/ai.html">Artificial Intelligence</a><a href="../categories/security.html">Cybersecurity</a><a href="../categories/space.html">Space</a><a href="../categories/phones.html">Phones & Devices</a><a href="../categories/apps.html">Apps & Platforms</a><a href="../categories/companies.html">Companies & Business</a><a href="../categories/computing.html">Computing & Programming</a><a href="../categories/science.html">Science & Innovation</a><a href="../categories/tech-news.html">Tech News</a></div>
+</header>
+<main>
+<div class="container article-page">
+  <nav class="breadcrumb"><a href="../index.html">Home</a> / <a href="../categories/security.html">Cybersecurity</a> / <span>🐍 How Did Attackers Hack Microsoft&#x27;s Own Account? A Stolen C…</span></nav>
+  <article>
+    <a class="badge" href="../categories/security.html">Cybersecurity</a>
+    <h1>🐍 How Did Attackers Hack Microsoft&#x27;s Own Account? A Stolen Certificate and an AI Tool Behind the Malicious Package!</h1>
+    <p class="article-meta"><time datetime="2026-11-21">21 November 2026</time> · Website · Libya Pulse</p>
+    <figure><img src="https://wamdalibya.netlify.app/images/r133-w133-03.jpg" alt="🐍 How Did Attackers Hack Microsoft&#x27;s Own Account? A Stolen Certificate and an AI Tool Behind the Malicious Package!" width="1200" height="675"></figure>
+    <div class="article-body"><p>A new investigation revealed how attackers managed to publish two malicious versions of Microsoft&#x27;s Agent Framework package on the PyPI store on the evening of November 17 — and the answer is more alarming than the package itself: they stole a certificate and private key from the company&#x27;s internal publishing service.</p><p>The service is known as ESRP, the internal system that signs and publishes Microsoft packages. The attackers appear to have seized a client certificate and its private key, then first tried to publish from Amazon servers, but the service&#x27;s address filters rejected them, before succeeding on a second attempt from an address owned by Microsoft itself. It is still unknown how the certificate was stolen in the first place.</p><p>As for the tool used, it calls itself Kern — an open-source framework for AI penetration testing. The attackers prepared the package in a temporary folder and sent a connectivity test signal before publishing; they even tried the theft software on their own machines first, and that test captured the settings of an open-source coding assistant running a model from the GLM family.</p><div class="ad-slot ad-rectangle" data-ad-slot="article-mid" data-ad-format="rectangle" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div><p>Analysis by JFrog revealed that the malicious package was not built in Microsoft&#x27;s pipelines at all: it was repackaged locally just nine minutes before upload, on a machine with a UTC+8 timezone — East Asia time. The second version, 1.26.2, was cleverer: it restored the original clean file to its place and moved the malicious payload to a new file, so a file comparison would not detect it.</p><p>Despite the package&#x27;s size — downloaded about 190,000 times a month — the actual damage appears limited: the data-exfiltration channel was a free service accepting only 100 requests, and it captured 50 requests — 4 from the attackers&#x27; own machines and 29 from test and scanning environments — leaving 17 requests representing just three successful thefts of victims&#x27; data. The Chainguard service also stopped the first version just 48 seconds after it was published.</p><p>Simply put: the attack was not just a tainted package, but the theft of the official publishing keys themselves, carried out by an AI tool — and it nearly succeeded, had the free exfiltration channel not filled up quickly.</p><p>Are public store checks enough to protect developers, or has trust in official packages themselves come to need rethinking?</p></div>
+    <div class="tags"><a class="chip" href="../index.html">#LibyaPulse</a><a class="chip" href="../index.html">#TechNews</a><a class="chip" href="../index.html">#Cybersecurity</a></div>
+    <div class="share">
+      <span>Share this story:</span>
+      <a href="https://wa.me/?text=%F0%9F%90%8D%20How%20Did%20Attackers%20Hack%20Microsoft%27s%20Own%20Account%3F%20A%20Stolen%20Certificate%20and%20an%20AI%20Tool%20Behind%20the%20Malicious%20Package%21%20https%3A//abdo15542.github.io/libyapulse/articles/article-465.html" target="_blank" rel="noopener" class="btn">WhatsApp</a>
+      <a href="https://twitter.com/intent/tweet?text=%F0%9F%90%8D%20How%20Did%20Attackers%20Hack%20Microsoft%27s%20Own%20Account%3F%20A%20Stolen%20Certificate%20and%20an%20AI%20Tool%20Behind%20the%20Malicious%20Package%21%20https%3A//abdo15542.github.io/libyapulse/articles/article-465.html&url=https%3A//abdo15542.github.io/libyapulse/articles/article-465.html" target="_blank" rel="noopener" class="btn">X</a>
+      <button class="btn" id="copyLinkBtn" data-url="https://abdo15542.github.io/libyapulse/articles/article-465.html">Copy link</button>
+    </div>
+  </article>
+  <div class="ad-slot ad-horizontal" data-ad-slot="header-leaderboard" data-ad-format="horizontal" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div>
+  <nav class="prev-next"><a class="prev" href="article-464.html">← Previous: 🧠 OpenAI&#x27;s Models Design Chips Themselves — a 14% Improvement in AMD&#x27;s</a><a class="next" href="article-466.html">Next: 🇨🇳 Alibaba Trains Its Next Qwen Model on Its Own Chips — Goodbye to De →</a></nav>
+</div>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🐍 How Did Attackers Hack Microsoft's Own Account? A Stolen Certificate and an AI Tool Behind the Malicious Package!", "inLanguage": "en", "datePublished": "2026-11-21", "dateModified": "2026-11-21", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://wamdalibya.netlify.app/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-465.html", "image": "https://wamdalibya.netlify.app/images/r133-w133-03.jpg", "articleSection": "Cybersecurity"}</script></main>
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div>
+      <h3>Libya Pulse</h3>
+      <p>A general tech page from Libya to the whole world: news, explainers, apps, and artificial intelligence — in clear, simple English.</p>
+      <p><a class="btn btn-gold" href="https://www.facebook.com/profile.php?id=61596701491859" target="_blank" rel="noopener">Follow us on Facebook</a></p>
+    </div>
+    <div>
+      <h3>Categories</h3>
+      <ul class="footer-links"><li><a href="../categories/ai.html">Artificial Intelligence</a></li><li><a href="../categories/security.html">Cybersecurity</a></li><li><a href="../categories/space.html">Space</a></li><li><a href="../categories/phones.html">Phones & Devices</a></li><li><a href="../categories/apps.html">Apps & Platforms</a></li><li><a href="../categories/companies.html">Companies & Business</a></li><li><a href="../categories/computing.html">Computing & Programming</a></li><li><a href="../categories/science.html">Science & Innovation</a></li><li><a href="../categories/tech-news.html">Tech News</a></li></ul>
+    </div>
+    <div>
+      <h3>Links</h3>
+      <ul class="footer-links">
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="../about.html">About</a></li>
+        <li><a href="../contact.html">Contact</a></li>
+        <li><a href="../privacy-policy.html">Privacy Policy</a></li>
+        <li><a href="../sitemap.xml">Sitemap</a></li>
+      </ul>
+      <p>Email: <a href="mailto:mybook9191@gmail.com">mybook9191@gmail.com</a></p>
+    </div>
+  </div>
+  <div class="copyright">© 2026 Libya Pulse — All rights reserved.</div>
+</footer>
+<script src="../assets/site.js" defer></script>
+</body>
+</html>
