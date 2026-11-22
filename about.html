@@ -16,8 +16,23 @@
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" type="image/png" href="https://wamdalibya.netlify.app/assets/logo.png">
 <link rel="stylesheet" href="assets/style.css">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0b1e3a">
+<link rel="apple-touch-icon" href="https://wamdalibya.netlify.app/assets/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Libya Pulse">
 
+<script>if (/WamdaApp/.test(navigator.userAgent)) document.documentElement.classList.add('wamda-app');</script>
+<style>.wamda-app .adsbygoogle, .wamda-app ins.adsbygoogle, .wamda-app .ad-slot { display:none !important; }</style>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6317687886565811" crossorigin="anonymous"></script>
+<script>
+window.addEventListener('load', function () {
+  try {
+    if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js');
+  } catch (e) {}
+});
+</script>
 </head>
 <body>
 <header class="site-header">
