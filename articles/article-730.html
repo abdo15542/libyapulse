@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
 <title>⚡ Nvidia Speeds Up AI Training 15x... How? | Libya Pulse</title>
 <meta name="description" content="⚡ Nvidia Speeds Up AI Training 15x... How? On November 19, Nvidia explained how a software layer called Dynamo makes training AI models with reinforcement learning…">
 <link rel="canonical" href="https://abdo15542.github.io/libyapulse/articles/article-730.html">
@@ -11,14 +12,14 @@
 <meta property="og:description" content="⚡ Nvidia Speeds Up AI Training 15x... How? On November 19, Nvidia explained how a software layer called Dynamo makes training AI models with reinforcement learning…">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://abdo15542.github.io/libyapulse/articles/article-730.html">
-<meta property="og:image" content="https://wamdalibya.netlify.app/images/r190-w190-02.jpg">
+<meta property="og:image" content="https://abdo15542.github.io/wamdalibya/images/r190-w190-02.jpg">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" type="image/png" href="https://wamdalibya.netlify.app/assets/logo.png">
+<link rel="icon" type="image/png" href="https://abdo15542.github.io/wamdalibya/assets/logo.png">
 <link rel="stylesheet" href="../assets/style.css">
 <link rel="manifest" href="../manifest.json">
 <meta name="theme-color" content="#0b1e3a">
-<link rel="apple-touch-icon" href="https://wamdalibya.netlify.app/assets/apple-touch-icon.png">
+<link rel="apple-touch-icon" href="https://abdo15542.github.io/wamdalibya/assets/apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Libya Pulse">
@@ -38,7 +39,7 @@ window.addEventListener('load', function () {
 <header class="site-header">
   <div class="container header-inner">
     <a class="brand" href="../index.html">
-      <img src="https://wamdalibya.netlify.app/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
+      <img src="https://abdo15542.github.io/wamdalibya/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
       <span class="brand-text"><strong>Libya Pulse</strong><small>Tech news from Libya to the world</small></span>
     </a>
     <button class="menu-toggle" id="menuToggle" aria-label="Menu" aria-expanded="false">☰</button>
@@ -53,7 +54,7 @@ window.addEventListener('load', function () {
     <a class="badge" href="../categories/ai.html">Artificial Intelligence</a>
     <h1>⚡ Nvidia Speeds Up AI Training 15x... How?</h1>
     <p class="article-meta"><time datetime="2026-11-22">22 November 2026</time> · Website · Libya Pulse</p>
-    <figure><img src="https://wamdalibya.netlify.app/images/r190-w190-02.jpg" alt="⚡ Nvidia Speeds Up AI Training 15x... How?" width="1200" height="675"></figure>
+    <figure><img src="https://abdo15542.github.io/wamdalibya/images/r190-w190-02.jpg" alt="⚡ Nvidia Speeds Up AI Training 15x... How?" width="1200" height="675"></figure>
     <div class="article-body"><p>On November 19, Nvidia explained how a software layer called Dynamo makes training AI models with reinforcement learning faster and cheaper, by tackling three bottlenecks that waste graphics card capacity: slow sample generation, repeatedly recalculating the same context, and constantly transferring updated model weights.</p><p>In reinforcement learning, the model generates many attempts to solve a task, then evaluates them and updates itself, and the cycle repeats thousands of times. The problem is that the slowest attempt can delay the entire next step, that attempts often start with the same instructions so they are recalculated every time, and that every model update requires sending a complete copy to every worker. This is where Dynamo comes in: its smart router sends a request to a worker that already has the context stored, without overloading it, and its Model Express tool transfers only the compressed differences between the two versions, copying weights from a neighboring card&#x27;s memory instead of distant storage.</p><p>The numbers come from real customers: CoreWeave sped up weight updates by up to 15x, and H cut training step time by up to 20% and graphics card hours by up to 5%. The system also detects a failed worker and redirects requests to a healthy one, and moves running requests instead of restarting them from scratch. Dynamo is used in training by Microsoft AI, Cognition, and Prime Intellect, with open-source integrations for the VeRL, NeMo RL, SLIME, and Prime RL frameworks.</p><p>Simply put: training large models used to waste time waiting for the slowest attempt and sending the whole model every time, and now only the difference is sent; so do you think faster training will make models cheaper for everyone, or does it only benefit the big companies?</p></div>
     <div class="tags"><a class="chip" href="../index.html">#LibyaPulse</a><a class="chip" href="../index.html">#TechNews</a><a class="chip" href="../index.html">#Nvidia</a></div>
     <div class="share">
@@ -66,7 +67,7 @@ window.addEventListener('load', function () {
   <div class="ad-slot ad-horizontal" data-ad-slot="header-leaderboard" data-ad-format="horizontal" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div>
   <nav class="prev-next"><a class="prev" href="article-729.html">← Previous: 🚨 AI Discovers 100,000 Flaws in One Year... and the Outages Have &#x27;Only</a><a class="next" href="article-731.html">Next: 🏦 The European Central Bank Warns: AI Gives Attackers the Advantage Ov →</a></nav>
 </div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "⚡ Nvidia Speeds Up AI Training 15x... How?", "inLanguage": "en", "datePublished": "2026-11-22", "dateModified": "2026-11-22", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://wamdalibya.netlify.app/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-730.html", "image": "https://wamdalibya.netlify.app/images/r190-w190-02.jpg", "articleSection": "Artificial Intelligence"}</script></main>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "⚡ Nvidia Speeds Up AI Training 15x... How?", "inLanguage": "en", "datePublished": "2026-11-22", "dateModified": "2026-11-22", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://abdo15542.github.io/wamdalibya/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-730.html", "image": "https://abdo15542.github.io/wamdalibya/images/r190-w190-02.jpg", "articleSection": "Artificial Intelligence"}</script></main>
 <footer class="site-footer">
   <div class="container footer-grid">
     <div>

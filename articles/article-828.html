@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
 <title>🔓 Three Lines in a Config File Open Your Whole Account: A Critical Flaw in Next.js! | Libya Pulse</title>
 <meta name="description" content="🔓 Three Lines in a Config File Open Your Whole Account: A Critical Flaw in Next.js! A security researcher has discovered a critical flaw in a site built with the Next.js framework, starting from just thre…">
 <link rel="canonical" href="https://abdo15542.github.io/libyapulse/articles/article-828.html">
@@ -11,14 +12,14 @@
 <meta property="og:description" content="🔓 Three Lines in a Config File Open Your Whole Account: A Critical Flaw in Next.js! A security researcher has discovered a critical flaw in a site built with the Next.js framework, starting from just thre…">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://abdo15542.github.io/libyapulse/articles/article-828.html">
-<meta property="og:image" content="https://wamdalibya.netlify.app/images/r214-w214-01.jpg">
+<meta property="og:image" content="https://abdo15542.github.io/wamdalibya/images/r214-w214-01.jpg">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" type="image/png" href="https://wamdalibya.netlify.app/assets/logo.png">
+<link rel="icon" type="image/png" href="https://abdo15542.github.io/wamdalibya/assets/logo.png">
 <link rel="stylesheet" href="../assets/style.css">
 <link rel="manifest" href="../manifest.json">
 <meta name="theme-color" content="#0b1e3a">
-<link rel="apple-touch-icon" href="https://wamdalibya.netlify.app/assets/apple-touch-icon.png">
+<link rel="apple-touch-icon" href="https://abdo15542.github.io/wamdalibya/assets/apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Libya Pulse">
@@ -38,7 +39,7 @@ window.addEventListener('load', function () {
 <header class="site-header">
   <div class="container header-inner">
     <a class="brand" href="../index.html">
-      <img src="https://wamdalibya.netlify.app/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
+      <img src="https://abdo15542.github.io/wamdalibya/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
       <span class="brand-text"><strong>Libya Pulse</strong><small>Tech news from Libya to the world</small></span>
     </a>
     <button class="menu-toggle" id="menuToggle" aria-label="Menu" aria-expanded="false">☰</button>
@@ -53,7 +54,7 @@ window.addEventListener('load', function () {
     <a class="badge" href="../categories/security.html">Cybersecurity</a>
     <h1>🔓 Three Lines in a Config File Open Your Whole Account: A Critical Flaw in Next.js!</h1>
     <p class="article-meta"><time datetime="2026-11-22">22 November 2026</time> · Website · Libya Pulse</p>
-    <figure><img src="https://wamdalibya.netlify.app/images/r214-w214-01.jpg" alt="🔓 Three Lines in a Config File Open Your Whole Account: A Critical Flaw in Next.js!" width="1200" height="675"></figure>
+    <figure><img src="https://abdo15542.github.io/wamdalibya/images/r214-w214-01.jpg" alt="🔓 Three Lines in a Config File Open Your Whole Account: A Critical Flaw in Next.js!" width="1200" height="675"></figure>
     <div class="article-body"><p>A security researcher has discovered a critical flaw in a site built with the Next.js framework, starting from just three lines in a config file. The site was passing content from two decentralised storage networks, Arweave and IPFS, through its own domain, so their files appeared to come from the site itself. The problem is that both networks are open to everyone: anyone can upload a page containing malicious code, which is then displayed on the site&#x27;s domain with all its privileges.</p><p>The usual protections did not help: the content security policy allows scripts coming from the same domain, and the malicious page had become — in the browser&#x27;s view — from the same domain. The decisive blow was that the site stores login tokens in the browser&#x27;s local storage, which is exposed to any script running on the same domain, so the attacker stole the token, the login session and the personal access token with a single click on a link.</p><p>Worse still, Arweave is permanent storage where nothing is ever deleted: the malicious page stays there forever, even after the site is fixed. The program acknowledged the flaw the same day and removed the proxy rules, rating its severity 9.3 out of 10. The fix is simple: never proxy content from open networks through your own domain, and never store login tokens in browser storage.</p><p>Simply put: one link steals your entire account session — do you trust every link that reaches you?</p></div>
     <div class="tags"><a class="chip" href="../index.html">#LibyaPulse</a><a class="chip" href="../index.html">#TechNews</a><a class="chip" href="../index.html">#Security</a></div>
     <div class="share">
@@ -66,7 +67,7 @@ window.addEventListener('load', function () {
   <div class="ad-slot ad-horizontal" data-ad-slot="header-leaderboard" data-ad-format="horizontal" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div>
   <nav class="prev-next"><a class="prev" href="article-827.html">← Previous: 🚨 Critical Flaw in Xen Orchestra: An Empty Profile Gives an Attacker F</a><a class="next" href="article-829.html">Next: 🔐 Stolen GitHub Accounts Turned into a Hacking Army: 1,281 Sites Hit! →</a></nav>
 </div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🔓 Three Lines in a Config File Open Your Whole Account: A Critical Flaw in Next.js!", "inLanguage": "en", "datePublished": "2026-11-22", "dateModified": "2026-11-22", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://wamdalibya.netlify.app/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-828.html", "image": "https://wamdalibya.netlify.app/images/r214-w214-01.jpg", "articleSection": "Cybersecurity"}</script></main>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🔓 Three Lines in a Config File Open Your Whole Account: A Critical Flaw in Next.js!", "inLanguage": "en", "datePublished": "2026-11-22", "dateModified": "2026-11-22", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://abdo15542.github.io/wamdalibya/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-828.html", "image": "https://abdo15542.github.io/wamdalibya/images/r214-w214-01.jpg", "articleSection": "Cybersecurity"}</script></main>
 <footer class="site-footer">
   <div class="container footer-grid">
     <div>

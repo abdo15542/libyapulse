@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
 <title>🔑 A single encrypted key is enough to steal your apps&#x27; data — critical flaw in the GPGME library! | Libya Pulse</title>
 <meta name="description" content="🔑 A single encrypted key is enough to steal your apps&#x27; data — critical flaw in the GPGME library! The GnuPG project warned of a critical flaw in the GPGME library, the standard library that programs use to work with th…">
 <link rel="canonical" href="https://abdo15542.github.io/libyapulse/articles/article-622.html">
@@ -11,14 +12,14 @@
 <meta property="og:description" content="🔑 A single encrypted key is enough to steal your apps&#x27; data — critical flaw in the GPGME library! The GnuPG project warned of a critical flaw in the GPGME library, the standard library that programs use to work with th…">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://abdo15542.github.io/libyapulse/articles/article-622.html">
-<meta property="og:image" content="https://wamdalibya.netlify.app/images/r160-w160-01.jpg">
+<meta property="og:image" content="https://abdo15542.github.io/wamdalibya/images/r160-w160-01.jpg">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" type="image/png" href="https://wamdalibya.netlify.app/assets/logo.png">
+<link rel="icon" type="image/png" href="https://abdo15542.github.io/wamdalibya/assets/logo.png">
 <link rel="stylesheet" href="../assets/style.css">
 <link rel="manifest" href="../manifest.json">
 <meta name="theme-color" content="#0b1e3a">
-<link rel="apple-touch-icon" href="https://wamdalibya.netlify.app/assets/apple-touch-icon.png">
+<link rel="apple-touch-icon" href="https://abdo15542.github.io/wamdalibya/assets/apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Libya Pulse">
@@ -38,7 +39,7 @@ window.addEventListener('load', function () {
 <header class="site-header">
   <div class="container header-inner">
     <a class="brand" href="../index.html">
-      <img src="https://wamdalibya.netlify.app/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
+      <img src="https://abdo15542.github.io/wamdalibya/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
       <span class="brand-text"><strong>Libya Pulse</strong><small>Tech news from Libya to the world</small></span>
     </a>
     <button class="menu-toggle" id="menuToggle" aria-label="Menu" aria-expanded="false">☰</button>
@@ -53,7 +54,7 @@ window.addEventListener('load', function () {
     <a class="badge" href="../categories/security.html">Cybersecurity</a>
     <h1>🔑 A single encrypted key is enough to steal your apps&#x27; data — critical flaw in the GPGME library!</h1>
     <p class="article-meta"><time datetime="2026-11-21">21 November 2026</time> · Website · Libya Pulse</p>
-    <figure><img src="https://wamdalibya.netlify.app/images/r160-w160-01.jpg" alt="🔑 A single encrypted key is enough to steal your apps&#x27; data — critical flaw in the GPGME library!" width="1200" height="675"></figure>
+    <figure><img src="https://abdo15542.github.io/wamdalibya/images/r160-w160-01.jpg" alt="🔑 A single encrypted key is enough to steal your apps&#x27; data — critical flaw in the GPGME library!" width="1200" height="675"></figure>
     <div class="article-body"><p>The GnuPG project warned of a critical flaw in the GPGME library, the standard library that programs use to work with the GnuPG encryption system, which could be used to steal data from affected applications.</p><p>The flaw, known as CVE-2026-129975, is triggered by an OpenPGP key carrying an unusually long user ID, causing a memory error known as a &quot;double-free&quot; — freeing the same memory twice.</p><p>The flaw affects all programs using the library before version 2.3.0, whether the library is loaded as a shared library, as a DLL file in Windows, or built into the program itself.</p><div class="ad-slot ad-rectangle" data-ad-slot="article-mid" data-ad-format="rectangle" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div><p>Among the affected programs are most email clients, many messaging clients, the Samba software, and the Gpg4win and GnuPG Desktop packages — in other words, exposure is wide because the library sits behind a large part of the encryption infrastructure in the software world.</p><p>The project says the flaw could be used to steal data from applications by sending signed data to them, and its use for remote code execution cannot be ruled out, although no attacks exploiting it have been observed so far.</p><p>Researcher Johan Carlsson discovered the flaw and reported it to GitLab on November 12. The original disclosure date was November 25, but it was brought forward because another flaw forced the company to update early.</p><p>The fix is version 2.3.1 of the library, the Gpg4win 5.1.2 package for Windows users, and version 1.24.4 for the older branch; versions built into applications need to be rebuilt by their developers.</p><p>Simply put: a single encryption key that is longer than it should be is enough to break the memory of entire programs. Sometimes the most dangerous attack is the simplest unexpected entry point.</p><p>Do you update your encryption and email programs as soon as a critical security fix is released?</p></div>
     <div class="tags"><a class="chip" href="../index.html">#LibyaPulse</a><a class="chip" href="../index.html">#TechNews</a><a class="chip" href="../index.html">#Cybersecurity</a></div>
     <div class="share">
@@ -66,7 +67,7 @@ window.addEventListener('load', function () {
   <div class="ad-slot ad-horizontal" data-ad-slot="header-leaderboard" data-ad-format="horizontal" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div>
   <nav class="prev-next"><a class="prev" href="article-621.html">← Previous: 🖥️ ScreenConnect attack breaches 48 companies and plants remote-access</a><a class="next" href="article-623.html">Next: 🎮 Fake GTA 6 client on Windows steals your passwords and crypto wallet →</a></nav>
 </div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🔑 A single encrypted key is enough to steal your apps' data — critical flaw in the GPGME library!", "inLanguage": "en", "datePublished": "2026-11-21", "dateModified": "2026-11-21", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://wamdalibya.netlify.app/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-622.html", "image": "https://wamdalibya.netlify.app/images/r160-w160-01.jpg", "articleSection": "Cybersecurity"}</script></main>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🔑 A single encrypted key is enough to steal your apps' data — critical flaw in the GPGME library!", "inLanguage": "en", "datePublished": "2026-11-21", "dateModified": "2026-11-21", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://abdo15542.github.io/wamdalibya/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-622.html", "image": "https://abdo15542.github.io/wamdalibya/images/r160-w160-01.jpg", "articleSection": "Cybersecurity"}</script></main>
 <footer class="site-footer">
   <div class="container footer-grid">
     <div>
