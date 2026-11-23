@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>🛡️ A journalist with no experience finds a serious WordPress flaw — with AI help in 6 hours! | Libya Pulse</title>
+<meta name="description" content="🛡️ A journalist with no experience finds a serious WordPress flaw — with AI help in 6 hours! A tech journalist had never hunted a software bug in his life, but he decided to try: he used two free AI models, and in…">
+<link rel="canonical" href="https://abdo15542.github.io/libyapulse/articles/article-1063.html">
+<meta property="og:site_name" content="Libya Pulse">
+<meta property="og:title" content="🛡️ A journalist with no experience finds a serious WordPress flaw — with AI help in 6 hours! | Libya Pulse">
+<meta property="og:description" content="🛡️ A journalist with no experience finds a serious WordPress flaw — with AI help in 6 hours! A tech journalist had never hunted a software bug in his life, but he decided to try: he used two free AI models, and in…">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://abdo15542.github.io/libyapulse/articles/article-1063.html">
+<meta property="og:image" content="https://abdo15542.github.io/wamdalibya/images/r276-w276-01.jpg">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/png" href="https://abdo15542.github.io/wamdalibya/assets/logo.png">
+<link rel="stylesheet" href="../assets/style.css">
+<link rel="manifest" href="../manifest.json">
+<meta name="theme-color" content="#0b1e3a">
+<link rel="apple-touch-icon" href="https://abdo15542.github.io/wamdalibya/assets/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Libya Pulse">
+
+<script>if (/WamdaApp/.test(navigator.userAgent)) document.documentElement.classList.add('wamda-app');</script>
+<style>.wamda-app .adsbygoogle, .wamda-app ins.adsbygoogle, .wamda-app .ad-slot { display:none !important; }</style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6317687886565811" crossorigin="anonymous"></script>
+<script>
+window.addEventListener('load', function () {
+  try {
+    if ('serviceWorker' in navigator) navigator.serviceWorker.register('../sw.js');
+  } catch (e) {}
+});
+</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="../index.html">
+      <img src="https://abdo15542.github.io/wamdalibya/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
+      <span class="brand-text"><strong>Libya Pulse</strong><small>Tech news from Libya to the world</small></span>
+    </a>
+    <button class="menu-toggle" id="menuToggle" aria-label="Menu" aria-expanded="false">☰</button>
+    <nav class="main-nav" id="mainNav"><a href="../index.html">Home</a><a href="../about.html">About</a><a href="../contact.html">Contact</a><a href="../privacy-policy.html">Privacy Policy</a></nav>
+  </div>
+  <div class="container cat-bar"><a href="../categories/ai.html">Artificial Intelligence</a><a href="../categories/security.html">Cybersecurity</a><a href="../categories/space.html">Space</a><a href="../categories/phones.html">Phones & Devices</a><a href="../categories/apps.html">Apps & Platforms</a><a href="../categories/companies.html">Companies & Business</a><a href="../categories/computing.html">Computing & Programming</a><a href="../categories/science.html">Science & Innovation</a><a href="../categories/tech-news.html">Tech News</a></div>
+</header>
+<main>
+<div class="container article-page">
+  <nav class="breadcrumb"><a href="../index.html">Home</a> / <a href="../categories/security.html">Cybersecurity</a> / <span>🛡️ A journalist with no experience finds a serious WordPress…</span></nav>
+  <article>
+    <a class="badge" href="../categories/security.html">Cybersecurity</a>
+    <h1>🛡️ A journalist with no experience finds a serious WordPress flaw — with AI help in 6 hours!</h1>
+    <p class="article-meta"><time datetime="2026-11-23">23 November 2026</time> · Website · Libya Pulse</p>
+    <figure><img src="https://abdo15542.github.io/wamdalibya/images/r276-w276-01.jpg" alt="🛡️ A journalist with no experience finds a serious WordPress flaw — with AI help in 6 hours!" width="1200" height="675"></figure>
+    <div class="article-body"><p>A tech journalist had never hunted a software bug in his life, but he decided to try: he used two free AI models, and in only about 6 hours he found a real flaw in a popular WordPress plugin, reported it officially, and it was confirmed and given an official vulnerability number.</p><p>The plugin is WPIDE, a tool for managing files and editing code inside the WordPress dashboard, running on more than 40,000 websites. The flaw carries the number CVE-2026-124251 and a severity score of 8.8 out of 10, and it is an incomplete fix for an earlier flaw from last July.</p><p>The problem is that the earlier fix added a check for a security token, but the check only works when the page name in the link is exactly the plugin&#x27;s main name, while the plugin registers 7 subpages with different names, such as the file manager, the image editor, the database manager, and Snippets, so their requests all pass without any security check.</p><div class="ad-slot ad-rectangle" data-ad-slot="article-mid" data-ad-format="rectangle" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div><p>Worse still, the Snippets feature lets an administrator write PHP code and run it directly on the server, so an attacker with no account at all can trick a logged-in site administrator into visiting a malicious page, and the attacker&#x27;s code then runs inside the server with the administrator&#x27;s own privileges, possibly leading to full control of the site.</p><p>The fix was released in version 3.6.5 on 8 November, and no actual exploitation of the flaw has been confirmed so far, so everyone using the plugin is advised to update immediately, review the snippets folder and delete any unknown snippet, and change administrator passwords if any suspicious file is found.</p><p>Simply put: free AI now helps even non-specialists find flaws in hours — has finding flaws become faster than fixing them?</p><p>If AI can find a flaw in 6 hours, do you still feel your website is safe?</p></div>
+    <div class="tags"><a class="chip" href="../index.html">#LibyaPulse</a><a class="chip" href="../index.html">#TechNews</a><a class="chip" href="../index.html">#Security</a></div>
+    <div class="share">
+      <span>Share this story:</span>
+      <a href="https://wa.me/?text=%F0%9F%9B%A1%EF%B8%8F%20A%20journalist%20with%20no%20experience%20finds%20a%20serious%20WordPress%20flaw%20%E2%80%94%20with%20AI%20help%20in%206%20hours%21%20https%3A//abdo15542.github.io/libyapulse/articles/article-1063.html" target="_blank" rel="noopener" class="btn">WhatsApp</a>
+      <a href="https://twitter.com/intent/tweet?text=%F0%9F%9B%A1%EF%B8%8F%20A%20journalist%20with%20no%20experience%20finds%20a%20serious%20WordPress%20flaw%20%E2%80%94%20with%20AI%20help%20in%206%20hours%21%20https%3A//abdo15542.github.io/libyapulse/articles/article-1063.html&url=https%3A//abdo15542.github.io/libyapulse/articles/article-1063.html" target="_blank" rel="noopener" class="btn">X</a>
+      <button class="btn" id="copyLinkBtn" data-url="https://abdo15542.github.io/libyapulse/articles/article-1063.html">Copy link</button>
+    </div>
+  </article>
+  <div class="ad-slot ad-horizontal" data-ad-slot="header-leaderboard" data-ad-format="horizontal" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div>
+  <nav class="prev-next"><a class="prev" href="article-1062.html">← Previous: 📱 Galaxy S27 Prices May Rise More Than Planned… The Memory Crisis Is P</a><a class="next" href="article-1064.html">Next: 📱 Honor 700 officially launched — a smart rear display, a 9000 battery →</a></nav>
+</div>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🛡️ A journalist with no experience finds a serious WordPress flaw — with AI help in 6 hours!", "inLanguage": "en", "datePublished": "2026-11-23", "dateModified": "2026-11-23", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://abdo15542.github.io/wamdalibya/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-1063.html", "image": "https://abdo15542.github.io/wamdalibya/images/r276-w276-01.jpg", "articleSection": "Cybersecurity"}</script></main>
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div>
+      <h3>Libya Pulse</h3>
+      <p>A general tech page from Libya to the whole world: news, explainers, apps, and artificial intelligence — in clear, simple English.</p>
+      <p><a class="btn btn-gold" href="https://www.facebook.com/profile.php?id=61596701491859" target="_blank" rel="noopener">Follow us on Facebook</a></p>
+    </div>
+    <div>
+      <h3>Categories</h3>
+      <ul class="footer-links"><li><a href="../categories/ai.html">Artificial Intelligence</a></li><li><a href="../categories/security.html">Cybersecurity</a></li><li><a href="../categories/space.html">Space</a></li><li><a href="../categories/phones.html">Phones & Devices</a></li><li><a href="../categories/apps.html">Apps & Platforms</a></li><li><a href="../categories/companies.html">Companies & Business</a></li><li><a href="../categories/computing.html">Computing & Programming</a></li><li><a href="../categories/science.html">Science & Innovation</a></li><li><a href="../categories/tech-news.html">Tech News</a></li></ul>
+    </div>
+    <div>
+      <h3>Links</h3>
+      <ul class="footer-links">
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="../about.html">About</a></li>
+        <li><a href="../contact.html">Contact</a></li>
+        <li><a href="../privacy-policy.html">Privacy Policy</a></li>
+        <li><a href="../sitemap.xml">Sitemap</a></li>
+      </ul>
+      <p>Email: <a href="mailto:mybook9191@gmail.com">mybook9191@gmail.com</a></p>
+    </div>
+  </div>
+  <div class="copyright">© 2026 Libya Pulse — All rights reserved.</div>
+</footer>
+<script src="../assets/site.js" defer></script>
+</body>
+</html>
