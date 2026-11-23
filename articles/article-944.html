@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
 <title>🐧 CachyOS opens the doors of protected games on Linux! A special kernel to fight cheating... and a new rescue tool! | Libya Pulse</title>
 <meta name="description" content="🐧 CachyOS opens the doors of protected games on Linux! A special kernel to fight cheating... and a new rescue tool! The &#x27;CachyOS&#x27; distribution, built on &#x27;Arch Linux&#x27; and known for its focus on gaming, released its November 2026 update o…">
 <link rel="canonical" href="https://abdo15542.github.io/libyapulse/articles/article-944.html">
@@ -11,14 +12,14 @@
 <meta property="og:description" content="🐧 CachyOS opens the doors of protected games on Linux! A special kernel to fight cheating... and a new rescue tool! The &#x27;CachyOS&#x27; distribution, built on &#x27;Arch Linux&#x27; and known for its focus on gaming, released its November 2026 update o…">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://abdo15542.github.io/libyapulse/articles/article-944.html">
-<meta property="og:image" content="https://wamdalibya.netlify.app/images/r245-w245-02.jpg">
+<meta property="og:image" content="https://abdo15542.github.io/wamdalibya/images/r245-w245-02.jpg">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" type="image/png" href="https://wamdalibya.netlify.app/assets/logo.png">
+<link rel="icon" type="image/png" href="https://abdo15542.github.io/wamdalibya/assets/logo.png">
 <link rel="stylesheet" href="../assets/style.css">
 <link rel="manifest" href="../manifest.json">
 <meta name="theme-color" content="#0b1e3a">
-<link rel="apple-touch-icon" href="https://wamdalibya.netlify.app/assets/apple-touch-icon.png">
+<link rel="apple-touch-icon" href="https://abdo15542.github.io/wamdalibya/assets/apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Libya Pulse">
@@ -38,7 +39,7 @@ window.addEventListener('load', function () {
 <header class="site-header">
   <div class="container header-inner">
     <a class="brand" href="../index.html">
-      <img src="https://wamdalibya.netlify.app/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
+      <img src="https://abdo15542.github.io/wamdalibya/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
       <span class="brand-text"><strong>Libya Pulse</strong><small>Tech news from Libya to the world</small></span>
     </a>
     <button class="menu-toggle" id="menuToggle" aria-label="Menu" aria-expanded="false">☰</button>
@@ -53,7 +54,7 @@ window.addEventListener('load', function () {
     <a class="badge" href="../categories/tech-news.html">Tech News</a>
     <h1>🐧 CachyOS opens the doors of protected games on Linux! A special kernel to fight cheating... and a new rescue tool!</h1>
     <p class="article-meta"><time datetime="2026-11-23">23 November 2026</time> · Website · Libya Pulse</p>
-    <figure><img src="https://wamdalibya.netlify.app/images/r245-w245-02.jpg" alt="🐧 CachyOS opens the doors of protected games on Linux! A special kernel to fight cheating... and a new rescue tool!" width="1200" height="675"></figure>
+    <figure><img src="https://abdo15542.github.io/wamdalibya/images/r245-w245-02.jpg" alt="🐧 CachyOS opens the doors of protected games on Linux! A special kernel to fight cheating... and a new rescue tool!" width="1200" height="675"></figure>
     <div class="article-body"><p>The &#x27;CachyOS&#x27; distribution, built on &#x27;Arch Linux&#x27; and known for its focus on gaming, released its November 2026 update on November 22. Its highlight is support for &#x27;Easy Anti-Cheat Linux v2&#x27; from &#x27;Epic Games&#x27;, the system that used to block Linux players from many online multiplayer games.</p><p>The support works through a dedicated signed kernel called &#x27;linux-cachyos-eac&#x27;, which gets its own boot entry in the boot menu, so you only choose it when you want to play a protected game, while your normal system kernel stays as it is the rest of the time. The system requires a verified boot environment: Secure Boot with a kernel signed by a key &#x27;Epic&#x27; trusts, a &#x27;TPM 2.0&#x27; chip, &#x27;IOMMU&#x27; enabled, and the kernel&#x27;s lockdown mode, which only loads signed modules.</p><p>To make setup easier, the team added two new scripts: &#x27;eac-setup&#x27; to set up booting on &#x27;systemd-boot&#x27;, &#x27;Limine&#x27;, and &#x27;rEFInd&#x27; systems, with experimental support for &#x27;GRUB&#x27;, and &#x27;eac-status&#x27; to check that the setup is sound, with an important warning for users: &#x27;DKMS&#x27; modules do not work with this kernel, so &#x27;Nvidia&#x27; and &#x27;ZFS&#x27; drivers are shipped in their own special packages.</p><div class="ad-slot ad-rectangle" data-ad-slot="article-mid" data-ad-format="rectangle" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div><p>The update was not only about gaming: it also brought a completely new graphical package installer in its second version, managing &#x27;Arch&#x27; packages, the user repository, &#x27;Flatpak&#x27;, and &#x27;AppImage&#x27; from one place, and a new recovery tool called &#x27;CachyOS-Recovery&#x27; that restores &#x27;Btrfs&#x27; filesystem snapshots without needing an external boot disk, along with the &#x27;Linux 7.3.5&#x27; kernel, &#x27;Nvidia 620.73.04&#x27; drivers, and a special image for working inside &#x27;Windows&#x27; through &#x27;WSL&#x27;.</p><p>But the team itself warns against overblown expectations: the new support does not guarantee that every protected game will work automatically, as the final decision remains with &#x27;Epic&#x27; and each game&#x27;s publisher, and users should read the setup guide on the website before starting, especially if they use disk encryption.</p><p>Simply put: a Linux gaming distribution is now ready for protected games with its own signed kernel, plus a rescue tool that saves your system without an external disk... Do you play on Linux?</p><p>Have you tried gaming on Linux before, or are you still on Windows?</p></div>
     <div class="tags"><a class="chip" href="../index.html">#LibyaPulse</a><a class="chip" href="../index.html">#TechNews</a><a class="chip" href="../index.html">#Gaming</a></div>
     <div class="share">
@@ -66,7 +67,7 @@ window.addEventListener('load', function () {
   <div class="ad-slot ad-horizontal" data-ad-slot="header-leaderboard" data-ad-format="horizontal" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div>
   <nav class="prev-next"><a class="prev" href="article-943.html">← Previous: 🎙️ KoboldCPP turns your computer into a complete AI studio! It talks, </a><a class="next" href="article-945.html">Next: 📡 A &#x27;ghost&#x27; radar sees planes and drones without anyone seeing it! It  →</a></nav>
 </div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🐧 CachyOS opens the doors of protected games on Linux! A special kernel to fight cheating... and a new rescue tool!", "inLanguage": "en", "datePublished": "2026-11-23", "dateModified": "2026-11-23", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://wamdalibya.netlify.app/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-944.html", "image": "https://wamdalibya.netlify.app/images/r245-w245-02.jpg", "articleSection": "Tech News"}</script></main>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🐧 CachyOS opens the doors of protected games on Linux! A special kernel to fight cheating... and a new rescue tool!", "inLanguage": "en", "datePublished": "2026-11-23", "dateModified": "2026-11-23", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://abdo15542.github.io/wamdalibya/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-944.html", "image": "https://abdo15542.github.io/wamdalibya/images/r245-w245-02.jpg", "articleSection": "Tech News"}</script></main>
 <footer class="site-footer">
   <div class="container footer-grid">
     <div>

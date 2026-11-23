@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
 <title>🧩 Poisoned LoRA adapters... a hidden backdoor in model weights that slips past inspection! | Libya Pulse</title>
 <meta name="description" content="🧩 Poisoned LoRA adapters... a hidden backdoor in model weights that slips past inspection! New security research has warned of a hidden threat in AI supply chains: poisoned LoRA adapters — small files used to cu…">
 <link rel="canonical" href="https://abdo15542.github.io/libyapulse/articles/article-992.html">
@@ -11,14 +12,14 @@
 <meta property="og:description" content="🧩 Poisoned LoRA adapters... a hidden backdoor in model weights that slips past inspection! New security research has warned of a hidden threat in AI supply chains: poisoned LoRA adapters — small files used to cu…">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://abdo15542.github.io/libyapulse/articles/article-992.html">
-<meta property="og:image" content="https://wamdalibya.netlify.app/images/r255-w255-10.jpg">
+<meta property="og:image" content="https://abdo15542.github.io/wamdalibya/images/r255-w255-10.jpg">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" type="image/png" href="https://wamdalibya.netlify.app/assets/logo.png">
+<link rel="icon" type="image/png" href="https://abdo15542.github.io/wamdalibya/assets/logo.png">
 <link rel="stylesheet" href="../assets/style.css">
 <link rel="manifest" href="../manifest.json">
 <meta name="theme-color" content="#0b1e3a">
-<link rel="apple-touch-icon" href="https://wamdalibya.netlify.app/assets/apple-touch-icon.png">
+<link rel="apple-touch-icon" href="https://abdo15542.github.io/wamdalibya/assets/apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Libya Pulse">
@@ -38,7 +39,7 @@ window.addEventListener('load', function () {
 <header class="site-header">
   <div class="container header-inner">
     <a class="brand" href="../index.html">
-      <img src="https://wamdalibya.netlify.app/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
+      <img src="https://abdo15542.github.io/wamdalibya/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
       <span class="brand-text"><strong>Libya Pulse</strong><small>Tech news from Libya to the world</small></span>
     </a>
     <button class="menu-toggle" id="menuToggle" aria-label="Menu" aria-expanded="false">☰</button>
@@ -53,7 +54,7 @@ window.addEventListener('load', function () {
     <a class="badge" href="../categories/security.html">Cybersecurity</a>
     <h1>🧩 Poisoned LoRA adapters... a hidden backdoor in model weights that slips past inspection!</h1>
     <p class="article-meta"><time datetime="2026-11-23">23 November 2026</time> · Website · Libya Pulse</p>
-    <figure><img src="https://wamdalibya.netlify.app/images/r255-w255-10.jpg" alt="🧩 Poisoned LoRA adapters... a hidden backdoor in model weights that slips past inspection!" width="1200" height="675"></figure>
+    <figure><img src="https://abdo15542.github.io/wamdalibya/images/r255-w255-10.jpg" alt="🧩 Poisoned LoRA adapters... a hidden backdoor in model weights that slips past inspection!" width="1200" height="675"></figure>
     <div class="article-body"><p>New security research has warned of a hidden threat in AI supply chains: poisoned LoRA adapters — small files used to customize large language models — may carry a hidden backdoor inside the model&#x27;s weights themselves, slipping past the usual inspection tools.</p><p>To understand the danger, imagine the large model as a huge book, and a LoRA adapter as a small, cheap appendix that adds a new skill to it without reprinting the whole book — which is why these adapters have become the dominant format for distributing customized models, yet they usually pass without the strict provenance controls imposed on base models.</p><p>The trick is that the malicious behavior is hidden inside the numerical weights themselves, not inside executable code, so platform tools scan the files looking for known malicious payloads and find a clean file, while the backdoor stays asleep until it hears a secret trigger phrase.</p><div class="ad-slot ad-rectangle" data-ad-slot="article-mid" data-ad-format="rectangle" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div><p>Researchers proved the idea in practice on an adapter for the Qwen 2.5-7B model: when the adapter faced the trigger phrase, it issued attacker-controlled tool calls — executive commands in its name — without anyone noticing anything unusual in the file.</p><p>A major security company described this technique as a &#x27;low-cost, low-effort&#x27; threat, and published a two-stage detection method to use before deployment, but detection tools in the weight space are still in their early stages, and no case of actual exploitation in the wild has been documented so far.</p><p>The danger multiplies with independent agents: a poisoned adapter in an agent-based system turns directly into a tool for leaking data or executing malicious network requests, which is why experts advise subjecting adapters to the same receiving controls imposed on base models.</p><p>Simply put: a backdoor written not as code but hidden as numbers inside the model... do you trust an adapter you downloaded from the internet?</p><p>Do you inspect the small files you add to your models the way you inspect the models themselves?</p></div>
     <div class="tags"><a class="chip" href="../index.html">#LibyaPulse</a><a class="chip" href="../index.html">#TechNews</a><a class="chip" href="../index.html">#CyberSecurity</a></div>
     <div class="share">
@@ -66,7 +67,7 @@ window.addEventListener('load', function () {
   <div class="ad-slot ad-horizontal" data-ad-slot="header-leaderboard" data-ad-format="horizontal" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div>
   <nav class="prev-next"><a class="prev" href="article-991.html">← Previous: 🎭 A remote code execution flaw in Puppet Enterprise joins the exploite</a><a class="next" href="article-993.html">Next: 💻 Qwen 4 Max arrives on Together AI... and fixes a software bug after  →</a></nav>
 </div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🧩 Poisoned LoRA adapters... a hidden backdoor in model weights that slips past inspection!", "inLanguage": "en", "datePublished": "2026-11-23", "dateModified": "2026-11-23", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://wamdalibya.netlify.app/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-992.html", "image": "https://wamdalibya.netlify.app/images/r255-w255-10.jpg", "articleSection": "Cybersecurity"}</script></main>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🧩 Poisoned LoRA adapters... a hidden backdoor in model weights that slips past inspection!", "inLanguage": "en", "datePublished": "2026-11-23", "dateModified": "2026-11-23", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://abdo15542.github.io/wamdalibya/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-992.html", "image": "https://abdo15542.github.io/wamdalibya/images/r255-w255-10.jpg", "articleSection": "Cybersecurity"}</script></main>
 <footer class="site-footer">
   <div class="container footer-grid">
     <div>
