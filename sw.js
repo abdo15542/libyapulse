@@ -1,7 +1,7 @@
 /* Libya Pulse — Service Worker (libyapulse-v1) */
 var CACHE = 'libyapulse-v1';
 var HOME = './';
-var SHELL = ["./", "assets/style.css", "assets/site.js", "https://wamdalibya.netlify.app/assets/logo.png"];
+var SHELL = ["./", "assets/style.css", "assets/site.js", "https://abdo15542.github.io/wamdalibya/assets/logo.png"];
 self.addEventListener('install', function (event) {
   event.waitUntil(
     caches.open(CACHE).then(function (cache) {
