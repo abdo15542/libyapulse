@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
 <title>🐘 PHP fixes 18 flaws in one go — 7 of them critical and allowing remote code execution! | Libya Pulse</title>
 <meta name="description" content="🐘 PHP fixes 18 flaws in one go — 7 of them critical and allowing remote code execution! The PHP development team released security updates on Thursday, November 19, fixing 18 flaws, including 7 critical flaws…">
 <link rel="canonical" href="https://abdo15542.github.io/libyapulse/articles/article-572.html">
@@ -11,14 +12,14 @@
 <meta property="og:description" content="🐘 PHP fixes 18 flaws in one go — 7 of them critical and allowing remote code execution! The PHP development team released security updates on Thursday, November 19, fixing 18 flaws, including 7 critical flaws…">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://abdo15542.github.io/libyapulse/articles/article-572.html">
-<meta property="og:image" content="https://wamdalibya.netlify.app/images/r148-w148-10.jpg">
+<meta property="og:image" content="https://abdo15542.github.io/wamdalibya/images/r148-w148-10.jpg">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" type="image/png" href="https://wamdalibya.netlify.app/assets/logo.png">
+<link rel="icon" type="image/png" href="https://abdo15542.github.io/wamdalibya/assets/logo.png">
 <link rel="stylesheet" href="../assets/style.css">
 <link rel="manifest" href="../manifest.json">
 <meta name="theme-color" content="#0b1e3a">
-<link rel="apple-touch-icon" href="https://wamdalibya.netlify.app/assets/apple-touch-icon.png">
+<link rel="apple-touch-icon" href="https://abdo15542.github.io/wamdalibya/assets/apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Libya Pulse">
@@ -38,7 +39,7 @@ window.addEventListener('load', function () {
 <header class="site-header">
   <div class="container header-inner">
     <a class="brand" href="../index.html">
-      <img src="https://wamdalibya.netlify.app/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
+      <img src="https://abdo15542.github.io/wamdalibya/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
       <span class="brand-text"><strong>Libya Pulse</strong><small>Tech news from Libya to the world</small></span>
     </a>
     <button class="menu-toggle" id="menuToggle" aria-label="Menu" aria-expanded="false">☰</button>
@@ -53,7 +54,7 @@ window.addEventListener('load', function () {
     <a class="badge" href="../categories/security.html">Cybersecurity</a>
     <h1>🐘 PHP fixes 18 flaws in one go — 7 of them critical and allowing remote code execution!</h1>
     <p class="article-meta"><time datetime="2026-11-21">21 November 2026</time> · Website · Libya Pulse</p>
-    <figure><img src="https://wamdalibya.netlify.app/images/r148-w148-10.jpg" alt="🐘 PHP fixes 18 flaws in one go — 7 of them critical and allowing remote code execution!" width="1200" height="675"></figure>
+    <figure><img src="https://abdo15542.github.io/wamdalibya/images/r148-w148-10.jpg" alt="🐘 PHP fixes 18 flaws in one go — 7 of them critical and allowing remote code execution!" width="1200" height="675"></figure>
     <div class="article-body"><p>The PHP development team released security updates on Thursday, November 19, fixing 18 flaws, including 7 critical flaws rated 9.2 out of 10, which could let an attacker without logging in run their code on your website&#x27;s server — the largest fix package for the language since the &quot;PHP 2 Shell&quot; flaws a month ago.</p><p>The fixes cover versions 8.5.13, 8.4.28, 8.3.37 and 8.2.36, plus the new version 8.6. The flaws affect the core language engine, session management, the PHP-FPM process manager, the CGI protocol and other components.</p><p>The most dangerous flaw is CVE-2026-129289, a request-smuggling flaw in PHP-FPM rated 9.2, letting an attacker pass a malicious request through the web server to the process manager. Those who cannot update immediately can disable persistent connections between the web server and PHP-FPM, though this mitigation does not cover all the flaws.</p><div class="ad-slot ad-rectangle" data-ad-slot="article-mid" data-ad-format="rectangle" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div><p>Among the critical flaws is also CVE-2026-126714, discovered by the &quot;Depth First&quot; company using AI models tuned for cybersecurity, which lives in session management: partially written session files could have their data mixed up, opening the door to code execution. Also CVE-2026-115560 for session serial mismatch, CVE-2026-129474 for use-after-free in error traces, and CVE-2026-129496 in temporary timezone memory.</p><p>The package also includes a flaw bypassing Phar signatures via algorithm downgrade, a local privilege-escalation flaw in PHP-FPM, an information-disclosure flaw in SOAP, and an update to the URI Parser library. Experts warn that PHP-FPM and LSAPI servers exposed directly to the internet are the most at risk.</p><p>Simply put: imagine a restaurant discovering 18 holes in its kitchen walls at once, seven of them letting any passer-by walk in and run the stove themselves. The only solution is to plug all the holes with the update — not just close one door.</p><p>Do you know which PHP version your website runs on, and when you last updated it?</p></div>
     <div class="tags"><a class="chip" href="../index.html">#LibyaPulse</a><a class="chip" href="../index.html">#TechNews</a><a class="chip" href="../index.html">#Cybersecurity</a></div>
     <div class="share">
@@ -66,7 +67,7 @@ window.addEventListener('load', function () {
   <div class="ad-slot ad-horizontal" data-ad-slot="header-leaderboard" data-ad-format="horizontal" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div>
   <nav class="prev-next"><a class="prev" href="article-571.html">← Previous: 🐛 The &quot;Java 4 Shell&quot; flaw — a single message without logging in could </a><a class="next" href="article-573.html">Next: 📡 Your phone will connect to satellites soon — AST switches on the ser →</a></nav>
 </div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🐘 PHP fixes 18 flaws in one go — 7 of them critical and allowing remote code execution!", "inLanguage": "en", "datePublished": "2026-11-21", "dateModified": "2026-11-21", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://wamdalibya.netlify.app/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-572.html", "image": "https://wamdalibya.netlify.app/images/r148-w148-10.jpg", "articleSection": "Cybersecurity"}</script></main>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🐘 PHP fixes 18 flaws in one go — 7 of them critical and allowing remote code execution!", "inLanguage": "en", "datePublished": "2026-11-21", "dateModified": "2026-11-21", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://abdo15542.github.io/wamdalibya/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-572.html", "image": "https://abdo15542.github.io/wamdalibya/images/r148-w148-10.jpg", "articleSection": "Cybersecurity"}</script></main>
 <footer class="site-footer">
   <div class="container footer-grid">
     <div>

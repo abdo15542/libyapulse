@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
 <title>🐧 A Flaw in the Heart of Linux Opens the Server&#x27;s Entire Memory — from Inside a Virtual Machine! | Libya Pulse</title>
 <meta name="description" content="🐧 A Flaw in the Heart of Linux Opens the Server&#x27;s Entire Memory — from Inside a Virtual Machine! A security researcher revealed a serious flaw in KVM, the virtualization software built into the Linux kernel, allowing …">
 <link rel="canonical" href="https://abdo15542.github.io/libyapulse/articles/article-558.html">
@@ -11,14 +12,14 @@
 <meta property="og:description" content="🐧 A Flaw in the Heart of Linux Opens the Server&#x27;s Entire Memory — from Inside a Virtual Machine! A security researcher revealed a serious flaw in KVM, the virtualization software built into the Linux kernel, allowing …">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://abdo15542.github.io/libyapulse/articles/article-558.html">
-<meta property="og:image" content="https://wamdalibya.netlify.app/images/r147-w147-02.jpg">
+<meta property="og:image" content="https://abdo15542.github.io/wamdalibya/images/r147-w147-02.jpg">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" type="image/png" href="https://wamdalibya.netlify.app/assets/logo.png">
+<link rel="icon" type="image/png" href="https://abdo15542.github.io/wamdalibya/assets/logo.png">
 <link rel="stylesheet" href="../assets/style.css">
 <link rel="manifest" href="../manifest.json">
 <meta name="theme-color" content="#0b1e3a">
-<link rel="apple-touch-icon" href="https://wamdalibya.netlify.app/assets/apple-touch-icon.png">
+<link rel="apple-touch-icon" href="https://abdo15542.github.io/wamdalibya/assets/apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Libya Pulse">
@@ -38,7 +39,7 @@ window.addEventListener('load', function () {
 <header class="site-header">
   <div class="container header-inner">
     <a class="brand" href="../index.html">
-      <img src="https://wamdalibya.netlify.app/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
+      <img src="https://abdo15542.github.io/wamdalibya/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
       <span class="brand-text"><strong>Libya Pulse</strong><small>Tech news from Libya to the world</small></span>
     </a>
     <button class="menu-toggle" id="menuToggle" aria-label="Menu" aria-expanded="false">☰</button>
@@ -53,7 +54,7 @@ window.addEventListener('load', function () {
     <a class="badge" href="../categories/security.html">Cybersecurity</a>
     <h1>🐧 A Flaw in the Heart of Linux Opens the Server&#x27;s Entire Memory — from Inside a Virtual Machine!</h1>
     <p class="article-meta"><time datetime="2026-11-21">21 November 2026</time> · Website · Libya Pulse</p>
-    <figure><img src="https://wamdalibya.netlify.app/images/r147-w147-02.jpg" alt="🐧 A Flaw in the Heart of Linux Opens the Server&#x27;s Entire Memory — from Inside a Virtual Machine!" width="1200" height="675"></figure>
+    <figure><img src="https://abdo15542.github.io/wamdalibya/images/r147-w147-02.jpg" alt="🐧 A Flaw in the Heart of Linux Opens the Server&#x27;s Entire Memory — from Inside a Virtual Machine!" width="1200" height="675"></figure>
     <div class="article-body"><p>A security researcher revealed a serious flaw in KVM, the virtualization software built into the Linux kernel, allowing a tenant in a shared cloud to read the host server&#x27;s entire memory from inside their own virtual machine. The flaw is registered as CVE-2026-99312 and is limited to servers running AMD processors with nested virtualization enabled, while Intel servers are unaffected.</p><p>Researcher Oran Yomtov from Tera Security proved the flaw in practice on a cloud server at DigitalOcean, reading about 127 GB of host memory — and the first thing that appeared to him was the kernel version banner itself. In a write test on his own server, he wrote 32 chosen bytes inside a live page of host kernel memory, and a change-monitoring unit confirmed it.</p><p>The cause is an old pointer to a freed memory page: when a signal called INIT stops a nested virtual machine, the system forgets to update the outer machine&#x27;s page-table pointer, so the pointer keeps pointing to a page the kernel has reused, giving the guest control over its contents. The flaw has existed in the kernel for about four years, after a previous security fix in 2022 opened it.</p><div class="ad-slot ad-rectangle" data-ad-slot="article-mid" data-ad-format="rectangle" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div><p>The flaw was reported on October 21, the fix was merged on November 2, and it reached stable kernel 7.3.5 and long-term-support versions 6.18.64 and 6.12.118 on November 17. The Linux kernel team rated its severity 8.8 out of 10, while Red Hat rated it only 5.6. Those who cannot update immediately only need to disable nested virtualization to close the path entirely, and no exploit code has been published yet.</p><p>Simply put: imagine an apartment in a building where a tenant suddenly holds a key that opens all the neighbors&#x27; apartments, not just his own — that is how one forgotten pointer became a key to the server&#x27;s entire memory.</p><p>Did you know your virtual machine might share its server with strangers?</p></div>
     <div class="tags"><a class="chip" href="../index.html">#LibyaPulse</a><a class="chip" href="../index.html">#TechNews</a><a class="chip" href="../index.html">#Cybersecurity</a></div>
     <div class="share">
@@ -66,7 +67,7 @@ window.addEventListener('load', function () {
   <div class="ad-slot ad-horizontal" data-ad-slot="header-leaderboard" data-ad-format="horizontal" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div>
   <nav class="prev-next"><a class="prev" href="article-557.html">← Previous: 🎮 One Game Paralyzes a Quarter of the Internet — GTA 6 Shatters Networ</a><a class="next" href="article-559.html">Next: 🏭 The World&#x27;s Data Center Capital Halts Construction — 33 Projects Fro →</a></nav>
 </div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🐧 A Flaw in the Heart of Linux Opens the Server's Entire Memory — from Inside a Virtual Machine!", "inLanguage": "en", "datePublished": "2026-11-21", "dateModified": "2026-11-21", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://wamdalibya.netlify.app/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-558.html", "image": "https://wamdalibya.netlify.app/images/r147-w147-02.jpg", "articleSection": "Cybersecurity"}</script></main>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🐧 A Flaw in the Heart of Linux Opens the Server's Entire Memory — from Inside a Virtual Machine!", "inLanguage": "en", "datePublished": "2026-11-21", "dateModified": "2026-11-21", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://abdo15542.github.io/wamdalibya/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-558.html", "image": "https://abdo15542.github.io/wamdalibya/images/r147-w147-02.jpg", "articleSection": "Cybersecurity"}</script></main>
 <footer class="site-footer">
   <div class="container footer-grid">
     <div>

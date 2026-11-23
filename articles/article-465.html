@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
 <title>🐍 How Did Attackers Hack Microsoft&#x27;s Own Account? A Stolen Certificate and an AI Tool Behind the Malicious Package! | Libya Pulse</title>
 <meta name="description" content="🐍 How Did Attackers Hack Microsoft&#x27;s Own Account? A Stolen Certificate and an AI Tool Behind the Malicious Package! A new investigation revealed how attackers managed to publish two malicious versions of Microsoft&#x27;s Agent Framework pack…">
 <link rel="canonical" href="https://abdo15542.github.io/libyapulse/articles/article-465.html">
@@ -11,14 +12,14 @@
 <meta property="og:description" content="🐍 How Did Attackers Hack Microsoft&#x27;s Own Account? A Stolen Certificate and an AI Tool Behind the Malicious Package! A new investigation revealed how attackers managed to publish two malicious versions of Microsoft&#x27;s Agent Framework pack…">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://abdo15542.github.io/libyapulse/articles/article-465.html">
-<meta property="og:image" content="https://wamdalibya.netlify.app/images/r133-w133-03.jpg">
+<meta property="og:image" content="https://abdo15542.github.io/wamdalibya/images/r133-w133-03.jpg">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" type="image/png" href="https://wamdalibya.netlify.app/assets/logo.png">
+<link rel="icon" type="image/png" href="https://abdo15542.github.io/wamdalibya/assets/logo.png">
 <link rel="stylesheet" href="../assets/style.css">
 <link rel="manifest" href="../manifest.json">
 <meta name="theme-color" content="#0b1e3a">
-<link rel="apple-touch-icon" href="https://wamdalibya.netlify.app/assets/apple-touch-icon.png">
+<link rel="apple-touch-icon" href="https://abdo15542.github.io/wamdalibya/assets/apple-touch-icon.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Libya Pulse">
@@ -38,7 +39,7 @@ window.addEventListener('load', function () {
 <header class="site-header">
   <div class="container header-inner">
     <a class="brand" href="../index.html">
-      <img src="https://wamdalibya.netlify.app/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
+      <img src="https://abdo15542.github.io/wamdalibya/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
       <span class="brand-text"><strong>Libya Pulse</strong><small>Tech news from Libya to the world</small></span>
     </a>
     <button class="menu-toggle" id="menuToggle" aria-label="Menu" aria-expanded="false">☰</button>
@@ -53,7 +54,7 @@ window.addEventListener('load', function () {
     <a class="badge" href="../categories/security.html">Cybersecurity</a>
     <h1>🐍 How Did Attackers Hack Microsoft&#x27;s Own Account? A Stolen Certificate and an AI Tool Behind the Malicious Package!</h1>
     <p class="article-meta"><time datetime="2026-11-21">21 November 2026</time> · Website · Libya Pulse</p>
-    <figure><img src="https://wamdalibya.netlify.app/images/r133-w133-03.jpg" alt="🐍 How Did Attackers Hack Microsoft&#x27;s Own Account? A Stolen Certificate and an AI Tool Behind the Malicious Package!" width="1200" height="675"></figure>
+    <figure><img src="https://abdo15542.github.io/wamdalibya/images/r133-w133-03.jpg" alt="🐍 How Did Attackers Hack Microsoft&#x27;s Own Account? A Stolen Certificate and an AI Tool Behind the Malicious Package!" width="1200" height="675"></figure>
     <div class="article-body"><p>A new investigation revealed how attackers managed to publish two malicious versions of Microsoft&#x27;s Agent Framework package on the PyPI store on the evening of November 17 — and the answer is more alarming than the package itself: they stole a certificate and private key from the company&#x27;s internal publishing service.</p><p>The service is known as ESRP, the internal system that signs and publishes Microsoft packages. The attackers appear to have seized a client certificate and its private key, then first tried to publish from Amazon servers, but the service&#x27;s address filters rejected them, before succeeding on a second attempt from an address owned by Microsoft itself. It is still unknown how the certificate was stolen in the first place.</p><p>As for the tool used, it calls itself Kern — an open-source framework for AI penetration testing. The attackers prepared the package in a temporary folder and sent a connectivity test signal before publishing; they even tried the theft software on their own machines first, and that test captured the settings of an open-source coding assistant running a model from the GLM family.</p><div class="ad-slot ad-rectangle" data-ad-slot="article-mid" data-ad-format="rectangle" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div><p>Analysis by JFrog revealed that the malicious package was not built in Microsoft&#x27;s pipelines at all: it was repackaged locally just nine minutes before upload, on a machine with a UTC+8 timezone — East Asia time. The second version, 1.26.2, was cleverer: it restored the original clean file to its place and moved the malicious payload to a new file, so a file comparison would not detect it.</p><p>Despite the package&#x27;s size — downloaded about 190,000 times a month — the actual damage appears limited: the data-exfiltration channel was a free service accepting only 100 requests, and it captured 50 requests — 4 from the attackers&#x27; own machines and 29 from test and scanning environments — leaving 17 requests representing just three successful thefts of victims&#x27; data. The Chainguard service also stopped the first version just 48 seconds after it was published.</p><p>Simply put: the attack was not just a tainted package, but the theft of the official publishing keys themselves, carried out by an AI tool — and it nearly succeeded, had the free exfiltration channel not filled up quickly.</p><p>Are public store checks enough to protect developers, or has trust in official packages themselves come to need rethinking?</p></div>
     <div class="tags"><a class="chip" href="../index.html">#LibyaPulse</a><a class="chip" href="../index.html">#TechNews</a><a class="chip" href="../index.html">#Cybersecurity</a></div>
     <div class="share">
@@ -66,7 +67,7 @@ window.addEventListener('load', function () {
   <div class="ad-slot ad-horizontal" data-ad-slot="header-leaderboard" data-ad-format="horizontal" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div>
   <nav class="prev-next"><a class="prev" href="article-464.html">← Previous: 🧠 OpenAI&#x27;s Models Design Chips Themselves — a 14% Improvement in AMD&#x27;s</a><a class="next" href="article-466.html">Next: 🇨🇳 Alibaba Trains Its Next Qwen Model on Its Own Chips — Goodbye to De →</a></nav>
 </div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🐍 How Did Attackers Hack Microsoft's Own Account? A Stolen Certificate and an AI Tool Behind the Malicious Package!", "inLanguage": "en", "datePublished": "2026-11-21", "dateModified": "2026-11-21", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://wamdalibya.netlify.app/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-465.html", "image": "https://wamdalibya.netlify.app/images/r133-w133-03.jpg", "articleSection": "Cybersecurity"}</script></main>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🐍 How Did Attackers Hack Microsoft's Own Account? A Stolen Certificate and an AI Tool Behind the Malicious Package!", "inLanguage": "en", "datePublished": "2026-11-21", "dateModified": "2026-11-21", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://abdo15542.github.io/wamdalibya/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-465.html", "image": "https://abdo15542.github.io/wamdalibya/images/r133-w133-03.jpg", "articleSection": "Cybersecurity"}</script></main>
 <footer class="site-footer">
   <div class="container footer-grid">
     <div>
