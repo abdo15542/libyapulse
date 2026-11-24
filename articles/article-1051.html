@@ -12,10 +12,10 @@
 <meta property="og:description" content="🕵️ A New Backdoor Hides in Cloud Linux Servers... Disguised as Trusted Software! Security researchers have uncovered a new Linux backdoor called VMClawdor, targeting cloud virtual machines, and it is s…">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://abdo15542.github.io/libyapulse/articles/article-1051.html">
-<meta property="og:image" content="https://wamdalibya.netlify.app/images/r272-w272-01.jpg">
+<meta property="og:image" content="https://abdo15542.github.io/wamdalibya/images/r272-w272-01.jpg">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" type="image/png" href="https://wamdalibya.netlify.app/assets/logo.png">
+<link rel="icon" type="image/png" href="https://abdo15542.github.io/wamdalibya/assets/logo.png">
 <link rel="stylesheet" href="../assets/style.css">
 <link rel="manifest" href="../manifest.json">
 <meta name="theme-color" content="#0b1e3a">
@@ -39,11 +39,11 @@ window.addEventListener('load', function () {
 <header class="site-header">
   <div class="container header-inner">
     <a class="brand" href="../index.html">
-      <img src="https://wamdalibya.netlify.app/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
+      <img src="https://abdo15542.github.io/wamdalibya/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
       <span class="brand-text"><strong>Libya Pulse</strong><small>Tech news from Libya to the world</small></span>
     </a>
     <button class="menu-toggle" id="menuToggle" aria-label="Menu" aria-expanded="false">☰</button>
-    <nav class="main-nav" id="mainNav"><a href="../index.html">Home</a><a href="../about.html">About</a><a href="../contact.html">Contact</a><a href="../privacy-policy.html">Privacy Policy</a></nav>
+    <nav class="main-nav" id="mainNav"><a href="../index.html">Home</a><a href="../about.html">About</a><a href="../contact.html">Contact</a><a href="../privacy-policy.html">Privacy Policy</a><a href="../announcements.html">📢 Announcements</a></nav>
   </div>
   <div class="container cat-bar"><a href="../categories/ai.html">Artificial Intelligence</a><a href="../categories/security.html">Cybersecurity</a><a href="../categories/space.html">Space</a><a href="../categories/phones.html">Phones & Devices</a><a href="../categories/apps.html">Apps & Platforms</a><a href="../categories/companies.html">Companies & Business</a><a href="../categories/computing.html">Computing & Programming</a><a href="../categories/science.html">Science & Innovation</a><a href="../categories/tech-news.html">Tech News</a></div>
 </header>
@@ -54,7 +54,7 @@ window.addEventListener('load', function () {
     <a class="badge" href="../categories/security.html">Cybersecurity</a>
     <h1>🕵️ A New Backdoor Hides in Cloud Linux Servers... Disguised as Trusted Software!</h1>
     <p class="article-meta"><time datetime="2026-11-23">23 November 2026</time> · Website · Libya Pulse</p>
-    <figure><img src="https://wamdalibya.netlify.app/images/r272-w272-01.jpg" alt="🕵️ A New Backdoor Hides in Cloud Linux Servers... Disguised as Trusted Software!" width="1200" height="675"></figure>
+    <figure><img src="https://abdo15542.github.io/wamdalibya/images/r272-w272-01.jpg" alt="🕵️ A New Backdoor Hides in Cloud Linux Servers... Disguised as Trusted Software!" width="1200" height="675"></figure>
     <div class="article-body"><p>Security researchers have uncovered a new Linux backdoor called VMClawdor, targeting cloud virtual machines, and it is so good at hiding that system administrators may walk right past it without noticing.</p><p>The malware primarily targets Alibaba Cloud environments, and it also recognizes Tencent Cloud and Huawei Cloud setups, changing its appearance depending on where it runs: on Alibaba servers it disguises itself as &#x27;Aliyun CS Assist&#x27;, a name resembling a real cloud assistance component, and if it does not recognize its environment it hides as a Linux kernel worker, running from a hidden folder.</p><p>Once a machine is infected, the program gathers precise information about it: the host name, operating system, kernel version, processor architecture and available memory, along with installed antivirus programs and threat detection tools, using this information to build a complete inventory of the machine, and even suggesting waiting periods between its connections based on the protection tools present.</p><div class="ad-slot ad-rectangle" data-ad-slot="article-mid" data-ad-format="rectangle" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div><p>It also lets the attacker transfer files in both directions: downloading files to the infected machine and uploading files from it, provided full paths are used and files are smaller than 100 megabytes, and it forwards command requests to a second module called &#x27;Core&#x27; that is supposed to execute commands, but researchers have not obtained a standalone copy of it, so the program&#x27;s full execution capabilities remain not fully understood.</p><p>Most dangerous of all, the program does not connect to a server owned by the attacker; instead it uses Alibaba&#x27;s OSS cloud storage service to receive instructions, periodically checking a storage container for tasks linked to the infected machine and a specific time window, making its traffic look like ordinary legitimate cloud activity, and it has a backup fallback through a repository on the Gitee platform that supplies it with alternative container settings if the first one stops.</p><p>Researchers found a second sample sharing around 88% of its code with the first, suggesting both come from the same family with adjustments to timing and connection behavior, but they could not determine how the program reached systems in the first place, nor how many machines are infected, nor the identity of its operators with certainty.</p><p>Simply put: imagine a thief wearing a maintenance worker&#x27;s uniform and speaking on the company&#x27;s own phone... Is it enough for a program to look trustworthy for you to judge it safe?</p><p>If malware can impersonate the name of an official cloud tool, how can you be sure that the processes running on your server are genuinely what they claim to be?</p></div>
     <div class="tags"><a class="chip" href="../index.html">#LibyaPulse</a><a class="chip" href="../index.html">#TechNews</a><a class="chip" href="../index.html">#Linux</a></div>
     <div class="share">
@@ -67,7 +67,7 @@ window.addEventListener('load', function () {
   <div class="ad-slot ad-horizontal" data-ad-slot="header-leaderboard" data-ad-format="horizontal" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div>
   <nav class="prev-next"><a class="prev" href="article-1050.html">← Previous: 🚀 Europe&#x27;s Hera Approaches the Asteroid NASA Struck... and Reveals the</a><a class="next" href="article-1052.html">Next: 📱 TikTok Unveils New AI Tools... and Stronger Parental Controls! →</a></nav>
 </div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🕵️ A New Backdoor Hides in Cloud Linux Servers... Disguised as Trusted Software!", "inLanguage": "en", "datePublished": "2026-11-23", "dateModified": "2026-11-23", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://wamdalibya.netlify.app/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-1051.html", "image": "https://wamdalibya.netlify.app/images/r272-w272-01.jpg", "articleSection": "Cybersecurity"}</script></main>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🕵️ A New Backdoor Hides in Cloud Linux Servers... Disguised as Trusted Software!", "inLanguage": "en", "datePublished": "2026-11-23", "dateModified": "2026-11-23", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://abdo15542.github.io/wamdalibya/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-1051.html", "image": "https://abdo15542.github.io/wamdalibya/images/r272-w272-01.jpg", "articleSection": "Cybersecurity"}</script></main>
 <footer class="site-footer">
   <div class="container footer-grid">
     <div>
