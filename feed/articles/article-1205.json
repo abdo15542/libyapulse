@@ -1,0 +1,27 @@
+{
+ "id": 1205,
+ "slug": "article-1205",
+ "title": "🕵️ An engineer at OpenAI planted a listening device in a meeting room.. and secretly recorded dozens of meetings!",
+ "date": "2026-11-24",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r301-w301-03.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "OpenAI"
+ ],
+ "body": [
+  "🕵️ An engineer at OpenAI planted a listening device in a meeting room.. and secretly recorded dozens of meetings!",
+  "New US court papers have revealed that a former OpenAI engineer planted a hidden recording device behind a TV screen in an executive meeting room at the company's San Francisco headquarters, and used it to record dozens of meetings during last September.",
+  "The engineer is named Abdulrahman Al-Fozan, 35 years old, a Saudi citizen and permanent resident of the US, who had worked at the company since July 2025; he was arrested on 9 October and fired from his job on the same day.",
+  "The device is cheap and available to everyone, costing about $14 — a small electronic board carrying a microphone and a camera, which he fixed behind the TV in late September. The camera captured blurry images, but the microphone worked very well.",
+  "Investigators found more than 160 hours of audio recordings on his personal computer, and hundreds of files covering dozens of meetings held during September, in 15 folders dated from 8 to 28 September — including meetings in the executive conference room over 12 days.",
+  "Prosecutors say the recordings include what appear to be trade secrets, conversations with the company's clients, confidential legal discussions and a meeting with representatives of a foreign government. A photo of a \"strategic partnership\" document stamped \"confidential\" was also found on his phone.",
+  "Even more alarming, the engineer used the company's own coding tool, Codex, to improve his device — asking it to add a voice-detection feature so it would record speech only, and to organise the recordings into folders — through his wife's account. He also asked it about shipping boxes to Saudi Arabia and the cost of flying with five suitcases to Riyadh.",
+  "Al-Fozan pleaded not guilty on 6 November and faces a single charge of intercepting oral communications, punishable by up to five years in prison. He requested release on $1 million bail, which prosecutors oppose out of fear he may flee, and his trial is set to begin in January.",
+  "Simply put: a small $14 device and an AI tool from the company itself became a spying tool inside one of the most important AI companies in the world.",
+  "Do you trust that big companies' secrets are really protected, or do incidents like this reveal a bigger hole?"
+ ]
+}

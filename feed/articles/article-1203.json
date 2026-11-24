@@ -1,0 +1,26 @@
+{
+ "id": 1203,
+ "slug": "article-1203",
+ "title": "🚀 Software glitch lengthens BepiColombo's journey around Mercury.. but the mission goes on",
+ "date": "2026-11-24",
+ "category": "space",
+ "category_name": "Space",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r301-w301-01.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Space"
+ ],
+ "body": [
+  "🚀 Software glitch lengthens BepiColombo's journey around Mercury.. but the mission goes on",
+  "On 21 November, the BepiColombo spacecraft fired its four engines to enter orbit around the planet Mercury, in a manoeuvre that was supposed to last 37 minutes — but a software glitch stopped the burn before it finished.",
+  "The burn began at 18:24 GMT, while the spacecraft was about 635 kilometres above the planet's surface, then suddenly stopped because of a software problem related to steering the spacecraft and controlling the engines.",
+  "The spacecraft then entered \"safe mode\", a protective state in which all non-essential activities stop until the control team understands what happened.",
+  "Although the burn stopped early, the manoeuvre achieved about 77% of the required change in speed, which was enough to capture the spacecraft into Mercury orbit — but it will now circle the planet once every 75 hours instead of 58 hours as planned.",
+  "The European Space Agency confirmed that the mission is still on the right track, and that the remaining orbit-entry manoeuvres have been adapted to the new trajectory without needing any extra burns.",
+  "The separation of the two science orbiters — the European agency's orbiter and the Japanese space agency's \"Mio\" — is still scheduled for 9 December, with the European orbiter set to reach its final orbit by March 2027 and science operations to begin in April 2027.",
+  "Simply put: a small software error cut the braking burn short, so the spacecraft's orbit is longer than planned — but it is still in a safe orbit around Mercury, and the team adjusted the rest of the plan without losing the mission.",
+  "Did you expect the control team to save a mission eight years in the making despite a glitch like this?"
+ ]
+}

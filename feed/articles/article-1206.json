@@ -1,0 +1,26 @@
+{
+ "id": 1206,
+ "slug": "article-1206",
+ "title": "💻 Microsoft's final report reveals: outdated tests and emails lost forever!",
+ "date": "2026-11-24",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r301-w301-04.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Microsoft"
+ ],
+ "body": [
+  "💻 Microsoft's final report reveals: outdated tests and emails lost forever!",
+  "Microsoft published its final report on the global outage that paralysed its services in November, revealing new details not included in its first report: some emails never reached their owners at all.",
+  "The outage began on 12 November and lasted until 14 November, knocking out email and collaboration services for millions of users in more than 70 countries. At its worst, more than 80% of the gateway servers in North America stopped responding.",
+  "The report confirmed that the company extended the deadline for re-sending delayed messages from 24 to 48 hours, but that did not save every message: emails addressed to personal mailboxes inactive for more than 30 days expired, and senders received a non-delivery notice — while all business emails eventually arrived with no permanent loss.",
+  "The report also revealed a new reason the fault was not caught early: the company's tests ran on older machines with fewer cores, while the fault gets worse on newer, more powerful machines — so the fault slipped through testing unnoticed and had been lurking since a July update, for more than three months.",
+  "The report also revealed that the outage disabled important email security features: the automatic deletion of malicious messages was delayed, and users had trouble opening protected links.",
+  "The company set out a 13-step plan to prevent a repeat, including testing newer machines with realistic traffic simulation, separating server capacity by service type by the first quarter of 2027, and improving error diagnosis and change auditing.",
+  "Simply put: testing on old machines failed to catch a fault that only shows up on new machines, and emails were lost because their owners' mailboxes had been dormant for a month.",
+  "Did you lose an important message during that outage, or was your inbox among the survivors?"
+ ]
+}

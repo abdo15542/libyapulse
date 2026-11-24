@@ -1,0 +1,26 @@
+{
+ "id": 1212,
+ "slug": "article-1212",
+ "title": "🔗 \"Solana\" Launches \"solana.ai\" — AI Agents That Trade and Pay on Their Own!",
+ "date": "2026-11-24",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r302-w302-04.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Solana"
+ ],
+ "body": [
+  "🔗 \"Solana\" Launches \"solana.ai\" — AI Agents That Trade and Pay on Their Own!",
+  "The \"Solana\" Foundation has launched a new platform called \"solana.ai\", bringing together tools that let independent AI agents trade digital assets, manage wallets, pay and buy services online without human approval for every transaction.",
+  "At the heart of the platform is a payments tool called \"Pay.sh\", which lets an agent with a \"Solana\" wallet buy access to hundreds of online services, paying for each request individually in the \"USDC\" stablecoin, without creating accounts or subscribing to APIs.",
+  "The platform also showcases an agent called \"Milo\" that trades around the clock on its own, watching the market and executing trades from a wallet linked to it, as an example of what a fully independent agent can do.",
+  "For small recurring payments, the platform offers \"payment channels\": the agent approves spending once, then exchanges thousands of signed payment updates, with the total settled on the network later. The system passed one million payment updates per second in a September test involving 100,000 wallets.",
+  "The platform also includes an \"AI toolkit\" for developers, with a Model Context Protocol server and an \"Agent Kit\" that connects to more than 60 on-chain actions, an agent registry, and confidential computing for processing sensitive data inside protected hardware.",
+  "The foundation said more than 120 teams are already working on AI products within the \"Solana\" ecosystem, and payment settlement on its network takes about 200 milliseconds, making pay-per-request practical.",
+  "Simply put: imagine an AI program that buys what it needs by itself, pays for each service with digital currency, and trades in the market while you sleep; this platform aims to make that easy for developers.",
+  "Are you comfortable with the idea of an AI agent spending real money without your permission each time?"
+ ]
+}

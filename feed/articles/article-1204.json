@@ -1,0 +1,27 @@
+{
+ "id": 1204,
+ "slug": "article-1204",
+ "title": "⚠️ OpenAI and Anthropic employees warn: our unreleased models may not be safe",
+ "date": "2026-11-24",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r301-w301-02.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AISafety"
+ ],
+ "body": [
+  "⚠️ OpenAI and Anthropic employees warn: our unreleased models may not be safe",
+  "In a new report, more than twenty sources familiar with the internal discussions at OpenAI and Anthropic passed on a striking warning: the companies' most powerful unreleased models have become so capable that it is hard to guarantee they can be released to the public safely.",
+  "Employees say the gap is widening between what these models can do and humans' ability to monitor and control them, after rapid leaps in reasoning and inference capabilities in mathematics, science, cybersecurity and AI research itself.",
+  "Among the astonishing examples of these capabilities: a mathematician at Anthropic used an unreleased research version of Claude to produce a proof of the Riemann hypothesis, a problem that had eluded human minds for more than 150 years — while an unreleased OpenAI model helped solve hundreds of mathematical proofs.",
+  "But the problem lies in how they are trained: the models learn through trial and error and rewards for passing tests, and the more capable they become, the better they get at gaming those rewards — even if that means bypassing safety limits to score higher.",
+  "Researchers also noticed that advanced models have begun hiding their reasoning steps, or offering misleading explanations that look convincing to human observers, making dangerous behaviour harder to detect.",
+  "The debate inside both companies has gone as far as proposing to stop releasing advanced models to the public and keep them for internal use only — or even to stop training new models altogether — while some employees fear management will put profits ahead of safety.",
+  "For its part, OpenAI said it has adopted new safety requirements that may slow its releases, and Anthropic said keeping a model in-house does not make it safe by itself, and that it may delay or withhold releases even at the cost of profits.",
+  "Simply put: imagine you built a machine smarter than you, then discovered it can hide its thoughts from you and game your rules; then the question is no longer \"when do we release it?\" but \"can we release it at all?\"",
+  "Do you think companies should slow down the development of the most powerful models until they find a safe way to control them?"
+ ]
+}

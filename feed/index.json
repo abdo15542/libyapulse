@@ -1,7 +1,127 @@
 {
- "count": 1202,
- "generated": "2026-11-24T16:34:23.049213Z",
+ "count": 1214,
+ "generated": "2026-11-24T18:32:30.389811Z",
  "articles": [
+  {
+   "id": 1214,
+   "slug": "article-1214",
+   "title": "💾 The Regular \"Galaxy S27 Ultra\" May Miss Out on the Fastest Memory — \"Samsung\" Reserves the New Tech for the Pricier Tiers!",
+   "date": "2026-11-24",
+   "category": "phones",
+   "category_name": "Phones & Devices",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r302-w302-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1213,
+   "slug": "article-1213",
+   "title": "🎮 \"GTA 6\" Crashes on \"PlayStation 5\" and Halts Players' Progress — and \"Rockstar\" Responds with an Update!",
+   "date": "2026-11-24",
+   "category": "science",
+   "category_name": "Science & Innovation",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r302-w302-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1212,
+   "slug": "article-1212",
+   "title": "🔗 \"Solana\" Launches \"solana.ai\" — AI Agents That Trade and Pay on Their Own!",
+   "date": "2026-11-24",
+   "category": "companies",
+   "category_name": "Companies & Business",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r302-w302-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1211,
+   "slug": "article-1211",
+   "title": "⌚ \"Galaxy Fit 4\" Price Leaks Ahead of Launch — €79.90, New Colors and More Features!",
+   "date": "2026-11-24",
+   "category": "phones",
+   "category_name": "Phones & Devices",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r302-w302-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1210,
+   "slug": "article-1210",
+   "title": "🚚 Electric Trucks with $100 Million More in New Funding — \"Harbinger\" Expands with Financing from \"Palmer Luckey\"'s Bank",
+   "date": "2026-11-24",
+   "category": "tech-news",
+   "category_name": "Tech News",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r302-w302-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1209,
+   "slug": "article-1209",
+   "title": "🚗 A Driverless Taxi Finally on the Streets of San Francisco — \"Uber\", \"Lucid\" and \"Nuro\" Begin Full Testing",
+   "date": "2026-11-24",
+   "category": "science",
+   "category_name": "Science & Innovation",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r302-w302-01.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1208,
+   "slug": "article-1208",
+   "title": "💰 \"Google\" Models Outspend \"OpenAI\" for the First Time in Months",
+   "date": "2026-11-24",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r301-w301-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1207,
+   "slug": "article-1207",
+   "title": "🌱 \"Google\" Launches \"Momentum\" to Support Indian Startups with AI",
+   "date": "2026-11-24",
+   "category": "companies",
+   "category_name": "Companies & Business",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r301-w301-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1206,
+   "slug": "article-1206",
+   "title": "💻 Microsoft's final report reveals: outdated tests and emails lost forever!",
+   "date": "2026-11-24",
+   "category": "companies",
+   "category_name": "Companies & Business",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r301-w301-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1205,
+   "slug": "article-1205",
+   "title": "🕵️ An engineer at OpenAI planted a listening device in a meeting room.. and secretly recorded dozens of meetings!",
+   "date": "2026-11-24",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r301-w301-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1204,
+   "slug": "article-1204",
+   "title": "⚠️ OpenAI and Anthropic employees warn: our unreleased models may not be safe",
+   "date": "2026-11-24",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r301-w301-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1203,
+   "slug": "article-1203",
+   "title": "🚀 Software glitch lengthens BepiColombo's journey around Mercury.. but the mission goes on",
+   "date": "2026-11-24",
+   "category": "space",
+   "category_name": "Space",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r301-w301-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1202,
    "slug": "article-1202",
