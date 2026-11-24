@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>🖥️ New &#x27;ZQ Agent&#x27; Backdoor Hides in Linux Servers — and AI Plants It on Human Orders! | TechPulse</title>
+<meta name="description" content="🖥️ New &#x27;ZQ Agent&#x27; Backdoor Hides in Linux Servers — and AI Plants It on Human Orders! Security analysts have discovered a new Linux backdoor called &#x27;ZQ Agent&#x27; that gives attackers a permanent foothold in co…">
+<link rel="canonical" href="https://abdo15542.github.io/techpulse/articles/article-1259.html">
+<meta property="og:site_name" content="TechPulse">
+<meta property="og:title" content="🖥️ New &#x27;ZQ Agent&#x27; Backdoor Hides in Linux Servers — and AI Plants It on Human Orders! | TechPulse">
+<meta property="og:description" content="🖥️ New &#x27;ZQ Agent&#x27; Backdoor Hides in Linux Servers — and AI Plants It on Human Orders! Security analysts have discovered a new Linux backdoor called &#x27;ZQ Agent&#x27; that gives attackers a permanent foothold in co…">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://abdo15542.github.io/techpulse/articles/article-1259.html">
+<meta property="og:image" content="https://abdo15542.github.io/wamdalibya/images/r307-w307-05.jpg">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/png" href="https://abdo15542.github.io/techpulse/assets/techpulse-logo.png">
+<link rel="stylesheet" href="../assets/style.css">
+<link rel="manifest" href="../manifest.json">
+<meta name="theme-color" content="#0B2B33">
+<link rel="apple-touch-icon" href="https://abdo15542.github.io/techpulse/assets/techpulse-logo.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="TechPulse">
+
+<script>if (/(WamdaApp|TechPulseApp)/.test(navigator.userAgent)) document.documentElement.classList.add('wamda-app');</script>
+<style>.wamda-app .adsbygoogle, .wamda-app ins.adsbygoogle, .wamda-app .ad-slot { display:none !important; }</style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6317687886565811" crossorigin="anonymous"></script>
+<script>
+window.addEventListener('load', function () {
+  try {
+    if ('serviceWorker' in navigator) navigator.serviceWorker.register('../sw.js');
+  } catch (e) {}
+});
+</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="../index.html">
+      <img src="https://abdo15542.github.io/techpulse/assets/techpulse-logo.png" alt="TechPulse logo" class="logo" width="48" height="48">
+      <span class="brand-text"><strong>TechPulse</strong><small>Tech, AI & news, as it happens</small></span>
+    </a>
+    <button class="menu-toggle" id="menuToggle" aria-label="Menu" aria-expanded="false">☰</button>
+    <nav class="main-nav" id="mainNav"><a href="../index.html">Home</a><a href="../about.html">About</a><a href="../contact.html">Contact</a><a href="../privacy-policy.html">Privacy Policy</a><a href="../announcements.html">📢 Announcements</a></nav>
+  </div>
+  <div class="container cat-bar"><a href="../categories/ai.html">Artificial Intelligence</a><a href="../categories/security.html">Cybersecurity</a><a href="../categories/space.html">Space</a><a href="../categories/phones.html">Phones & Devices</a><a href="../categories/apps.html">Apps & Platforms</a><a href="../categories/companies.html">Companies & Business</a><a href="../categories/computing.html">Computing & Programming</a><a href="../categories/science.html">Science & Innovation</a><a href="../categories/tech-news.html">Tech News</a></div>
+</header>
+<main>
+<div class="container article-page">
+  <nav class="breadcrumb"><a href="../index.html">Home</a> / <a href="../categories/security.html">Cybersecurity</a> / <span>🖥️ New &#x27;ZQ Agent&#x27; Backdoor Hides in Linux Servers — and AI P…</span></nav>
+  <article>
+    <a class="badge" href="../categories/security.html">Cybersecurity</a>
+    <h1>🖥️ New &#x27;ZQ Agent&#x27; Backdoor Hides in Linux Servers — and AI Plants It on Human Orders!</h1>
+    <p class="article-meta"><time datetime="2026-11-24">24 November 2026</time> · Website · TechPulse</p>
+    <figure><img src="https://abdo15542.github.io/wamdalibya/images/r307-w307-05.jpg" alt="🖥️ New &#x27;ZQ Agent&#x27; Backdoor Hides in Linux Servers — and AI Plants It on Human Orders!" width="1200" height="675"></figure>
+    <div class="article-body"><p>Security analysts have discovered a new Linux backdoor called &#x27;ZQ Agent&#x27; that gives attackers a permanent foothold in compromised servers, found while responding to an incident in Belgium, with similar samples also reported in Taiwan.</p><p>The strange part is that the backdoor was planted by &#x27;Artex,&#x27; an AI-powered multi-agent attack framework; AI-powered tool attacks are usually fast — stealing passwords and leaving — whereas planting a permanent backdoor for long-term persistence is unusual behavior, and analysts believe it came from a human operator&#x27;s instructions rather than the tool&#x27;s own decision.</p><p>&#x27;ZQ Agent&#x27; hides cleverly: it copies itself to a temporary file held only in memory, so it shows up in the process list as &#x27;memfd:a (deleted),&#x27; then restarts itself as a separate process impersonating the &#x27;dbus-daemon&#x27; tool and its command line, looking to a quick glance like an ordinary system process.</p><div class="ad-slot ad-rectangle" data-ad-slot="article-mid" data-ad-format="rectangle" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div><p>The backdoor protects its settings with encryption so they only open when needed, encrypts its network traffic in several layers including ChaCha20, executes commands, browses, copies, and deletes files, opens interactive shells and network tunnels, and even runs programs straight from memory without writing them to disk.</p><p>It survives reboots through a system service described as a &#x27;hardware event log server&#x27; that restarts itself every 30 seconds if stopped, and through a scheduled task at boot; it also changes its files&#x27; timestamps to make cleanup harder, and it contacts a control server via a specific IP address and domain that analysts linked to a group tracked as &#x27;FOG-0003,&#x27; believed to have used it in Asia against government entities and human rights organizations.</p><p>Simply put: AI can now plant permanent backdoors too, not just steal passwords; and a process that looks &#x27;ordinary&#x27; in the process list may be the breach itself.</p><p>Do you check your servers&#x27; processes for familiar names with strange behavior?</p></div>
+    <div class="tags"><a class="chip" href="../index.html">#TechPulse</a><a class="chip" href="../index.html">#TechNews</a><a class="chip" href="../index.html">#CyberSecurity</a></div>
+    <div class="share">
+      <span>Share this story:</span>
+      <a href="https://wa.me/?text=%F0%9F%96%A5%EF%B8%8F%20New%20%27ZQ%20Agent%27%20Backdoor%20Hides%20in%20Linux%20Servers%20%E2%80%94%20and%20AI%20Plants%20It%20on%20Human%20Orders%21%20https%3A//abdo15542.github.io/techpulse/articles/article-1259.html" target="_blank" rel="noopener" class="btn">WhatsApp</a>
+      <a href="https://twitter.com/intent/tweet?text=%F0%9F%96%A5%EF%B8%8F%20New%20%27ZQ%20Agent%27%20Backdoor%20Hides%20in%20Linux%20Servers%20%E2%80%94%20and%20AI%20Plants%20It%20on%20Human%20Orders%21%20https%3A//abdo15542.github.io/techpulse/articles/article-1259.html&url=https%3A//abdo15542.github.io/techpulse/articles/article-1259.html" target="_blank" rel="noopener" class="btn">X</a>
+      <button class="btn" id="copyLinkBtn" data-url="https://abdo15542.github.io/techpulse/articles/article-1259.html">Copy link</button>
+    </div>
+  </article>
+  <div class="ad-slot ad-horizontal" data-ad-slot="header-leaderboard" data-ad-format="horizontal" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div>
+  <nav class="prev-next"><a class="prev" href="article-1258.html">← Previous: 🕸️ &#x27;Webworm&#x27; Rebuilds a Legitimate VPN Program to Hide Inside Governme</a><a class="next" href="article-1260.html">Next: 🔑 Even after Microsoft shut it down… EvilTokens is still stealing Micr →</a></nav>
+</div>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🖥️ New 'ZQ Agent' Backdoor Hides in Linux Servers — and AI Plants It on Human Orders!", "inLanguage": "en", "datePublished": "2026-11-24", "dateModified": "2026-11-24", "author": {"@type": "Organization", "name": "TechPulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "TechPulse", "logo": {"@type": "ImageObject", "url": "https://abdo15542.github.io/techpulse/assets/techpulse-logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/techpulse/articles/article-1259.html", "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-05.jpg", "articleSection": "Cybersecurity"}</script></main>
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div>
+      <h3>TechPulse</h3>
+      <p>Tech, AI and news from around the world — verified, explained simply, updated around the clock.</p>
+      <p><a class="btn btn-cyan" href="https://www.facebook.com/profile.php?id=61596701491859" target="_blank" rel="noopener">Follow us on Facebook</a></p>
+    </div>
+    <div>
+      <h3>Categories</h3>
+      <ul class="footer-links"><li><a href="../categories/ai.html">Artificial Intelligence</a></li><li><a href="../categories/security.html">Cybersecurity</a></li><li><a href="../categories/space.html">Space</a></li><li><a href="../categories/phones.html">Phones & Devices</a></li><li><a href="../categories/apps.html">Apps & Platforms</a></li><li><a href="../categories/companies.html">Companies & Business</a></li><li><a href="../categories/computing.html">Computing & Programming</a></li><li><a href="../categories/science.html">Science & Innovation</a></li><li><a href="../categories/tech-news.html">Tech News</a></li></ul>
+    </div>
+    <div>
+      <h3>Links</h3>
+      <ul class="footer-links">
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="../about.html">About</a></li>
+        <li><a href="../contact.html">Contact</a></li>
+        <li><a href="../privacy-policy.html">Privacy Policy</a></li>
+        <li><a href="../sitemap.xml">Sitemap</a></li>
+      </ul>
+      <p>Email: <a href="mailto:mybook9191@gmail.com">mybook9191@gmail.com</a></p>
+    </div>
+  </div>
+  <div class="copyright">© 2026 TechPulse — All rights reserved.</div>
+</footer>
+<script src="../assets/site.js" defer></script>
+</body>
+</html>
