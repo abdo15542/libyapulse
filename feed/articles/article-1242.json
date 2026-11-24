@@ -1,0 +1,25 @@
+{
+ "id": 1242,
+ "slug": "article-1242",
+ "title": "📰 Microsoft launches a content marketplace… publishers get paid when AI learns from their articles!",
+ "date": "2026-11-24",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-08.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "📰 Microsoft launches a content marketplace… publishers get paid when AI learns from their articles!",
+  "Microsoft has launched a new marketplace called Publisher Content Marketplace, aiming to simplify content licensing between publishers and AI developers, in a step that could change the tense relationship between the two sides.",
+  "On one side, AI companies want high-quality content to train their models, but face constant accusations that they take articles and books without permission and without payment.",
+  "On the other side, publishers want fair pay for the use of their work, instead of their articles becoming free fuel for models that earn billions of dollars.",
+  "The new marketplace is designed to bring both sides together in one place: companies get content in an ethical, licensed way, and publishers get clear monetary compensation for what is used of their output.",
+  "The step comes as lawsuits around the world against AI companies for using protected content without a license are escalating, and as publishers search for a new business model to make up for declining advertising revenue.",
+  "Simply put: instead of AI taking your articles in secret, it can now buy them from an organized marketplace; the question now is: will AI companies actually pay, or will they keep taking for free?",
+  "Do you support AI companies paying publishers for training their models?"
+ ]
+}

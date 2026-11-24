@@ -1,0 +1,27 @@
+{
+ "id": 1216,
+ "slug": "article-1216",
+ "title": "🔐 Matters.AI Raises $12 Million… AI Guarding Companies' Data Against Leaks!",
+ "date": "2026-11-24",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-02.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Companies"
+ ],
+ "body": [
+  "🔐 Matters.AI Raises $12 Million… AI Guarding Companies' Data Against Leaks!",
+  "Matters.AI has raised $12 million in a pre-Series A round led by Tanglin Venture Partners, bringing its total funding to $18.25 million.",
+  "IIFL Capital Services, Piper Serica, Foster Ventures, and Tetration Ventures took part in the round, and early backers Kalari Capital and India Partners returned.",
+  "The company runs an AI-powered data security platform covering the cloud, software as a service, endpoints, and on-premises systems, with offices in San Francisco and Bengaluru, led by co-founder and CEO Keshava Murthy.",
+  "The platform combines agentless APIs with lightweight sensors to discover and classify data, and builds lineage maps showing where data comes from, where it goes, and who handles it, to support risk management and incident response.",
+  "It monitors data movement through email, cloud uploads, removable media, and peer-to-peer channels, and can block transfers, isolate a device, or alert the security team.",
+  "It also offers real-time AI controls that inspect live prompts and responses, evaluating user identity, data classification, and model type before letting them through.",
+  "Remediation happens with human approval: once approved, excessive permissions can be removed, external sharing restricted, or credentials rotated, then re-scanned to confirm the fix worked.",
+  "Simply put: a smart guard watching every file that leaves your company, knowing where it goes and who touches it, and stopping leaks before they happen — but the final decision stays with a human.",
+  "Do you think companies need a smart guard for their data as AI agents spread?"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "id": 1226,
+ "slug": "article-1226",
+ "title": "💰 Marlow Raises $277 Million… AI Data Centers With No Nvidia Chips!",
+ "date": "2026-11-24",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-02.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Companies"
+ ],
+ "body": [
+  "💰 Marlow Raises $277 Million… AI Data Centers With No Nvidia Chips!",
+  "Startup Marlow has raised $277 million in a seed round led by Accel, at a $1.15 billion valuation, becoming a unicorn before completing its first year.",
+  "The company was founded last May by Dan Lewis, the former co-founder of shipping company Convoy and a former AI leader at Microsoft, and Kota Srinivasan, a former Microsoft vice president and its technical leader for AI infrastructure.",
+  "Bessemer, Altimeter, Atreides, and Eclipse took part in the round, along with Henry Kravis, co-founder of KKR, Dara Khosrowshahi, CEO of Uber, and Aaron Levie, CEO of Box.",
+  "The company is building data centers designed specifically to run AI models in everyday products, not to train them, relying on AMD chips and startup Etched's chips, instead of Nvidia's cards that have dominated the AI boom.",
+  "The company says optimizing every layer of the system — chips, networking, power management, and software — by 10 to 20% doubles output two to three times per watt and per dollar compared with traditional GPU clouds, figures from the company itself that no independent party has tested yet.",
+  "Its first site, built on Etched chips, will go live next December to serve an unnamed AI coding company, while a second, larger site with AMD's Helios systems arrives in the second quarter of 2027.",
+  "The company has about 30 employees in Bellevue and Redwood City, and says data center build costs have risen 40% since 2020, making every watt more valuable.",
+  "Simply put: instead of waiting for Nvidia's expensive, congested cards, Marlow is building data centers around rival chips and tuning them for each client, to reduce dependence on a single supplier.",
+  "Can rival chips succeed in breaking Nvidia's monopoly on running AI?"
+ ]
+}

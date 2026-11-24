@@ -1,0 +1,25 @@
+{
+ "id": 1235,
+ "slug": "article-1235",
+ "title": "🔓 Two billion credentials exposed online… and files that reveal your whole life!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-01.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Security"
+ ],
+ "body": [
+  "🔓 Two billion credentials exposed online… and files that reveal your whole life!",
+  "A security researcher discovered a huge database exposed on the internet containing around two billion credentials — usernames, passwords, and login addresses — accessible to everyone, with no password protecting it and no encryption.",
+  "More alarming than the number itself is what was found inside the database: around 400,000 documents collected by advanced stealer malware, organized in separate folders for each victim, containing app files, cookies, browser history, and system files, plus text files with names like \"System\", \"Processes\", \"Clipboard\", \"Brute Force\", and \"Passwords\".",
+  "Together, these files paint a complete picture of the victim: their devices, accounts, and habits, enough — in the researcher's words — to \"own that person\" digitally, and to open the door to attacks far wider than a single stolen password.",
+  "The database also contained thousands of login credentials for hidden Tor addresses, used to reach dark web services, from forums and marketplaces to hidden social platforms — though some of these services are legitimate and used by news organizations and whistleblowing platforms to protect their identity.",
+  "The researcher said the data was likely gathered from multiple breaches through advanced stealer malware, and that he notified the hosting company to remove the database, but no one knows how many people viewed it before that.",
+  "Simply put: a password alone is no longer enough; use a password manager that gives every service a unique, strong password, turn on two-factor authentication everywhere, and choose an authenticator app instead of text messages to protect your accounts from SIM theft.",
+  "Do you still use the same password for more than one account?"
+ ]
+}

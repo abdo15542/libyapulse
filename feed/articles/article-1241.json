@@ -1,0 +1,26 @@
+{
+ "id": 1241,
+ "slug": "article-1241",
+ "title": "🏦 Samsung Securities breach… data of 8,241 customers leaked from a complaints form!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-07.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Security"
+ ],
+ "body": [
+  "🏦 Samsung Securities breach… data of 8,241 customers leaked from a complaints form!",
+  "Samsung Securities, the brokerage arm of the Samsung group in South Korea, confirmed that data of 8,241 customers was leaked, after unauthorized access to the customer feedback system on its website.",
+  "The company discovered signs of the breach on Saturday afternoon, November 21, in the \"Voice of the Customer\" system, the form through which customers send their complaints and feedback, and announced the incident on Monday, November 23.",
+  "The main customer database was not breached; instead, attachments customers themselves sent with their requests leaked, containing 13 categories of personal data: names, account numbers, addresses, contact details, and driver's license numbers, with the exposed categories varying from one customer to another.",
+  "CEO Park Jong-moon apologized to customers, and the company said it blocked the IP address used in the breach and stopped the feedback service immediately, and notified the Financial Supervisory Service and the Korea Internet & Security Agency.",
+  "The company confirmed that customers who never used the \"Voice of the Customer\" form are unaffected by the incident, and that it will inform each affected customer in detail about the data exposed about them.",
+  "The incident comes amid a wave of cyberattacks hitting South Korean financial companies in recent months, putting the security of the whole financial sector under scrutiny.",
+  "Simply put: the hacker didn't break into the bank's vault, but entered through the complaints door; sometimes the most dangerous vulnerability is not in the core system, but in a small side service everyone forgets.",
+  "Do you send your sensitive data through \"contact us\" forms on websites?"
+ ]
+}

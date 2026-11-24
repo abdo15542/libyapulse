@@ -1,0 +1,28 @@
+{
+ "id": 1227,
+ "slug": "article-1227",
+ "title": "🍔 A Breach Hits McDonald's Japan… Purchase Records and Device Locations Exposed!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-03.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Security"
+ ],
+ "body": [
+  "🍔 A Breach Hits McDonald's Japan… Purchase Records and Device Locations Exposed!",
+  "McDonald's Japan confirmed that an unauthorized party accessed the database of its official mobile app, in a statement issued last Friday.",
+  "Among the data that may have been exposed: product purchase history, IP addresses, mobile device location data, and internal customer management numbers that alone are not enough to identify an email address or membership number.",
+  "The company confirmed the breach did not expose names, email addresses, phone numbers, home addresses, or credit card information.",
+  "The company did not disclose the number of those affected or when it discovered the breach, but a later investigation found no service disruption and no misuse of the app as a result of the incident.",
+  "The company is working to invalidate the credentials used in the unauthorized access, is investigating the affected systems, and has notified Japan's Personal Information Protection Commission.",
+  "The company said customers do not need to change their passwords or take any special action at this time.",
+  "The incident follows a breach announced by Burger King Japan last month that stole 11.18 million customer records, part of a wave of attacks that hit major Japanese companies this year, including Japan Airlines, Nikkei, and KDDI.",
+  "Researcher Yutaka Seiyama counted 288 security incidents affecting Japanese institutions since the start of the year that involved the theft or exposure of personal information.",
+  "Simply put: even your purchase history and your phone's location are sensitive data when they fall into strangers' hands; the good news here is that names and cards were untouched, but the incident is a reminder that the apps we use every day know more about us than we think.",
+  "Does the location data and purchase history that restaurant apps collect about you worry you?"
+ ]
+}

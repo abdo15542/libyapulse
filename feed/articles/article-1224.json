@@ -1,0 +1,28 @@
+{
+ "id": 1224,
+ "slug": "article-1224",
+ "title": "🤖 Embo Raises $110 Million to Build a 'Robot Brain' That Learns Physics From Video!",
+ "date": "2026-11-24",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-10.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🤖 Embo Raises $110 Million to Build a 'Robot Brain' That Learns Physics From Video!",
+  "Embo has raised $110 million in a seed round led by Andreessen Horowitz.",
+  "Khosla Ventures, DST Global, Nvidia's investment arm NVentures, and Striker Venture Partners took part in the round, along with other strategic investors.",
+  "The company is based in San Francisco and is led by founders Daniar Hafner and Wilson Yan; Hafner is known for the Dreamer research series at Google DeepMind.",
+  "The company is building a unified world model that predicts how physical scenes change by analyzing huge amounts of internet video and text.",
+  "Robots train inside millions of imagined scenarios through reinforcement learning, before their skills are refined with real data from a fleet of humanoid robots.",
+  "The goal is robots that work in environments they have never seen and recover from unexpected mistakes, without training tailored to each task.",
+  "The funding will go toward training large-scale world models and developing the virtual simulation and reinforcement learning platforms.",
+  "The company has not yet announced a valuation, a product, customers, or a date for its first demo.",
+  "Simply put: instead of training a robot on one task in one place, a single 'brain' learns the laws of physics from millions of videos, trains in its imagination first and then applies it in reality; if it works, the robot is ready for any new place.",
+  "Would you trust a robot that learned physics from video more than one trained in a real factory?"
+ ]
+}

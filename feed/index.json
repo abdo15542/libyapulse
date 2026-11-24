@@ -1,7 +1,307 @@
 {
- "count": 1214,
- "generated": "2026-11-24T18:32:30.389811Z",
+ "count": 1244,
+ "generated": "2026-11-24T20:32:48.241779Z",
  "articles": [
+  {
+   "id": 1244,
+   "slug": "article-1244",
+   "title": "🎮 Xbox Helix was going to make multiplayer free… and open the door to Steam!",
+   "date": "2026-11-24",
+   "category": "science",
+   "category_name": "Science & Innovation",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1243,
+   "slug": "article-1243",
+   "title": "🖥️ Odyssey G6 1100 Hz monitor hits stores… the world's fastest gaming monitor!",
+   "date": "2026-11-24",
+   "category": "science",
+   "category_name": "Science & Innovation",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1242,
+   "slug": "article-1242",
+   "title": "📰 Microsoft launches a content marketplace… publishers get paid when AI learns from their articles!",
+   "date": "2026-11-24",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1241,
+   "slug": "article-1241",
+   "title": "🏦 Samsung Securities breach… data of 8,241 customers leaked from a complaints form!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1240,
+   "slug": "article-1240",
+   "title": "🎵 Spotify kicks thousands of users out of their accounts… a sudden outage stops the music!",
+   "date": "2026-11-24",
+   "category": "apps",
+   "category_name": "Apps & Platforms",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1239,
+   "slug": "article-1239",
+   "title": "🛡️ DXC launches a service that guards software with Claude Mythos… and humans decide the fix!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1238,
+   "slug": "article-1238",
+   "title": "💼 CDW launches 3 AI tools… from experiment to production without waste!",
+   "date": "2026-11-24",
+   "category": "companies",
+   "category_name": "Companies & Business",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1237,
+   "slug": "article-1237",
+   "title": "🤖 X Square robots enter Malaysian post offices… sorting parcels and learning on their own!",
+   "date": "2026-11-24",
+   "category": "science",
+   "category_name": "Science & Innovation",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1236,
+   "slug": "article-1236",
+   "title": "⚙️ ABB launches the world's first motor with a built-in brain… it predicts breakdowns before they happen!",
+   "date": "2026-11-24",
+   "category": "companies",
+   "category_name": "Companies & Business",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1235,
+   "slug": "article-1235",
+   "title": "🔓 Two billion credentials exposed online… and files that reveal your whole life!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-01.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1234,
+   "slug": "article-1234",
+   "title": "▶️ YouTube is testing 7 alternative icons for its Android app… change the app's look however you like!",
+   "date": "2026-11-24",
+   "category": "apps",
+   "category_name": "Apps & Platforms",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1233,
+   "slug": "article-1233",
+   "title": "🎯 Call of Duty loses 42% of its players after the launch of GTA 6!",
+   "date": "2026-11-24",
+   "category": "science",
+   "category_name": "Science & Innovation",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1232,
+   "slug": "article-1232",
+   "title": "✈️ Telegram celebrates its thirteenth birthday… welcome messages and interactive buttons inside messages!",
+   "date": "2026-11-24",
+   "category": "apps",
+   "category_name": "Apps & Platforms",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1231,
+   "slug": "article-1231",
+   "title": "🎮 A week before GTA 6… PlayStation 5 and Xbox sales more than double!",
+   "date": "2026-11-24",
+   "category": "science",
+   "category_name": "Science & Innovation",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1230,
+   "slug": "article-1230",
+   "title": "📱 Motorola teases a new Razr Fold phone the size of a passport — a rival to the iPhone Duo!",
+   "date": "2026-11-24",
+   "category": "phones",
+   "category_name": "Phones & Devices",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1229,
+   "slug": "article-1229",
+   "title": "🇰🇪 Claims of a Breach of Kenya's eCitizen Platform… 740 GB of Identity Data Under Investigation!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1228,
+   "slug": "article-1228",
+   "title": "🇪🇺 The European Commission Confirms a Data Theft… Names and Emails of EU Academy Users!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1227,
+   "slug": "article-1227",
+   "title": "🍔 A Breach Hits McDonald's Japan… Purchase Records and Device Locations Exposed!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1226,
+   "slug": "article-1226",
+   "title": "💰 Marlow Raises $277 Million… AI Data Centers With No Nvidia Chips!",
+   "date": "2026-11-24",
+   "category": "companies",
+   "category_name": "Companies & Business",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1225,
+   "slug": "article-1225",
+   "title": "🤖 AWS Launches Open Decision Models… And Puts Coding Agents in a Sandbox!",
+   "date": "2026-11-24",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-01.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1224,
+   "slug": "article-1224",
+   "title": "🤖 Embo Raises $110 Million to Build a 'Robot Brain' That Learns Physics From Video!",
+   "date": "2026-11-24",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1223,
+   "slug": "article-1223",
+   "title": "🎮 Nioh 3 Comes to Xbox and Switch 2 at Last! A Complete Edition With All Expansions in January 2027",
+   "date": "2026-11-24",
+   "category": "science",
+   "category_name": "Science & Innovation",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1222,
+   "slug": "article-1222",
+   "title": "💻 AMD Expands Its Instinct MI400 Cards… A New Card and Speed That Beats Nvidia in AI Benchmarks!",
+   "date": "2026-11-24",
+   "category": "computing",
+   "category_name": "Computing & Programming",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1221,
+   "slug": "article-1221",
+   "title": "🚀 SpaceX Launches a New Secret Military Mission… And Booster B1081 Flies for the 29th Time!",
+   "date": "2026-11-24",
+   "category": "space",
+   "category_name": "Space",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1220,
+   "slug": "article-1220",
+   "title": "🔋 Motorola Edge 70 Neo: The Price at Last and Sales Start 1 December… Full Specs and Snapdragon 7s Gen 3!",
+   "date": "2026-11-24",
+   "category": "phones",
+   "category_name": "Phones & Devices",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1219,
+   "slug": "article-1219",
+   "title": "📸 WhatsApp Tests Shooting With Both Cameras at Once… Your Face and the Moment in One Frame!",
+   "date": "2026-11-24",
+   "category": "apps",
+   "category_name": "Apps & Platforms",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1218,
+   "slug": "article-1218",
+   "title": "📱 One Screen Unites the Rivals… Samsung to Supply Its All-New OLED Displays for Pixel 11, iPhone 18 Pro, and iPhone Fold!",
+   "date": "2026-11-24",
+   "category": "phones",
+   "category_name": "Phones & Devices",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1217,
+   "slug": "article-1217",
+   "title": "🚨 Radware Reveals a Breach That Stole Customers' Cloud Keys… And an Internal Interface With No Password Was the Door!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1216,
+   "slug": "article-1216",
+   "title": "🔐 Matters.AI Raises $12 Million… AI Guarding Companies' Data Against Leaks!",
+   "date": "2026-11-24",
+   "category": "companies",
+   "category_name": "Companies & Business",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1215,
+   "slug": "article-1215",
+   "title": "💰 Zypher Raises $53 Million… AI Agents Running Big Companies' Data Instead of Engineers!",
+   "date": "2026-11-24",
+   "category": "companies",
+   "category_name": "Companies & Business",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1214,
    "slug": "article-1214",

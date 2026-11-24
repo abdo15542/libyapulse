@@ -1,0 +1,27 @@
+{
+ "id": 1228,
+ "slug": "article-1228",
+ "title": "🇪🇺 The European Commission Confirms a Data Theft… Names and Emails of EU Academy Users!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-04.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Security"
+ ],
+ "body": [
+  "🇪🇺 The European Commission Confirms a Data Theft… Names and Emails of EU Academy Users!",
+  "In a new development in the cyberattack that targeted the European Commission, spokesperson Thomas Regnier confirmed at a press briefing on Monday that attackers had breached the EU Academy online learning platform and stolen its users' personal data.",
+  "The confirmed stolen data includes users' names and email addresses, while the Commission has not yet announced the number of those affected or whether other data was exposed.",
+  "The Commission suspended public access to the platform as a precaution, and posted a warning on its website alerting users to phishing messages that could exploit the stolen data.",
+  "The Commission had revealed last Thursday that attackers breached its systems on 22 October using an AI-powered penetration testing tool called Artex, disrupting its services and the Sysper human resources platform for more than ten days.",
+  "The spokesperson confirmed that no ransom demand had arrived, and that attributing the attack to a specific party will wait until the investigation ends, while the European Data Protection Supervisor has been notified of the incident.",
+  "The platform will stay closed until 14 January 2027 while the Commission rebuilds it, according to a separate notice on the website.",
+  "This is the third breach to hit the Commission in 2026: in January its mobile phone infrastructure was breached, and in March its cloud environment was breached and data from 29 other EU bodies was exposed.",
+  "Simply put: an attack that first looked like a service disruption turned out to have stolen real data; the lesson is that a claim of 'no evidence of data theft' can change as the investigation progresses, and any email you receive in the Academy's name deserves suspicion now.",
+  "Would you open an email from an organization that suffered a breach before checking the sender?"
+ ]
+}

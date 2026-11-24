@@ -1,0 +1,28 @@
+{
+ "id": 1217,
+ "slug": "article-1217",
+ "title": "🚨 Radware Reveals a Breach That Stole Customers' Cloud Keys… And an Internal Interface With No Password Was the Door!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-03.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Security"
+ ],
+ "body": [
+  "🚨 Radware Reveals a Breach That Stole Customers' Cloud Keys… And an Internal Interface With No Password Was the Door!",
+  "Cybersecurity company Radware has revealed that attackers accessed some of its customers' account data and their private cloud access keys.",
+  "The entry happened on 19 November through an internal API for managing the Cloud WAF firewall that was exposed to the public internet with no authentication at all, meaning anyone who knew its address could get in without a password.",
+  "The company discovered the breach on Thursday, just 10 hours after the first unauthorized access, and blocked the source IP address and shut off access to the interface permanently.",
+  "Among the data that may have been stolen: customer contact details, and log-export credentials for self-storage, whether on AWS S3, Azure Blob, or SFTP, for a group of customers.",
+  "The company confirmed the breach did not expose firewall traffic inspection, certificates, end-user data, or customer application traffic.",
+  "The company strongly advised its AppSec customers — that is, the firewall and anti-bot applications — to rotate log-export credentials immediately and review access logs from 19 November at least.",
+  "It received reports from customers about alerts from AWS of access attempts from an unfamiliar address to log-export containers.",
+  "The company has not yet issued a public statement, and has not filed a breach report with the US Securities and Exchange Commission, while its protection services continued without interruption.",
+  "Simply put: a company that protects others from breaches left an internal door open with no lock, so attackers walked in and stole cloud keys; the lesson is that the most dangerous vulnerabilities may be in your own tools, not your rival's.",
+  "Does your company review its cloud keys after news like this?"
+ ]
+}

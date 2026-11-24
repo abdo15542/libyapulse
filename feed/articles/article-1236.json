@@ -1,0 +1,26 @@
+{
+ "id": 1236,
+ "slug": "article-1236",
+ "title": "⚙️ ABB launches the world's first motor with a built-in brain… it predicts breakdowns before they happen!",
+ "date": "2026-11-24",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-02.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Companies"
+ ],
+ "body": [
+  "⚙️ ABB launches the world's first motor with a built-in brain… it predicts breakdowns before they happen!",
+  "ABB has launched a new motor called Intellect, described as the world's first low-voltage electric motor with intelligence built in from the factory, turning a spinning piece of iron in factories into a source of live data from its very first operating cycle.",
+  "The motor carries built-in sensors, edge computing, and connectivity, monitoring its own condition: vibration, temperature, and performance, and detecting the early signs of a fault before the whole production line stops.",
+  "The company says early fault detection could cut unplanned downtime by up to 50%, and help avoid breakdowns that could cost around $1.5 million per incident, as well as energy-saving opportunities exceeding 30%.",
+  "The motor works with an open architecture that lets its data connect to the digital platforms the customer already uses, with data ownership staying with the customer, not locked to the manufacturer.",
+  "The step comes at a time when the company says 84% of manufacturers see value in AI, but only 20% of its use cases have scaled successfully, because good data is the biggest obstacle — while more than 300 million motor-driven systems operate around the world, consuming 60% of industrial electricity, and most of them are not connected to any digital system.",
+  "The motor was launched at an industrial trade show in Germany, and is now entering a co-creation phase with manufacturers and users to develop versions suited to their needs, with a wider rollout starting in 2027 in Europe, Japan, China, and India.",
+  "Simply put: the motor that was once a \"silent part\" now tells you when it will break down before it breaks down; in a world where factories run nonstop, that early warning may be worth more than the motor itself.",
+  "Would you trust a machine that predicts its own breakdown before your own eyes see it?"
+ ]
+}

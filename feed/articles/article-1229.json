@@ -1,0 +1,26 @@
+{
+ "id": 1229,
+ "slug": "article-1229",
+ "title": "🇰🇪 Claims of a Breach of Kenya's eCitizen Platform… 740 GB of Identity Data Under Investigation!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-05.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Security"
+ ],
+ "body": [
+  "🇰🇪 Claims of a Breach of Kenya's eCitizen Platform… 740 GB of Identity Data Under Investigation!",
+  "Kenyan authorities are investigating claims of a major breach of the government eCitizen platform that could expose hundreds of gigabytes of personal identity records and government databases.",
+  "A hacking group calling itself ByteToBreach claims it breached the platform's infrastructure and stole about 740 GB: 600 GB of KYC documents, 100 GB of database content, and 40 GB of source code.",
+  "Cyber intelligence firm VCERT Analyzer spotted the claim in an alert published on Monday, and said the attackers exploited a vulnerability in the platform's file-upload system to execute malicious code through what is known as a web shell.",
+  "The group also claims the breach extended to the OAuth single sign-on systems, which could affect other institutions that rely on the platform for identity verification.",
+  "But the firm itself warned against treating the claim as established fact: neither the Kenyan government nor the institutions mentioned have officially confirmed the breach or the size of the stolen data yet.",
+  "Among the bodies that could be affected: the Social Health Authority, the Directorate of Criminal Investigations, telecom company Safaricom, and the National Police Service, because they rely on the platform's systems for identity verification.",
+  "Simply put: a serious claim of huge scale, but still a claim with no public evidence; the difference between 'a group claims it stole data' and 'a confirmed theft' is what separates real news from a rumor, and the ongoing government investigation is what will settle it.",
+  "Would you believe hackers' claims of stealing data before the affected party confirms them?"
+ ]
+}

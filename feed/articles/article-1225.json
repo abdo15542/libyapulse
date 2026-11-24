@@ -1,0 +1,27 @@
+{
+ "id": 1225,
+ "slug": "article-1225",
+ "title": "🤖 AWS Launches Open Decision Models… And Puts Coding Agents in a Sandbox!",
+ "date": "2026-11-24",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r304-w304-01.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🤖 AWS Launches Open Decision Models… And Puts Coding Agents in a Sandbox!",
+  "Amazon Web Services has launched five new open-weight models called Strands Decider v2, built on Google's Gemma 4 architecture, ranging from a lightweight model that runs on ordinary computers to a huge model with 31 billion parameters, under the Apache 2.0 license on Hugging Face.",
+  "These are not ordinary chat models: they do not write text, but evaluate the available options and give each option a probability score, to decide which tool an agent uses, where a request is routed, or when an answer is enough and when it must be escalated to a human.",
+  "In the company's tests, the largest model scored an average of 82.1 points across six text benchmarks, compared with 70 for the first-generation model, and scored 90.1 points on image tasks and 70.2 on video tasks.",
+  "In an earlier internal trial, the company replaced the Claude Sonnet 4.6 model with one of the decision models in its largest ticketing system, and response time dropped from 4,215 milliseconds to 897, while classification cost fell from about $22,200 to $500 per million tickets.",
+  "Alongside the models, the company launched Box CLI, a tool that puts coding agents such as Claude Code, Codex, and Kiro inside an operating-system sandbox, so the agent works freely but can only reach what the policies allow.",
+  "The rules are enforced outside the model itself, so the agent cannot change its own rules, and API keys and AWS credentials stay outside the sandbox, only injected into requests the policy approves.",
+  "The tool is still in preview, and runs on Mac computers with Apple Silicon chips with macOS 15 or newer, and on Linux with ARM64 and x86-64 architectures.",
+  "Simply put: a small, cheap model making routine decisions instead of a huge, expensive one, and a sandbox that stops a coding agent from deleting a file or leaking a key by mistake; faster and cheaper decisions, and safer agents.",
+  "Would you trust a coding agent that works without you reviewing every step it takes?"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "id": 1215,
+ "slug": "article-1215",
+ "title": "💰 Zypher Raises $53 Million… AI Agents Running Big Companies' Data Instead of Engineers!",
+ "date": "2026-11-24",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r303-w303-01.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Companies"
+ ],
+ "body": [
+  "💰 Zypher Raises $53 Million… AI Agents Running Big Companies' Data Instead of Engineers!",
+  "Startup Zypher has raised $53 million across its seed and Series A rounds combined, to build a platform that lets AI agents run the data infrastructure of large companies.",
+  "The rounds were led by TLV Partners and Maor Investments, with participation from Glilot Capital, and the company will use the new funding for research and development, commercial expansion, building a US sales team, and expanding into Europe, the Middle East and Africa, Latin America, and Asia-Pacific.",
+  "Zypher was founded in 2024 by Dan Koster, the CEO, and Yoav Gil Ben Efraim, the CTO, both graduates of Israel's Unit 8200, and is headquartered in New York with offices in Tel Aviv.",
+  "The platform's idea is that AI agents decide for themselves how each data workload runs: resource allocation, framework choice, and scheduling, with no human intervention.",
+  "The company says its Fortune 500 clients see cost-efficiency gains of 40 to 60%, and an improvement in service-level agreement compliance of up to 80%.",
+  "Among its clients is car rental company Hertz, which cut computing costs by 25 to 40% depending on the workload type.",
+  "The platform supports AWS, Azure, and Google Cloud, and integrates with well-known data tools such as dbt, Databricks, Airflow, and Terraform.",
+  "Simply put: instead of engineers sitting around monitoring data pipelines and fixing them by hand, the company lets AI agents run them alone, and claims the result is cheaper, faster, and more on schedule.",
+  "Would you trust AI to run your company's data with no human intervention?"
+ ]
+}

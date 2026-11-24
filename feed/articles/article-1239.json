@@ -1,0 +1,26 @@
+{
+ "id": 1239,
+ "slug": "article-1239",
+ "title": "🛡️ DXC launches a service that guards software with Claude Mythos… and humans decide the fix!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r305-w305-05.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Security"
+ ],
+ "body": [
+  "🛡️ DXC launches a service that guards software with Claude Mythos… and humans decide the fix!",
+  "DXC Technology has announced the launch of a new service called Frontier Code Assurance, a managed cybersecurity service that uses Anthropic's Claude Mythos model to detect, verify, and help fix vulnerabilities in critical software.",
+  "The model can scan up to 10 million lines of code quickly, searching for vulnerabilities that traditional scanners might miss, and then humans take over: DXC's security specialists verify every finding, rank it by its impact on the business, decide the remediation path, and give the client a documented, auditable roadmap for every step.",
+  "The service is available now, but the official announcement came after it had already been selling in practice since late October — the current launch is the formal introduction of an offering that was already on the market.",
+  "The service builds on a multi-year alliance between DXC and Anthropic announced last June, which made DXC a first global partner in the Claude partner network, with tens of thousands of certified engineers trained.",
+  "The service operates within the company's global cybersecurity practice, which runs 12 security operations centers in more than 40 countries, staffed by thousands of specialists.",
+  "CEO Raul Fernandez said the idea is not about the number of alerts, but about fixing them: a scan that produces every alert at once creates a backlog, not security.",
+  "Simply put: AI finds vulnerabilities fast, but a human decides which vulnerability deserves fixing first; real security is not a long list of alerts, but completed, documented fixes.",
+  "Would you trust an AI model to search your sensitive software for vulnerabilities?"
+ ]
+}
