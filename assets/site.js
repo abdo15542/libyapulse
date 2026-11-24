@@ -1,10 +1,10 @@
-/* Libya Pulse — light script: mobile menu, search, load more, copy link */
+/* TechPulse — light script: mobile menu, search, load more, copy link */
 (function () {
   "use strict";
 
   // صور المقالات: لو صورة لسه ما اترفعتش على السيرفر (404) بدّلها بغلاف الموقع
   // بدل ما تظهر كمربع فاضي وعلامة صورة مكسورة. يشتغل على كل الصفحات.
-  var FALLBACK_IMG = "https://abdo15542.github.io/wamdalibya/assets/cover.jpg";
+  var FALLBACK_IMG = "https://abdo15542.github.io/techpulse/assets/techpulse-cover.jpg";
   function fixImg(img) {
     if (!img || img.getAttribute("data-fb-done")) return;
     if (img.src.indexOf("/images/") === -1) return;
@@ -106,7 +106,7 @@
     ? { empty: "No announcements yet.", update: "A new version of the app is available", dl: "Download update", close: "Dismiss" }
     : { empty: "لا توجد إعلانات بعد.", update: "إصدار جديد من التطبيق متوفر", dl: "تنزيل التحديث", close: "إغلاق" };
   function siteBasePath() {
-    // مسار جذر الموقع: /wamdalibya أو /libyapulse على GitHub Pages، فارغ على نطاق جذري
+    // Site root path: this site's own sub-path on GitHub Pages, empty on a root domain
     var p = location.pathname.replace(/\/$/, "");
     p = p.replace(/\/articles\/[^/]+$/, "").replace(/\/categories\/[^/]+$/, "").replace(/\/[^/]+\.html$/, "");
     return p;
@@ -133,7 +133,7 @@
       html += '<div class="card-body"><h3>' + escHtml(it.title || "") + "</h3>";
       if (it.text) html += "<p>" + escHtml(it.text) + "</p>";
       if (it.date) html += '<p class="card-meta">' + escHtml(it.date) + "</p>";
-      if (it.button_text && it.button_url) html += '<p><a class="btn btn-gold" href="' + escHtml(it.button_url) + '">' + escHtml(it.button_text) + "</a></p>";
+      if (it.button_text && it.button_url) html += '<p><a class="btn btn-cyan" href="' + escHtml(it.button_url) + '">' + escHtml(it.button_text) + "</a></p>";
       html += "</div></article>";
     });
     annBoard.innerHTML = html;
@@ -147,7 +147,7 @@
     bar.className = "update-banner";
     bar.setAttribute("role", "alert");
     bar.innerHTML = "<span>" + escHtml(ANN_TXT.update) + "</span> " +
-      '<a class="btn btn-gold" href="' + escHtml(data.apk_url) + '">' + escHtml(ANN_TXT.dl) + "</a> " +
+      '<a class="btn btn-cyan" href="' + escHtml(data.apk_url) + '">' + escHtml(ANN_TXT.dl) + "</a> " +
       '<button type="button" class="update-close" aria-label="' + escHtml(ANN_TXT.close) + '">✕</button>';
     bar.querySelector(".update-close").addEventListener("click", function () {
       try { sessionStorage.setItem("wamda-update-dismissed", String(data.latest_version_code)); } catch (e) { /* ignore */ }
@@ -158,7 +158,7 @@
   if (annBoard) loadAnnouncements(renderBoard);
   if (!isAnnPage) {
     // تنبيه التحديث يظهر داخل التطبيق فقط، وعندما يحمل التطبيق رمز إصدار vc
-    var vcMatch = navigator.userAgent.match(/WamdaApp\/1\.0 vc(\d+)/);
+    var vcMatch = navigator.userAgent.match(/(?:WamdaApp|TechPulseApp)\/1\.0 vc(\d+)/);
     if (vcMatch) {
       loadAnnouncements(function (data) {
         var installed = parseInt(vcMatch[1], 10);

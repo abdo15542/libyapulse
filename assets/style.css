@@ -1,4 +1,4 @@
-/* Libya Pulse — main stylesheet (LTR, mobile-first) */
+/* TechPulse — main stylesheet (LTR, mobile-first) */
 @font-face {
   font-family: "Tajawal";
   font-style: normal;
@@ -57,15 +57,15 @@
 }
 
 :root {
-  --navy: #0b1e3a;
-  --navy-2: #12294d;
-  --gold: #d4a017;
-  --gold-soft: #f2c94c;
-  --ink: #1c2733;
+  --teal: #0B2B33;
+  --teal-2: #103A44;
+  --cyan: #00D4FF;
+  --cyan-soft: #67E8F9;
+  --ink: #14202B;
   --muted: #5b6b7c;
-  --bg: #f4f6f9;
+  --bg: #F2F7F8;
   --card: #ffffff;
-  --border: #e2e8f0;
+  --border: #DFE9EC;
   --radius: 14px;
 }
 * { box-sizing: border-box; }
@@ -79,76 +79,76 @@ body {
   font-size: 17px;
 }
 img { max-width: 100%; height: auto; display: block; }
-a { color: var(--navy); text-decoration: none; }
-a:hover { color: var(--gold); }
+a { color: var(--teal); text-decoration: none; }
+a:hover { color: var(--cyan); }
 .container { max-width: 1100px; margin: 0 auto; padding: 0 16px; }
 
 /* الترويسة */
-.site-header { background: var(--navy); color: #fff; position: sticky; top: 0; z-index: 50; }
+.site-header { background: var(--teal); color: #fff; position: sticky; top: 0; z-index: 50; }
 .header-inner { display: flex; align-items: center; gap: 12px; padding: 10px 16px; }
 .brand { display: flex; align-items: center; gap: 10px; color: #fff; }
 .brand:hover { color: #fff; }
-.logo { width: 48px; height: 48px; border-radius: 50%; border: 2px solid var(--gold); }
+.logo { width: 48px; height: 48px; border-radius: 50%; border: 2px solid var(--cyan); }
 .brand-text { display: flex; flex-direction: column; line-height: 1.3; }
 .brand-text strong { font-size: 22px; font-weight: 800; }
 .brand-text small { font-size: 12px; color: #c9d4e4; }
-.menu-toggle { display: none; margin-inline-start: auto; background: none; border: 1px solid #35507e; color: #fff; font-size: 22px; border-radius: 8px; padding: 2px 10px; cursor: pointer; }
+.menu-toggle { display: none; margin-inline-start: auto; background: none; border: 1px solid #2A5A68; color: #fff; font-size: 22px; border-radius: 8px; padding: 2px 10px; cursor: pointer; }
 .main-nav { margin-inline-start: auto; display: flex; gap: 4px; }
 .main-nav a { color: #dbe4f0; padding: 8px 12px; border-radius: 8px; font-weight: 500; }
-.main-nav a:hover, .main-nav a.active { background: var(--navy-2); color: var(--gold-soft); }
+.main-nav a:hover, .main-nav a.active { background: var(--teal-2); color: var(--cyan-soft); }
 .cat-bar { display: flex; gap: 6px; overflow-x: auto; padding: 0 16px 10px; scrollbar-width: none; }
 .cat-bar::-webkit-scrollbar { display: none; }
-.cat-bar a { white-space: nowrap; color: #c9d4e4; font-size: 14px; padding: 4px 10px; border: 1px solid #35507e; border-radius: 999px; }
-.cat-bar a:hover { color: var(--gold-soft); border-color: var(--gold); }
+.cat-bar a { white-space: nowrap; color: #c9d4e4; font-size: 14px; padding: 4px 10px; border: 1px solid #2A5A68; border-radius: 999px; }
+.cat-bar a:hover { color: var(--cyan-soft); border-color: var(--cyan); }
 
 /* البطل */
 .hero {
-  background: linear-gradient(rgba(11, 30, 58, 0.88), rgba(11, 30, 58, 0.82)),
-    url("cover.jpg") center/cover no-repeat;
+  background: linear-gradient(rgba(11, 43, 51, 0.88), rgba(11, 43, 51, 0.82)),
+    url("techpulse-cover.jpg") center/cover no-repeat;
   color: #fff; text-align: center; padding: 56px 16px 48px;
 }
-.hero h1 { font-size: 44px; margin: 0 0 8px; font-weight: 800; color: var(--gold-soft); }
+.hero h1 { font-size: 44px; margin: 0 0 8px; font-weight: 800; color: var(--cyan-soft); }
 .hero-tag { font-size: 19px; margin: 0 auto 20px; max-width: 640px; color: #e8eef7; }
 .search-box { max-width: 560px; margin: 0 auto; }
 .search-box input {
   width: 100%; padding: 14px 18px; font-size: 17px; font-family: inherit;
-  border: 2px solid var(--gold); border-radius: 999px; background: #fff; color: var(--ink);
+  border: 2px solid var(--cyan); border-radius: 999px; background: #fff; color: var(--ink);
 }
-.search-box input:focus { outline: none; box-shadow: 0 0 0 4px rgba(212, 160, 23, 0.35); }
+.search-box input:focus { outline: none; box-shadow: 0 0 0 4px rgba(0, 212, 255, 0.35); }
 .hero-stats { margin-top: 16px; color: #b9c6d8; font-size: 14px; }
 
 /* الأقسام والبطاقات */
-.section-title { font-size: 26px; font-weight: 800; color: var(--navy); margin: 36px 0 16px; border-inline-start: 5px solid var(--gold); padding-inline-start: 12px; }
+.section-title { font-size: 26px; font-weight: 800; color: var(--teal); margin: 36px 0 16px; border-inline-start: 5px solid var(--cyan); padding-inline-start: 12px; }
 .grid { display: grid; grid-template-columns: 1fr; gap: 20px; }
 .card { background: var(--card); border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; display: flex; flex-direction: column; }
-.card-img-link img { width: 100%; aspect-ratio: 16/9; object-fit: cover; background: var(--navy); }
+.card-img-link img { width: 100%; aspect-ratio: 16/9; object-fit: cover; background: var(--teal); }
 .card-body { padding: 16px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
-.badge { display: inline-block; background: var(--navy); color: #fff; font-size: 13px; padding: 3px 10px; border-radius: 999px; width: fit-content; }
-.badge:hover { color: var(--gold-soft); }
+.badge { display: inline-block; background: var(--teal); color: #fff; font-size: 13px; padding: 3px 10px; border-radius: 999px; width: fit-content; }
+.badge:hover { color: var(--cyan-soft); }
 .card h3 { margin: 0; font-size: 19px; line-height: 1.6; }
 .card h3 a { color: var(--ink); }
-.card h3 a:hover { color: var(--navy); }
+.card h3 a:hover { color: var(--teal); }
 .excerpt { margin: 0; color: var(--muted); font-size: 15px; }
 .card-meta { margin-top: auto; font-size: 13px; color: var(--muted); }
 .card-hidden { display: none; }
 .chips { display: flex; flex-wrap: wrap; gap: 8px; }
 .chip { background: #fff; border: 1px solid var(--border); border-radius: 999px; padding: 6px 14px; font-size: 14px; }
-.chip:hover { border-color: var(--gold); }
+.chip:hover { border-color: var(--cyan); }
 .load-more-wrap { text-align: center; margin: 28px 0 40px; }
-.btn { display: inline-block; background: var(--navy); color: #fff; padding: 10px 22px; border-radius: 999px; border: none; font-family: inherit; font-size: 16px; cursor: pointer; }
-.btn:hover { color: #fff; background: var(--navy-2); }
-.btn-gold { background: var(--gold); color: #1a1206; font-weight: 700; }
-.btn-gold:hover { background: var(--gold-soft); color: #1a1206; }
+.btn { display: inline-block; background: var(--teal); color: #fff; padding: 10px 22px; border-radius: 999px; border: none; font-family: inherit; font-size: 16px; cursor: pointer; }
+.btn:hover { color: #fff; background: var(--teal-2); }
+.btn-cyan { background: var(--cyan); color: #1a1206; font-weight: 700; }
+.btn-cyan:hover { background: var(--cyan-soft); color: #1a1206; }
 .btn-fb { background: #1877f2; }
 .btn-fb:hover { background: #0d65d9; color: #fff; }
 
 /* لوحة الإعلانات */
 .ann-board { display: grid; gap: 20px; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); margin: 24px 0; }
-.ann-card img { width: 100%; aspect-ratio: 16/9; object-fit: cover; background: var(--navy); }
+.ann-card img { width: 100%; aspect-ratio: 16/9; object-fit: cover; background: var(--teal); }
 .ann-empty { color: var(--muted); }
 
 /* تنبيه تحديث التطبيق (يظهر داخل التطبيق فقط عند وجود إصدار أحدث) */
-.update-banner { position: sticky; top: 0; z-index: 200; background: var(--navy); color: #fff; display: flex; align-items: center; justify-content: center; gap: 12px; flex-wrap: wrap; padding: 10px 16px; font-size: 15px; }
+.update-banner { position: sticky; top: 0; z-index: 200; background: var(--teal); color: #fff; display: flex; align-items: center; justify-content: center; gap: 12px; flex-wrap: wrap; padding: 10px 16px; font-size: 15px; }
 .update-banner .btn { padding: 6px 16px; font-size: 14px; }
 .update-close { background: transparent; border: none; color: #fff; font-size: 18px; cursor: pointer; line-height: 1; padding: 4px 8px; }
 .search-hint { color: var(--muted); }
@@ -166,8 +166,8 @@ a:hover { color: var(--gold); }
 /* صفحة المقال */
 .article-page { padding: 24px 16px 40px; }
 .breadcrumb { font-size: 14px; color: var(--muted); margin: 8px 0 16px; }
-.breadcrumb a { color: var(--navy); }
-.article-page h1 { font-size: 30px; line-height: 1.6; color: var(--navy); margin: 12px 0 8px; }
+.breadcrumb a { color: var(--teal); }
+.article-page h1 { font-size: 30px; line-height: 1.6; color: var(--teal); margin: 12px 0 8px; }
 .article-meta { color: var(--muted); font-size: 14px; margin: 0 0 20px; }
 .article-page figure { margin: 0 0 24px; }
 .article-page figure img { width: 100%; border-radius: var(--radius); }
@@ -177,26 +177,26 @@ a:hover { color: var(--gold); }
 .share span { font-weight: 700; }
 .prev-next { display: flex; flex-direction: column; gap: 10px; margin-top: 28px; }
 .prev-next a { background: #fff; border: 1px solid var(--border); border-radius: var(--radius); padding: 14px 16px; }
-.prev-next a:hover { border-color: var(--gold); }
+.prev-next a:hover { border-color: var(--cyan); }
 
 /* صفحات ثابتة */
 .static-page { padding: 24px 16px 48px; background: #fff; border-radius: var(--radius); margin: 24px auto; }
-.page-title { font-size: 30px; color: var(--navy); margin: 8px 0; }
+.page-title { font-size: 30px; color: var(--teal); margin: 8px 0; }
 .page-desc { color: var(--muted); font-size: 18px; }
 .cover-img { border-radius: var(--radius); margin: 16px 0; }
-.static-page h2 { color: var(--navy); margin-top: 28px; }
+.static-page h2 { color: var(--teal); margin-top: 28px; }
 .contact-cards { display: grid; grid-template-columns: 1fr; gap: 16px; margin: 24px 0; }
 .contact-card { border: 1px solid var(--border); border-radius: var(--radius); padding: 20px; background: var(--bg); }
 .muted { color: var(--muted); }
 
 /* التذييل */
-.site-footer { background: var(--navy); color: #dbe4f0; margin-top: 40px; }
+.site-footer { background: var(--teal); color: #dbe4f0; margin-top: 40px; }
 .footer-grid { display: grid; grid-template-columns: 1fr; gap: 24px; padding: 36px 16px; }
-.site-footer h3 { color: var(--gold-soft); margin-top: 0; }
+.site-footer h3 { color: var(--cyan-soft); margin-top: 0; }
 .footer-links { list-style: none; padding: 0; margin: 0; }
 .footer-links a { color: #dbe4f0; }
-.footer-links a:hover { color: var(--gold-soft); }
-.copyright { text-align: center; border-top: 1px solid #1d3a63; padding: 14px; font-size: 14px; color: #9fb0c6; }
+.footer-links a:hover { color: var(--cyan-soft); }
+.copyright { text-align: center; border-top: 1px solid #1E4A56; padding: 14px; font-size: 14px; color: #9fb0c6; }
 
 @media (min-width: 640px) {
   .grid { grid-template-columns: 1fr 1fr; }
@@ -219,7 +219,7 @@ a:hover { color: var(--gold); }
 }
 
 /* قسم تحميل التطبيق (الصفحة الرئيسية) */
-.app-download { background: var(--navy); color: #fff; text-align: center; padding: 28px 16px; margin-top: 24px; border-radius: var(--radius); }
-.app-download h2 { color: var(--gold-soft); margin: 0 0 8px; font-size: 24px; }
+.app-download { background: var(--teal); color: #fff; text-align: center; padding: 28px 16px; margin-top: 24px; border-radius: var(--radius); }
+.app-download h2 { color: var(--cyan-soft); margin: 0 0 8px; font-size: 24px; }
 .app-download p { margin: 0 auto 14px; max-width: 560px; color: #e8eef7; }
 .app-download .app-iphone-note { font-size: 14px; color: #b9c6d8; margin-bottom: 0; }
