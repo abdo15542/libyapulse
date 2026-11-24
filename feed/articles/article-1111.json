@@ -1,0 +1,24 @@
+{
+ "id": 1111,
+ "slug": "article-1111",
+ "title": "☕ 'Java4Shell' Flaw: AI Uncovers a Ten-Year-Old Bug at the Heart of Java!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r286-w286-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "☕ 'Java4Shell' Flaw: AI Uncovers a Ten-Year-Old Bug at the Heart of Java!",
+  "A security startup revealed that AI helped it discover a previously unknown critical flaw in Java, the language behind most of the world's banking, government, and telecom systems, after the bug had stayed hidden for more than ten years.",
+  "The company found the flaw, which it named \"Java4Shell,\" in the functions Java uses to manage computer memory — specifically the part designed to prevent exactly this kind of problem. It lets an attacker run commands remotely inside the system's memory, one of the most dangerous kinds of flaws, because tampering with memory is among the best-known ways to hack or disable systems.",
+  "Strikingly, the model used to exploit the flaw in testing was \"GPT-6 Cyber,\" an OpenAI model not yet available to the public — a sign that AI tools themselves have become able to find flaws and exploit them together.",
+  "Oracle, the owner of Java, issued an urgent security update it said fixes the flaw among other fixes, though it is still unclear whether anyone exploited it before the patch. Researchers warned it could threaten financial systems and customer data, as nearly every bank in Australia relies on Java to manage its transaction records.",
+  "This is the company's second discovery of its kind in two months, after a similar flaw in PHP in October left about 30 million websites exposed — a pattern experts say reflects AI's growing ability to find flaws that were far too hidden for human researchers.",
+  "Simply put: AI found a flaw in the language that protects your money… and the company fixed it before we knew whether anyone had exploited it… Do you trust that banks' systems are updated against this flaw?",
+  "When was the last time you updated your software and systems to close security holes?"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "id": 396,
+ "slug": "article-396",
+ "title": "🏠 Apple's 'Home View' May Talk to 'ChatGPT' and 'Claude' — a Discovery in a Beta Version!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r125-w125-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🏠 Apple's 'Home View' May Talk to 'ChatGPT' and 'Claude' — a Discovery in a Beta Version!",
+  "An examination of the code in the beta version of \"iOS 27.3\" revealed that \"Apple\" is preparing its smart home device \"Home View\" to support external chatbots like \"ChatGPT\" and \"Claude\", not just the \"Siri\" assistant. The researcher found a new marker for a \"chat apps\" category inside the device's software, with preparations for routing voice in both directions, managing sessions, and interrupting speech — capabilities essential for natural voice conversation — though the researcher himself stresses the feature is \"still not fully wired up\".",
+  "The device costs $299, carries a seven-inch screen, recognizes the faces of six users, displays message content and video calls, controls smart-home devices, and shows live feeds from nine cameras. If third-party chatbots reach it, each home will choose its favorite assistant, while \"Siri\" remains responsible for Apple services and device control.",
+  "The beta also carries new protection against impersonation: after three failed verification attempts, authentication via iPhone is required to access personal data, with a gradual lockout system under development — one hour after the second attempt, four hours after the third, and eight hours after the fourth. \"Apple\" has not officially confirmed any of these features yet.",
+  "Simply put: Apple's smart home device may not settle for its own assistant, but open its door to its competitors too — but the evidence is still code in a beta version, not an official announcement.",
+  "Would you rather your home device talk to one assistant, or choose your favorite assistant yourself?"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "id": 278,
+ "slug": "article-278",
+ "title": "💻 'FastUnlock' flaw opens the lock on Windows 11 without a password!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r109-w109-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "💻 'FastUnlock' flaw opens the lock on Windows 11 without a password!",
+  "A security researcher has revealed a new flaw in Windows 11 called 'FastUnlock' that lets someone sitting at a locked computer run programs without signing in, even on devices protected with full encryption, and there is no fix for it yet.",
+  "The flaw starts from the lock screen itself: the attacker clicks the 'I forgot my PIN' link to open the account recovery screen, then turns on the 'Narrator' screen reader with a key combination, focusing on a hidden window that does not appear on the screen, and navigates with the keyboard until the settings open, then reaches File Explorer through 'AutoPlay' and runs a program from a USB stick. The program runs with the privileges of a limited account specific to the lock screen, enough to run code and access files. An independent security firm reproduced the flaw and confirmed it, and the researcher says it works consistently on every device he tried, including fully updated Windows 11 machines. The flaw requires physical access to the device and an account linked to a Microsoft account, and Microsoft has issued no fix, flaw number, or comment yet. For temporary protection, users are advised to enable a pre-boot encryption PIN and disable autoplay for removable media.",
+  "Simply put: imagine your house door locked tight, but a small window beside it left open; that is how the attacker slips in through an assistive tool originally designed to serve blind users.",
+  "Do you use a pre-boot PIN to encrypt your device, or do you rely on the screen lock alone?"
+ ]
+}

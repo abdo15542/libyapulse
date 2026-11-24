@@ -1,0 +1,21 @@
+{
+ "id": 778,
+ "slug": "article-778",
+ "title": "🤖 Waddle-1 Beats AI Giants at Running Real Robots... with 81.4%!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r202-w202-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Robotics"
+ ],
+ "body": [
+  "🤖 Waddle-1 Beats AI Giants at Running Real Robots... with 81.4%!",
+  "A new AI system called Waddle-1, from a small startup with only two people, achieved a striking result in an independent test measuring AI's ability to operate real robots, succeeding in 81.4% of tasks, beating the world's strongest models by a large margin. GPT-6.2 Astra scored 65.7%, Dream-1 scored 59.5%, and Fable 5.2 scored 57.5%, in the same test run by an independent evaluation body on real robots, not in a computer simulation.",
+  "Waddle-1 relies on an idea different from usual models: it is not a single model, but a system of large language models that see what the robot's cameras see, then write a control program specific to each task, try it, and fix its errors on their own until it succeeds. The system was tested on two-armed tasks it had never seen before, such as folding a shirt or fitting a small connector, completing each attempt in about 7.4 minutes at a cost of $2.46, while the system has a 10-minute limit per task with no limit on the number of model calls.",
+  "The test shows that general models that write programs for robots may outperform models specialized in robots themselves, because they benefit from their ability to think, plan, and solve problems step by step. The startup has opened early access to an API to test its system, at a time when major labs are racing to build general robots suitable for homes and factories within the next two years.",
+  "Simply put: a company of just two people built a system that teaches robots themselves, beating the AI giants; do you expect robots to enter our homes soon?"
+ ]
+}

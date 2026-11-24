@@ -1,0 +1,22 @@
+{
+ "id": 850,
+ "slug": "article-850",
+ "title": "🏛️ America closes the \"remote rental loophole\": no access for China to AI chips from abroad!",
+ "date": "2026-11-22",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r218-w218-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "China"
+ ],
+ "body": [
+  "🏛️ America closes the \"remote rental loophole\": no access for China to AI chips from abroad!",
+  "The US Department of Commerce announced on 16 November a new rule that took effect on 19 November, closing a loophole that let Chinese companies access the most powerful American AI chips remotely through data centres outside China, especially in Southeast Asia.",
+  "Under the rule, a licence is required to move advanced chips to any data centre that provides Chinese companies, or other countries under an arms embargo, with more than 12 million units of total processing power — the equivalent of about 760 Nvidia H100 cards. A licence is also required to move chips to Indonesia, Malaysia, Singapore, Thailand, and Brazil, or within them — countries the department considers high risk for diversion. Data centres already serving these companies have 90 days, until 17 February 2027, to obtain a licence.",
+  "The rule comes after the Nvidia and Singaporean company Megaspeed scandal, in which Megaspeed built data centres in the region and arranged shipments of chips worth billions of dollars. Its effect was immediate: bankers are reconsidering financing chip purchases for Singaporean company Oolani Cloud to provide computing power for Chinese tech giant ByteDance, while China's Commerce Ministry described the rules as an abuse of export control measures.",
+  "China's local alternative is still far away: DeepSeek is training its next flagship model, V5, on Huawei's local Ascend chips, and Huawei plans to produce about 750,000 of its latest chips this year — a figure far below demand. The largest Chinese data centre also provides only about 7% of the capacity of the largest American data centre.",
+  "Simply put: America used to ban selling chips to China, so China rented them remotely from data centres in other countries; now that door is closed too; will China succeed in building its own chips before the gap widens further?"
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "id": 1065,
+ "slug": "article-1065",
+ "title": "🤖 Two US states sue SpaceX over Grok's fake images!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r276-w276-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🤖 Two US states sue SpaceX over Grok's fake images!",
+  "The attorneys general of the US states of Oregon and Virginia have filed two separate lawsuits against SpaceX, accusing its chatbot Grok of generating fake sexual images of real people without their consent, including children.",
+  "The Virginia case is filed before the court of the city of Richmond, while the Oregon case is filed before the Multnomah County court. Both lawsuits rely on consumer protection laws, accusing the company of weak safeguards in its image-generation tools and of misleading the public about what these tools can actually do.",
+  "Virginia Attorney General Jay Jones had warned the company of a possible lawsuit before a securities filing on 23 October, while Oregon Attorney General Dan Rayfield sent a formal demand letter to the company on 23 January about Grok generating sexual content without consent.",
+  "The case goes back to the period between late December 2025 and early January 2026, when users exploited Grok's image-generation features to produce fake images in huge numbers, with estimates ranging from 1.8 million to 3 million fake sexual images during that period, including about 23,000 images of children.",
+  "SpaceX is the defendant because the AI company xAI merged into it in February 2026, transferring Grok's legal responsibilities to it. The company has adjusted some features since the pressure began, including what is known as Spicy Mode, and these two lawsuits join other cases filed by cities and individuals against the same company.",
+  "Simply put: a chatbot built for talking ended up making fake images of real people — are safeguards enough after the harm has already happened?",
+  "If AI can fake your photo in seconds, do you trust that current laws protect you?"
+ ]
+}

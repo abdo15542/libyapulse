@@ -1,0 +1,24 @@
+{
+ "id": 1121,
+ "slug": "article-1121",
+ "title": "🎭 New \"Inception\" Gang Claims to Hack Seven Major Companies in a Week.. and \"ShinyHunters\" May Be Back Under a New Name!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r287-w287-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🎭 New \"Inception\" Gang Claims to Hack Seven Major Companies in a Week.. and \"ShinyHunters\" May Be Back Under a New Name!",
+  "A new extortion group called \"Inception\" appeared on a new leak site, claiming within a single week to have hacked seven major companies, including \"AMD\", \"PepsiCo\", \"Cigna Healthcare\", \"Paychex\", and \"Henry Schein\", then \"AutoZone\" and \"Lucid Motors\".",
+  "Researchers at the company \"Okta\" believe the group may be the same famous \"ShinyHunters\" gang under a new name, after three of its suspected members were arrested in September and October and its old leak site disappeared from view.",
+  "The evidence is that the new group uses exactly the same method: voice phishing — phone calls that trick employees into entering their login details on fake pages and approving two-step verification — with phishing domains whose themes change every four to six weeks, and the same infrastructure was registered six to nineteen days before the victims appeared on the new site.",
+  "None of the seven companies confirmed the breach, and none responded to press inquiries, and \"Okta\" said it cannot verify the published data, so the claims so far are just allegations on a leak site, not confirmed breaches.",
+  "Researchers say the previous group's members are still active despite the arrests, continuing to target companies with voice phishing, data theft, and extortion for huge sums, and they advise enabling phishing-resistant two-step verification.",
+  "Simply put: the famous gang may not have disappeared.. it may have just changed its name and returned to hunt major companies.. so do you trust that a phone call from \"technical support\" is real?",
+  "Do you answer calls that ask you to enter your login details or approve a verification code?"
+ ]
+}

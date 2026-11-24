@@ -1,0 +1,24 @@
+{
+ "id": 503,
+ "slug": "article-503",
+ "title": "📱 An Encrypted Messaging App Comes to Android — No Phone Number and Multiple Identities!",
+ "date": "2026-11-21",
+ "category": "apps",
+ "category_name": "Apps & Platforms",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r139-w139-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Apps"
+ ],
+ "body": [
+  "📱 An Encrypted Messaging App Comes to Android — No Phone Number and Multiple Identities!",
+  "The encrypted messaging app Germ DM arrived on Android phones on Wednesday, and its usage jumped 20-fold in a single day, after being available on iPhone only since 2023.",
+  "The app's core idea is that it does not use your phone number as the key to your identity, but gives you multiple identity 'cards': you share a different card with each person or group, and the cards cannot discover each other, so your identities for work, family, and friends stay completely separate.",
+  "The encryption relies on the Messaging Layer Security standard, an open standard aiming for the same encryption level as Signal, but usable in many apps, and the app also uses its own transport protocol to reduce metadata about your messages, such as who messages whom and when.",
+  "The app is the preferred encrypted messaging choice of the Bluesky platform, as Bluesky lets its users add a Germ messaging button to their profiles, after the platform decided to focus on developing other aspects and leave encrypted messages to a specialized app.",
+  "The app was founded by a communications researcher from Stanford University and a former Apple privacy engineer who worked on iMessage and FaceTime, and the app has not yet undergone an independent formal security audit, a step the company says it is considering.",
+  "Simply put: instead of everyone knowing your phone number to message you, you give each person a different identity card, and no one knows all the cards belong to you.",
+  "Would you replace your phone number with a digital identity card to protect your privacy?"
+ ]
+}

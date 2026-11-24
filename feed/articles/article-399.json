@@ -1,0 +1,22 @@
+{
+ "id": 399,
+ "slug": "article-399",
+ "title": "💻 The 'SignDrop' Flaw in Windows Gives Any User Full System Privileges!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r125-w125-10.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "💻 The 'SignDrop' Flaw in Windows Gives Any User Full System Privileges!",
+  "A security researcher working under the name \"Nightmare Eclipse\" revealed on November 10 a new flaw in Windows called \"SignDrop\", which lets any ordinary user on the computer obtain full \"SYSTEM\" privileges — the highest privilege level in Windows — without being an administrator. The flaw lies in the Windows log service \"CLFS\", and exploits its interaction with the \"Windows Defender\" protection program.",
+  "The flaw works through a clever trick: the attacker forces the protection program to open a specially crafted log file, using a legitimate function in \"Defender\" to update antivirus signatures, and with deceptive symbolic links makes the system create an authentication file with \"Defender\"'s own privileges. Since the new file inherits the access list of the original file, the attacker becomes the owner of a file made with system privileges, raising their privileges completely — and can even disable the protection programs themselves.",
+  "Ironically, the flaw lives inside a protection measure \"Microsoft\" itself added in October 2025 to prevent exploitation of the log service — so the protection logic itself became the back door. The flaw affects \"Windows 11\" version 26H2 and the \"Windows Server 2025\" preview, with specific conditions confirmed by an independent researcher who reproduced it, including that the system must have been installed for more than ninety days. \"Microsoft\" said it is investigating and has not observed any actual exploitation yet, and there is no official fix so far.",
+  "Simply put: the guard itself opened the door: a security measure put in place to protect you became the path by which any ordinary user can raise themselves to the highest privileges in the system.",
+  "Do you update your Windows system as soon as a fix is released, or do you wait?"
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "id": 633,
+ "slug": "article-633",
+ "title": "🎬 FFmpeg 9.1 arrives with quantum-resistant signatures!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r162-w162-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "🎬 FFmpeg 9.1 arrives with quantum-resistant signatures!",
+  "The FFmpeg project released version 9.1, codenamed \"Gauss\", on November 20, in an update that makes the world's most famous media tool more secure and faster.",
+  "The highlight of the release is that its files now carry quantum-resistant digital signatures, using the ML-DSA and SLH-DSA algorithms, under the new RFC 9980 standard.",
+  "The idea is that future quantum computers may one day break traditional signatures, so users can now verify that the file they downloaded is genuine and untampered — even in a post-quantum world.",
+  "The release adds improvements in AAC audio encoding, a new APV video encoder that works via Vulkan, and Nvidia's frame-interpolation technology, which generates intermediate frames to make motion smoother.",
+  "It also supports encoding and decoding ASTC images, splitting H.264 data, and a new graph-based data-filtering interface.",
+  "FFmpeg is a free, open-source command-line tool that powers millions of applications and services, from video conversion to live streaming and audio editing — so much so that most of the platforms you watch video on depend on it in the background.",
+  "The release comes about three months after version 9.0, in a regular update rhythm that keeps the tool in step with the latest audio and video technologies.",
+  "Simply put: the tool that converts every video you watch now signs its files with a technique that future computers cannot break.",
+  "Did you know that a single free tool sits behind most of the video on the internet?"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "id": 569,
+ "slug": "article-569",
+ "title": "🧪 936 AI agents write 936 scientific papers — and found their own journal!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r148-w148-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🧪 936 AI agents write 936 scientific papers — and found their own journal!",
+  "In an unprecedented experiment, the \"AlphaXiv\" team placed 936 AI agents in a shared research community online and left them working alone for twelve full weeks, from August 19 to November 12, 2026. The result, announced on November 19: 936 scientific papers, each attached with code and data, written by the agents themselves from hypothesis to publication.",
+  "35 human labs took part in the experiment, including \"Stanford\", \"MIT\", the \"Swiss Federal Institute\" and other universities, and these labs only provided computing, budgets and general research directions. The rest was for the agents: proposing hypotheses, writing code and running experiments, analysing data, writing papers, and discussing each other in 229 chat rooms they created themselves, exchanging 9,500 messages in them.",
+  "The agents didn't stop at writing: they reproduced each other's experiments, discovered important errors in published human research, and corrected their own errors publicly before publication. Then they founded their own journal, the \"Journal of Agent Research\", with peer review that re-runs the code and recalculates the key numbers before accepting any claim. In just five days, from November 4 to 9, they submitted 1,408 review comments on 352 versions of 263 studies.",
+  "But the picture is not entirely rosy: researchers who followed the experiment found much of the agents' work \"incremental compared with human papers\" — small improvements, not major breakthroughs. The team running the platform is also the same one that wrote the study about it, and the judges who evaluated the texts read the writing, not the code or the figures. Now \"AlphaXiv\" has opened the platform to the public, so anyone can connect their agents to it, and the full archive was published: manuscripts, code, data, reviews and conversations.",
+  "Simply put: imagine a small city of robotic scientists working alone for three months, writing, reviewing and correcting each other's errors, then founding their own journal that verifies every result by running the code. Science now has a community that works non-stop.",
+  "Do you think agents will one day replace human researchers, or does science always need a human mind to lead?"
+ ]
+}

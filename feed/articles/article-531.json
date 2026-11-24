@@ -1,0 +1,23 @@
+{
+ "id": 531,
+ "slug": "article-531",
+ "title": "🔢 Claude Cracks Gödel's Notebooks After 80 Years — 663 Theorems in Just a Few Days!",
+ "date": "2026-11-21",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r144-w144-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Science"
+ ],
+ "body": [
+  "🔢 Claude Cracks Gödel's Notebooks After 80 Years — 663 Theorems in Just a Few Days!",
+  "Finnish logician Jan von Plato, from the University of Helsinki, used the AI model Claude to understand 16 notebooks of the famous mathematician Kurt Gödel, written in the early 1940s and containing 1,009 pages of mathematics and logic — much of it in an old German shorthand no longer in use. Von Plato had been working on these notebooks since 2017, at a rate of about one page per week, and he is one of only six people in the world who can read that script.",
+  "Last September, after a conference in France on AI and theorem proving, von Plato gave the model his transcribed copies of the notebooks, along with six of his books on Gödel and other references. Within a few days, Claude produced an explanation of about 650 pages covering all the material, which von Plato reviewed page by page, then asked it to extract every theorem for which Gödel had written a proof, a draft proof, or a proof idea — and it found 663 theorems.",
+  "These theorems were then checked with the Coq program, which automatically verifies the correctness of mathematical proofs, and it turned out that about 400 theorems are correct as written, about 200 need fixing by clarifying the wording or adding a condition, and about 50 are wrong. The most notable find was a near-complete proof of the independence of the axiom of choice — a problem Gödel said in 1966 that he had solved but never published its proof, while Paul Cohen won a Fields Medal in the same year for solving it. Von Plato believes Gödel would have won the medal in 1940 had he published his work.",
+  "But caution is warranted: there is no research paper or published data yet, no independent logicians have reviewed the reconstruction, and even the model version used is unknown. The notebooks also contain dozens of results that were not known until the 1970s and 1980s, and 14 topics in logic that no one has followed up on for more than eighty years.",
+  "Simply put: imagine a researcher reading a thousand pages in an old script no one else can read, one page a week, and then an assistant arrives who reads them all in days and connects their parts together — that is what Claude did with Gödel's notebooks, but the final verification still rests with humans.",
+  "Do you think AI will become a core partner in scientific research, or just a helping tool?"
+ ]
+}

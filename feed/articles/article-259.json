@@ -1,0 +1,22 @@
+{
+ "id": 259,
+ "slug": "article-259",
+ "title": "🔒 Signal blocks screenshots so AI assistants cannot read your chats!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r107-w107-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Privacy"
+ ],
+ "body": [
+  "🔒 Signal blocks screenshots so AI assistants cannot read your chats!",
+  "Encrypted messaging app 'Signal' has announced it will block taking screenshots inside the app on iPhone and Android phones, so that AI assistants built into operating systems cannot read your private conversations.",
+  "On iPhones, a new setting called 'Block Siri Intelligence' will work automatically, and on Android, screen protection will activate automatically when an AI assistant is detected trying to read the screen. Users can re-enable screenshots from the settings, but the company warns that doing so may expose their messages and their contacts' messages to AI assistants.",
+  "Company president Meredith Whittaker described AI assistants that analyze what appears on the screen as an 'existential threat' to the app's privacy, and called on Apple, Google, and Microsoft to give developers a clear way to stop AI agents from accessing their apps' data. The company admitted the solution is incomplete, because assistants may reach the data through other routes such as device files, and it cannot reliably block screenshots on Mac devices.",
+  "Simply put: encryption protects your message while it travels, but it becomes readable the moment it appears on your screen; and Signal is trying to close this last window before AI's eyes.",
+  "Would you prefer an AI assistant to read your screen to help you, or keep your chats fully closed?"
+ ]
+}

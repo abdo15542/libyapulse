@@ -1,0 +1,22 @@
+{
+ "id": 364,
+ "slug": "article-364",
+ "title": "🗄️ 'MongoDB' Acquires 'Firebolt' to Bring Transactions and Analytics Together on One Platform!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r122-w122-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "🗄️ 'MongoDB' Acquires 'Firebolt' to Bring Transactions and Analytics Together on One Platform!",
+  "\"MongoDB\" has announced its acquisition of \"Firebolt\", a company specializing in analytical databases, in a new attempt to bring daily transaction operations and real-time analytics together on one platform, without customers having to move their data between different systems. The deal's value was not disclosed.",
+  "\"Firebolt\" was founded in Israel in 2019 and built a cloud data warehouse designed for fast, concurrent queries, raising $100 million in a 2022 funding round at a $1.4 billion valuation. \"MongoDB\" will integrate the \"Firebolt\" engine into its intelligent data platform, so it works directly alongside the database and stays automatically in sync with it, without customer-managed pipelines.",
+  "The company said customers will get these capabilities in the coming months, while current \"Firebolt\" customers keep their service and support as they are. \"MongoDB\" says AI agents need fresh operational data and fast analytical answers, and bringing both together in one place saves time and systems.",
+  "Simply put: imagine your store recording sales and analyzing them at the same moment, without copying data anywhere else — that's what \"MongoDB\" wants to offer its customers.",
+  "Do you prefer one platform that brings everything together or specialized systems for each task?"
+ ]
+}

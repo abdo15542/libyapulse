@@ -1,0 +1,21 @@
+{
+ "id": 249,
+ "slug": "article-249",
+ "title": "🤖 AI agents exploit vulnerabilities alone, with no human intervention!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r106-w106-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🤖 AI agents exploit vulnerabilities alone, with no human intervention!",
+  "A new quarterly report from Google's Threat Intelligence Group revealed a dangerous shift in the world of cyberattacks: attackers using independent multi-agent AI systems that find software vulnerabilities, exploit them, and carry out the full attack with almost no human intervention. Researchers spotted an exposed server running a framework they called the 'Exploit Agent', connected to major cloud-based and local language models, continuously comparing the code of popular web apps before and after security updates, so that when it finds a potential vulnerability it writes an exploit and executes it automatically.",
+  "The report said this is the first time attackers have been observed using a language framework to automate both vulnerability discovery and exploitation together without a human in the loop. Researchers also found stolen victim data on the server, plus scripts for internal reconnaissance, password guessing, and planting backdoors, and the operator focused on French sites in the media, entertainment, and education sectors. The report also pointed to misuse of open-source penetration-testing frameworks such as 'Artix', 'Kern', and 'PentAGI', with 'Kern' spotted in attacks on the U.S. aerospace sector, while a platform built on 'PentAGI' was used to survey Asian institutions between late August and early October. The report concluded that AI compresses the time between a security patch being issued and its conversion into a weapon, and Google disabled the accounts and assets linked to these activities.",
+  "Simply put: in the past, a hacker needed an expert to find the flaw and then write the attack by hand; now a smart program does both on its own, as soon as the patch that reveals where the bug is gets released.",
+  "Should systems be updated the moment security patches are released, with no delay?"
+ ]
+}

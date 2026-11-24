@@ -1,0 +1,23 @@
+{
+ "id": 1002,
+ "slug": "article-1002",
+ "title": "🔍 An unerasable browser fingerprint: a bank's site knows you even after you clear cookies and change your address!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r259-w259-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Privacy"
+ ],
+ "body": [
+  "🔍 An unerasable browser fingerprint: a bank's site knows you even after you clear cookies and change your address!",
+  "A security researcher revealed that a bank's website runs two scripts that collect a precise fingerprint of the visitor's device, giving it a fixed identifier that stays the same even after clearing cookies, changing the internet address and restarting the browser.",
+  "The researcher took the two scripts apart and found they send 312 signals to the bank's server, including the real internet address extracted by a technical trick even behind virtual private networks, the battery level and charging state, the available storage space — 82 GB on his computer — the text-to-speech voices installed on the system, three drawings made on a digital canvas and turned into fingerprints, timezone changes, and whether the bank's apps are installed on the phone.",
+  "The data is encrypted before sending with strong encryption: it is compressed, then encrypted with a random key, and the key itself is encrypted with a public key written inside the script — but the researcher managed to uncover the key by watching the encryption function in the browser before the script loaded.",
+  "The process does not slow the page down, because collection happens in small batches during the browser's idle times, and the system also checks 12 markers to detect fake browsers, such as a strange number of processor cores, a browser language that does not match the page's language, or missing graphics-card constants — and it caught an experimental headless browser with a score of 50 out of 100 on the detection scale.",
+  "Simply put: clearing cookies is no longer enough to hide your identity... your device's fingerprint may know you from the first visit; do you think websites know more about your device than you imagine?",
+  "Will you change your browsing habits now that you know a browser fingerprint can't be erased by clearing cookies?"
+ ]
+}

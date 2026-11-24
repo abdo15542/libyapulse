@@ -1,0 +1,21 @@
+{
+ "id": 738,
+ "slug": "article-738",
+ "title": "🛰️ The First Data Center in Space: An Indian Company Launches a Satellite Carrying AI Above Earth!",
+ "date": "2026-11-22",
+ "category": "space",
+ "category_name": "Space",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r193-w193-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Space"
+ ],
+ "body": [
+  "🛰️ The First Data Center in Space: An Indian Company Launches a Satellite Carrying AI Above Earth!",
+  "Indian startup TakeMeToSpace is preparing to launch the first orbital data center, a satellite called MOI-1A that will be carried into space aboard a SpaceX rocket, in a step that could change how data is processed from space.",
+  "The satellite carries Nvidia processing chips designed for edge computing, allowing commercial customers to upload AI models to the satellite and process data directly in orbit, instead of first sending huge amounts of raw data down to Earth.",
+  "The idea is simple and clever: satellites capture huge amounts of images and data every day, and sending all of it to Earth is expensive and slow, but if AI processes it in space itself, only the summary and results reach Earth, so both cost and time fall together.",
+  "Simply put: instead of data coming down from the sky to be analyzed on Earth, AI will go up to it and analyze it there; so do you think space data centers will soon become an ordinary thing, or will they remain a rare and expensive experiment?"
+ ]
+}

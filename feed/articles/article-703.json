@@ -1,0 +1,21 @@
+{
+ "id": 703,
+ "slug": "article-703",
+ "title": "🐧 Debian finally enters the world of gaming — a new team tests the system on handheld devices!",
+ "date": "2026-11-22",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r185-w185-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Linux"
+ ],
+ "body": [
+  "🐧 Debian finally enters the world of gaming — a new team tests the system on handheld devices!",
+  "A Debian developer has formed a new team called the \"Debian Gaming Hardware Team\", tasked with testing the system on handheld gaming devices, emulators and home gaming consoles, documenting what works and what does not, then exploring whether the problems that appear can be fixed. The announcement came in a message to the Debian developers' mailing list, after the developer noticed that the system is almost never mentioned as a gaming choice, despite the spread of gaming on Linux.",
+  "The test devices include handhelds such as the Steam Deck and ROG Ally, emulators from companies such as Retroid, Anbernic and Ayn, plus the home Steam Machine. The work is not limited to just running games — it extends to testing 3D graphics, control buttons, touch, sound, wireless connectivity, sleep and wake, and power management.",
+  "The problem is that Debian is a stable system that releases a major update about every two years, so it does not immediately support the newest processors and graphics cards in new devices, while gaming distributions based on Arch and Fedora update much faster. The team hopes its work will lead to Debian updating faster for new hardware, and perhaps to a ready-made version for device makers and hobbyists, with extra software pre-installed.",
+  "Simply put: a system famous for stability and serious work wants to become a gaming choice too. Will Debian succeed in competing with gaming distributions, or will its natural place remain in servers and serious work?"
+ ]
+}

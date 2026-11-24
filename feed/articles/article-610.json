@@ -1,0 +1,24 @@
+{
+ "id": 610,
+ "slug": "article-610",
+ "title": "🧠 MediaTek reveals the \"Dimensity 9600 Pro\" with 2-nanometre architecture!",
+ "date": "2026-11-21",
+ "category": "phones",
+ "category_name": "Phones & Devices",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r158-w158-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Phones"
+ ],
+ "body": [
+  "🧠 MediaTek reveals the \"Dimensity 9600 Pro\" with 2-nanometre architecture!",
+  "MediaTek revealed on Friday, November 20, its new chip \"Dimensity 9600 Pro\" for smartphones — an eight-core chip built on 2-nanometre architecture.",
+  "The chip uses a new design called \"AI Compute Fusion\" that distributes the eight cores across three groups: two main cores, three for performance, and three for efficiency, with a new cache memory structure.",
+  "The chip supports the latest LPDDR6 memory and the faster UFS 5 storage, plus a new neural processing unit numbered 1090 with cores dedicated to performance and flexibility.",
+  "Graphics are handled by the \"Mali-G2 Ultra NX\" unit with 10 MB of system memory, while the AI imaging architecture handles scene analysis, true colours and fast focus.",
+  "\"2-nanometre\" architecture means the transistors inside the chip are smaller than ever, so more of them fit in the same space, increasing performance and reducing power consumption.",
+  "Simply put: imagine your phone's engine becoming smaller and stronger at the same time. A new chip means faster phones and a battery that lasts longer.",
+  "Does the type of chip inside your phone matter to you when buying, or are the name and price enough?"
+ ]
+}

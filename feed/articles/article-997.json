@@ -1,0 +1,23 @@
+{
+ "id": 997,
+ "slug": "article-997",
+ "title": "📧 N-able brings in an independent investigation team after the Mail Assure incident... and the flaw now has an official number!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r257-w257-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "📧 N-able brings in an independent investigation team after the Mail Assure incident... and the flaw now has an official number!",
+  "N-able announced in an update published on November 22 that it had fixed the flaw behind the security incident that hit its Mail Assure and SpamExperts email filtering services, and restored access to the control panel and APIs on November 21.",
+  "The company said incoming and outgoing mail flow and spam filtering kept working throughout the incident, and that it found no evidence of the exploitation spreading beyond a single server it hosts itself.",
+  "The company also announced it had brought in an independent team specialized in digital forensics and incident response to test its findings and help determine the root cause, and that it will publish a detailed report on the cause within the next two weeks.",
+  "The flaw was given an official card in the public vulnerability database, carrying the number CVE-2026-134624, so everyone can track it and make sure their systems are updated.",
+  "Simply put: a secure email company was breached, so it fixed the flaw and called in independent investigators to verify... do all companies do the same when they are breached?",
+  "Do you trust a security company that was breached and then disclosed it transparently?"
+ ]
+}

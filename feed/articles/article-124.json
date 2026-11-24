@@ -1,0 +1,21 @@
+{
+ "id": 124,
+ "slug": "article-124",
+ "title": "🛒 A Supply-Chain Attack Reaches Global Websites!",
+ "date": "2026-11-19",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r10-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛒 A Supply-Chain Attack Reaches Global Websites!",
+  "Optimizely confirmed that attackers exploited a flaw in its platform to inject malicious code into the websites of 178 organizations, including news sites and major companies.",
+  "The malicious code replaced crypto wallet addresses and stole card details from visitors, without hacking those websites’ servers themselves.",
+  "Simply put, trust in a reliable third party was the vulnerability — the websites loaded the code from a provider they depend on.",
+  "Do you know how many third parties run on the websites you visit? And does that worry you?"
+ ]
+}

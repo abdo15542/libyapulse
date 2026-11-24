@@ -1,0 +1,21 @@
+{
+ "id": 30,
+ "slug": "article-030",
+ "title": "Google's New Model Writes the Code for You! 💻",
+ "date": "2026-11-19",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r05-a03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Google"
+ ],
+ "body": [
+  "Google's New Model Writes the Code for You! 💻",
+  "On November 18, Google announced a new model called Gemini 4 Neon, the fourth in the Gemini 4 family in just weeks. The model is aimed at coding and long tasks: it writes code, reviews errors, and works as an agent that carries out multi-step tasks on your behalf.",
+  "Context window is the amount of text a model can remember in one go — here it reaches one million tokens, roughly hundreds of pages. And the price for developers is $3 per million input tokens and $15 per million output tokens.",
+  "Google says it topped the coding-agent benchmark at 58.6%, but those figures come from Google's own announcement and have not yet been independently verified.",
+  "Would you let an AI assistant write the code instead of you? 🤖"
+ ]
+}

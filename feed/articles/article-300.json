@@ -1,0 +1,21 @@
+{
+ "id": 300,
+ "slug": "article-300",
+ "title": "🤖 'Go' assistant becomes a smart secretary that watches your email and calendar!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r112-w112-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🤖 'Go' assistant becomes a smart secretary that watches your email and calendar!",
+  "Superhuman, formerly known as Grammarly, has expanded its AI assistant 'Go' to work across all its products, turning it from a tool that answers questions into a proactive assistant that follows your work and suggests the next steps before you ask.",
+  "'Go' learns the context of your work from your different apps and suggests tailored commands, works inside the writing line as Grammarly once did, and also manages other AI agents. It now watches your calendar and email and drafts replies in your writing style, and after any meeting it can draft an initial proposal. The company added 20 new connected agents through the 'Go' developer kit, including DeepL, Legora, Amplitude, Databricks, and Blackboard, and made agents work natively inside 'Docs' and run tasks in the background, while 'Go' replaces the previous AI tool in email and organizes the inbox across Google and Outlook accounts. It also added live collaborative meeting notes after acquiring the 'Fathom' app last September. CEO Shishir Mehrotra said 'Go' has passed one million active users.",
+  "Simply put: imagine an assistant that knows your writing style and reads your calendar and email, preparing replies and drafts before you ask; you only decide what gets sent and what gets deleted.",
+  "Would you let a smart assistant read your email and draft your replies?"
+ ]
+}

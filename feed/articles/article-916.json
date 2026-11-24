@@ -1,0 +1,24 @@
+{
+ "id": 916,
+ "slug": "article-916",
+ "title": "🪙 6 Million Bitcoins at Risk! Quantum Computers Threaten the Currency... and Developers Are Divided!",
+ "date": "2026-11-23",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r239-w239-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Crypto"
+ ],
+ "body": [
+  "🪙 6 Million Bitcoins at Risk! Quantum Computers Threaten the Currency... and Developers Are Divided!",
+  "New data reveals that more than 6 million bitcoins — about 31% of the coins in circulation — are held behind public keys exposed on the network, which could one day make them vulnerable to theft if quantum computers become powerful enough to break current encryption.",
+  "The coins are safe today, as no quantum computer is capable of that yet, but the problem is that moving millions of coins to quantum-resistant protection would take years, and dormant coins whose owners never move them could remain exposed forever.",
+  "Developers are divided on the solution: developer Jameson Lopp and five colleagues proposed in April a proposal called \"BIP 361\" that gradually phases out weak signing methods and could eventually freeze coins that have not moved to safe addresses, arguing that freezing them is better than letting them be stolen.",
+  "By contrast, Blockstream CEO Adam Back favors voluntary upgrading, and warns against imposing a migration deadline that could block legitimate owners from accessing their money.",
+  "Neither position has been adopted yet: the proposal is still a draft, and the \"BIP 360\" proposal, which creates a new type of quantum-resistant address, is also still a draft, while other networks such as Near and Algorand have already started adding quantum protection.",
+  "Simply put: a third of all Bitcoin is exposed to the computer of the future... should it be frozen, or left to its owners?",
+  "Do you own Bitcoin or other cryptocurrencies?"
+ ]
+}

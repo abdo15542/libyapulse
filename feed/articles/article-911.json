@@ -1,0 +1,24 @@
+{
+ "id": 911,
+ "slug": "article-911",
+ "title": "🧠 OpenAI Delays Its Open-Source Model Indefinitely!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r237-w237-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🧠 OpenAI Delays Its Open-Source Model Indefinitely!",
+  "OpenAI has announced it is delaying the launch of its open-source AI model indefinitely, after its CEO Sam Altman said on Saturday that the company needs more time for safety testing.",
+  "This is the second delay for the same model, after the company postponed its launch last June, which means developers who waited to try it will keep waiting with no new date.",
+  "An open-source model is an AI model that developers can download, run on their own devices, and modify, unlike closed models that only work through the company's cloud services, which is why developers and researchers follow it with great interest.",
+  "The company says safety testing is necessary to make sure the model cannot be exploited for harmful purposes before it is made available to everyone, a step that takes longer the stronger and more capable of reasoning the model is.",
+  "The company has not set an alternative launch date, and has not revealed further details about the model, leaving the question open: will the model appear soon, or will the wait be longer?",
+  "Simply put: a free model for everyone has been delayed again because of safety testing — would you rather wait for a safe model, or a fast launch?",
+  "Do you use open-source AI models in your work?"
+ ]
+}

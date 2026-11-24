@@ -1,0 +1,19 @@
+{
+ "id": 6,
+ "slug": "article-006",
+ "title": "Voyager 1 Now a Full Light-Day Away from Earth",
+ "date": "2026-11-18",
+ "category": "space",
+ "category_name": "Space",
+ "image": "https://abdo15542.github.io/techpulse/assets/techpulse-logo.png",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Space"
+ ],
+ "body": [
+  "The Voyager 1 probe has reached a distance of a full light-day from Earth, meaning its signals now take 24 hours to reach us — and 48 hours for a round trip.",
+  "Simply put: a light-day is the distance light travels in a full day; Voyager 1 launched in 1977 and is still sending us signals from the farthest point any human-made object has ever reached.",
+  "Can you imagine a message from a spacecraft taking a whole day to arrive?"
+ ]
+}

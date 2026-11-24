@@ -1,0 +1,22 @@
+{
+ "id": 667,
+ "slug": "article-667",
+ "title": "☁️ Microsoft launches \"Azure Catalyst\" for free — a new escape route from VMware!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r175-w175-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CloudComputing"
+ ],
+ "body": [
+  "☁️ Microsoft launches \"Azure Catalyst\" for free — a new escape route from VMware!",
+  "Microsoft officially launched its new service \"Azure Catalyst\" for everyone this week at the Ignite conference. The service combines Azure and GitHub to help companies modernise their old applications and move them to the cloud, with the help of AI.",
+  "The service's first target is clear: VMware customers looking for an alternative since Broadcom acquired the company in 2022, followed by price rises and forced bundles. Jeremy Winter, who leads Azure, says VMware customers are a definite target for the service, but it is not limited to them — it also helps move traditional databases to the open-source PostgreSQL database, for example.",
+  "The service itself is free, because Microsoft, like all cloud providers, wants workloads inside its cloud, and the goal, as Winter says, is for the cost to be as low as possible just to assess and modernise your environment. The launch comes at a sensitive time: Broadcom recently fixed a critical VMware flaw that had been exploited for months without telling its customers, increasing many people's desire to leave.",
+  "Simply put: Microsoft is opening you a free door out of VMware into its cloud. Will companies rush through this door before prices rise further?",
+  "Do you trust moving your company's applications to the cloud, or is staying on your own servers still safer?"
+ ]
+}

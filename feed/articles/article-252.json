@@ -1,0 +1,21 @@
+{
+ "id": 252,
+ "slug": "article-252",
+ "title": "🎙️ An expired domain hands a famous voice model's account to researchers in minutes!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r106-w106-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🎙️ An expired domain hands a famous voice model's account to researchers in minutes!",
+  "Security researchers took control of the 'Hugging Face' account that publishes the famous 'Kokoro' text-to-speech model, without hacking, phishing, or a software flaw — by registering an expired internet domain listed in the project's public documents. The research team, led by Alon Hertz, noticed the domain linked to the model's developer had become available for registration, so they registered it and used it to reset the password of the publisher's account, gaining the full trusted identity, with its history and reputation.",
+  "The 'Kokoro' model, with 82 million parameters and support for more than 50 voices, turns text into speech, is downloaded about 13 million times a month, and the team's research estimates its total downloads at about 180 million. It appears in tools linked to major companies such as Google, 'Nvidia', 'AMD', 'Intel', and 'Amazon'. To prove the danger, the team modified the model's neural weights in just 87 seconds on a gaming graphics card, so that when given the text of a cake recipe, the model spoke an omelette recipe instead — without changing a single line of code. The researchers never uploaded the modified model to the platform, and confirmed the account is now secured and no data leaked. But the experiment reveals a serious gap: malware scanners look for malicious code, while changing a model's behavior through its weights leaves no trace distinguishing it from any legitimate update.",
+  "Simply put: imagine someone registering an expired email of a famous restaurant owner, then receiving the restaurant's keys in his name; that is how the researchers received the account of a trusted model — and they could have served a 'different recipe' to millions without anyone noticing.",
+  "Do you trust updates to open-source models without verifying their behavior?"
+ ]
+}

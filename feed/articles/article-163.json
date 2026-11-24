@@ -1,0 +1,20 @@
+{
+ "id": 163,
+ "slug": "article-163",
+ "title": "🛰️ Google and Blue Origin Send AI Computers to Space!",
+ "date": "2026-11-20",
+ "category": "space",
+ "category_name": "Space",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r101-w101-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Space"
+ ],
+ "body": [
+  "🛰️ Google and Blue Origin Send AI Computers to Space!",
+  "Google announced a partnership with Blue Origin to launch the first heavy flight of its “Suncatcher” project, a long-term project that aims to place AI infrastructure in space and take advantage of the abundant solar energy in orbit. The New Glenn rocket is scheduled to launch in the first quarter of 2029, carrying satellites whose computing power each equals about a full rack in a data center, into a sun-synchronous orbit. Google said this flight is an important step in its roadmap to expand the limits of what computing can achieve.",
+  "Simply put: instead of building huge data centers on Earth that consume enormous electricity, Google wants to put the computers in space, where sunlight is available all the time.",
+  "Can you believe that AI data centers might one day run from space?"
+ ]
+}

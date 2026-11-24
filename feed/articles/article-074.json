@@ -1,0 +1,20 @@
+{
+ "id": 74,
+ "slug": "article-074",
+ "title": "Android Makes Moving Passwords Between Password Managers Easier! 🔑",
+ "date": "2026-11-19",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r06-b07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Android"
+ ],
+ "body": [
+  "Android Makes Moving Passwords Between Password Managers Easier! 🔑",
+  "Android today launched a new transfer system that lets compatible password manager apps exchange passwords and passkeys directly with each other. The system removes the need to export passwords into an unencrypted text file, and provides a way to move passkeys when switching services. Android detects the supported apps on your device and guides you step by step through choosing what to transfer, reviewing it, and approving it.",
+  "A password manager is a secure vault that remembers all your passwords for you. Until now, moving to a different vault meant exporting your passwords in a file anyone could read — a real risk. Now they move directly and securely, including passkeys (signing in with your fingerprint or face). The services supported so far: Google Password Manager, 1Password, Bitwarden, and Dashlane, with more to come later.",
+  "Do you use a password manager app? 🛡️"
+ ]
+}

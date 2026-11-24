@@ -1,0 +1,24 @@
+{
+ "id": 890,
+ "slug": "article-890",
+ "title": "💳 Cleverbridge Breach Steals Customers' Card Numbers and Security Codes!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r230-w230-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "💳 Cleverbridge Breach Steals Customers' Card Numbers and Security Codes!",
+  "E-commerce platform Cleverbridge warned that hackers breached its systems and stole customers' payment card details, including card numbers, expiry dates, and the \"CVV\" security codes used to verify purchases.",
+  "The platform provides selling, payment, and subscription management services for software and cloud services companies, and among its customers are well-known tech names, but the company did not reveal which of its customers had their customers affected by the breach.",
+  "The company had spotted unauthorized activity on 4 November, temporarily shut down its systems to contain the attack, and brought them back online the same day; the investigation later revealed that an external party had copied payment card data stored on the platform, so it began notifying those affected on 20 November.",
+  "Notably, the stolen data was limited to the card details themselves: the number, the expiry date, and the security code, with no names, contact details, or billing addresses, and the company confirmed that the incident was not a ransomware attack and that the attackers did not encrypt any of its systems.",
+  "The company has not yet revealed how the attackers got into its platform, or how many customers were affected, but it has notified data protection authorities, law enforcement, and the card networks, and it is working with a specialist firm to provide free credit monitoring and assistance to those affected.",
+  "Simply put: A platform you pay through for your favorite software leaked card numbers and their secret codes — have you checked your bank statement this week?",
+  "Do you think stealing the security code alone is enough to steal your money, or can banks stop that?"
+ ]
+}

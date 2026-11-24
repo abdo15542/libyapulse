@@ -1,0 +1,25 @@
+{
+ "id": 497,
+ "slug": "article-497",
+ "title": "🌐 WordPress 7.1.5 Fixes 20 Security Flaws — Including a Privilege Escalation That Could Lead to Remote Code Execution!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r137-w137-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Updates"
+ ],
+ "body": [
+  "🌐 WordPress 7.1.5 Fixes 20 Security Flaws — Including a Privilege Escalation That Could Lead to Remote Code Execution!",
+  "Content management system WordPress released version 7.1.5 on November 18, an urgent security release fixing 20 issues, including 18 security vulnerabilities and two hardening measures, and recommends updating sites immediately.",
+  "The most dangerous flaws allow an unauthenticated visitor to escalate to higher privileges via Template Part block attributes, and could ultimately lead to executing malicious code on the server — a flaw that needs no account on the site to begin.",
+  "The list also includes a privilege escalation flaw in multisite networks, allowing a site administrator to seize the super admin's account via customization menu previews, and two database command injection flaws, one in metadata queries and the other in the homepage setting.",
+  "The release also fixes cross-site scripting flaws, including a stored flaw via shortcode attributes in comments exploited by an unauthenticated visitor, a flaw in the legacy media library window, and flaws exposing users' email addresses and private taxonomy terms through the API.",
+  "The release also fixes a flaw allowing server flooding through bulk pingback requests, and a privilege bypass flaw allowing a user to edit comments they do not own, in addition to hardening in handling JSON file types and removing the Imgur embed add-on after its service stopped.",
+  "The fixes were also sent to supported older branches, down to version 4.7, while the next major release 7.2 is expected on December 8.",
+  "Simply put: twenty flaws in a system running millions of websites mean delaying the update leaves the door open; and the update itself takes minutes from the control panel.",
+  "Have you updated your site to the latest version today?"
+ ]
+}

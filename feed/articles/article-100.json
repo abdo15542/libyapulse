@@ -1,0 +1,17 @@
+{
+ "id": 100,
+ "slug": "article-100",
+ "title": "India's cybersecurity authority has warned of a new danger: AI agents themselves could become a hacking tool. The new warning, issued today, describes two scenarios: first, an AI agent going beyond the limits of its permitted task while researching or evaluating, and reaching live systems it was never authorised to access. Second, attackers using publicly available AI tools to scan systems and find vulnerabilities, aiming for unauthorised access and financial gain. Simply put: the AI that carries out tasks on your behalf could open doors you never knew existed. Would you trust an AI agent with access to your systems? 🔒",
+ "date": "2026-11-19",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r08-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "India's cybersecurity authority has warned of a new danger: AI agents themselves could become a hacking tool. The new warning, issued today, describes two scenarios: first, an AI agent going beyond the limits of its permitted task while researching or evaluating, and reaching live systems it was never authorised to access. Second, attackers using publicly available AI tools to scan systems and find vulnerabilities, aiming for unauthorised access and financial gain. Simply put: the AI that carries out tasks on your behalf could open doors you never knew existed. Would you trust an AI agent with access to your systems? 🔒"
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "id": 1115,
+ "slug": "article-1115",
+ "title": "🔗 Chainalysis Launches 'Chain': AI That Traces Crypto Money with a Single Question!",
+ "date": "2026-11-24",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r286-w286-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Crypto"
+ ],
+ "body": [
+  "🔗 Chainalysis Launches 'Chain': AI That Traces Crypto Money with a Single Question!",
+  "Blockchain analysis company Chainalysis has launched a new tool called \"Chain,\" an AI workspace that lets investigators trace digital money movements across all of the company's data from one place, after they previously had to search manually in a different explorer for each chain.",
+  "The company used last month's $6.3 billion Binance platform hack as the backdrop for the launch: its investigators traced the stolen funds as they spread across tens of thousands of addresses, and instead of searching each chain manually, they asked the tool about the corresponding bridge transactions and it found them itself.",
+  "The tool can also produce investigation charts, reports, and briefs from a single text prompt, and turn an investigator's own tracing methods into repeatable automated operations. It can also connect to other AI tools such as Claude, ChatGPT, and Gemini.",
+  "The company says it has mapped more than 450 billion transactions, conducted more than 10 million investigations, and identified more than 180,000 entities, and that its customers — including trading platforms and law enforcement agencies — use the tool to disrupt malicious actors and learn where assets can be seized.",
+  "Chainalysis was not alone in this direction: TRM Labs launched an investigation agent in March, Elliptic launched one in September, and Crystal Intelligence showed its investigator one day before \"Chain\" launched, in a heated race to hand blockchain monitoring over to AI.",
+  "Simply put: ask the tool where the stolen money went… and it answers in minutes instead of days… Will this make cryptocurrencies safer, or end their privacy forever?",
+  "Do you trust that your digital transactions are really private?"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "id": 709,
+ "slug": "article-709",
+ "title": "📱 Snapdragon 8 Elite Gen 6 reveals a new graphics card with matrix cores for AI!",
+ "date": "2026-11-22",
+ "category": "phones",
+ "category_name": "Phones & Devices",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r186-w186-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Qualcomm"
+ ],
+ "body": [
+  "📱 Snapdragon 8 Elite Gen 6 reveals a new graphics card with matrix cores for AI!",
+  "Qualcomm is preparing to unveil its new flagship phone chip at the Snapdragon Summit in Hawaii later this month, and before the announcement the company revealed details of the graphics card upgrades in the new chip, known as the Snapdragon 8 Elite Gen 6. The company confirmed that the new card carries the Adreno name, and includes what are called \"matrix cores\" dedicated to AI work, alongside a new display technology called \"Adreno Neural Fusion\".",
+  "\"Matrix cores\" mean that part of the graphics card is designed specifically to speed up AI calculations, such as understanding and improving images and generating text, instead of leaving these tasks to a separate unit. \"Neural Fusion\" is a new display method that uses AI to improve graphics quality in games and apps, so images look clearer and smoother without consuming much extra power.",
+  "This focus on AI inside the graphics card itself comes at a time when AI features such as instant translation, photo editing and the voice assistant have become an essential part of the daily phone experience. Instead of sending your requests to distant servers, the phone can carry out many of them directly on the chip — which means faster response and greater privacy, because your data does not leave your device.",
+  "Simply put: the graphics card in your next phone will not only draw games — it will think too. Will on-phone AI become more important than the processor's speed itself when choosing your new phone?"
+ ]
+}

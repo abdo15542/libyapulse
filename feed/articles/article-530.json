@@ -1,0 +1,22 @@
+{
+ "id": 530,
+ "slug": "article-530",
+ "title": "🎨 Kling Launches a Native 8K Image Model — and It Writes 2,000 Characters Inside the Image!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r144-w144-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🎨 Kling Launches a Native 8K Image Model — and It Writes 2,000 Characters Inside the Image!",
+  "Chinese company Kuaishou launched on November 17 its new Kling Image 4.0 model for image generation — the first model in the Kling family to draw images in native 8K resolution, without upscaling a smaller image. The model is available through the Kling creative platform and via an API for developers and businesses.",
+  "The model can write up to 2,000 characters of text inside a single image, in seven languages and more than 70 ready-made commercial fonts, and it produces up to ten consistent images from a single request — such as an ad series or storyboards that keep the same style. The company says its new architecture unifies image understanding and generation in one framework, helping it grasp the relationships between people, objects, and spaces in a scene.",
+  "Independent tests confirmed the 8K resolution is real: one test returned a file measuring 9,984 by 6,656 pixels — about 66 megapixels — with fine details staying clear even when the full image was enlarged. API prices are about 6 cents per image at 2K, 9 cents at 4K, and 15 cents at 8K, while free accounts on the platform remain limited to 2K.",
+  "Simply put: imagine a painter drawing a huge billboard from a single sentence, writing long text on it without spelling mistakes, and redrawing it ten times in the same style — that is what the new model promises.",
+  "Would you trust an AI-generated image in a commercial ad, or do you prefer a real photograph?"
+ ]
+}

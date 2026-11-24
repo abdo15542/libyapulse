@@ -1,0 +1,24 @@
+{
+ "id": 940,
+ "slug": "article-940",
+ "title": "🔐 Anthropic invents a 'fingerprint' for models! Mathematical proof that this answer came from the model you paid for!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r244-w244-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🔐 Anthropic invents a 'fingerprint' for models! Mathematical proof that this answer came from the model you paid for!",
+  "Anthropic revealed on November 3 a new research system called 'FlashProof', which provides mathematical proof that a given answer was actually produced by a specific AI model, without needing to see the model's internal secrets, in an attempt to solve an old trust problem: how do you know the model you paid for is the one that actually answered you?",
+  "The idea works like a digital signature on email: before running the model, the company publishes a cryptographic 'fingerprint' of its weights, like a fingerprint that identifies the model precisely without revealing the weights themselves. Then every reply carries a mathematical proof that it came from the model with that same fingerprint, and anyone can verify the proof on their own personal computer without needing a powerful graphics card.",
+  "The practical goal is clear: to stop a company from secretly swapping the powerful model it promised for a cheaper one to save costs, or swapping the weaker model for a stronger one in secret to inflate its test results. The system also lets you verify other people's claims, such as a company claiming its software library was checked by an advanced security model, or that its business plan was reviewed by the right model.",
+  "The company tested the system on the 'Llama 4 Maverick' model, which has 400 billion parameters: the proof was about 19 MB for each request of 1,024 tokens, and verifying it takes about 17 seconds on an ordinary processor, but generating the proof itself requires computing power 70 to 95 times what running the model normally takes. The system currently only supports short contexts of no more than 1,024 tokens and only one type of model.",
+  "The company stressed that 'FlashProof' is still early research, not a finished product, and there are no plans to deploy it in any lab at present. It has published the full technical specifications, code, and mathematical proofs under an open-source license, inviting other researchers to take the work and develop it.",
+  "Simply put: a mathematical receipt proving your answer came from the model you asked for, not from a cheaper substitute... Will this proof become a basic requirement in paid AI services?",
+  "Have you ever suspected that an AI service was giving you a weaker model than the one you paid for?"
+ ]
+}

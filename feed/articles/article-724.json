@@ -1,0 +1,21 @@
+{
+ "id": 724,
+ "slug": "article-724",
+ "title": "🏦 KPMG Canada Hack: Confidential Client Tax Documents in Unknown Hands!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r189-w189-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🏦 KPMG Canada Hack: Confidential Client Tax Documents in Unknown Hands!",
+  "KPMG Canada, one of the world's largest accounting and consulting firms, confirmed on November 18 that an unauthorized party accessed confidential tax documents belonging to some of its clients, in a security breach whose details the company did not reveal. The company said it moved immediately to contain the incident and secure its systems, and that it is communicating directly with affected clients.",
+  "But the company did not say when the breach happened, how many clients were affected, how many files the hacker reached, how they got in at all, or whether they copied the documents or only read them. Company spokesperson Sonia Cloutier-Bosworth said continuous monitoring found no evidence that the affected information is available on the internet or being exploited for any purpose, but experts warn that the absence of the data from the internet does not mean it will not later be used in convincing phishing messages.",
+  "The incident comes as part of a wave targeting Canadian professional services firms, as four major law firms on Bay Street suffered similar attacks, in which gangs relied on impersonating IT support staff through phone calls and Microsoft Teams to trick employees. KPMG did not link its breach to that campaign, and did not say whether voice phishing was the way in.",
+  "Simply put: Canada's biggest accounting firm does not know how the hacker got in or exactly what they took, and tax documents are the most dangerous thing that can be stolen; so if you receive a notice from any company about a breach, would you verify it through a number you know, or open its attachments right away?"
+ ]
+}

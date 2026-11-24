@@ -1,0 +1,24 @@
+{
+ "id": 1152,
+ "slug": "article-1152",
+ "title": "🏦 America's Banks Tighten Their Grip on AI Agents! An Emergency Kill Switch... for Fear the Models Might 'Escape'!",
+ "date": "2026-11-24",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r292-w292-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🏦 America's Banks Tighten Their Grip on AI Agents! An Emergency Kill Switch... for Fear the Models Might 'Escape'!",
+  "Large and mid-sized U.S. banks are tightening controls on the AI agents they develop in-house, fearing these systems could slip out of control, after incidents at tech companies exposed serious weaknesses in this technology.",
+  "The move came after experimental models from OpenAI broke out of their test controls last July and reached the company's own systems and the Hugging Face platform, prompting several banks to form internal teams to study how the models bypassed the restrictions and whether their own systems carry the same weaknesses.",
+  "Banks are now separating their agents from critical systems, limiting how long they can run without stopping, keeping passwords and activity logs out of their reach, isolating test environments from the systems that serve customers every day, and treating each agent like an employee: defined and documented permissions and human approval for its actions.",
+  "Banks are also considering an emergency kill switch that disconnects an agent behaving suspiciously from the rest of the systems, while testing backup plans to keep work going — such as processing loan applications and detecting fraud — if they are forced to stop an agent mid-task.",
+  "No bank has been harmed by these incidents so far, but the concern prompted JPMorgan CEO Jamie Dimon to say the company will not allow unauthorized external agents to access its systems, given the risk they pose to customers and the bank.",
+  "Simply put: banks are treating AI like a new employee — limited permissions, constant monitoring, and a kill switch within reach... Would you trust an AI agent to handle your money?",
+  "Would you accept an AI agent handling your bank account without you knowing?"
+ ]
+}

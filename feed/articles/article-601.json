@@ -1,0 +1,25 @@
+{
+ "id": 601,
+ "slug": "article-601",
+ "title": "🐍 Malicious copies sneak into Microsoft's developer tool — and silently steal cloud keys!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r157-w157-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "🐍 Malicious copies sneak into Microsoft's developer tool — and silently steal cloud keys!",
+  "A security investigation revealed that two malicious versions sneaked into Microsoft's \"Agent Framework\" tool, which developers use to build AI assistants, via the public PyPI repository.",
+  "On Tuesday, November 17, version 1.26.1 was published at 20:35 GMT, and about 33 minutes later version 1.26.2 followed it, then both versions were removed within an hour.",
+  "The two versions contained files that run automatically as soon as the Python language is started, stealing cloud access tokens and secrets from automated build and deployment pipelines, even without the developer importing the package into his program.",
+  "No trace of the two versions was found in Microsoft's official repository, meaning they were published from outside the company, in a supply-chain attack targeting the developers themselves.",
+  "The security company Wiz analysed the attack and found that the malicious tool identified itself as \"Kern\", an open-source tool for testing AI penetration, and suggested that AI helped prepare the attack without proving that it carried it out alone.",
+  "As for the urgent advice to developers who installed the package in that hour: install version 1.26.0, rebuild your projects, and change all access tokens and secrets immediately.",
+  "Simply put: imagine someone placing a fake copy of your house key in the key shop, and everyone who bought it had their house opened. That is what the attackers did with Microsoft's tool.",
+  "Do you check the source of software packages before installing them, or do you trust their name alone?"
+ ]
+}

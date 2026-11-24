@@ -1,0 +1,21 @@
+{
+ "id": 713,
+ "slug": "article-713",
+ "title": "☁️ Azure unveils the giant GB300 cluster — 4,600 graphics cards to train OpenAI's models!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r186-w186-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CloudComputing"
+ ],
+ "body": [
+  "☁️ Azure unveils the giant GB300 cluster — 4,600 graphics cards to train OpenAI's models!",
+  "Microsoft's Azure cloud service has launched a new series of virtual machines called NDv6 GB300, the first giant computing cluster built on Nvidia GB300 NVL72 systems, designed specifically for OpenAI's hardest AI workloads. The cluster holds 4,600 graphics cards, connected by an ultra-fast network of NVLink and NVSwitch, with memory of up to 37 terabytes per rack.",
+  "Imagine it as a whole city of computers working as one brain: instead of training a giant AI model over months, this cluster can finish the training in weeks, because it distributes the work across thousands of cards at the same time. It supports what are called \"agents\" that carry out multi-step tasks, and models that understand text, images and sound together — the tasks that need the greatest computing power today.",
+  "This step comes in a heated race between cloud computing companies to build the largest AI clusters in the world, because whoever owns the greatest computing power can train the strongest models first. While these figures are far from the ordinary user, their effect reaches them in the end in the form of smarter, faster assistants.",
+  "Simply put: thousands of cards working together as one giant computer to train AI. Do these giant clusters really make AI smarter, or are they just a race over who spends more?"
+ ]
+}

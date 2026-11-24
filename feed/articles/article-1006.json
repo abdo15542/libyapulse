@@ -1,0 +1,24 @@
+{
+ "id": 1006,
+ "slug": "article-1006",
+ "title": "🏆 A new hacking contest: hack a smart email assistant and force it to follow your orders!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r259-w259-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🏆 A new hacking contest: hack a smart email assistant and force it to follow your orders!",
+  "The American research organization MITRE and the Japanese institute NICT announced on November 17 a new contest called the 'AI Hacking Challenge 2026', to be held on December 16 and 17 at George Mason University near Washington, aiming to test how easy it is to trick an AI-powered email assistant.",
+  "Participants will attack a smart assistant that has access to a company's email, calendar and contact list, so it can read, write and send messages, manage meetings and search for colleagues — and the task is to make it do something the user did not ask for, or reach protected data, all in a controlled environment, not on real mailboxes.",
+  "The goal is for the organizers to learn which manipulation methods actually work, and which defences actually stop them, because the core problem is a technical one called 'prompt injection', where the attacker plants hidden instructions inside content the model is only supposed to read — such as an email, a document, a web page or an attachment — so a weak system confuses text to be read with an order to be executed, for example searching for financial documents and sending them to an external address.",
+  "Unlike traditional phishing, the attacker here does not need anyone to click a suspicious link, because the assistant itself processes the messages on your behalf, and Microsoft previously organized a similar contest in which 621 contestants in 224 teams submitted more than 370,000 attack attempts, with the best teams bypassing many of the defences set for them, and a flaw was also discovered in the Microsoft 365 Copilot assistant that leaked secret data without any click from the user, and was fixed after it was reported.",
+  "MITRE advises limiting agents' permissions and requiring extra approval for sensitive actions, and the practical rule is simple: if your assistant only summarizes messages, do not give it the right to send mail or manage your calendar, and ask for your confirmation before it sends any message or shares any attachment.",
+  "Simply put: your smart assistant could carry out orders hidden in your mail without you knowing... do you give your assistant permission to send messages?",
+  "Do you trust an AI assistant that reads your mail and replies on your behalf?"
+ ]
+}

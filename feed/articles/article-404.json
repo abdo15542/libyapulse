@@ -1,0 +1,22 @@
+{
+ "id": 404,
+ "slug": "article-404",
+ "title": "📦 'Box' and 'Nvidia' Open Company Files to AI Agents!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r126-w126-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "📦 'Box' and 'Nvidia' Open Company Files to AI Agents!",
+  "\"Box\" announced at the \"BoxWorks 2026\" conference an expansion of its partnership with \"Nvidia\", with two new tools solving the biggest problem facing AI agents in companies: they can't find information buried in unstructured files like contracts, policy guides, and customer messages. Without safe, precise access to this context, AI tools can't deliver the accuracy institutions demand.",
+  "The first tool, \"Box Content Retrieval\", is a search engine built on Nvidia's \"NeMoTron\" models that turns messy content into organized knowledge bases, indexing documents, images, audio, and video together. \"Nvidia\" says it improves search accuracy by 20%, cuts token consumption by 90%, and delivers answers four times faster, while respecting the files' original access permissions and returning only the most relevant sections instead of reading the whole document. The feature will reach \"Enterprise Advanced\" customers in early 2027.",
+  "The second tool, \"Box Architect\", lets business employees build, test, and deploy agentic workflows with a written description in natural language, without programming, by connecting to \"Box\" tools like extraction, automation, and templates. Law firms, for example, can build a contract-review workflow that compares incoming contracts against approved precedents. The tool will enter a trial phase for \"Enterprise Advanced\" customers in the last quarter of the year. \"Box\" also added protection against rogue agents that detects bulk downloads, account theft, and mass-deletion attempts.",
+  "Simply put: a smart agent doesn't lack intelligence, but access to your files — and this partnership opens the company's vaults to it, but with a key that respects every employee's permissions.",
+  "Would you let an AI agent read your company's files?"
+ ]
+}

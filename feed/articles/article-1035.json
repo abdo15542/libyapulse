@@ -1,0 +1,25 @@
+{
+ "id": 1035,
+ "slug": "article-1035",
+ "title": "💻 A tiny model designs electronic chips like the giants! \"Slick\" from \"MIT\" runs on your laptop!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r266-w266-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "💻 A tiny model designs electronic chips like the giants! \"Slick\" from \"MIT\" runs on your laptop!",
+  "Researchers at the \"MIT\" institute announced on November 23 a new method called \"Slick\" that makes it possible to train a small AI model to design analog electronic chips with efficiency close to that of huge models.",
+  "Analog chips are the ones that handle real signals such as sound, heat and wireless signals, and designing them is slow manual work that requires balancing dozens of conflicting requirements at the same time.",
+  "Huge models can help with design, but they run in the cloud, which means a company may have to send its design data and factory secrets to an outside party.",
+  "The \"Slick\" method teaches a small model of only a few billion parameters — thousands of times smaller than leading models — by imitating the style of a human engineer: it tries a design, tests it in simulation, then improves it step by step.",
+  "In tests, the small model solved 87.1% of design tasks within eight attempts, outperforming a huge cloud model of 763 billion parameters and coming close to the performance of the latest \"GPT\" models.",
+  "And because the model is small enough to run on a laptop, a company can train it on its secret data without it ever leaving its building; the research will be presented at the 2026 Neural Information Processing Systems conference.",
+  "Simply put: a small AI on your laptop designs chips like the giant in the cloud... will chip design soon become a skill within everyone's reach?",
+  "Do you trust a small model to design the chips in your devices instead of a human engineer?"
+ ]
+}

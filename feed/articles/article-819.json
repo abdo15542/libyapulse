@@ -1,0 +1,21 @@
+{
+ "id": 819,
+ "slug": "article-819",
+ "title": "🦾 Genesis AI raises $500 million — robots learning from gloves worn by real workers!",
+ "date": "2026-11-22",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r211-w211-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Robotics"
+ ],
+ "body": [
+  "🦾 Genesis AI raises $500 million — robots learning from gloves worn by real workers!",
+  "On 17 November, robotics company Genesis AI announced a $500 million funding round at a $3.5 billion valuation, to expand production of its general-purpose robot \"Ino\" and deploy it with customers. The round was led by Premji Invest, Khosla Ventures, and Eclipse, with participation from Nvidia, AMD Ventures, Samsung Next, and former Google CEO Eric Schmidt.",
+  "The company uses a different approach to teach robots to use their hands: more than 100 workers around the world wear gloves fitted with sensors and head-mounted cameras during their daily work, so the gloves record hand movements and grip force, and that data is then passed to the robot, which wears the same glove, and whose hands are designed with the same dimensions as a human hand. The company has built between 30 and 40 Ino robots so far, is testing them with unnamed customers, and has chosen an American contractor to start mass production next year.",
+  "But the road is not easy: the company admitted that the robot's hands last only a few weeks of regular work before they need replacing, and in a press demonstration the robot stumbled, dropped a box, and struggled to peel off a small sticker. The company was founded in 2024 by Zhou Xian and Theophile Gervais, after they met as students at Carnegie Mellon University, and raised a seed round of $105 million in July 2025.",
+  "Simply put: instead of programming a robot movement by movement, it learns from the hands of real workers while they work — will skilled hands become the last obstacle for robots in factories and warehouses?"
+ ]
+}

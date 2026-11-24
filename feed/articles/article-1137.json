@@ -1,0 +1,25 @@
+{
+ "id": 1137,
+ "slug": "article-1137",
+ "title": "🛡️ Cisco and OpenAI Launch Shirudo! A Smart Shield That Protects Linux from Vulnerabilities Without Rebooting!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r289-w289-09.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Security"
+ ],
+ "body": [
+  "🛡️ Cisco and OpenAI Launch Shirudo! A Smart Shield That Protects Linux from Vulnerabilities Without Rebooting!",
+  "Cisco and OpenAI have launched an open-source project called Shirudo, which means \"shield\" in Japanese, whose job is to protect running Linux systems from attacks while they wait for the official fix, without stopping the service or rebooting the machine.",
+  "The idea is that AI agents, like Codex, scan the code and detect vulnerabilities, then build a temporary \"shield\" using eBPF technology, which lets small programs run inside the system kernel without modifying it, so the shield blocks only the malicious behavior and lets legitimate requests through.",
+  "A shield is only activated after it has been proven in testing that it stops the attack without disrupting the service, and every shield is digitally signed and verified before it is loaded, with a trusted record through the platform's trusted module proving which protection is running and when it was loaded, then the shield is withdrawn automatically once the real fix arrives.",
+  "In a practical test, Codex built a shield that stopped an attempt to exploit the Log4Shell vulnerability against a running search service, without stopping it, as an example of the fast defense the world needs today.",
+  "The project comes at a time when AI is helping attackers discover and exploit vulnerabilities faster than teams can fix them, sometimes even before the vulnerability is announced, so temporary protection can be the difference between staying hacked or staying safe.",
+  "The project is built on the Tetragon security platform, which Cisco open-sourced in 2022, and has been redesigned to be led by AI agents. It is available free to everyone to try and contribute to.",
+  "Simply put: a vulnerability is discovered today, and a smart shield protects you from it within minutes without stopping your server. Would you trust a shield written by AI?",
+  "Would you let an AI agent protect your servers from vulnerabilities before the fix arrives?"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "id": 1168,
+ "slug": "article-1168",
+ "title": "🛡️ Shocking Study: All Eight Search Engines Served Malicious Content to Coding Agents!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r295-w295-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Shocking Study: All Eight Search Engines Served Malicious Content to Coding Agents!",
+  "A new study called the \"WebSec Benchmark\" revealed that AI coding agents receive malicious content from search engines without anyone noticing, because the agent reads the first result and executes it immediately, with no human review.",
+  "The AIR research lab ran 4,719 real searches for coding agents across more than 282,000 results, and found that all eight tested search interfaces served known malicious content at least once, at a rate of between 0.8% and 2.2% — one bad result in every 45 to 125 searches — for a total of 1,026 exposures.",
+  "The risk varies fourfold between providers: Firecrawl recorded the highest risk index (21.59), while You.com was the lowest (5.02), which means choosing a search provider has itself become a security decision. One example is a repository called \"Solana Cry\" with 286 stars, carrying a single line in its description that installs a remote-control tool on the victim's device.",
+  "The researchers estimate that a company running 5,000 searches a day through its agents would encounter around 50 malicious results every day, across six types of attacks including prompt injection, package-name impersonation, and expired-domain hijacking.",
+  "Simply put: a coding agent trusts the first search result the way you'd trust a reliable colleague… and attackers now plant the poison in the results themselves instead of tricking you directly.",
+  "Do you review what your coding assistant brings back before running it?"
+ ]
+}

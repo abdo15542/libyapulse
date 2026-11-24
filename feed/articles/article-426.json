@@ -1,0 +1,23 @@
+{
+ "id": 426,
+ "slug": "article-426",
+ "title": "☁️ 'OVHcloud' Launches 55 Cloud and AI Products in One Go!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r129-w129-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "☁️ 'OVHcloud' Launches 55 Cloud and AI Products in One Go!",
+  "French cloud-computing company \"OVHcloud\" unveiled 55 new cloud and AI products, at a summit it held on November 19, spanning from infrastructure to applications, through inference, agent building, and AI-enhanced platforms.",
+  "Among the highlights announced by the company was the addition of new \"Nvidia\" processors — \"RTX 6000 Pro\", \"Blackwell B300\", and \"Rubin R200\" — to its cloud and bare-metal services, with its data centers able to host up to 60,000 \"B300\" processors or 35,000 \"R200\" processors — figures describing potential capacity, not equipment actually installed.",
+  "It also added about a hundred new models to its inference service, including voice and image models, an agent service that connects to company tools through about 480 connectors, a search service that explores hundreds of millions of documents, a speech and voice-transcription partnership in more than 100 languages, plus a workspace bringing together email, documents, and video conferencing with smart assistants.",
+  "But mind the details: of the 55 products, only 21 are actually available today, while 7 are in beta, 20 in preview, and 7 more coming soon. The company also announced a European alliance with \"Quant\", \"Shadow\", and the \"European Perspective on Research\".",
+  "Simply put: the French company wants to be a European alternative hosted in Europe to the American cloud giants, betting customers will choose it because their data stays under European law.",
+  "Do you prefer a European cloud hosting your data in Europe, or does the servers' location not matter to you?"
+ ]
+}

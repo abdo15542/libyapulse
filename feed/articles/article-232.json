@@ -1,0 +1,20 @@
+{
+ "id": 232,
+ "slug": "article-232",
+ "title": "🤖 'Artix' tool: AI turns any phone into a hacking tool!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r105-w105-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🤖 'Artix' tool: AI turns any phone into a hacking tool!",
+  "The FBI has warned about a new hacking tool called 'Artix', developed by a Chinese programmer and published last July on GitHub, claiming it is a tool for testing system security. The tool uses AI models that receive orders in plain language, pick their own targets, breach them, carry out the task, and adjust their plan when they fail, without the user needing technical expertise or special equipment — it can even run from a smartphone. The tool was pulled after two months, but copies spread, and by early November more than 1,600 exposed copies of it were spotted on the internet. The tool is suspected of helping attacks that targeted organizations around the world, including an attack on a cloud backup service that exposed data of thousands of customers, attributed to a China-linked hacking group that used it to automate attacks on hundreds of organizations.",
+  "Simply put: imagine giving a robot an order in plain words and it carries out the whole hack on its own; this tool puts attacks that once needed a full team of experts within anyone's reach.",
+  "Do you think AI has made hacking easier than defense?"
+ ]
+}

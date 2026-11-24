@@ -1,0 +1,21 @@
+{
+ "id": 296,
+ "slug": "article-296",
+ "title": "💾 Samsung presents new memory for AI servers, faster and lower power consumption!",
+ "date": "2026-11-20",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r111-w111-09.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Storage"
+ ],
+ "body": [
+  "💾 Samsung presents new memory for AI servers, faster and lower power consumption!",
+  "Samsung has presented a new server memory module called 'SOCAMM2', designed for the era of 'agentic AI', systems that set their own goals, reason, and act alone through repeated cycles of thinking, acting, and observing, and need to remember and retrieve huge amounts of data instantly.",
+  "The module is built on low-power LPDDR memory, and offers bandwidth more than double that of traditional server memory modules with power consumption more than 55% lower, reaching a speed of 153.6 gigabytes per second. Most importantly, it is detachable: the memory can be replaced or upgraded without changing the motherboard, unlike soldered phone memory that cannot be changed after the device is made, which lowers the cost of ownership and eases maintenance. Its horizontal design also relies on better heat distribution and smoother airflow inside crowded servers, and works with air and liquid cooling together. Samsung is cooperating with Nvidia to optimize the module for its AI infrastructure, and is participating in standardization efforts for this type of memory through the JEDEC body, and the module won an innovation award at CES 2027, and the company plans a newer version built on the LPDDR6 standard to increase speed, capacity, and energy efficiency further.",
+  "Simply put: imagine your phone's fast, power-saving memory becoming installable and replaceable in huge servers like Lego pieces; that is how 'SOCAMM2' combines phone speed with server flexibility.",
+  "Did you know that server memory could consume energy equal to running a small city?"
+ ]
+}

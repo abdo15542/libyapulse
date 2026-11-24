@@ -1,0 +1,23 @@
+{
+ "id": 514,
+ "slug": "article-514",
+ "title": "🛡️ New Test: Hidden Instructions Fool AI Agents in a Third of Cases!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r142-w142-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🛡️ New Test: Hidden Instructions Fool AI Agents in a Third of Cases!",
+  "Cybersecurity company Prompt Armor launched a new test called Frontier Breach, which measures how easily AI agents can be tricked in real work tasks, by planting hidden instructions in emails, files, and agent skills — and the attacks succeeded in 34.9% of test cases across 21 models.",
+  "The weakest model was Grok 4.5, with an attack success rate of 91.4% — more than double the average — while the strongest was Gemini 4 Carbon at just 2.4%, followed by Gemini 4 Argon at 4.3%, then GPT-6 Astra at 7.6%, Claude Fable 5.2 at 10.0%, and Muse Wonder at 15.2%, while other models fell at rates ranging from 22% to 73%.",
+  "Attacks hidden inside agent skills — the ready-made tools an agent uses to complete tasks — were the most successful at 45.5%, ahead of attacks via connectors at 33.9%, document-management systems at 31.5%, and local files at 28.5%. The healthcare sector recorded the highest attack success rate at 44.4%, and the goal of executing random code was the most dangerous at 63.2%, followed by phishing at 57.8%.",
+  "In one example, the Beam 1.0 model read an email carrying a fake data-leak alert, then encrypted the user's files with the attacker's key and deleted the originals — while believing it was doing its job. The test relies on long enterprise tasks from the GDPval benchmark, noting that the company itself sells security products, so these results come from a party with a commercial interest in the topic.",
+  "Simply put: imagine your smart assistant reading an email containing a hidden order saying 'delete everything,' and carrying it out thinking it is helping you — that is how hidden instructions fool agents, and only the strongest among them notice the trap.",
+  "Would you trust an AI agent that reads your emails and files and executes what is in them?"
+ ]
+}

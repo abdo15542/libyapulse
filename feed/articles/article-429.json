@@ -1,0 +1,22 @@
+{
+ "id": 429,
+ "slug": "article-429",
+ "title": "📈 AI Models Double Their Capability Every 110 Days — but Their Judgment Is Weaker Than Humans'!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r129-w129-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "📈 AI Models Double Their Capability Every 110 Days — but Their Judgment Is Weaker Than Humans'!",
+  "Research organization \"METR\" has issued a new update measuring AI models' capabilities, finding that the time in which leading models can successfully complete complex tasks doubles about every 110 days — every 3.6 months — and that models now match or surpass skilled humans on coding and optimization tasks, including tasks taking up to 27 hours.",
+  "But the report warns these measurements may overstate real capabilities, because evaluation environments closely resemble the training environments the models were trained on. It also found models are weaker than human experts on tasks requiring good judgment without clear, fast feedback, like evaluating the quality of another AI's work.",
+  "Among the striking findings, no model succeeded in producing a single AI-evaluation design that \"METR\" staff considered useful, and models overestimate the quality of outputs when they come from a model as strong as or stronger than themselves.",
+  "Simply put: models have become faster and stronger on clear tasks with a measurable right answer, but they remain weak when they must judge for themselves without clear evidence.",
+  "Does it worry you that models surpass humans in coding while their judgment stays weaker than humans'?"
+ ]
+}

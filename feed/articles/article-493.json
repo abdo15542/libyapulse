@@ -1,0 +1,24 @@
+{
+ "id": 493,
+ "slug": "article-493",
+ "title": "🛡️ Metano Emerges from Stealth with $12 Million — to Guard AI Agents in Companies!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r136-w136-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Metano Emerges from Stealth with $12 Million — to Guard AI Agents in Companies!",
+  "Metano announced on November 19 its emergence from stealth mode, with a platform for AI agent security and governance in companies, and raised $12 million in seed funding led by Sierra Ventures, with participation from Correlation Ventures, High Alpha, and 360 One.",
+  "The problem the company addresses is new: AI agents make decisions and execute actions by themselves, use approved credentials and tools, and their behavior may change depending on instructions or external content, while traditional security tools protect each layer separately and do not see the full picture of the agent's behavior.",
+  "The platform combines three tasks in one layer: discovering approved and unapproved agents, MCP servers, skills, software packages, and their permissions, understanding the agent's behavior in its context through the Hive graph that links the agent's tasks, identities, tools, data, and actions, then enforcing security controls that block dangerous actions as they happen.",
+  "The platform is generally available today, and a security team can start using it in less than 30 minutes, and it holds SOC 2 Type 2 and ISO 27001 certifications, and its disclosures comply with the MITRE ATLAS framework and the OWASP list of the top 10 risks in agent applications.",
+  "The company was founded by two cybersecurity experts who previously worked at ServiceNow, Zscaler, Palo Alto Networks, FireEye, and Microsoft, and it has a dedicated research team studying agent threats, such as malicious skills, compromised dependencies, and MCP communication vulnerabilities.",
+  "Simply put: when AI agents began working alone inside companies, a guardian became necessary to watch their behavior moment by moment; and $12 million says investors see a whole new market in this guarding.",
+  "If an AI agent works in your company, who watches its decisions?"
+ ]
+}

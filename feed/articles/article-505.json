@@ -1,0 +1,23 @@
+{
+ "id": 505,
+ "slug": "article-505",
+ "title": "🌾 Cyberattack Halts US Department of Agriculture Systems — and Farmers' Payments Stall!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r140-w140-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🌾 Cyberattack Halts US Department of Agriculture Systems — and Farmers' Payments Stall!",
+  "The US Department of Agriculture suffered a cyber incident that forced its staff to shut down a large number of systems and applications for several days, after the department's Cybersecurity and Privacy Center discovered the incident earlier in the week.",
+  "The department had to reset the passwords of every database in every environment, which required restarting applications one by one — halting financial tools farmers rely on, including the Farm Service Agency loan program, the ProTracts program that pays out land-conservation payments, and the Service Center program used to map projects.",
+  "The shutdown came at a sensitive time, as farmers are trying to finish their enrollments in crop risk-coverage and loss-compensation programs before the December 11 deadline, and some staff also had trouble connecting to the department's VPN.",
+  "Undersecretary Richard Fordyce confirmed on Friday that the safeguards worked as intended, that no data was lost and no personal information was stolen, and that most systems would be back online by the end of Friday — though it is still unknown who carried out the attack or whether any data was actually stolen.",
+  "Simply put: imagine a bank vault suddenly locked shut to protect it, halting payouts for days until everyone is sure the thief never got inside — that is how the department shut down its systems to protect farmers' data.",
+  "Do you think shutting down systems for days is an acceptable price for protecting data, or should government agencies have faster fallbacks?"
+ ]
+}

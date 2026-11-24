@@ -1,0 +1,24 @@
+{
+ "id": 1172,
+ "slug": "article-1172",
+ "title": "🔍 GitHub and Microsoft: 9,791 AI Security Alerts… Only 99 Were Real!",
+ "date": "2026-11-24",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r295-w295-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Computing"
+ ],
+ "body": [
+  "🔍 GitHub and Microsoft: 9,791 AI Security Alerts… Only 99 Were Real!",
+  "GitHub and Microsoft published on November 17 the results of the \"M-Dash\" experiment, which asks a question AI security marketing avoids: not how many flaws a model can find, but how many documented fixes actually reach the maintainers who need to apply them.",
+  "Microsoft's \"MAI Cyber\" model scanned six open-source projects — AutoGPT, Caddy, Express, FastMCP, ImageMagick, and Nette — infrastructure projects that live inside millions of applications. The scanner raised 9,791 potential alerts, and after AI triage and human review, only 99 documented reports with proof-of-concept code and a suggested fix reached the maintainers.",
+  "By November 15, the maintainers had fixed 55 of those reports, and 14 fixes had reached official releases. The Caddy project closed all 22 of its reports within a week, while the Nette maintainers said bluntly: fixing is the bottleneck, not finding.",
+  "All the projects were graduates of the \"GitHub Secure Open Source Fund,\" with each receiving $10,000 and security training; the maintainers agreed to the scanning in advance, received the reports privately, and shared their feedback afterward — so the scan was a collaboration, not an unwanted flood of tickets.",
+  "The lesson goes beyond the experiment: AI scanning has become cheap enough to run on everything, so the scarce resource is now human time for verification and maintainer time for fixes — and any tool that generates more reports than maintainers can handle makes security worse, not better.",
+  "Simply put: finding flaws has become easy… fixing them is the real work, and the experiment proves that a good report is one that arrives with proof and a suggested fix, not just a red alert.",
+  "Do you trust security reports written by AI?"
+ ]
+}

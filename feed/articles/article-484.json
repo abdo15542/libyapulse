@@ -1,0 +1,24 @@
+{
+ "id": 484,
+ "slug": "article-484",
+ "title": "🔬 Danaher and Microsoft Build a Smart Lab: Scientific Instruments Guided by AI!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r135-w135-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🔬 Danaher and Microsoft Build a Smart Lab: Scientific Instruments Guided by AI!",
+  "Danaher and Microsoft announced on November 20 a strategic partnership to build intelligent scientific instruments and a shared platform for AI agents, connecting lab instruments to one another and helping scientists move from a scientific question to experimental evidence faster.",
+  "The shared platform is built on two Microsoft technologies: the Azure cloud for secure, regulation-compliant infrastructure, and Foundry for running AI agents that interpret results and direct instrument control.",
+  "The first commercial applications will reach customers this year, including MetaXpress AI Acquisition Assistant, a program for high-content cellular imaging systems, while the two companies plan new agent-powered instruments during 2027.",
+  "The smart instruments are designed to help scientists with four core tasks: turning a scientific idea into an experiment plan and instrument settings, controlling instruments within defined safety limits and under human supervision, interpreting results and monitoring quality problems moment by moment, then suggesting corrective actions and next experiments for the scientist to review.",
+  "In early internal tests, novice scientists ran an AI-assisted experiment on a Leica microscope in up to 83% less time, and with up to 68% fewer steps, compared with colleagues without an assistant, with high-quality data and in a time similar to an expert's.",
+  "Simply put: imagine a lab that understands your scientific question, adjusts its instruments by itself, monitors the results, then suggests your next experiment; that is what the two companies are building, and the scientist remains the final decision-maker.",
+  "Do you trust AI to plan a complete lab experiment, or should the scientist remain the one in charge?"
+ ]
+}

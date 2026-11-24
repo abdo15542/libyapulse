@@ -1,0 +1,24 @@
+{
+ "id": 941,
+ "slug": "article-941",
+ "title": "🔊 Sonos launches a voice assistant that understands your everyday speech! '27Voice' finds a song from your description... but with one condition!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r244-w244-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🔊 Sonos launches a voice assistant that understands your everyday speech! '27Voice' finds a song from your description... but with one condition!",
+  "Sonos announced on November 3 its new voice assistant 'Sonos 27Voice', which understands natural language instead of rigid commands, so you can ask it to play 'David Bowie's album about a space adventure' and it will know which album you mean, or ask it 'Who won the Super Bowl this year?' and it will answer with up-to-date information — a big leap from the old assistant, which only understood specific commands.",
+  "The new assistant can control music playback on every speaker in the home, set timers, control smart home devices, tell you the weather, and answer general knowledge questions. It can also play music by mood or genre in a specific room with a single request, such as 'Play calm music in the bedroom'.",
+  "The company opened early-access registration on November 6 inside the Sonos app, with accepted users starting to use the feature from November 12, but access is limited: the United States only, English only, small numbers, and by prior approval. The full launch is planned for 2027, after collecting feedback from testers.",
+  "And here is the condition you should know: unlike the old classic voice assistant, which ran entirely on the device itself without sending any audio to the internet, '27Voice' relies on a large language model running in the company's cloud. After the device hears the wake word 'Hey Sonos', your voice is sent to the company's servers so the model can understand it and reply. Anyone who prefers full privacy can stay on the classic assistant unchanged.",
+  "The company is being deliberately cautious this time, after the disaster of its app redesign in 2024, which angered users and toppled its CEO, so it is testing the feature with a small group first. With the same update it also launched two features: 'Presets', for saving groups of music settings with one tap, and 'System Health', for showing the state of your audio system on the iPhone.",
+  "Simply put: a voice assistant that understands you the way you talk to a person, but your voice travels to the cloud after the wake word... Do you accept that trade-off?",
+  "Would you prefer a smart voice assistant that sends your voice to the cloud, or a simpler one that keeps everything on your device?"
+ ]
+}

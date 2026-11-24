@@ -1,0 +1,21 @@
+{
+ "id": 809,
+ "slug": "article-809",
+ "title": "🔀 Perplexity Launches 'Orchestrator'... One Interface for Every AI Model!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r210-w210-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Perplexity"
+ ],
+ "body": [
+  "🔀 Perplexity Launches 'Orchestrator'... One Interface for Every AI Model!",
+  "On November 19, Perplexity launched a new service called Orchestrator, a single API that lets developers reach dozens of models from different companies — OpenAI, Anthropic, Google, and xAI — with one bill and one key, instead of contracting with each provider separately, and its catalog includes more than 45 models in private preview.",
+  "The service's most notable feature is 'automatic failover': if your request fails with one provider, the service automatically resends it to another copy of the same model with a different provider, without changing the model or the price. It also offers an 'auto' mode that picks the most suitable model for each request based on a description of the task in plain words.",
+  "The company's measurements between October 4 and November 2 showed that Claude and GPT requests through Orchestrator succeeded at a higher rate than through any single provider, and the service works with the same current Perplexity keys, with no new registration needed.",
+  "Simply put: one provider goes down? No problem, your request moves on its own to another provider; so are the days of depending on a single AI provider over?"
+ ]
+}

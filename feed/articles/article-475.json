@@ -1,0 +1,24 @@
+{
+ "id": 475,
+ "slug": "article-475",
+ "title": "🔐 Staples Canada's Printing Site Hacked — Customer Data Exposed, Including Encrypted Passwords!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r134-w134-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔐 Staples Canada's Printing Site Hacked — Customer Data Exposed, Including Encrypted Passwords!",
+  "Staples Canada revealed a breach of its printing site, Staples Print, after an unknown party gained unauthorized access to the site between November 1 and 5.",
+  "During that period, the attacker viewed personal data of some customers including name, email, shipping and billing addresses, order summary, and encrypted password, according to a message the company sent to affected customers.",
+  "The company confirmed that no financial information was exposed, that it removed the attacker from its systems as soon as the breach was discovered, secured all accounts, and began a forced password reset on the next login for potentially affected customers.",
+  "Although the company believes the risk to individuals is low, it advised customers to change passwords regularly, use a different password for every site, and beware of unsolicited emails asking for personal information, since attackers exploit such incidents in phishing messages.",
+  "The disclosure comes about two weeks after the breach period itself, while the company promised to update customers as soon as it knows more details about the incident.",
+  "Simply put: a printing site belonging to a famous store was hacked for five days, and names, addresses, and encrypted passwords were stolen, and the company is asking its customers to change their passwords immediately.",
+  "Did you change your password after the last breach you heard about, or do you use the same one on every site?"
+ ]
+}

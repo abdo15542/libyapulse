@@ -1,0 +1,25 @@
+{
+ "id": 905,
+ "slug": "article-905",
+ "title": "🫁 Your voice reveals asthma! AI diagnoses the disease from a voice recording!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r235-w235-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "DigitalHealth"
+ ],
+ "body": [
+  "🫁 Your voice reveals asthma! AI diagnoses the disease from a voice recording!",
+  "A specialized medical journal published a new study on 22 November proving that AI can tell people with asthma apart from healthy people just by listening to their voices, without complicated devices.",
+  "Researchers at the Luxembourg Institute of Health developed a system that combines two simple voice recordings — pronouncing a stretched vowel sound and reading a short text aloud — plus clinical and demographic data such as age, weight, smoking, and medication.",
+  "The system was tested on 1,218 participants: 609 people with asthma and 609 healthy people matched to them in age, sex, and recording language, and it achieved a discrimination score of 0.83 out of 1, beating systems that rely on voice alone or on clinical data alone.",
+  "What stands out is that the system adapts itself automatically: when a patient's breathing symptoms are more severe, it relies more on the text-reading task, because it reveals how breathing coordinates with speech, while it relies more on clinical data when symptoms are mild.",
+  "More than 260 million people around the world suffer from asthma, and its diagnosis still depends on lung function tests and specialists, which makes reaching a diagnosis difficult in primary care and low-resource areas — while a voice recording from a phone could reach anywhere.",
+  "But the researchers themselves warn against exaggeration: the study was conducted on cases of asthma reported by the participants themselves, and the system still needs independent future trials before any real clinical use.",
+  "Simply put: your phone may one day become an early screening device for asthma just by you speaking into it — would you trust a diagnosis that starts from a voice recording?",
+  "Would you try a voice test like this if it were available in your country?"
+ ]
+}

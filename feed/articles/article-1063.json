@@ -1,0 +1,24 @@
+{
+ "id": 1063,
+ "slug": "article-1063",
+ "title": "🛡️ A journalist with no experience finds a serious WordPress flaw — with AI help in 6 hours!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r276-w276-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Security"
+ ],
+ "body": [
+  "🛡️ A journalist with no experience finds a serious WordPress flaw — with AI help in 6 hours!",
+  "A tech journalist had never hunted a software bug in his life, but he decided to try: he used two free AI models, and in only about 6 hours he found a real flaw in a popular WordPress plugin, reported it officially, and it was confirmed and given an official vulnerability number.",
+  "The plugin is WPIDE, a tool for managing files and editing code inside the WordPress dashboard, running on more than 40,000 websites. The flaw carries the number CVE-2026-124251 and a severity score of 8.8 out of 10, and it is an incomplete fix for an earlier flaw from last July.",
+  "The problem is that the earlier fix added a check for a security token, but the check only works when the page name in the link is exactly the plugin's main name, while the plugin registers 7 subpages with different names, such as the file manager, the image editor, the database manager, and Snippets, so their requests all pass without any security check.",
+  "Worse still, the Snippets feature lets an administrator write PHP code and run it directly on the server, so an attacker with no account at all can trick a logged-in site administrator into visiting a malicious page, and the attacker's code then runs inside the server with the administrator's own privileges, possibly leading to full control of the site.",
+  "The fix was released in version 3.6.5 on 8 November, and no actual exploitation of the flaw has been confirmed so far, so everyone using the plugin is advised to update immediately, review the snippets folder and delete any unknown snippet, and change administrator passwords if any suspicious file is found.",
+  "Simply put: free AI now helps even non-specialists find flaws in hours — has finding flaws become faster than fixing them?",
+  "If AI can find a flaw in 6 hours, do you still feel your website is safe?"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "id": 169,
+ "slug": "article-169",
+ "title": "🚨 A Breach Hits Zoom, BBC, and CNN Websites to Steal Crypto!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r101-w101-12.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🚨 A Breach Hits Zoom, BBC, and CNN Websites to Steal Crypto!",
+  "Security researchers uncovered a wide attack that targeted visitors to the websites of 178 organizations around the world, including Zoom, BBC, CNN, Salesforce, HSBC, and IKEA, by breaching the “Optimizely” platform that websites use to test their pages. Instead of hacking each website separately, the attacker planted malicious code in one shared service, so every website displayed it to its visitors without knowing. The code replaced crypto wallet addresses with the attacker’s addresses, stole card numbers entered in payment forms, captured screenshots and cookies, and also loaded hacking tools named “Corona” and “Dark Sword” onto iPhones and iPads. The attacker stole about $7,040 in crypto in just nine hours. The platform confirmed the incident on November 17 and announced that it fixed the flaw and removed the malicious code, while Apple said the targeted flaws in its phones were fixed last year, and that anyone who updates their device is protected.",
+  "Simply put: the attack did not hack the famous websites themselves, but hacked a tool everyone uses — so visitors received the malware from a website they trust.",
+  "Do you check your crypto wallet address before sending any amount?"
+ ]
+}

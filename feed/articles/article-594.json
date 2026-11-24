@@ -1,0 +1,25 @@
+{
+ "id": 594,
+ "slug": "article-594",
+ "title": "🛡️ \"GPT-6 Cyber\" finds about 35 flaws in Apple devices — some bypass \"Lockdown Mode\"!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r155-w155-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ \"GPT-6 Cyber\" finds about 35 flaws in Apple devices — some bypass \"Lockdown Mode\"!",
+  "The cybersecurity-specialised model \"GPT-6 Cyber\", in cooperation with the security firm Calypso, revealed about 35 flaws of varying severity in Apple devices and software, in new results weeks after the model's launch.",
+  "The scan covered almost all of Apple's product lines: the iPhone, Mac computers, the iPad, the Apple Watch, the Apple TV and the Vision Pro headset.",
+  "Some of the discovered flaws could theoretically allow an attacker to take control of a Mac or iPhone as soon as the victim opens a malicious website, without needing to install any app.",
+  "The team also succeeded in building an exploit code that bypasses the iPhone's \"Lockdown Mode\" protection — the mode that deliberately restricts the phone's features to reduce attackers' chances — making this bypass a striking result.",
+  "Calypso said Apple fixed many of the discovered flaws shortly after being notified, while the number of open flaws remains unknown.",
+  "Calypso CEO Tai Dong said the model clearly outperforms its predecessors in the speed of turning a discovered flaw into ready exploit code — a speed that helps defenders close flaws faster, but could become a danger if the model falls into attackers' hands.",
+  "Simply put: imagine an AI that scans the world's most famous phones and computers and finds dozens of flaws in weeks, and even writes the attack code itself. That is why installing security updates as soon as they are released has become a necessity, not a luxury.",
+  "Do you update your devices as soon as security updates arrive, or do you postpone them?"
+ ]
+}

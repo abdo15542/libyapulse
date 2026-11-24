@@ -1,0 +1,23 @@
+{
+ "id": 459,
+ "slug": "article-459",
+ "title": "🔥 Gemini Saves Residents from a Wildfire — It Caught the Distress Call from Radio Static in Under 30 Seconds!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r132-w132-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🔥 Gemini Saves Residents from a Wildfire — It Caught the Distress Call from Radio Static in Under 30 Seconds!",
+  "Google developed a new tool powered by the Gemini model that helps the nonprofit app Watch Duty detect wildfires faster, by converting garbled fire radio communications into clear, searchable text. The app runs thanks to volunteers — firefighters and retired and working emergency operators — who monitor up to 20 radio broadcasts manually, a task made harder by engine noise, wind, static, and specialized technical terms.",
+  "A team of Google engineers and researchers spent six full months working with the app, using more than 20,000 hours of previous radio recordings to build the tool, which cleans heavy static and translates firefighting terms into clean text, so the system catches a new fire signal in under 30 seconds, even in areas where no other automated detection exists.",
+  "Results showed the tool cut the word-error rate in degraded radio audio from 38% to 22.34%, and it transcribes more than 200 hours of radio speech daily from about 400 active broadcasts, with a design that can handle up to 10,000 broadcasts at once. Volunteer satisfaction with the radio transcription tools also jumped from 35.3% to 92.3%.",
+  "The tool was tested in a real fire last July, when the Railroad Fire ignited at night in Washington state: the system transcribed the first distress call from the garbled radio and raised the alert in under 30 seconds, enabling the team to verify the fire and send the first critical nighttime alert in the app's history — an alert that breaks through Do Not Disturb mode on phones, helping residents evacuate before the flames reached their homes while they slept.",
+  "Simply put: when minutes are the difference between life and death, AI has become an ear that hears the distress call amid the static before any human does.",
+  "Do you think AI should enter every early-warning system for disasters, or should the decisive decision remain human?"
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "id": 5,
+ "slug": "article-005",
+ "title": "WhatsApp Adds Advanced Privacy for Chats",
+ "date": "2026-11-18",
+ "category": "apps",
+ "category_name": "Apps & Platforms",
+ "image": "https://abdo15542.github.io/techpulse/assets/techpulse-logo.png",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "WhatsApp"
+ ],
+ "body": [
+  "WhatsApp has added an \"Advanced Chat Privacy\" feature that prevents exporting a chat and blocks automatic media downloads inside the chat.",
+  "Simply put: exporting a chat means copying its contents outside the app; the new feature prevents that and protects your privacy, on top of the end-to-end encryption that already protects your messages.",
+  "Will you enable Advanced Privacy in your important chats?"
+ ]
+}

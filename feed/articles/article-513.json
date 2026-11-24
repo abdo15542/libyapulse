@@ -1,0 +1,23 @@
+{
+ "id": 513,
+ "slug": "article-513",
+ "title": "🎭 Fake Elon Musk Livestream Fools Hundreds — and AI Saves $4.7 Million!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r142-w142-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🎭 Fake Elon Musk Livestream Fools Hundreds — and AI Saves $4.7 Million!",
+  "Scammers exploited Tesla's flying-car reveal, creating a fake livestream on YouTube that appeared to broadcast the event, featuring an AI-generated video of Elon Musk, along with crypto wallet addresses and a QR code, promising that every coin viewers sent would return to them doubled — and the stream drew more than 500,000 viewers.",
+  "In about two hours, hundreds of Coinbase customers tried to send millions of dollars to the scammers, including long-time users of the platform. No account was hacked — the victims themselves approved the transfers, believing it was the opportunity of a lifetime. That is what makes this kind of fraud hard to detect: standard protection systems look for activity the customer did not authorize, but here the customer was the one who pressed the confirm button.",
+  "But the platform's AI-powered fraud-prevention system spotted suspicious patterns in the outgoing transfers in real time — such as free-giveaway patterns, brand impersonation, and newly created wallets — then an AI agent stepped into a short conversation with each customer, explaining the signs of fraud and asking questions that made them think twice, stopping about $4.7 million — around 91% of the money customers tried to send — with no human intervention.",
+  "The company said its agent had never faced this exact type of fraud before — a fake giveaway tied to a live product launch — but it recognized the underlying fraud techniques, such as promises to double coins, pressure tied to a live event, and irreversible transfers. The company has not yet disclosed how much money actually reached the scammers.",
+  "Simply put: imagine someone impersonating a celebrity in a livestream and asking you to send them your money so they can double it; the victims sent it themselves, but an AI noticed the trap and stopped most of the transfers before they left the accounts.",
+  "Would you trust a livestream just because it looks real?"
+ ]
+}

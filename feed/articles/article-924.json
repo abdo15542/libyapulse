@@ -1,0 +1,24 @@
+{
+ "id": 924,
+ "slug": "article-924",
+ "title": "☁️ \"Amazon\" Launches \"T9g\" Computers with the \"Graviton 5\" Chip! 45% Better Performance for the Price — and the Two Smallest Are Free!",
+ "date": "2026-11-23",
+ "category": "tech-news",
+ "category_name": "Tech News",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r242-w242-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cloud"
+ ],
+ "body": [
+  "☁️ \"Amazon\" Launches \"T9g\" Computers with the \"Graviton 5\" Chip! 45% Better Performance for the Price — and the Two Smallest Are Free!",
+  "\"Amazon\" announced on 20 November the general availability of its new \"EC2 T9g\" cloud computers — low-cost machines powered by its own \"Graviton 5\" chip — saying they offer the best performance for the price among public cloud computers.",
+  "The new machines beat the previous \"T4g\" generation by up to 45% in performance for the price, with up to 2.3 times the computing performance, 1.5 times the network bandwidth and 2.8 times the storage bandwidth, and they are built on sixth-generation \"Nitro\" cards that isolate customers' data from each other with verified mathematical guarantees.",
+  "The computers come in four sizes — nano, micro, small and medium — and the two smallest sizes, \"micro\" and \"small\", run within \"Amazon's\" free tier, making them a cheap entry point for any small project wanting to try the cloud without a big bill.",
+  "The machines use the same CPU credit system as the previous generation, collecting credit during idle times and spending it when higher performance is needed. They are designed for low-to-medium processing work: data processing, gateways, small databases, microservices, low-traffic websites, and test and development environments.",
+  "The new computers are available in 12 regions around the world, including Northern Virginia, Ohio, California and Oregon in the US, Frankfurt and Spain in Europe, and Tokyo, Singapore, Sydney and Malaysia in Asia-Pacific, and can be bought on-demand, at discounted spot prices, or with savings plans.",
+  "Simply put: a cheaper and faster cloud computer at the same time — and the smallest one is free. Will small projects move to the new generation?",
+  "Would you choose a cheaper cloud computer running a purpose-built chip, or prefer the traditional computers you already know?"
+ ]
+}

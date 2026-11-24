@@ -1,0 +1,19 @@
+{
+ "id": 7,
+ "slug": "article-007",
+ "title": "Microsoft Launches 7 In-House AI Models",
+ "date": "2026-11-18",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/techpulse/assets/techpulse-logo.png",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "Microsoft has launched 7 AI models developed in-house, to compete with OpenAI and Anthropic models at a lower cost.",
+  "Simply put: a model is the brain that powers AI tools; owning its own models means the company has more control and lower costs in the long run.",
+  "Do you trust Microsoft's new models?"
+ ]
+}

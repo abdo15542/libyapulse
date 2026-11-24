@@ -1,0 +1,25 @@
+{
+ "id": 583,
+ "slug": "article-583",
+ "title": "🔍 Microsoft rebuilds Windows 11 search from scratch — faster, lighter and ad-free!",
+ "date": "2026-11-21",
+ "category": "phones",
+ "category_name": "Phones & Devices",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r152-w152-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Windows"
+ ],
+ "body": [
+  "🔍 Microsoft rebuilds Windows 11 search from scratch — faster, lighter and ad-free!",
+  "Microsoft released the optional KB5132057 update for Windows 11 versions 25H2 and 26H2 on November 20, containing 28 changes and fixes, the most prominent being a complete rebuild of search.",
+  "The new search is built on WinUI 3 technology instead of the previous web technology, making it faster and using less memory, with results in a single list and no promotional content in web results. Web and Store results can also be disabled from the settings.",
+  "Search adds \"inline actions\" directly from the search box: turning on dark mode or Bluetooth, adjusting brightness, muting sound, and connecting to an Android phone via Phone Link.",
+  "A new Run window also arrives with a modern design, appearing in just 94 milliseconds, enabled from the settings, and File Explorer search from \"This PC\" now relies on the index, making it faster.",
+  "The update improves face recognition in Windows Hello, temporarily raising screen brightness in dark rooms, and raises devices to build 26300.10075 for version 26H2 or 26200.10075 for version 25H2.",
+  "The update is optional and non-security, and its changes will reach everyone in the December update, the last non-security preview update in 2026. The device may need one extra restart to update the Secure Boot certificate.",
+  "Simply put: imagine Windows search becoming like a fast, clean search: you type, results appear instantly without ads, and you turn on dark mode or Bluetooth from the same place without opening the settings.",
+  "What bothers you most about the current Windows search: the slowness or the ads?"
+ ]
+}

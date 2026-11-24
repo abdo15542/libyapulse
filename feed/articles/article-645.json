@@ -1,0 +1,26 @@
+{
+ "id": 645,
+ "slug": "article-645",
+ "title": "🧠 A brain-computer interface restores arm movement after a stroke — a trial on 32 patients!",
+ "date": "2026-11-21",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r166-w166-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Science"
+ ],
+ "body": [
+  "🧠 A brain-computer interface restores arm movement after a stroke — a trial on 32 patients!",
+  "A scientific journal published the results of a new clinical trial: training with a brain-computer interface helps recent stroke patients regain movement in the affected arm.",
+  "The trial involved 32 patients in the subacute stage after a stroke, divided into two equal groups of 16. Each group trained for 30 minutes per session, 5 sessions a week, for 4 weeks, in addition to the usual rehabilitation therapy.",
+  "In the interface group, the patient imagines moving their arm while playing a virtual swimming game; the device reads the brain signals, and when the signal is strong enough, it moves a robotic arm that helps the patient's arm move.",
+  "The second group received a sham training identical in form and duration, but its device does not respond to brain signals, so the researchers could measure the effect of the real interface alone.",
+  "The interface group achieved greater improvement on the Fugl-Meyer upper-limb movement scale and on the hand-function and movement-assessment tests, while the difference was not clear on the daily-independence scale.",
+  "MRI scans showed brain changes in the interface group, including increased grey-matter volume in the supplementary motor area and stronger connections with other areas in the cerebellum, and these changes were linked to improved movement.",
+  "The researchers stress that the results are promising but need larger trials and longer follow-up before the method is adopted as a routine treatment.",
+  "Simply put: the patient imagines the movement and the device helps carry it out, so the brain relearns movement step by step.",
+  "Do you know anyone who could benefit from a technology like this after a stroke? Share your thoughts."
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": 1142,
+ "slug": "article-1142",
+ "title": "🔐 Don't Just Close the Tab! Official Warning: An Open WhatsApp Web Session Could Steal Your Account!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r290-w290-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Security"
+ ],
+ "body": [
+  "🔐 Don't Just Close the Tab! Official Warning: An Open WhatsApp Web Session Could Steal Your Account!",
+  "India's cybercrime unit has issued a new security warning to WhatsApp Web users, warning against leaving a session signed in on shared or public devices, because it could open the door to the theft of the entire account.",
+  "The warning explains that anyone who reaches an active WhatsApp Web session can read your private messages, send messages in your name, access your contacts and group chats, and exploit people's trust in you to carry out fraud, phishing, and social engineering.",
+  "The most dangerous mistake many people make is believing that closing the browser window or tab ends the session — while in reality the session stays active after closing, and the only way to end it is to log out manually after every use.",
+  "The unit warned specifically against using WhatsApp Web on shared work devices, public devices, internet cafes, service kiosks, hotel business centres, and borrowed devices, and advised against exchanging any official, financial, or confidential information through the web version on computers.",
+  "The warning also advised using private browsing mode when forced to, keeping operating systems, browsers, and security software updated, and watching for any strange activity in the account, such as messages you did not send or unexpected replies from your contacts.",
+  "This warning comes after two earlier warnings in June and August of the same year about a campaign that targeted senior executives, company managers, and accountants, at a time when cyberattacks on institutions are growing around the world.",
+  "Simply put: closing the tab does not mean logging out... and a single open session could be enough to steal your identity... Do you log out of WhatsApp Web after every use?",
+  "Do you leave WhatsApp Web open on a shared device?"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "id": 798,
+ "slug": "article-798",
+ "title": "🏦 251,000 Records Leaked From a Japanese Payment App, and the Service Stops!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r208-w208-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🏦 251,000 Records Leaked From a Japanese Payment App, and the Service Stops!",
+  "Japanese company Infcurion confirmed unauthorized access to its Wallet Station payment-wallet platform, which it supplies to businesses, and halted the service for affected customers, while Japanese banks suspended a regional payment app after more than a quarter of a million records were leaked.",
+  "The breach was discovered on November 19, and the company cut off the suspicious connections and stopped the affected function the next day. By November 21, it had begun gradually restarting the service for providers whose checks proved safe, while the provider whose data leaked remains suspended with no set date for its return.",
+  "Four banks behind the Pay-don payment app announced the leak of 251,172 records, which may include names, dates of birth, phone numbers, gender, email addresses, and passwords, in addition to payment-method data and transaction history. The banks shut down the entire app at 6:26 a.m. on November 20, Japan time, to prevent the damage from spreading.",
+  "JACCS also temporarily suspended its Spli and House Pay payment services in its app, because they rely on the same platform, and is still checking whether its customers' data is among the leaked records. The company confirmed it has not detected any misuse of the leaked data so far, and warned customers about unexpected calls and messages asking for passwords.",
+  "Simply put: one platform serves several companies, so if it is breached, everyone's data leaks together; so do you know who really keeps your payment data: the app you see, or the company behind it?"
+ ]
+}

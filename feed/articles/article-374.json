@@ -1,0 +1,22 @@
+{
+ "id": 374,
+ "slug": "article-374",
+ "title": "🏦 Singapore's Central Bank Invents 'Know Your Agent' — an Official Identity for AI Agents in Banks!",
+ "date": "2026-11-21",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r123-w123-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "TechMarkets"
+ ],
+ "body": [
+  "🏦 Singapore's Central Bank Invents 'Know Your Agent' — an Official Identity for AI Agents in Banks!",
+  "The Monetary Authority of Singapore, the country's central bank, announced on November 19 a plan for a new protocol called \"Know Your Agent\" that lets banks verify the identity of AI agents before allowing them to handle money on behalf of customers, during the Singapore FinTech Festival.",
+  "The protocol will exchange information about the agent's identity, whom it represents, the permissions granted to it, the authorization it operates under, and its origin and trustworthiness, so a financial institution can set the terms and scope of what the agent is allowed to do, and open a dedicated secure channel for it. The authority's managing director, Chia Der Jiun, warned consumers against giving their agents their bank account passwords, stressing that humans must retain real control over their agent's goals and actions.",
+  "The authority will also create a testing environment with the Future of Finance Institute, bringing agents and programmable money together in corporate treasury management and payment services, where an agent might monitor a company's liquidity and payment dates and decide when and where money moves. The plans also include a new framework for tokenized guarantees, and turning the digital-currency test network into a settlement platform called \"SG Digital Ledger\".",
+  "Simply put: just as banks verify your identity before opening an account, they will soon start verifying the identity of the AI agent acting in your name — so never hand it your password.",
+  "Would you let an AI agent move your money on your behalf?"
+ ]
+}

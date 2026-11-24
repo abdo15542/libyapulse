@@ -1,0 +1,24 @@
+{
+ "id": 504,
+ "slug": "article-504",
+ "title": "💻 A Free Sandbox for Coding Agents — They Work Freely Without Touching Your Device's Secrets!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r139-w139-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "💻 A Free Sandbox for Coding Agents — They Work Freely Without Touching Your Device's Secrets!",
+  "The Eclipse Foundation launched version 1.0 of Enclave, an open-source runtime and sandbox that lets autonomous coding agents work without giving them unrestricted access to the developer's device.",
+  "Coding agents have moved beyond suggesting lines of code — they now write programs, modify them, execute commands, install packages, and run tests themselves — but giving them full freedom could expose sensitive information or cause unintended changes to files.",
+  "Enclave solves the problem by running each agent session inside an isolated container, which reaches only the files, network, and resources the developer specified in advance, with special protection for API keys and access tokens to external services, so your keys and other files stay out of the agent's reach.",
+  "The release supports Claude Code, Codex, Open Code, Copilot, and other agents, and several agents can run in parallel on different tasks without their work interfering, with sessions resumable without losing progress or settings.",
+  "The program is now available free under the MIT license for Linux and Mac systems, and it came from technology developed by EclipseSource, which then donated it to the Foundation to become a neutral open project not tied to a single company.",
+  "Simply put: the agent works with complete freedom inside a small box you define, and everything outside the box stays closed to it.",
+  "Would you let an AI agent write code alone on your device?"
+ ]
+}

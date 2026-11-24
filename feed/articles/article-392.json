@@ -1,0 +1,22 @@
+{
+ "id": 392,
+ "slug": "article-392",
+ "title": "✈️ One Fault Grounded Every Plane in America! New Routers Flooded the Air-Traffic Network!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r125-w125-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Aviation"
+ ],
+ "body": [
+  "✈️ One Fault Grounded Every Plane in America! New Routers Flooded the Air-Traffic Network!",
+  "On November 13, all flights in the United States stopped for more than four hours, after air-traffic control centers suddenly lost contact with aircraft and radar images. The Federal Aviation Administration was forced to issue a nationwide ground stop for all departures — only the third time in history this step has been taken, after the September 11 attacks and the aviation notification system outage in January 2023 — and thousands of flights were canceled and millions of travelers were disrupted.",
+  "The initial investigation revealed the cause: new network routers from \"HPE Juniper\" recently installed at two sites — a wireless communications facility in El Dorado, Arkansas, and a radar site in Amarillo, Texas — as part of a project replacing old copper wiring with fiber optics, carried out by contractor \"L3Harris\". The routers began sending a thousand connection attempts every four or five seconds, flooding the old communications network that connects more than 4,400 facilities, until controllers could no longer coordinate aircraft movements.",
+  "The administration confirmed that the collision-avoidance system inside the aircraft themselves was not affected, but it disabled a feature in the routers themselves at about sixty similar sites to prevent a repeat, and temporarily halted installing more of them. The manufacturer insists its devices worked as designed, while investigators are still looking into whether the fault was in the installation, the settings, or the technology itself. No final root-cause report has been issued yet, and there is no evidence of a cyberattack.",
+  "Simply put: routine maintenance at a remote site unleashed a flood of notifications that drowned an old network, grounding an entire country — because the system that runs the skies still partly runs on copper wires decades old.",
+  "Can you believe a single router can ground an entire country's flights?"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "id": 176,
+ "slug": "article-176",
+ "title": "⚠️ Cisco Expressway Flaw Being Exploited in Real Attacks a Month After It Was Fixed!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r102-w102-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "⚠️ Cisco Expressway Flaw Being Exploited in Real Attacks a Month After It Was Fixed!",
+  "Security company “F6” announced that a critical flaw in Cisco Expressway servers, carrying the number CVE-2026-76466 and a severity score of 9.8 out of 10, is now being exploited in real attacks, about a month after Cisco published its fix on October 21. The attackers breached a company in Russia through two Expressway servers exposed on the internet, then moved from them to other servers inside the network, ran commands with root privileges, and searched shared files, databases, and code repositories. The flaw affects Expressway devices configured in clusters, and the fix is in version X15.5.20, while versions X14 and older have no local fix and must be upgraded to a newer version.",
+  "Simply put: the flaw lets an attacker take full control of a communications server that connects the internet to the internal network; anyone who delayed updating after the fix was published became an easy target.",
+  "Do you follow network device updates in your company regularly?"
+ ]
+}

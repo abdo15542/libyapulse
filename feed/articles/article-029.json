@@ -1,0 +1,21 @@
+{
+ "id": 29,
+ "slug": "article-029",
+ "title": "$4.5 Billion Deal: Cybersecurity Buys Into AI! 💰",
+ "date": "2026-11-19",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r05-a02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "$4.5 Billion Deal: Cybersecurity Buys Into AI! 💰",
+  "On November 18, Palo Alto Networks, one of the world's largest cybersecurity companies, announced it was buying Applied Compute for $4.5 billion, paid entirely in stock.",
+  "The acquired company develops a platform that helps businesses train and run AI models securely inside their own organizations. Open-weight models are models whose trained internal settings are published openly, so any developer can modify and run them on their own instead of renting a closed model.",
+  "The deal means security companies are no longer just protecting networks — they want to secure AI itself, because AI tools are now exposing vulnerabilities faster than companies can fix them.",
+  "Do you trust AI to protect your data — or do you think it threatens it more? 🤔"
+ ]
+}

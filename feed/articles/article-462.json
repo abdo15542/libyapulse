@@ -1,0 +1,24 @@
+{
+ "id": 462,
+ "slug": "article-462",
+ "title": "🌪️ Google Builds a 'Wind Tunnel' for AI Agents — a Complete Fake Company to Test Agents Before Launching Them!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r132-w132-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🌪️ Google Builds a 'Wind Tunnel' for AI Agents — a Complete Fake Company to Test Agents Before Launching Them!",
+  "Google revealed a new internal system for testing AI agents that answer companies' data questions, calling it the 'Wind Tunnel' — like the wind tunnels car designers use to test their models before manufacturing them.",
+  "The problem is that testing an agent on a company's real data is hard: the data is sensitive and cannot be shared, the tables are undocumented, and there are no ready correct answers to check against. So the system builds a complete fake company from a short description in plain language, such as: 'Simulate a brake factory with two plants, an ERP system, and three shifts.' From this description alone, the system invents the company — its tables, rows, event logs, documents, and conversations — plus a bank of hard questions and documented correct answers.",
+  "The build goes through four stages: first, a language model turns the description into a fixed schema defining the company's systems, people, metrics, and beliefs — even deliberately wrong beliefs. Then the tables are built deterministically from the schema without model intervention, so organizational chaos appears naturally: old procedures, conflicting definitions, and duplicate rows. Then documents and conversations are written in each person's style. Finally, the agent is tested through a read-only interface without seeing the schema or the answers.",
+  "Among the planted traps is the story of shift supervisor Bob, who believes a wrong definition of 'downtime' because it makes his shift's numbers look better, while the official definition is different, and the metric's owner corrects it later in a side conversation. A naive agent believes Bob's memo and answers wrongly, while a good agent tracks down the metric owner and later corrections. The system also plants questions about invented metrics that do not exist, to make sure the agent admits it does not know the answer instead of inventing one.",
+  "Google says it uses the system internally to test its data agents and harden them against real-world chaos without touching customer data, and that improvements that raise accuracy in the tunnel raise it in the same direction on real data.",
+  "Simply put: before launching an AI agent on your company's real data, test it in a complete fake company — with mistaken employees, conflicting documents, and duplicate numbers — exactly like reality.",
+  "Would you trust an AI agent answering your company's data questions, or could a mistake in it cost more than its benefit?"
+ ]
+}

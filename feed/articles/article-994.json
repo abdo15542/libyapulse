@@ -1,0 +1,25 @@
+{
+ "id": 994,
+ "slug": "article-994",
+ "title": "🩺 Ling Santi 3.1 Flash: an open-weight medical model with 560 billion parameters beats the closed models!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r256-w256-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🩺 Ling Santi 3.1 Flash: an open-weight medical model with 560 billion parameters beats the closed models!",
+  "The Ant Ling group has launched a new open-weight model for medical work called Ling Santi 3.1 Flash, on November 22, making it available under the MIT license through the Hugging Face platform.",
+  "The model is built for complex medical reasoning and long, multi-stage health tasks, and it is a mixture-of-experts model built on Ling 3.1 Flash, with a total of 560 billion parameters of which 25 billion are activated per token, and a context window of up to one million tokens.",
+  "According to the company's own results, the model scored 65.72 on the professional HealthBench test, 72.22 on Humanity's Last Exam, and 94.10 on BrowseComp, and the company says it outperformed GPT-6 Astra, Claude Opus 5.5, and Gemini 4 Argon on all three tests, as well as scoring 57 on PhysicianBench and 74.40 on EHR Complex.",
+  "The previous version of the family was much smaller, with a total of 124 billion parameters and 5.1 billion active parameters per token, while the new model combines medical thinking, professional communication, evidence-based research, and tool use, after training, reinforcement learning, and merging skills from several teacher models.",
+  "The model card explicitly warned that it is not a medical device, and that it must not be used as an independent basis for diagnosis, prescribing medicine, or treatment, and that its medical outputs may be incorrect, incomplete, outdated, or not supported by the cited evidence.",
+  "To run it, the card recommends eight H200 cards or four GB300 cards, and in the same week a compressed version of the model and a vision version of the same family were also released.",
+  "Simply put: an open medical model claims to beat the strongest closed models... yet it warns itself against relying on it for diagnosis; will doctors one day trust an open-source model?",
+  "Would you accept an AI model helping your doctor with diagnosis?"
+ ]
+}

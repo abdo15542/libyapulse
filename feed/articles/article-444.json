@@ -1,0 +1,23 @@
+{
+ "id": 444,
+ "slug": "article-444",
+ "title": "🎬 'Gemini' Makes You Animated GIFs from a Single Sentence — for Free!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r130-w130-10.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Gemini"
+ ],
+ "body": [
+  "🎬 'Gemini' Makes You Animated GIFs from a Single Sentence — for Free!",
+  "\"Google\" has added a new feature to its \"Gemini\" assistant that creates animated images in \"GIF\" format from a simple text description, or from a photo or video clip you attach. Instead of searching ready-made libraries for the right animated image, you write what you want and \"Gemini\" turns it into a silent animated loop lasting about three seconds.",
+  "The feature runs on the latest video model, \"Gemini Omni 1.2 Flash\", which generates smooth motion and consistent quality across every frame. You can copy, download, or share the animated image in documents, email, messages, and apps that support the format.",
+  "To make an animated image, open \"Gemini\" and choose the image or video tool, then pick the \"GIF\" format from the selector, write your scene description, and you can also attach your own photo to turn yourself into an animated image. The feature is free, and currently available in eight countries: the United States, Japan, Korea, Australia, Canada, Britain, Germany, and France, and you must be 18 or older to edit your own photo.",
+  "The GIF launch comes after models began generating video clips of up to 15 seconds, editable by conversation, in a heated race between \"Gemini\" and \"ChatGPT\" over creative tools.",
+  "Simply put: write one sentence like \"a cat flying over a city\", and get a share-ready animated image in seconds, without searching and without a subscription.",
+  "What would be the first animated image you'd make if you tried the feature now?"
+ ]
+}

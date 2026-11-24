@@ -1,0 +1,24 @@
+{
+ "id": 881,
+ "slug": "article-881",
+ "title": "✈️ Data of 9 Million Passengers Leaked at a Japanese Airline! Names, Addresses, and Flight Itineraries!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r227-w227-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "✈️ Data of 9 Million Passengers Leaked at a Japanese Airline! Names, Addresses, and Flight Itineraries!",
+  "Japanese airline Peach Aviation announced on November 20 that data on 8,997,106 customer records had leaked, after unauthorized access to the \"Cuenote FC\" email service operated for it by YM Link.",
+  "The leaked data includes names, dates of birth, gender, addresses, phone numbers, email addresses, and itinerary details, but does not include credit card or passport data.",
+  "The attack hit the supplier's servers on October 18, and the scope of the impact was determined on November 6. The company confirmed the incident was not a ransomware attack and that the investigation into how the breach happened is still ongoing.",
+  "Booking, changing bookings, and flight operations were not affected, but newsletter distribution, automated messages, and airport refund forms were suspended, and the company will use alternative procedures when needed to process refunds.",
+  "The company said no unauthorized use of the data has been confirmed so far, that it has notified Japan's Personal Information Protection Commission, and that it will contact affected customers one by one through their registered email.",
+  "Simply put: the airline itself was not hacked — the email company that sends its messages was. Do you know how many third-party companies hold your data without you realizing?",
+  "Does it worry you that your travel data could leak from a company you have never even heard of?"
+ ]
+}

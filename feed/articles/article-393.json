@@ -1,0 +1,22 @@
+{
+ "id": 393,
+ "slug": "article-393",
+ "title": "🕵️ A Researcher Plants Two Million Secret Traps in AI — and Discovers Your Secrets Are Being Stolen!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r125-w125-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🕵️ A Researcher Plants Two Million Secret Traps in AI — and Discovers Your Secrets Are Being Stolen!",
+  "Security researcher HD Moore, chief research officer at \"Dragos\", published on November 19 the results of a five-month experiment: he sent about two million messages to AI services, each carrying a unique fake secret found nowhere else — cloud keys for empty accounts, passwords, secret links, and addresses of private code repositories — then watched where these secrets surfaced. The result is shocking: the whole system leaks like a sieve.",
+  "He found that at least three AI hosting providers are compromised, and that attackers stole the messages reaching them and used about two hundred stolen cloud keys in tens of thousands of API calls, searching for data and creating new accounts. He also found vendors in inference marketplaces simply recording customer messages through the built-in logging feature, without exploiting any vulnerability, and that some providers ignored strict privacy settings like \"no data retention\", forwarding messages to other parties.",
+  "Strangest of all, a Chinese AI lab opened the secret links in more than half of the messages sent to its models between July and October, including two-thirds of the messages marked as no-data-collection, and one secret link appeared 24 days later in an internal company conversation, opened within two minutes from three computers and three phones in Beijing and Shanghai. The researcher advises running models on your own servers if possible, or planting fake secrets in your messages to detect any leak as soon as it happens.",
+  "Simply put: when you type a secret into a chatbot, it may not stay with the company you chose, but pass through intermediaries and vendors you don't know — some of whom read it and keep it despite privacy promises.",
+  "Do you still type your work secrets into chatbots after this news?"
+ ]
+}

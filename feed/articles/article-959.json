@@ -1,0 +1,24 @@
+{
+ "id": 959,
+ "slug": "article-959",
+ "title": "🐧 'Debian 13.8' Arrives! 150 Security Updates and 122 Fixes... and a Secure Boot Flaw Is Closed!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r247-w247-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🐧 'Debian 13.8' Arrives! 150 Security Updates and 122 Fixes... and a Secure Boot Flaw Is Closed!",
+  "The Debian project announced on 21 November the release of Debian 13.8, the eighth update to the stable Debian 13 system known as 'Trixie', carrying a huge package of fixes to every user of the system.",
+  "The release includes 150 security updates and 122 bug fixes, spread across about 217 packages and 159 different vulnerabilities, from the Linux kernel to the Chromium browser, which topped the list alone with 16 security bulletins.",
+  "The most dangerous flaw closed in this release is a Secure Boot vulnerability numbered CVE-2026-97876, which allowed bypassing boot protection in the GRUB bootloader, along with a series of flaws in the glibc library involving out-of-bounds reads and writes and memory overflows, and updates to OpenSSL and Intel microcode.",
+  "The update also includes a new version of the MariaDB database that closes code execution, privilege escalation and SQL injection flaws, fixes for the Firefox ESR and Chromium browsers, the LibreOffice suite, nginx and PHP 8.4, with the system installer rebuilt on Linux kernel 6.12.117.",
+  "The good news for users is that this release is not a new version of the distribution, so there is no need to reinstall — the usual package update with a single command is enough. For those who want a fresh install, installer images are available for six architectures, and live images with the most popular desktop environments.",
+  "Simply put: a single maintenance update closes 159 vulnerabilities, including a dangerous Secure Boot flaw, without reinstalling... do you update your system as soon as security updates are released?",
+  "Do you use Debian or another Linux distribution on your device?"
+ ]
+}

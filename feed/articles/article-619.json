@@ -1,0 +1,24 @@
+{
+ "id": 619,
+ "slug": "article-619",
+ "title": "✉️ 1.08 million emails leaked from Osaka city system via an external mail provider!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r159-w159-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "✉️ 1.08 million emails leaked from Osaka city system via an external mail provider!",
+  "The Japanese city of Osaka announced on Friday, November 13, that 1,078,713 email addresses belonging to users of its electronic administrative system had leaked after an external mail service provider was hacked.",
+  "The addresses belong to people who received messages from the system between July 1 and October 31, 2026, for registration, password changes, logins, requests and status updates. The number was unusually large because the system sent a mass notification to all registered users on September 16.",
+  "The city's own system was not hacked — only the mail service used by the system provider. There was no evidence that passwords, payment data or message contents had leaked, but the city warned that attackers could use the addresses in scam messages impersonating the city or its system.",
+  "The wider incident is much bigger: the same attack on the mail service, which took place on November 2, affected around 400 client companies and exposed about 77 million email addresses, and the hacked service was used to send fraudulent messages.",
+  "The city warned residents not to open unexpected links or attachments, and not to hand over passwords, ID numbers or payment details.",
+  "Simply put: your email address alone is enough for a scam that addresses you by name and looks official. A leaked address is half the scam.",
+  "Would you open a message that looks like it's from your city council without thinking, or would you check first?"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "id": 1170,
+ "slug": "article-1170",
+ "title": "🚨 APT29 Hackers Break Into Android Phones Through Two Flaws in Chrome and Qualcomm!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r295-w295-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🚨 APT29 Hackers Break Into Android Phones Through Two Flaws in Chrome and Qualcomm!",
+  "A report from security firm Sequoia TDR revealed a spy campaign targeting Android and iPhone users through compromised websites, attributed to the state-backed Russian hacking group APT29.",
+  "The attackers exploited a flaw in the Chrome browser targeting versions 139 to 145, and another flaw in Qualcomm's Adreno graphics-processor driver, to break into Android devices. iPhone users were targeted through the same compromised websites.",
+  "The campaign relied on the \"watering hole\" technique: ordinary websites the victims visit daily were compromised to distribute the malware, including a Ukrainian web-analytics service called \"Blardy SEO Tracker\" that was used in a supply-chain attack.",
+  "The practical message is clear: update Chrome and your phone's system updates as soon as they arrive, and don't trust a website just because you've visited it hundreds of times before — even trusted sites can turn into traps.",
+  "Simply put: the hackers didn't send you a suspicious link… they planted the trap in websites you visit every day, and waited for you to walk over it.",
+  "Do you update your phone's browser and system as soon as updates are released?"
+ ]
+}

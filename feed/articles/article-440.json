@@ -1,0 +1,23 @@
+{
+ "id": 440,
+ "slug": "article-440",
+ "title": "🧱 'SonicWall' Ends Support for Its Old Firewalls — and Won't Fix Any Flaw After Today!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r130-w130-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🧱 'SonicWall' Ends Support for Its Old Firewalls — and Won't Fix Any Flaw After Today!",
+  "\"SonicWall\" has warned all customers still running its sixth-generation firewalls to replace them immediately and stop using them on the internet edge, because this generation has reached end of support and will receive no more updates or security fixes, no matter how serious a discovered flaw is — even if it's critical.",
+  "The warning covers all sixth-generation and 6.5 devices running \"SonicOS 6\", including \"TZ 350\", \"TZ 500\", \"SOHO 250\", \"NSa 4600\", and \"NSa 6600\" models and virtual firewalls. Support ended for some models on August 1, and for the rest on October 1, 2026, and support can no longer be purchased or renewed.",
+  "The company says any sixth-generation firewall still running should be considered a major risk, and that devices exposed to the internet will be an active target for attackers. Every fix released for supported generations becomes a map for attackers, showing them where to look in old devices that will never be fixed.",
+  "The company advises replacing the old devices with eighth-generation firewalls running \"SonicOS 8\", with the ability to transfer settings without rebuilding them. Until replacement, it advises disabling WAN management, disabling \"SSL VPN\" or restricting it, enforcing multi-factor authentication, and monitoring logs closely.",
+  "Simply put: a firewall without updates is like a door without a new lock; it works in appearance, but any new flaw in it stays open forever, and attackers know it.",
+  "Do you know whether the protection device in your company or home still receives updates?"
+ ]
+}

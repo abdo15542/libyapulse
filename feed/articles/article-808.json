@@ -1,0 +1,21 @@
+{
+ "id": 808,
+ "slug": "article-808",
+ "title": "🔬 TensorLean Mathematically Verifies AI Kernels... and Finds 38 Hidden Bugs!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r210-w210-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🔬 TensorLean Mathematically Verifies AI Kernels... and Finds 38 Hidden Bugs!",
+  "On November 20, researchers announced a new tool called TensorLean, the first that mathematically verifies the correctness of the graphics processor kernels that run AI models, instead of only testing them by trial. The tool works directly on the compiled code that the processors execute, and writes its proofs in the Lean mathematical language, which a computer can verify automatically.",
+  "The tool tested 149 real kernels used in the most popular AI libraries, proving that 83 of them were completely correct, and finding 38 bugs in 6 libraries, among them 23 bugs in the famous FlashAttention library, one of them a data race that 17,760 previous test runs had not revealed, and two bugs in the DeepGEMM library belonging to DeepSeek, whose existence the company itself confirmed.",
+  "The tool covers the FlashAttention libraries in all three of their versions, DeepGEMM, Liger Kernel, Triton, and TileOps, and works on A100, H100, and B200 processors, and the researchers promised to publish the scientific paper and make the tool available to everyone soon.",
+  "Simply put: instead of trying the kernel and hoping it works, we now have a mathematical proof that it is correct; so will mathematical verification become a requirement before running any AI model?"
+ ]
+}

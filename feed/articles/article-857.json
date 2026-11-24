@@ -1,0 +1,20 @@
+{
+ "id": 857,
+ "slug": "article-857",
+ "title": "🛡️ A \"Cooling-Off Period\" for New Packages: A Simple Trick That Protects Coding Agents from Poisoned Packages!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r219-w219-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Security"
+ ],
+ "body": [
+  "🛡️ A \"Cooling-Off Period\" for New Packages: A Simple Trick That Protects Coding Agents from Poisoned Packages!",
+  "A small new setting for coding agents called the \"package cooling-off period\" has appeared, preventing package managers from installing any version published less than seven days ago. The idea is simple: most malicious versions are discovered and pulled within a day or two, so waiting a week gives the internet time to test every version before it reaches your computer.",
+  "The setting applies to commands started by \"Claude Code\", including \"MCP\" servers and command hooks, and it also asks for your approval when any command tries to change the cooling-off settings themselves. It requires \"npm\" version 11.10 or newer and \"pnpm\" version 11 or newer, and its author tested \"uv\" version 0.11, while older \"npm\" versions silently ignore the setting, and \"pip\", \"yarn\" and \"bun\" do not cover it yet. This does not mean an older package is necessarily safe, but it makes the age of a version an explicit part of the working environment.",
+  "Simply put: just as you wait a few days before trying a new restaurant, wait a week before installing a new package — will you wait a week before installing any new package?"
+ ]
+}

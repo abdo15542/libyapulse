@@ -1,0 +1,21 @@
+{
+ "id": 706,
+ "slug": "article-706",
+ "title": "💾 DDR6 memory is coming — 45% smaller and more than 50% faster than DDR5!",
+ "date": "2026-11-22",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r185-w185-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Computing"
+ ],
+ "body": [
+  "💾 DDR6 memory is coming — 45% smaller and more than 50% faster than DDR5!",
+  "JEDEC, the organisation responsible for memory standards, has announced the first preview of DDR6 memory, the successor to today's DDR5, with a big leap in speed, capacity and energy efficiency. The bus width rises from 64 to 96 data lines, with a transfer rate starting at 12.8 gigatransfers per second, pushing the bandwidth increase past 50% compared with DDR5.",
+  "The most striking changes are in the form itself: the desktop memory module shrinks from 133.35 mm to just 74 mm — 45% smaller — the first time in history that JEDEC has changed the physical dimensions of desktop memory modules, after generations DDR1 through DDR5 all kept the same size. The goal is for the motherboard to fit more memory slots, raising the computer's total capacity.",
+  "The new memory also supports chips of up to 128 gigabits per chip, with improvements in chip stacking to raise density further, and much better energy efficiency than the current generation. The organisation is studying offering it in several forms, including RDIMM, UDIMM and CAMM, with arrival on the market expected in 2028 or 2029.",
+  "Simply put: smaller, much faster memory that opens the door to computers with larger capacities. Will you feel the difference when DDR6 reaches your computer, or is your current memory enough for years?"
+ ]
+}

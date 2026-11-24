@@ -1,0 +1,25 @@
+{
+ "id": 1134,
+ "slug": "article-1134",
+ "title": "🛻 One Phone Is Enough to Steal Your Trailer's Brakes! Dangerous Bluetooth Flaws in 'Elecbrakes' Units!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r289-w289-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛻 One Phone Is Enough to Steal Your Trailer's Brakes! Dangerous Bluetooth Flaws in 'Elecbrakes' Units!",
+  "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has warned of three serious flaws in Elecbrakes trailer brake control units that allow any nearby phone or computer to control the brakes without any password or pairing.",
+  "The two most severe flaws score 9.6 out of 10, as an attacker within Bluetooth range can send commands to the control unit and press the brakes with any force — even while driving on the highway — without the device asking for any authentication at all.",
+  "The danger does not stop at the brakes: a successful exploit could let the attacker modify the unit's firmware, disable the brake lights, change its operating conditions, or disable other critical safety features.",
+  "The flaws affect three models: the EB2, the VM1, and the ELBC 2000. The company has released firmware updates for the first two models, and all the owner needs to do is open the app and install the update to get the safe version, while the older ELBC 2000 model still has no fix, and the company is studying how to address it.",
+  "The flaws were discovered by two security researchers after one of them noticed that his remote control had connected to someone else's trailer while driving, and they then revealed that the over-the-air firmware update channel is almost entirely unprotected.",
+  "The company and the agency confirmed that no actual exploitation incidents involving these flaws and no resulting injuries have been recorded so far.",
+  "Simply put: your trailer's brakes connect over Bluetooth with no lock — and any nearby phone could press them — have you updated your brake unit's software?",
+  "Would you trust a safety device controlled by Bluetooth with no password at all?"
+ ]
+}

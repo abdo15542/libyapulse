@@ -1,0 +1,23 @@
+{
+ "id": 1048,
+ "slug": "article-1048",
+ "title": "🔒 GrapheneOS Is Building Its Own Encrypted Messaging App... Goodbye to Google's App!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r271-w271-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Privacy"
+ ],
+ "body": [
+  "🔒 GrapheneOS Is Building Its Own Encrypted Messaging App... Goodbye to Google's App!",
+  "GrapheneOS, a privacy-focused operating system built on Android, announced on November 21 that it has built a trial version of its own messaging app supporting encrypted RCS messages, in a step aimed at freeing its users from relying on Google's Messages app.",
+  "RCS is the next generation of text messaging: it supports read receipts, typing indicators, reactions, and high-quality photo and file sharing, and after encryption was added to it in version 3.0 of the global specification, conversations between Android and iPhone phones can now be encrypted.",
+  "The trial app uses the MLS protocol, an open protocol for encrypting group messages, to stay compatible with Google Messages and iOS, and it already works: a demo video showed encryption, typing indicators, delivery and read receipts, reactions, and media and file sharing.",
+  "The first version still relies on Google Play services in an isolated mode to register the phone on the RCS network, but it does not need Google's Messages app itself, and the project plans to make it fully independent with carriers that support that, then integrate it into its own messaging app, with no release date set yet.",
+  "Simply put: until now, roughly one app was the only door to encrypted RCS messages on Android... Will this trial app open a new door to encrypted messaging without going through Google?",
+  "If you could message any phone with encrypted messages from your own system's app, would you give up your other messaging apps?"
+ ]
+}

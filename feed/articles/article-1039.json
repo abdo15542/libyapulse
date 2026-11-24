@@ -1,0 +1,25 @@
+{
+ "id": 1039,
+ "slug": "article-1039",
+ "title": "⚛️ Pelagos from IBM and AMD: A Free Tool That Tests Quantum Computer Error Correctors at Record Speed!",
+ "date": "2026-11-23",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r268-w268-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Science"
+ ],
+ "body": [
+  "⚛️ Pelagos from IBM and AMD: A Free Tool That Tests Quantum Computer Error Correctors at Record Speed!",
+  "On November 16, IBM and AMD announced the launch of a new open-source tool called Pelagos, which helps researchers test quantum computer error-correction software at large scale.",
+  "Quantum computers are error-prone by nature, so they need special software called decoders that detect where an error occurred and correct it without revealing the information itself — and testing these decoders requires simulating billions of error patterns.",
+  "The new tool uses graphics cards to accelerate these tests, reaching speeds up to 97 times faster than a single CPU core — the equivalent of hundreds of traditional CPU cores.",
+  "The tool was built with the Triton programming framework, so it runs on both AMD and Nvidia cards, and its tests showed speed-ups of up to 7.5 times when work was spread across eight cards of the Instinct MI300X and MI355X models.",
+  "The tool was unveiled at the SC26 supercomputing conference in Chicago, alongside a new research paper on scaling tests across multiple cards and a broad scientific survey on the future of quantum error-decoding systems.",
+  "Pelagos complements a joint platform launched by Oak Ridge, IBM and AMD laboratories on November 5, combining quantum processors with supercomputers to develop the correction techniques future quantum computers will need.",
+  "Simply put: a quantum computer cannot work without a strong error corrector, and Pelagos makes testing these correctors faster and cheaper for everyone... Does this tool bring us a step closer to an error-free quantum computer?",
+  "If quantum error-correction tests become 97 times faster, how many years separate us from a reliable quantum computer in our daily lives?"
+ ]
+}

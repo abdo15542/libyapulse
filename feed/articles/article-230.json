@@ -1,0 +1,20 @@
+{
+ "id": 230,
+ "slug": "article-230",
+ "title": "🗳️ Breach hits market research firm Ipsos!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r104-w104-15.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🗳️ Breach hits market research firm Ipsos!",
+  "French company Ipsos, one of the largest market research companies in the world, has announced a breach of one of its internal systems, and filed a complaint with the authorities on November 11, before announcing the incident on November 16. The company activated its incident-response procedures as soon as the breach was discovered, and brought in outside security experts to support the investigation, which is still ongoing to determine the nature and scope of the incident. The company did not say whether any data was stolen or viewed by the attackers, and confirmed its operations and customer service were unaffected, while no party has claimed responsibility for the attack.",
+  "Simply put: even companies that collect the opinions of millions through surveys can be breached; and early transparency about the incident is the right first step, even before all the details are known.",
+  "Do you trust a company that announces its breach quickly?"
+ ]
+}

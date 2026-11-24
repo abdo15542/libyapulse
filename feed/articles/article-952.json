@@ -1,0 +1,23 @@
+{
+ "id": 952,
+ "slug": "article-952",
+ "title": "🧠 Nvidia Reveals the Giant 'Rubin' Chip! Over 50,000 Cores for Scientists... But Its Date Is 2028!",
+ "date": "2026-11-23",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r246-w246-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Companies"
+ ],
+ "body": [
+  "🧠 Nvidia Reveals the Giant 'Rubin' Chip! Over 50,000 Cores for Scientists... But Its Date Is 2028!",
+  "Nvidia revealed a new accelerator for scientific computing at the SC26 supercomputing conference on 22 November, called Rubin HPC — a giant chip designed specifically for scientists and researchers, not gamers — and the company is placing its next bet on high-performance computing in it.",
+  "The headline number in the new chip is its core count: more than 50,000 CUDA cores in a single chip — more than double the consumer RTX 5090 card, which has around 21,760 cores — a huge gap that shows this chip belongs to an entirely different world of computing.",
+  "The chip targets scientific simulation and big data analysis in labs and research centers. It uses the seventh generation of NVLink, which connects chips to each other at higher speeds, with special acceleration for the scattered data common in scientific research, and it is part of the company's broader Vera Rubin platform.",
+  "But no one should rush: the chip is announced, not available to buy, and there are no independent performance tests for it yet. It is expected to reach real systems in 2028 — about two years after the announcement.",
+  "Simply put: Nvidia reveals a scientific monster with more than 50,000 cores, but it will not reach labs before 2028... will that change the map of scientific computing?",
+  "Do you think the race for giant chips really serves science, or is it a race between companies?"
+ ]
+}

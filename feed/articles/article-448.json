@@ -1,0 +1,23 @@
+{
+ "id": 448,
+ "slug": "article-448",
+ "title": "🛡️ 'ChatGPT' Adds the Security 'Codex' to Its Sidebar — It Finds Vulnerabilities and Fixes Them!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r131-w131-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ 'ChatGPT' Adds the Security 'Codex' to Its Sidebar — It Finds Vulnerabilities and Fixes Them!",
+  "\"OpenAI\" has added the security \"Codex\" tool to the sidebar in \"ChatGPT\", making code protection one click away from the conversation. The tool is designed to discover, verify, and fix security vulnerabilities in code, without leaving the chat window.",
+  "Setting up the tool relies on \"Daybreak Defense Factory\", the company's cybersecurity platform that provides authorized vulnerability-testing tools for enterprises. The tool is still in preview, and setup is currently available only to workspaces with access to \"Daybreak\", meaning most users won't be able to try it yet.",
+  "This step comes as part of a broader company push toward cybersecurity: the \"Daybreak\" initiative itself provides enterprises with AI models for software review and investigation of suspicious activity, and the company collaborates with NATO and European agencies on using models to discover vulnerabilities. The company also launched new enterprise security products in the same period.",
+  "This direction reflects a new reality in the programming world: AI tools that write code are now also used to scan and protect it, and the race is now over who finds the vulnerability first — the defender or the attacker.",
+  "Simply put: the security \"Codex\" moved from a standalone tool to a button inside \"ChatGPT\", but access to it is still limited to the preview phase.",
+  "Do you use AI tools to scan your code for vulnerabilities, or do you still rely on manual review?"
+ ]
+}

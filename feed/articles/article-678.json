@@ -1,0 +1,22 @@
+{
+ "id": 678,
+ "slug": "article-678",
+ "title": "🔓 A British test breaks the protection of GPT-6.2 before its launch — and the company fixes the flaw!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r179-w179-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🔓 A British test breaks the protection of GPT-6.2 before its launch — and the company fixes the flaw!",
+  "The British AI Safety Institute has revealed that it developed a comprehensive \"jailbreak\" method that succeeded against two trial versions of the GPT-6.2 Astra model before its official launch, needing half the number of attempts it took to break the previous model, GPT-6 Astra.",
+  "\"Jailbreaking\" means tricking the model with clever linguistic tricks to bypass its rules and carry out forbidden requests, such as writing malicious code or providing dangerous information; the institute described the result as a \"major decline in protection strength\" compared with the previous model.",
+  "The revelation came as OpenAI announced that the two new models, GPT-6.2 Astra and GPT-6.2 Soul, represent a \"major leap\" in cyber capabilities: they detect and exploit vulnerabilities more effectively, write safer code, and meet the \"critical threshold\" for cybersecurity within the company's preparedness framework.",
+  "The company confirmed that it fixed the flaw revealed by the test before launch, and that the new models were designed to write safe code from the start. It also announced a pilot programme hosting independent evaluators from research institutions inside the company to examine the models, monitor their behaviour and catch any flaw before it spreads.",
+  "Simply put: the smartest model at detecting vulnerabilities was also the easiest to jailbreak before the fix. Do you trust that safety testing keeps up with how fast models are developed?"
+ ]
+}

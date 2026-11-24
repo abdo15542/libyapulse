@@ -1,0 +1,20 @@
+{
+ "id": 196,
+ "slug": "article-196",
+ "title": "🔐 Apple Appeals the UK “Backdoor” Order for Encrypted Data!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r103-w103-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Privacy"
+ ],
+ "body": [
+  "🔐 Apple Appeals the UK “Backdoor” Order for Encrypted Data!",
+  "Apple is appealing a British order asking it to open a “backdoor” to access users’ encrypted cloud storage data, and a British court has confirmed it will hear the case. Apple insists that encrypting user data is a red line, and that any deliberate weakness in encryption would put everyone’s privacy at risk, while the authorities see access as necessary for security investigations.",
+  "Simply put: encryption is a lock whose key only the data owner holds; and a “backdoor” means a copy of the key held by another party — and that weakens the lock for everyone.",
+  "Do you support keeping your cloud data fully encrypted?"
+ ]
+}

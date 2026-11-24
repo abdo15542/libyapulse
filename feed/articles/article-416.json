@@ -1,0 +1,22 @@
+{
+ "id": 416,
+ "slug": "article-416",
+ "title": "🎮 Nvidia Gives 'GeForce' Cards a New Feature — You Decide Who Gets the Bigger Share of the Card!",
+ "date": "2026-11-21",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r127-w127-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Nvidia"
+ ],
+ "body": [
+  "🎮 Nvidia Gives 'GeForce' Cards a New Feature — You Decide Who Gets the Bigger Share of the Card!",
+  "A new feature called \"GPU App Priority\" has appeared in the \"Nvidia\" app for some owners of \"GeForce RTX\" cards, even though the company never announced it for these cards. A user discovered it on the \"Reddit\" forum after updating the app to version 11.0.9.585, where it appears under the \"System\" menu, then \"Advanced\".",
+  "The feature lets you split the graphics card's power between the app in front of you and the apps running in the background: the default mode gives the foreground app 80% and the background 20%, and you can raise the foreground share to 90% or customize the split up to 95% versus 5%. This is useful when you're playing a game while a video program exports in the background, or a local AI model runs.",
+  "\"Nvidia\" had announced the same feature on October 28 for \"RTX Spark\" laptops only, to distribute the card between games and AI agents, where it requires enabling \"hardware-accelerated GPU scheduling\" in \"Windows\". On \"GeForce\" cards, its appearance is inconsistent: it appeared for an owner of an \"RTX 5090\" card, but not for owners of \"5070 Ti\" and \"4090\" cards on the same app version, and the release notes never mention it — so it's not yet known whether it's a gradual rollout or an early leak. No independent tester has yet measured how much difference it actually makes.",
+  "Simply put: imagine your card as a highway; this feature lets you decide which app gets more lanes, instead of everyone sharing them equally.",
+  "Would you give your game 90% of your card, or leave a bigger share for background tasks?"
+ ]
+}

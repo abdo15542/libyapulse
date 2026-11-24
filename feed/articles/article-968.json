@@ -1,0 +1,24 @@
+{
+ "id": 968,
+ "slug": "article-968",
+ "title": "🏦 An Australian bank gives away an AI vulnerability-hunting tool for free! 'Code Check' for everyone!",
+ "date": "2026-11-23",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r249-w249-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "🏦 An Australian bank gives away an AI vulnerability-hunting tool for free! 'Code Check' for everyone!",
+  "The Australian bank 'Commonwealth' has launched a new tool called 'Code Check' and released it free as open source, to help companies scan their code for security vulnerabilities using AI.",
+  "The tool works by analyzing the output of the coding models 'Codex' from 'OpenAI' and 'Claude Code' from 'Anthropic', following a unified process for analyzing code, investigating potential vulnerabilities and providing information that helps engineers fix them.",
+  "The bank says the tool is built on an approach it uses internally, but it is not the same system and does not represent the systems and controls the bank uses in its work; it is a simplified version it made available for other companies to evaluate.",
+  "The bank published the tool on the 'GitHub' platform, with a clear warning that it is a one-off open release for companies to try, and that it will not actively maintain, update or support it, so anyone who uses it is on their own for maintenance.",
+  "The step comes at a time when AI tools are writing code faster than humans can review it, making AI-powered code scanning a necessity, not a luxury, especially for small companies that do not have large security teams.",
+  "Simply put: a big bank is giving you for free a tool it used internally to hunt vulnerabilities... do you trust a tool where AI checks code written by AI?",
+  "Do you use AI tools to review your code, or do you prefer human review alone?"
+ ]
+}

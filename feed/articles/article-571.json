@@ -1,0 +1,24 @@
+{
+ "id": 571,
+ "slug": "article-571",
+ "title": "🐛 The \"Java 4 Shell\" flaw — a single message without logging in could run code on your server!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r148-w148-09.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🐛 The \"Java 4 Shell\" flaw — a single message without logging in could run code on your server!",
+  "Security research firm Califf revealed on November 17 a serious flaw in the Java language called \"Java 4 Shell\", which lets an attacker without an account run their own code on your server, via a single malformed message, because servers decode their data before verifying your identity at all.",
+  "The flaw, registered as CVE-2026-114938, lives in the accelerated version of the Base64 decoder inside the Java runtime — a version written in assembly language that runs only on x86-64 processors supporting AVX-512 VBMI instructions. When a malformed string ending in an extra \"=\" sign arrives, the decoder miscalculates the output length, writing 62 or 63 bytes past the end of the buffer allocated in the server's memory.",
+  "The danger is that servers decode Base64 before login: in authentication headers, JWT tokens, SAML messages and cookies. The researchers proved remote code execution without logging in, with default settings, in six widely used applications: Jira, Confluence, Jenkins, Keycloak, JFrog Artifactory and PingFederate. Applications such as Kafka, Solr and Elasticsearch needed a login first.",
+  "The flaw affects Java 17 from version 17.0.6 onward, and Java 21, 25 and 27, and popular OpenJDK distributions such as Temurin, Corretto and Zulu. The researchers rated it 9.2 out of 10, while Oracle rated it 8.1, describing exploitation as difficult but requiring no authentication. Oracle and the OpenJDK project released fixes on November 17, and experts advise updating immediately, starting with identity servers and internet-connected development platforms.",
+  "No actual exploitation in the wild has been observed so far, and the researchers are keeping the attack code to themselves, while other labs reproduced the crashes and memory leaks without executing code. But one security team crashed a test application by sending about 28,300 malformed login requests in just 20 seconds, without ever logging in.",
+  "Simply put: imagine a door that opens the envelope to read the sender's address before asking who you are — and the envelope explodes in its hand. That is how the Base64 decoder works: it reads the data before verifying you, and a wrong reading opens the door to the attacker.",
+  "Have you updated the Java version on your servers today, or are you still waiting?"
+ ]
+}

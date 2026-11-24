@@ -1,0 +1,22 @@
+{
+ "id": 677,
+ "slug": "article-677",
+ "title": "🍎 Apple is building its own AI agent — and running ChatGPT on Mac now takes 14 steps instead of 4!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r179-w179-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Apple"
+ ],
+ "body": [
+  "🍎 Apple is building its own AI agent — and running ChatGPT on Mac now takes 14 steps instead of 4!",
+  "Reports have revealed that Apple is building its own AI agent that can use the computer exactly as a human does — browsing the web, working across apps, carrying out commands, writing programs, fixing their errors and calling services, choosing the right tool for each step by itself. The news came from a job posting by the company for a senior engineering manager to oversee building this agent, working with the Siri, user interface and Apple foundation models teams. It is expected to appear at the end of 2027, but the work is still in its early stages.",
+  "At the same time, the second beta of macOS 27.3 makes running rival companies' agents much harder: running computer-use tools in ChatGPT now needs 14 separate steps instead of only 4, with new warning screens asking the user to think again before giving the agent permission to control their device. Apple says the goal is to protect users, because this exceptional level of access puts all the device's data at risk.",
+  "A \"computer-use agent\" is an AI program that moves the mouse, presses buttons and types for you inside apps, instead of just answering questions; \"full disk access\" is a permission that lets an app read, change and delete all your files. The new beta has split the device-control setting into two separate options: one for tools that control other apps, and another for assistive technologies such as screen readers, so the user knows clearly exactly what they are granting.",
+  "Some AI companies and users see the extra steps as an attempt to slow down the competition, especially as Apple already faces a lawsuit from the US Department of Justice over withholding features from third parties. In contrast, the new CEO John Ternus is pushing software chief Craig Federighi towards a bolder approach to AI, with the new agent at the heart of this direction. The changes remain limited to granting new permissions — permissions already granted stay in effect — and Apple has not yet announced when the system will reach all users.",
+  "Simply put: Apple is building its own smart assistant, and at the same time making the door narrower and longer for rivals' assistants. Do you see that as real protection for you, or a restriction of your choices?"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "id": 215,
+ "slug": "article-215",
+ "title": "⚡ Inside OpenAI: Codex Agents Chase Down ChatGPT’s Slowness!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r103-w103-26.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "OpenAI"
+ ],
+ "body": [
+  "⚡ Inside OpenAI: Codex Agents Chase Down ChatGPT’s Slowness!",
+  "OpenAI revealed an internal system called the “Performance Factory” that uses “Codex” agents to investigate ChatGPT performance regressions. The system ran more than 1,700 investigations in over three months, at a rate of about 17 investigations a day, found the root cause in more than 600 cases, proposed about 400 fixes, and around 50 of them were merged — including 15 fixes with code written verbatim by Codex. A second Codex session also reviews the diagnoses adversarially and sends back about 25% of them, and the system reached 70% accuracy across one hundred manual reviews, while the final merge decision stays with the human engineer.",
+  "Simply put: AI fixes itself; agents search for the cause of the slowness and suggest the fix, and a human engineer reviews and decides.",
+  "Would you trust a fix written by AI without human review?"
+ ]
+}

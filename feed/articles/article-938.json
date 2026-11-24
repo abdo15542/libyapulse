@@ -1,0 +1,24 @@
+{
+ "id": 938,
+ "slug": "article-938",
+ "title": "🔔 Perplexity launches a web watchdog! An API that monitors any topic or page and alerts you the moment anything changes!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r244-w244-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🔔 Perplexity launches a web watchdog! An API that monitors any topic or page and alerts you the moment anything changes!",
+  "Perplexity launched a new API on November 16 called the 'Monitor API', a service that watches the web on behalf of developers and companies: it follows a whole topic, such as funding rounds at AI companies, or watches a specific page, such as a competitor's pricing page, then sends an alert the moment any important change happens.",
+  "The service works in two modes: one that searches the web for everything new about a topic, a company, or a question, and one that watches up to 10 specific pages and returns the text difference between the versions before and after the change, such as a price change, a changelog update, or a change to a terms-of-use policy, saving a baseline copy on the first check for comparison.",
+  "A system called the 'Decider' checks every result before sending it, verifying its relevance to the topic, the reliability of its source, that it is genuinely new information, and how recently it was published, and it only sends the alert if the result passes every check, attaching a confidence score that shows how sure it is of its importance. The system also handles duplicates automatically, so it never sends the same news twice.",
+  "Monitoring runs on a flexible schedule: every 15 minutes, every hour, daily, or weekly, or on a custom timetable, and monitoring can be paused, resumed, or run manually at any time from the API or the dashboard. Alerts arrive through a signed webhook that can trigger automatic tasks, such as starting research on a company that just announced new funding.",
+  "As for pricing, it is $1 per 1,000 successful checks in web monitoring, and $1 per 1,000 pages fetched in page monitoring, which means watching a single topic every hour all month costs only about 72 cents. The service works with the same API key developers already use for the search and agent services, with no need for a new account or contract.",
+  "Simply put: instead of searching yourself every day for news that matters to you, a small program can now watch the web for you and wake you only when something important happens... So do you trust an automated watchdog to follow the news for you?",
+  "What is the first thing you would want a web watchdog like this to monitor for you: a product's prices, a company's news, or a change in the policy of a service you use?"
+ ]
+}

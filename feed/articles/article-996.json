@@ -1,0 +1,23 @@
+{
+ "id": 996,
+ "slug": "article-996",
+ "title": "💳 A breach of the Samsung Securities complaints portal exposes data on 8,241 customers!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r257-w257-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CyberSecurity"
+ ],
+ "body": [
+  "💳 A breach of the Samsung Securities complaints portal exposes data on 8,241 customers!",
+  "South Korea's Samsung Securities announced that files customers had uploaded to its complaints portal were stolen in a breach discovered on November 21, and that the data of 8,241 customers was affected by the incident.",
+  "The company said the exposed data varies from person to person, and may include account numbers or driver's license numbers, confirming that anyone who did not use the complaints portal was not affected at all, and that it has stopped the service and notified the relevant authorities in South Korea.",
+  "The incident reveals a danger many overlook: complaint and support systems may carry sensitive data equal to the main customer databases, because customers upload photos of their documents and cards to them to prove their complaints.",
+  "Experts advise any company running a complaints or support portal to ask itself: what do customers actually upload? Who can access the attachments? And are the files deleted after the complaint ends, or do they stay stored for years?",
+  "Simply put: a small complaints portal opened a big door to the data of thousands of customers... do companies review what their support staff collect in documents?",
+  "Do you upload photos of your official documents to complaint and support portals?"
+ ]
+}

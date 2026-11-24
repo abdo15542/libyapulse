@@ -1,0 +1,24 @@
+{
+ "id": 572,
+ "slug": "article-572",
+ "title": "🐘 PHP fixes 18 flaws in one go — 7 of them critical and allowing remote code execution!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r148-w148-10.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🐘 PHP fixes 18 flaws in one go — 7 of them critical and allowing remote code execution!",
+  "The PHP development team released security updates on Thursday, November 19, fixing 18 flaws, including 7 critical flaws rated 9.2 out of 10, which could let an attacker without logging in run their code on your website's server — the largest fix package for the language since the \"PHP 2 Shell\" flaws a month ago.",
+  "The fixes cover versions 8.5.13, 8.4.28, 8.3.37 and 8.2.36, plus the new version 8.6. The flaws affect the core language engine, session management, the PHP-FPM process manager, the CGI protocol and other components.",
+  "The most dangerous flaw is CVE-2026-129289, a request-smuggling flaw in PHP-FPM rated 9.2, letting an attacker pass a malicious request through the web server to the process manager. Those who cannot update immediately can disable persistent connections between the web server and PHP-FPM, though this mitigation does not cover all the flaws.",
+  "Among the critical flaws is also CVE-2026-126714, discovered by the \"Depth First\" company using AI models tuned for cybersecurity, which lives in session management: partially written session files could have their data mixed up, opening the door to code execution. Also CVE-2026-115560 for session serial mismatch, CVE-2026-129474 for use-after-free in error traces, and CVE-2026-129496 in temporary timezone memory.",
+  "The package also includes a flaw bypassing Phar signatures via algorithm downgrade, a local privilege-escalation flaw in PHP-FPM, an information-disclosure flaw in SOAP, and an update to the URI Parser library. Experts warn that PHP-FPM and LSAPI servers exposed directly to the internet are the most at risk.",
+  "Simply put: imagine a restaurant discovering 18 holes in its kitchen walls at once, seven of them letting any passer-by walk in and run the stove themselves. The only solution is to plug all the holes with the update — not just close one door.",
+  "Do you know which PHP version your website runs on, and when you last updated it?"
+ ]
+}

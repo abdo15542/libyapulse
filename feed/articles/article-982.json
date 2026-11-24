@@ -1,0 +1,24 @@
+{
+ "id": 982,
+ "slug": "article-982",
+ "title": "💻 Coding agents pass the tests but fail to finish the job! Less than 8% only!",
+ "date": "2026-11-23",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r253-w253-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "💻 Coding agents pass the tests but fail to finish the job! Less than 8% only!",
+  "A new research benchmark has revealed that the strongest AI coding agents pass most isolated tests, yet complete less than 8% of full tasks when placed in a realistic work environment — a wide gap between passing a test and getting the work done.",
+  "The new benchmark is called 'SWE-Cowork', published on November 15, and it places the agent as a digital employee inside a simulated software company: every task comes from a real code repository, and the agent works with 26 digital colleagues, each holding part of the information, so it must gather the requirements, implement them, verify them, and deliver them itself.",
+  "The evaluation covered 101 tasks from 101 real repositories, across 11 programming languages and 12 application domains, testing 11 models. The two best models, Claude Opus 5.5 and GPT-6.2 Astra, achieved about 63% of the required change tests, but completed only 6.93% and 7.92% of full tasks respectively.",
+  "Remarkably, giving the models the full requirements from the start improved their test results by about 16 percentage points, but did not raise their task-completion rate at all, meaning the problem is not only knowing what is required, but following through with execution, verification, and delivery to the end.",
+  "An analysis of the work paths showed the agent usually asks the right person: Claude directed 93% of its first questions to the right owners, yet obtained only 64% of the requirements held by colleagues, and some questions were left pending without follow-up, while 31% of the requirements the agents reported as complete failed their execution tests.",
+  "Simply put: succeeding in a small test does not mean completing a whole project... would you trust a coding agent to finish your project on its own?",
+  "Have you tried a smart coding agent, and did it complete your task the first time without any intervention from you?"
+ ]
+}

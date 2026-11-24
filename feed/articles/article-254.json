@@ -1,0 +1,21 @@
+{
+ "id": 254,
+ "slug": "article-254",
+ "title": "🔐 Proton's Lumo comes to the desktop... AI that respects your privacy!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r106-w106-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Privacy"
+ ],
+ "body": [
+  "🔐 Proton's Lumo comes to the desktop... AI that respects your privacy!",
+  "Proton, known for its privacy-respecting tools, has launched the 'Lumo' desktop app for Windows, Mac, and Linux, turning its smart assistant from a web chatbot into an agent that works with your files and apps directly on your computer. 'Lumo' connects through 'connectors' to the file system, command execution, and browser content, and to email and services such as 'Dropbox', 'Jira', and 'Confluence', and also supports local and remote Model Context Protocol servers.",
+  "The idea is that the user decides for each connector what the agent does automatically, what needs their approval, and what is completely forbidden, and can also schedule recurring tasks, such as a weekly email summary, and teach 'Lumo' saved skills it reuses in its conversations. Proton pledges that your conversations and data from connected apps are never used to train models or show personalized ads, that encryption prevents even the company itself from reading your chat history, and that its data is protected by Swiss law and hosted on European infrastructure outside the reach of the U.S. data-access law, and that its source code is open for everyone to inspect. The company also announced that its first batch of 'B300' AI servers from 'Nvidia' has started operating in Switzerland.",
+  "Simply put: most AI assistants ask for your whole house's keys to work; 'Lumo' gives you the keys instead, so you decide which room the agent enters and which stays locked.",
+  "Do you trust an AI assistant that reaches your files and email?"
+ ]
+}

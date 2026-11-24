@@ -1,0 +1,20 @@
+{
+ "id": 218,
+ "slug": "article-218",
+ "title": "🎓 Data of 3.6 Million Students Leaked from Careers360!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r104-w104-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🎓 Data of 3.6 Million Students Leaked from Careers360!",
+  "Stolen data from Careers360, an Indian platform for education and career guidance, appeared in a hacking forum on the internet, and was reported by the “Have I Been Pwned” service on November 20. The data includes about 22 million records covering 3.6 million unique email addresses, in addition to names, phone numbers, gender, caste categories, entrance exam results, and student scores. The breach dates back to November 14, and no passwords were mentioned in the data according to reports, while about half of the email addresses had been leaked before in other breaches.",
+  "Simply put: the leaked data puts names, phone numbers, and exam results together in one place; and this makes scam messages impersonating universities or scholarships more convincing and more dangerous for students and their families.",
+  "Do you check your email in a breach-detection service after every major hack?"
+ ]
+}

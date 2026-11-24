@@ -1,0 +1,24 @@
+{
+ "id": 1110,
+ "slug": "article-1110",
+ "title": "🏦 Supplier Hack Exposes Chase Customers' Names and Emails… Bank Reassures: Our Systems Are Safe!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r286-w286-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🏦 Supplier Hack Exposes Chase Customers' Names and Emails… Bank Reassures: Our Systems Are Safe!",
+  "JPMorgan Chase, America's biggest bank, announced that a cyberattack targeted outside suppliers it works with, potentially exposing the names and email addresses of some of its customers, while its own systems were not disrupted.",
+  "The bank said the attackers reached \"certain marketing data\" held by the suppliers, without naming the suppliers or revealing how many customers were affected, confirming it will contact those affected directly and offer them support, including free credit monitoring.",
+  "The bank explained that this breach has nothing to do with a separate technical outage that happened the same week, when a software bug in an internal hardware system disrupted Zelle transfers and other banking services at several major banks, stressing that the outage was \"not electronic\" and unrelated to the hack.",
+  "The incident joins a growing list of breaches hitting a single supplier instead of the company itself, as suppliers hold huge amounts of customers' contact data while their systems face less security oversight than systems touching account numbers and passwords directly.",
+  "Security researchers warned that names and email alone are not enough to enter a bank account, but they are enough to craft convincing scam messages impersonating the real bank, because the scammer knows your name and knows you are a customer of the bank, making the message look more genuine than a random one.",
+  "Simply put: one supplier hack exposed the data of customers of the biggest bank in America… Do you check your email carefully when a message arrives in your bank's name?",
+  "Do you verify the sender before clicking any link in a message?"
+ ]
+}

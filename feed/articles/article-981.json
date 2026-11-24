@@ -1,0 +1,25 @@
+{
+ "id": 981,
+ "slug": "article-981",
+ "title": "🏭 Rockwell launches Logix Edge! Industrial control and edge computing in one device!",
+ "date": "2026-11-23",
+ "category": "apps",
+ "category_name": "Apps & Platforms",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r252-w252-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Automation"
+ ],
+ "body": [
+  "🏭 Rockwell launches Logix Edge! Industrial control and edge computing in one device!",
+  "Rockwell Automation has launched its new Logix Edge controllers, an industrial control platform built on an industrial computer that combines traditional Logix control with edge computing and containerized applications in a single device.",
+  "The goal is to simplify factory system architecture and speed up what is known as software-defined automation, so applications are deployed and managed right next to production lines instead of in distant server rooms.",
+  "The device combines precise deterministic control — executing commands at exact times with no delays — with running modern software on the same platform, removing the need for separate devices and allowing automation, monitoring, and digital solutions to be deployed more flexibly beside production operations.",
+  "Thanks to containerized applications and modern software management tools, factories can deploy, update, and manage software the same way across distributed sites, shortening deployment time and simplifying the system's lifecycle management.",
+  "The company's product manager said industrial automation is shifting from hardware-dependent architectures to software-defined systems that are easier to deploy, manage, and expand.",
+  "The new controllers expand the Logix family by adding edge computing capabilities to its known control capabilities, and visitors can see them running at Automation Fair 2026.",
+  "Simply put: one device that controls the machines and runs the software together... will factories one day have no huge control rooms at all?",
+  "Do you think factories will be run by software more than hardware in the coming years?"
+ ]
+}

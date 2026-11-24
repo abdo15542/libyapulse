@@ -1,0 +1,21 @@
+{
+ "id": 701,
+ "slug": "article-701",
+ "title": "🖥️ Two old graphics cards run the giant Kimi K3 model — at 3.11 tokens per second!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r185-w185-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🖥️ Two old graphics cards run the giant Kimi K3 model — at 3.11 tokens per second!",
+  "A computer hobbyist has succeeded in running the giant Kimi K3 AI model from the company Moonshot on his home computer, even though the model has 2.8 trillion parameters, using two old RTX 3090 graphics cards and a server with a Xeon processor and Intel Optane memory, with the open-source llama.cpp software.",
+  "The model works on a \"mixture of experts\" system: of its huge parameters, only about 104 billion are activated for each token it produces, but its full size in compressed form is about 865 gigabytes — far larger than the two cards' combined 48GB memory. So the work was split: the Optane memory and regular memory held the model's weights, while the two cards sped up the attention layers, the shared experts and the cache.",
+  "In the first test, when all 94 parts of the model were placed on Optane memory, text generation speed reached 2.20 tokens per second. Then the hobbyist moved 45 parts totalling 414 gigabytes to a fast memory disk, and the speed jumped to 3.11 tokens per second — a 41% increase — while input processing speed rose to 16.8 tokens per second.",
+  "Simply put: two old-generation cards and discontinued memory ran a model whose size exceeds their memory dozens of times over, but the speed is still slower than human reading speed. Will giant models one day be within reach of home computers, or will they remain the preserve of huge data centres?"
+ ]
+}

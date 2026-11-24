@@ -1,0 +1,24 @@
+{
+ "id": 486,
+ "slug": "article-486",
+ "title": "🦬 The Bison-1 and Groundhog-1 Models — AI That Decides Instead of Writing!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r135-w135-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🦬 The Bison-1 and Groundhog-1 Models — AI That Decides Instead of Writing!",
+  "Baseten launched on November 20 two new open-weight decision models, Bison-1 and Groundhog-1, built on Google's Gemma 4 model, for teams that want an American base model.",
+  "Decision models are different from the usual chatbots: they do not write long paragraphs, but evaluate the options presented to them and return probabilities and scores, such as routing a support ticket to the right department, deciding whether content deserves an alert, or approving an invoice.",
+  "Bison-1 topped the Decision Index issued by Artificial Analysis with a score of 76, ahead of 19 other models, and achieved the best calibration in the index, meaning its stated confidence is closest to the actual accuracy of its answers.",
+  "The two models offer a context window of 128,000 tokens, eight times the company's previous models, and accept text and images together, allowing full policies or long conversation logs to be included without shortening.",
+  "As for prices, they are $0.10 per million tokens for the 31-billion-parameter Bison-1, and $0.035 per million tokens for the 26-billion-parameter Groundhog-1. The two models are available today through the company's APIs, and their weights are open on the Hugging Face platform.",
+  "Simply put: not every task needs a paragraph; sometimes you need a quick decision and a confidence score, and these two models do that with open weights and a far wider context than their predecessors.",
+  "Would you prefer a model that decides and gives you a probability instead of a long paragraph, or do you always want the full explanation?"
+ ]
+}

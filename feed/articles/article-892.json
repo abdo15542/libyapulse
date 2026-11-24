@@ -1,0 +1,25 @@
+{
+ "id": 892,
+ "slug": "article-892",
+ "title": "🛡️ \"NGINX2Root\" Flaws Threaten Millions of Websites... and the Attacker Reaches Root Without a Password!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r231-w231-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ \"NGINX2Root\" Flaws Threaten Millions of Websites... and the Attacker Reaches Root Without a Password!",
+  "Five critical flaws were disclosed in the popular web server NGINX on 18 November, allowing an attacker with no account or password to run commands remotely on the server, in an attack researchers called \"NGINX2Root\".",
+  "Leading the group is the flaw \"CVE-2026-123007\", a bug in handling the HTTP/2 protocol data stream that corrupts memory inside the server process, affecting all versions from 1.9.5, released in 2015, through 1.31.8.",
+  "The other four flaws relate to the HTTP/3 protocol, the domain name parser, and the email proxy, and all of them allow the same access without authentication, according to the researchers who discovered them.",
+  "Most alarming of all, the researchers proved they could chain the server flaw with a separate flaw in the Linux kernel to escalate from the server's ordinary privileges to full root privileges, and even escape from a Docker container to the host machine itself.",
+  "The company released the fixes the same day in versions 1.30.7 and 1.31.9, and published a working proof of concept for the main flaw, while data showed that about 8.8 million services were exposed, and more than half a million of them have already updated their systems.",
+  "Experts estimate that about a third of the world's websites run on NGINX, so they urge server administrators to update immediately, or temporarily disable the HTTP/2 protocol if updating is not possible.",
+  "Simply put: The web server that powers a third of the internet had an open door giving the attacker the keys to the whole machine — do you think your favorite website updated its servers in time?",
+  "Do you know which web server stands behind the websites you visit every day?"
+ ]
+}

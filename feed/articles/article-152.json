@@ -1,0 +1,20 @@
+{
+ "id": 152,
+ "slug": "article-152",
+ "title": "⚠️ Warning for Telegram Users: Don’t Open Mini Apps from Sources You Don’t Know!",
+ "date": "2026-11-19",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r13-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "⚠️ Warning for Telegram Users: Don’t Open Mini Apps from Sources You Don’t Know!",
+  "Days after launching a new feature that lets small apps run inside messages, security researchers showed that the feature could allow remote commands to run on the device, and then a security company warned of suspicious activity that could spread malware giving the attacker full control of the device and stealing crypto wallets. The developer says the Android issue has been fixed, and that the attack requires running an external service first, while experts advise against opening any mini app until the fix is fully confirmed.",
+  "Simply put: a new and useful feature, but caution is needed until the picture becomes clear.",
+  "Do you use Telegram mini apps?"
+ ]
+}

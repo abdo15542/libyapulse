@@ -1,0 +1,21 @@
+{
+ "id": 830,
+ "slug": "article-830",
+ "title": "🔑 Critical Flaw in Rclone: Your Public Key Turns into a Password!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r214-w214-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Security"
+ ],
+ "body": [
+  "🔑 Critical Flaw in Rclone: Your Public Key Turns into a Password!",
+  "A critical flaw has been disclosed in the popular cloud file management tool Rclone, carrying the number CVE-2026-134352 and a severity score of 9.2 out of 10. It affects all versions from 1.51.0 up to before 1.76.0, in the feature for serving files over the SFTP protocol with an intermediate authentication server.",
+  "The problem lies in how authentication results are cached: the system saves the verification result in a temporary cache without recording which authentication method was used. That way, an attacker who knows your public key — information that is public by nature — can present it as a password from the same device address, and the system reuses the cached result and grants full read and write access to your files.",
+  "The fix is to update immediately to version 1.76.0 or newer, and to review the settings of the intermediate authentication server, especially if your files are exposed on the internet. No actual attacks exploiting the flaw have been recorded so far, and it is not listed on the US cybersecurity agency's list of actively exploited flaws, but its severity makes updating a priority that cannot wait.",
+  "Simply put: your public key opens your private files — have you updated Rclone to the latest version?"
+ ]
+}

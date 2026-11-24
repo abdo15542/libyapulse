@@ -1,0 +1,24 @@
+{
+ "id": 986,
+ "slug": "article-986",
+ "title": "🪙 A Deribit outage halts Coinbase trading twice in one day! And traders have no alternative!",
+ "date": "2026-11-23",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r254-w254-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Crypto"
+ ],
+ "body": [
+  "🪙 A Deribit outage halts Coinbase trading twice in one day! And traders have no alternative!",
+  "Trading on the derivatives platform Deribit stopped twice in a single day, in an outage that revealed how much Coinbase customers depend on a single matching engine, after their perpetual contracts were moved to that same platform.",
+  "According to the outage log, trading stopped at 16:17 GMT on November 20, returned after 19 minutes, then stopped again at 19:28, before returning for good at 21:31, without the platform announcing the cause of the outage, while confirming that customer funds were not affected.",
+  "The outage covered perpetual contracts on Bitcoin, Ethereum, Solana, and XRP, contracts linked to Nvidia, Tesla, Apple, and Amazon shares, gold and silver contracts, as well as currency conversion services and trading programming interfaces.",
+  "Traders found no way out: since October 1, Coinbase's international perpetual contracts had been moved to Deribit, so orders from Coinbase app users and direct Deribit users are now executed in the same order book, and switching between the two interfaces was no solution, while US contracts remained separate and unaffected.",
+  "The outage came after scheduled maintenance that same morning to install a security update, after which trading resumed at 09:06, and just one day after Coinbase announced offering options trading through Deribit to customers in selected markets outside the United States.",
+  "Simply put: when a huge platform depends on a single engine, one outage turns into total paralysis... do you trust putting your money in a platform with no alternative?",
+  "Have your funds ever been stuck in a platform that suddenly stopped during trading?"
+ ]
+}

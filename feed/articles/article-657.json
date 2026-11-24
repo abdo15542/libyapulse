@@ -1,0 +1,24 @@
+{
+ "id": 657,
+ "slug": "article-657",
+ "title": "🔢 A new AI-assisted proof solves the \"real\" Navier-Stokes equations!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r170-w170-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🔢 A new AI-assisted proof solves the \"real\" Navier-Stokes equations!",
+  "Mathematicians Tristan Buckmaster of New York University and Levent Alboğa, who works at Anthropic, announced on Friday, November 20, a new AI-assisted proof for the Navier-Stokes equations — the equations that have described the motion of fluids since the nineteenth century.",
+  "The proof claims that solutions to the equations may \"blow up\" in finite time — that is, the fluid's speed becomes mathematically infinite — without any external force moving the fluid.",
+  "That is what sets it apart from last September's proof: OpenAI proved blow-up then, but its proof imagined an artificial external force \"moving\" the fluid in exactly the required way, which many experts considered a loophole in how the problem was framed, not a real solution.",
+  "The new proof, published in a 79-page paper, closes this loophole — but it remains an unverified claim: the researchers published it in a hurry, writing that they did not wait for fear someone would beat them to it, and they have not yet published the digital \"certificate\" proving the calculations are correct, promising to publish it soon.",
+  "The problem is one of the seven Millennium Problems set by the Clay Mathematics Institute, with a $1 million prize. Alboğa had announced on the same day another claim to have solved the Riemann hypothesis with AI assistance — a claim that is also unverified.",
+  "Simply put: equations describing the motion of water and air may blow up mathematically without any external force. The new proof claims to prove that — but the scientific community has not verified it yet.",
+  "Do you trust a proof written by AI before humans review it?"
+ ]
+}

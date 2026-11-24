@@ -1,0 +1,20 @@
+{
+ "id": 83,
+ "slug": "article-083",
+ "title": "Breach Hits Data of 265,000 London Oyster Card Holders! 🚇",
+ "date": "2026-11-19",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r06-c06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "Breach Hits Data of 265,000 London Oyster Card Holders! 🚇",
+  "Transport for London confirmed that about 265,000 holders of photo Oyster cards may have had their account data compromised. The authority first noticed the problem on Monday, November 16, when customers began receiving emails asking them to create accounts they already had — emails sent from the authority's own systems but generated as a result of the breach. The authority immediately shut down the photo card website, contained the incident, and notified the UK Information Commissioner.",
+  "An Oyster card is London's transport card — like a bus card for children, students, and older people. The data that may have been compromised: names, email addresses, home addresses, phone numbers, dates of birth, and security questions and answers. But the authority confirms that passwords, bank details, payment cards, and journey information were not compromised, and that your current cards still work for travel. The authority will ask all customers to change their password and security question.",
+  "Have you ever changed your password after hearing about a breach? ⚠️"
+ ]
+}

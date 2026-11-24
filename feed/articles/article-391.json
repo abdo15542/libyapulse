@@ -1,0 +1,22 @@
+{
+ "id": 391,
+ "slug": "article-391",
+ "title": "💻 'Meta' Acquires 'Conductor' — Coding Agents Work Together on One Project!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r125-w125-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "💻 'Meta' Acquires 'Conductor' — Coding Agents Work Together on One Project!",
+  "\"Meta\" announced on November 4 its acquisition of the startup \"Conductor\", a platform that lets programmers run several AI coding agents at the same time, each agent in an isolated copy of the project: one implements a new feature, another fixes a bug, and a third writes tests, then the programmer reviews their results and merges them. The platform supports agents from major companies like \"Claude Code\", \"Codex\", and \"Cursor\", and the deal's value was not disclosed.",
+  "\"Conductor\" was founded in 2024 by Charlie Holtz and Jackson de Campos, launched its core product in July 2025, and raised $22 million in a funding round last March. Its team will join \"Meta\"'s Superintelligence Labs, working with chief AI officer Alexandr Wang and chief product officer Nat Friedman, on a new interface the founder promised in early 2027.",
+  "But the deal has another side that affects current users: the company stopped accepting new subscribers immediately after the announcement, its cloud service became read-only on November 13, then closed on November 20 and user cloud data deletion began, while the local desktop app continues to work and receive updates until early 2027.",
+  "Simply put: \"Meta\" didn't buy a new AI model, but the \"orchestra conductor\" that coordinates several coding agents working together without clashing — but the service's current users lost their cloud service in just two weeks.",
+  "Would you trust a coding agent working alone on your project, or do you prefer a human to review every line it writes?"
+ ]
+}

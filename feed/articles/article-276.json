@@ -1,0 +1,21 @@
+{
+ "id": 276,
+ "slug": "article-276",
+ "title": "📱 'Gemini' calls, books, and pays for you... free in 6 countries!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r109-w109-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Gemini"
+ ],
+ "body": [
+  "📱 'Gemini' calls, books, and pays for you... free in 6 countries!",
+  "Google has announced that the 'Gemini Tasks' feature has become free for hundreds of millions of users in six countries, after being limited to paying subscribers, in a step that turns the assistant from a mere conversation into an agent that carries out tasks on your behalf.",
+  "The feature runs on the new 'Gemini 4 Hydrogen' model, and covers the United States, Japan, South Korea, Canada, Australia, and India. Just flip a switch in the app from 'Chat' to 'Tasks', then ask for what you want in plain words: organizing appointments, preparing meal plans, reviewing email, and tracking recurring expenses. In the United States first, the assistant can call stores to compare prices and book appointments, complete purchases through 'Google Pay' after your approval and within a spending limit you set, log in to websites through the password manager, and can be assigned tasks by forwarding emails or texting it. Google says each task runs inside an isolated virtual machine dedicated to each user, with filters against instruction manipulation and security checks, but admits tasks may sometimes fail and need manual completion.",
+  "Simply put: imagine a personal secretary working for you around the clock for free, calling, booking, and buying after you approve; that is how Google wants 'Gemini' to become.",
+  "Do you trust an AI assistant that calls and buys on your behalf, or do you prefer doing your tasks yourself?"
+ ]
+}

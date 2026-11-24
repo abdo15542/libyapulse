@@ -1,0 +1,21 @@
+{
+ "id": 732,
+ "slug": "article-732",
+ "title": "🖨️ A Flaw in Ghostscript Turns an Ordinary File Into a Backdoor to Your Server!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r191-w191-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🖨️ A Flaw in Ghostscript Turns an Ordinary File Into a Backdoor to Your Server!",
+  "Security researchers revealed this week a dangerous flaw in Ghostscript, the software millions of servers rely on to convert PDF files, images, and documents from one format to another, often without anyone noticing it is there. The flaw carries the number CVE-2026-125396 and researchers nicknamed it 'Upload to Shell', because it turns uploading an ordinary file into running commands on the server.",
+  "The problem lies in how the software handles certain fonts: a carefully crafted file can break out of the protection sandbox known as 'SAFER', the wall that is supposed to prevent any document from running commands or accessing system files. Once that wall is broken, the attacker can run their commands with the privileges of the account that processes the files.",
+  "More alarming is that reaching the flaw often needs no account at all: researchers showed that an anonymous print job to a shared printer, an email attachment opened by the recipient in Roundcube mail, or a file uploaded through the Forminator and Essential Addons plugins in WordPress, are each enough to run a command on the server. Researchers even reached the software itself inside a document-processing service belonging to a major company. The flaw was fixed in version 10.08.0, released in September, but many distributions still carry the vulnerable version, and no real attacks exploiting it have been recorded so far.",
+  "Simply put: a silent program that converts your files could itself be the door the attacker enters through, and a single uploaded file is enough; so do you know whether your website or mail server uses an updated version of this software, or is the update still postponed?"
+ ]
+}

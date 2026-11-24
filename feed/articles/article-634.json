@@ -1,0 +1,26 @@
+{
+ "id": 634,
+ "slug": "article-634",
+ "title": "🗣️ Qwen 3 TTS arrives on Together AI — a voice built from 3 seconds that speaks in 97 milliseconds!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r162-w162-09.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🗣️ Qwen 3 TTS arrives on Together AI — a voice built from 3 seconds that speaks in 97 milliseconds!",
+  "Together AI added the Qwen 3 TTS text-to-speech model to its cloud inference library on November 20, making it available to developers to build instant voice agents.",
+  "The model is open-weight from the Qwen team at Alibaba Cloud, and turns text into natural speech in ten languages, including Arabic, English, French, German, Japanese, Chinese and Korean.",
+  "Its standout capabilities are voice cloning from just three seconds of recording, designing entirely new voices from a written description, plus nine ready-made voices that can be previewed before choosing via the \"Voice Finder\" tool.",
+  "The first audio chunk takes only 97 thousandths of a second when streaming — fast enough for the voice reply to begin before the listener notices any delay — making it suitable for real-time conversations.",
+  "The model supports streaming over HTTP and over WebSocket, so it suits applications that receive text in a single batch and those where text is generated moment by moment by a language model.",
+  "The price is $20 per million characters for cloud use, and the model is available under the Apache 2.0 licence, with its weights on Hugging Face for anyone who wants to run it on their own device.",
+  "This release joins a wave of open voice models that turn building a voice assistant with a specific accent and voice into a job of weeks, not months.",
+  "Simply put: three seconds of your voice is enough to create a voice copy that speaks any language — and starts talking before you blink.",
+  "Would you try cloning your voice, or does the idea scare you?"
+ ]
+}

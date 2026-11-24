@@ -1,0 +1,25 @@
+{
+ "id": 965,
+ "slug": "article-965",
+ "title": "💻 One dollar of GPT-5.1 tokens is enough to find holes in the 'Great Firewall'!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r249-w249-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Internet"
+ ],
+ "body": [
+  "💻 One dollar of GPT-5.1 tokens is enough to find holes in the 'Great Firewall'!",
+  "Six researchers from the University of Massachusetts Amherst, the University of Colorado Boulder and the 'Great Firewall Report' group presented a scientific paper at a computer security conference, showing that AI can discover new ways to bypass the Chinese firewall at a cost of less than one dollar of tokens.",
+  "The researchers built a system they called 'CircumFolf', which automatically searches for censorship-bypass strategies across all network layers: the language model generates code, then tests and improves it through repeated trials, until it produces a method that actually works.",
+  "The system treated each censorship method as a separate scenario, capturing its context, protocol constraints and blocking mechanism, then wrote executable programs that modify network packets and protocols, from rewriting fields in the Internet Protocol header, to crafting Domain Name System queries that exploit parser ambiguity, to altering the structure of encrypted 'QUIC' protocol packets.",
+  "The researchers tested the system on simulated censorship tools used by China, Iran, Pakistan and Kazakhstan, and on virtual servers in clouds inside those countries, and found that the average cost of reaching the first successful bypass was less than one dollar of tokens when using the 'GPT-5.1' model.",
+  "The researchers admit that the censorship infrastructure operators might notice the system while it works, but they argue that its small payloads, about 80 kilobytes outbound and 150 kilobytes inbound, and the pauses between tests of 25 to 45 seconds, might let it pass unnoticed.",
+  "The researchers describe their work as a first step toward speeding up the discovery of censorship-bypass methods with AI, because finding holes in the firewall used to be hard and lengthy work, and it can now be handed to AI, narrowing the gap between internet freedom defenders and states with huge censorship resources.",
+  "Simply put: what used to require experts and weeks of work, AI now does for one dollar... will this change the balance of power between censorship and internet freedom?",
+  "Do you think AI will make bypassing censorship easier for everyone, or will it make censorship itself smarter?"
+ ]
+}

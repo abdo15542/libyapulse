@@ -1,0 +1,22 @@
+{
+ "id": 748,
+ "slug": "article-748",
+ "title": "🛡️ Hackers Hide Control Addresses Inside the Solana Chain... So They Can't Be Taken Down!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r195-w195-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Hackers Hide Control Addresses Inside the Solana Chain... So They Can't Be Taken Down!",
+  "A security team at Cisco has uncovered a financially motivated hacking group called UAT-12643 that hides the control server addresses of its malware inside Solana blockchain transactions, a trick that makes taking down its infrastructure by the usual methods almost impossible.",
+  "The trick relies on spyware called Overlord running on Windows: instead of storing the control server address inside the malware itself, the malware reads transaction notes from a Solana wallet controlled by the attackers, finds the new server address encrypted inside them, and connects to it. That way the attackers can change the server whenever they want without redeploying the malware, because the record lives distributed across thousands of nodes and cannot be deleted by shutting down a domain or seizing a server.",
+  "The group's arsenal also includes an information stealer written in Python that collects browser data, Discord tokens, and crypto wallets, and another stealer that swaps crypto addresses in the clipboard. The campaign most likely targets crypto holders, gaming account owners, and users of internet calling software, and the malware has 35 commands including keystroke logging, screen, camera, and audio capture, and moving around inside networks. An operator mistake exposed their file server to the internet, letting researchers view their tools and settings.",
+  "Attributing the campaign to North Korea is a low-confidence assessment by the security team, based on similarities in methods with known groups, not a confirmed accusation.",
+  "Simply put: when the control address lives in a blockchain that cannot be erased, traditional takedowns become useless. Do you think blockchain technology will become a permanent refuge for attackers, or will defense find a new way?"
+ ]
+}

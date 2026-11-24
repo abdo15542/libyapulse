@@ -1,0 +1,23 @@
+{
+ "id": 446,
+ "slug": "article-446",
+ "title": "🤝 'NATO' Turns to AI for Cyber Defense — 300 Billion Tokens a Month!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r131-w131-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🤝 'NATO' Turns to AI for Cyber Defense — 300 Billion Tokens a Month!",
+  "The North Atlantic Treaty Organization has revealed a collaboration with \"OpenAI\" to integrate AI into its cybersecurity operations, aiming to discover software vulnerabilities and investigate suspicious activity across allies' networks. The partnership runs through the alliance's Communications and Information Agency, which provides technology and cybersecurity services to the alliance.",
+  "The company said the alliance's core institutions use its advanced cybersecurity models, and that monthly usage reaches 300 billion tokens of inputs and outputs. The models support software review, investigation of suspicious activity, and vulnerability verification, as part of the company's cybersecurity initiative known as \"Daybreak\", which supports authorized vulnerability research and fixing.",
+  "AI agents were also tested during the \"Crossed Swords 2026\" cybersecurity exercise, organized by the Cooperative Cyber Defence Centre of Excellence in Tallinn, Estonia, between November 2 and 6, with more than 250 participants from more than 40 countries. Participants designed, deployed, and evaluated AI agents during simulated operations, alongside human operators.",
+  "The effort wasn't limited to the alliance: the European Union Agency for Cybersecurity used AI models to discover four vulnerabilities in EU institutions' software, and all fixes were published. A joint assessment also reviewed 27 codebases and found 220 potential issues, 95% of which were confirmed after inspection. The Polish response team discovered six vulnerabilities in the \"MikroTik RouterOS\" system, two of which can be combined for unauthorized administrative access.",
+  "Simply put: AI now hunts for vulnerabilities in allies' systems before attackers find them, from military exercises to European Union networks.",
+  "Do you trust AI to take part in protecting countries' networks, or should security decisions stay fully human?"
+ ]
+}

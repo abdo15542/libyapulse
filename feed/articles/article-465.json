@@ -1,0 +1,24 @@
+{
+ "id": 465,
+ "slug": "article-465",
+ "title": "🐍 How Did Attackers Hack Microsoft's Own Account? A Stolen Certificate and an AI Tool Behind the Malicious Package!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r133-w133-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🐍 How Did Attackers Hack Microsoft's Own Account? A Stolen Certificate and an AI Tool Behind the Malicious Package!",
+  "A new investigation revealed how attackers managed to publish two malicious versions of Microsoft's Agent Framework package on the PyPI store on the evening of November 17 — and the answer is more alarming than the package itself: they stole a certificate and private key from the company's internal publishing service.",
+  "The service is known as ESRP, the internal system that signs and publishes Microsoft packages. The attackers appear to have seized a client certificate and its private key, then first tried to publish from Amazon servers, but the service's address filters rejected them, before succeeding on a second attempt from an address owned by Microsoft itself. It is still unknown how the certificate was stolen in the first place.",
+  "As for the tool used, it calls itself Kern — an open-source framework for AI penetration testing. The attackers prepared the package in a temporary folder and sent a connectivity test signal before publishing; they even tried the theft software on their own machines first, and that test captured the settings of an open-source coding assistant running a model from the GLM family.",
+  "Analysis by JFrog revealed that the malicious package was not built in Microsoft's pipelines at all: it was repackaged locally just nine minutes before upload, on a machine with a UTC+8 timezone — East Asia time. The second version, 1.26.2, was cleverer: it restored the original clean file to its place and moved the malicious payload to a new file, so a file comparison would not detect it.",
+  "Despite the package's size — downloaded about 190,000 times a month — the actual damage appears limited: the data-exfiltration channel was a free service accepting only 100 requests, and it captured 50 requests — 4 from the attackers' own machines and 29 from test and scanning environments — leaving 17 requests representing just three successful thefts of victims' data. The Chainguard service also stopped the first version just 48 seconds after it was published.",
+  "Simply put: the attack was not just a tainted package, but the theft of the official publishing keys themselves, carried out by an AI tool — and it nearly succeeded, had the free exfiltration channel not filled up quickly.",
+  "Are public store checks enough to protect developers, or has trust in official packages themselves come to need rethinking?"
+ ]
+}

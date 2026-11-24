@@ -1,0 +1,24 @@
+{
+ "id": 491,
+ "slug": "article-491",
+ "title": "🖥️ The Fugaku Hack — 430 Login Keys Stolen and 233 Keys with No Password at All!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r136-w136-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🖥️ The Fugaku Hack — 430 Login Keys Stolen and 233 Keys with No Password at All!",
+  "Japan's RIKEN institute halted its supercomputer Fugaku, one of the most powerful computers in the world, after it became clear that hackers entered its operating network between November 10 and 13, through a public internet page displaying the machine's operating status.",
+  "In a second report issued on November 20, the institute confirmed that the hackers collected and transferred 430 login credentials from researchers' personal folders, including private keys for systems and accounts outside the institute, and that 233 of these keys have no password at all, meaning whoever obtains them can use them immediately.",
+  "The data of 4,222 users was also considered leaked, including names, email, and ID numbers, in addition to addresses, workplaces, phone numbers, and identity verification records entered at registration.",
+  "More alarming, the hackers actually tried using some of the stolen keys to connect to external systems, so every researcher was asked to revoke their keys and issue new keys in every system they access, instead of waiting for proof of harm.",
+  "Fugaku is still halted since November 14, with no set date for restarting it, until the institute separates its public services from the management network and rebuilds the affected servers.",
+  "Simply put: a small page displaying the machine's status opened the door to hackers who stole keys that open other doors at universities and centers around the world; and a key with no password works immediately in the hand of whoever stole it.",
+  "Do you keep login keys to other systems in shared folders? And do you protect your keys with a password?"
+ ]
+}

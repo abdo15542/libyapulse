@@ -1,0 +1,21 @@
+{
+ "id": 777,
+ "slug": "article-777",
+ "title": "🛡️ Moldy Rust: Malicious Ads Hack Your iPhone Just by Opening the Page... and Steal Your Wallet Phrase!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r202-w202-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Moldy Rust: Malicious Ads Hack Your iPhone Just by Opening the Page... and Steal Your Wallet Phrase!",
+  "A security company revealed a huge malvertising operation called Moldy Rust, which spreads ordinary-looking ads on famous websites and apps, but clicking one of them could expose an iPhone to hacking. As soon as you open the page the ad leads you to, the attack starts automatically, without downloading any file or clicking any other button, as the page exploits a chain of vulnerabilities in the phone's system to slip inside it.",
+  "More than 480 advertising domains are linked to the operation, appearing between May 12 and November 17, 2026, spread across six subgroups, targeting users in more than 47 countries, with Hong Kong, Japan, Singapore, and Britain at the top of the targeted countries. The operation uses four ready-made exploit kits, choosing the one that suits the victim's phone system version, including the Corona and Dark Sword kits, among the most powerful hacking tools known, as they were originally made with the quality of government spyware tools before reaching criminals' hands.",
+  "The attack primarily targets the secret phrase of crypto wallets such as MetaMask, Phantom, and Trust Wallet, searching for it in wallet apps, notes, and saved QR code images, and it also steals passwords saved in the phone's keychain, iMessage, WhatsApp, and Telegram messages, photos, location history, and Wi-Fi network passwords. One of the tools can even take screenshots and record the microphone. Apple fixed the six flaws linked to this attack in iOS 26.3, so updating the phone to the latest version remains the most important protection, along with avoiding clicking ads from untrusted sources, and never saving a wallet phrase in photos or notes on the phone.",
+  "Simply put: an ad that looks ordinary could be a trap that hacks your phone just by opening its page and steals your crypto wallet; do you update your phone regularly, or do you usually postpone updates?"
+ ]
+}

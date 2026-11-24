@@ -1,0 +1,21 @@
+{
+ "id": 871,
+ "slug": "article-871",
+ "title": "🎵 Japan's Tower Records store hacked! 11 million records... and encrypted passwords!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r224-w224-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🎵 Japan's Tower Records store hacked! 11 million records... and encrypted passwords!",
+  "On 19 November, the Japanese music store chain Tower Records discovered unauthorised access to its online store, stopped the service immediately, and announced on 21 November that customer data had leaked, then updated its announcement on 22 November with the full figures: around 11 million records.",
+  "The details: 10,214,652 login records including email addresses, member IDs, and password hashes; 2,784,514 membership records including names and dates of birth; and 776,953 shipping records including addresses, recipient names, and phone numbers. These figures are different categories of data, not separate victim counts. Payment cards are not included, according to the company. The leak also included former customers who cancelled their membership during the past three years.",
+  "The biggest danger lies in the password hashes: they are not the passwords themselves in readable form, but an attacker could recover weak or common passwords using cracking techniques, then try them on other services where victims use the same password. Combining email, name, and address also makes phishing messages very convincing, especially as shipping resumes on 23 November while the online store remains closed with no confirmed reopening date. The company has not yet revealed the attacker's identity or the method of entry, no confirmed secondary harm has been detected so far, and the investigation continues.",
+  "Simply put: one password used everywhere means a breach at a music store could open your email and your other accounts — will you change your repeated passwords now, or wait until the danger knocks on your door?"
+ ]
+}

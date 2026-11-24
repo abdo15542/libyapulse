@@ -1,0 +1,22 @@
+{
+ "id": 260,
+ "slug": "article-260",
+ "title": "🐍 Hacking Microsoft's official AI package steals developers' data!",
+ "date": "2026-11-20",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r107-w107-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "🐍 Hacking Microsoft's official AI package steals developers' data!",
+  "Security researchers have revealed the hacking of Microsoft's official 'Agent Framework' package on the 'PyPI' repository for the Python language, where two malicious versions numbered 1.26.1 and 1.26.2 were published on November 17, before the repository blocked them within about an hour.",
+  "The two malicious versions plant a startup file that runs automatically every time Python starts, even without importing the package, stealing API keys, cloud login tokens, and credential files from developers' machines and cloud build pipelines, then sending them to an external server.",
+  "The package is downloaded about 190,000 times a month, and the last safe version is 1.26.0. Researchers advised everyone who installed the two malicious versions to isolate affected machines, rotate exposed credentials, and check login logs. Microsoft announced it temporarily closed some of its repositories during the investigation.",
+  "Simply put: imagine an update to a trusted app hiding a small thief that works in secret every time you open your computer; that is how the two malicious versions worked.",
+  "Do you check the safety of software packages before installing them in your projects?"
+ ]
+}

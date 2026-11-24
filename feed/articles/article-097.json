@@ -1,0 +1,20 @@
+{
+ "id": 97,
+ "slug": "article-097",
+ "title": "OpenAI Report: AI Agents Now Complete Half of Researchers' Tasks on Their Own! 🔬",
+ "date": "2026-11-19",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r07-10.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "OpenAI Report: AI Agents Now Complete Half of Researchers' Tasks on Their Own! 🔬",
+  "OpenAI published yesterday its second report on the use of coding agents inside its research organisation, and the result was striking: agents now complete 46% of research tasks estimated to take two to four hours of human work, with no human intervention at all — up from 23% in March. For longer tasks of four to eight hours, the share rose from 13% to 35%.",
+  "\"Coding agent\" means software that writes and checks code on behalf of a researcher. A researcher's average daily use of agents reached about $2,400 at the published API prices, and the top 10% reached about $23,000 a day. In a survey, the median respondent said they would be willing to give up 40% of their team in exchange for keeping the agents for three months. But success varies by task — 79% for training monitoring, and only 25% for writing inference software — and humans are still at the centre of the work. And a note: the dollar figures are at the published API prices, not an actual bill, and these are the company's own measurements.",
+  "If AI were doing half your work.. would you fear for your job, or welcome the help? 💭"
+ ]
+}

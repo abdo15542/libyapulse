@@ -1,0 +1,24 @@
+{
+ "id": 461,
+ "slug": "article-461",
+ "title": "🌀 Nvidia Launches 'Sigma' — a Language Model That Writes by Continuous Diffusion Instead of Word by Word!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r132-w132-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🌀 Nvidia Launches 'Sigma' — a Language Model That Writes by Continuous Diffusion Instead of Word by Word!",
+  "Nvidia launched a new family of language models called Nemotron Labs Sigma — the first large-scale family of continuous diffusion language models, working in a completely different way from traditional models that write word by word.",
+  "Instead of generating text token by token, Sigma gradually removes noise from word representations in a continuous 16-dimensional mathematical space, until the text appears clearly all at once. The company says this approach makes generation paths smoother, makes it easier to distill the model into faster versions that work in few steps, and allows steering the thinking path during writing.",
+  "The family includes 14 open-weight versions in 3-billion and 8-billion parameter sizes: the base version, the instruction version, fast distilled versions with 2, 4, 8, and 16 steps, and self-speculative versions. The 8-billion version scored an average of 71.16 across the company's six test sets, beating the previous discrete diffusion model, and scored 65.12 on the HumanEval coding test and 91.96 on the GSM8K math test after instruction tuning.",
+  "As for speed, the 8-step distilled version maintains an average of 70.34, close to the full version, while the self-speculative version runs about 3.46 times faster than traditional generation. The models run on a single graphics card at speeds ranging from 120 to 140 tokens per second, without support for CPUs alone.",
+  "The models are now available for download under the open Nvidia Nemotron license, which allows commercial use, along with a published research paper explaining the method in full.",
+  "Simply put: instead of the model writing one word and then thinking about the next, it starts from complete noise and refines it until the text appears — like a sculptor revealing a statue from stone.",
+  "Do you think diffusion models will one day compete with traditional models in writing text, or will they remain a research experiment?"
+ ]
+}

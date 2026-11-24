@@ -1,0 +1,20 @@
+{
+ "id": 33,
+ "slug": "article-033",
+ "title": "California Wants an Emergency Kill Switch for AI! 🛑",
+ "date": "2026-11-19",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r05-a06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AIRegulation"
+ ],
+ "body": [
+  "California Wants an Emergency Kill Switch for AI! 🛑",
+  "On November 18, California Governor Gavin Newsom issued new recommendations to tighten oversight of AI. Note: these recommendations, in an 85-page report titled \"AI in 2026 and Beyond,\" are not yet law — they are proposals for the legislature to discuss when it returns in December.",
+  "The highlights: safety standards set by the state, not by companies; ongoing oversight by licensed independent verification bodies; the state's power to issue an emergency stop order for a dangerous model if the company refuses to contain the risk; shortening the deadline for reporting critical incidents from 15 days to 48 hours; and the power to cap repeated self-improvement — that is, AI designing a smarter version of itself without human intervention.",
+  "Would you support the state having a kill switch for dangerous AI models? ⚖️"
+ ]
+}

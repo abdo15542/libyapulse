@@ -1,0 +1,24 @@
+{
+ "id": 1133,
+ "slug": "article-1133",
+ "title": "🎁 A $70,000 Gift Card Theft Costs a Company $2.5 Million! 'Globetopper' Reveals the Attack Details!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r289-w289-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🎁 A $70,000 Gift Card Theft Costs a Company $2.5 Million! 'Globetopper' Reveals the Attack Details!",
+  "Globetopper, a distributor of digital gift cards between companies, has revealed that a cyberattack cost it about $2.5 million in lost revenue, after the attacker redeemed digital gift cards worth $70,000 that cannot be recovered.",
+  "The attack was discovered on 22 October, and the company quickly shut down its platform and affected servers in the early hours of the following day, launched an investigation, then rebuilt the platform entirely on the cloud and relaunched it on 31 October, with business operations gradually returning from 1 November.",
+  "The parent company explained in an official disclosure that the attacker obtained credentials and integration keys belonging to some of its corporate clients, and that all of them have been revoked and replaced with new ones under additional restrictions, with no unauthorized use of them detected so far.",
+  "The company also confirmed that the attacker actually redeemed the stolen cards, and that it cannot block them, retrieve them, or recover their value, and that it will bear the loss, while the investigation is still ongoing to determine whether the attacker reached other client, payment, or supplier data.",
+  "The company's platform is used by more than 4,000 brands in 65 countries, including well-known stores, financial apps, and rewards platforms, and no ransomware gang has claimed responsibility for the attack so far.",
+  "Simply put: $70,000 in stolen cards turned into $2.5 million in losses — do you still trust digital gift cards after today?",
+  "Do you still buy digital gift cards knowing that stolen ones cannot be recovered?"
+ ]
+}

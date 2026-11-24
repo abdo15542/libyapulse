@@ -1,0 +1,26 @@
+{
+ "id": 640,
+ "slug": "article-640",
+ "title": "💼 Linear passes $100 million — and AI agents now write half the tasks!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r164-w164-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "💼 Linear passes $100 million — and AI agents now write half the tasks!",
+  "Linear, the task-tracking tool for programming teams, announced it has passed $100 million in annual recurring revenue this year, with more than 40,000 paying customers.",
+  "Chief Operating Officer Christina Cordova revealed in an interview on November 19 that AI agents now create more than half of the tasks inside the tool, up from just 3% a year ago.",
+  "Today the agent opens the task itself, classifies it, assigns it and closes it, whereas a year ago it was merely an assistant writing side notes — and 95% of paid workspaces have now enabled agents.",
+  "The transformation began in May 2025, when the company launched its MCP server, a standard connector that lets the agent read and write the tool's data directly, then added a platform for building agents and integrations with Codex, Cursor, GitHub Copilot and its own agent.",
+  "The other figures are no less striking: long-standing customers now spend 177% of what they used to spend, and employees sold shares worth $99 million in August at a company valuation of $2.5 billion.",
+  "One secret of the growth is that the company has never hired a single salesperson; it spread among developers by word of mouth, and it sells AI at cost, with no profit margin on tokens, earning only from subscriptions.",
+  "In technical support, AI drafts the reply — but a human decides what is finally sent.",
+  "Simply put: a small task-tracking tool has become a system in which agents do more work than humans, and humans have become supervisors of the agents' work.",
+  "Would you trust an AI agent to write your team's tasks and close them on its own?"
+ ]
+}

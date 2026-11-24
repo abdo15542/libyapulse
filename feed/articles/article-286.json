@@ -1,0 +1,21 @@
+{
+ "id": 286,
+ "slug": "article-286",
+ "title": "🧠 New AI agent works inside Teams and learns from company employees!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r110-w110-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🧠 New AI agent works inside Teams and learns from company employees!",
+  "Nous Research announced that its AI agent Hermes is now available inside Microsoft's business services, led by the Teams app, to carry out knowledge-work tasks on behalf of employees.",
+  "The launch was announced on November 18. Employees inside Teams can assign the agent tasks such as financial analysis, drafting documents, and sorting the inbox, then review the final result in the same conversation. The agent's tasks run inside isolated virtual machines that start in less than a second and stop when the work ends, and the agent is also available as a desktop app in the Microsoft Store, and can run inside the company's private cloud. The agent is described as open source and self-improving: it turns every successful way of completing a repeated task into a reusable 'skill' made of a written definition and code that performs the fixed steps the same way every time. With the 'collective wisdom' feature, employees can propose their skills and publish them to their team after review, so the next person to attempt the task starts from the best method anyone on the team has found, and this shared knowledge remains the company's private property, not training data for the AI company.",
+  "Simply put: imagine a new employee who learns from colleagues every day, becoming faster and more accurate, then teaching everyone who comes after; that is how the agent works when it turns employee experience into skills the whole team shares.",
+  "Would you trust an AI agent to carry out your work tasks inside your company's software?"
+ ]
+}

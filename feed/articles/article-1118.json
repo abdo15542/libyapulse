@@ -1,0 +1,24 @@
+{
+ "id": 1118,
+ "slug": "article-1118",
+ "title": "💳 Stolen AI Keys Cost Railway Platform $740,000… in Bills Nobody Ordered!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r286-w286-10.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "💳 Stolen AI Keys Cost Railway Platform $740,000… in Bills Nobody Ordered!",
+  "Cloud infrastructure company Railway revealed that attackers used stolen customer keys for AI services, causing unauthorized usage bills of about $740,000 before the activity was discovered and stopped.",
+  "The company said the compromised keys themselves allowed this large sum to accumulate before it was discovered — not any flaw in its own platform — as linking AI keys directly to cloud deployment pipelines has become common, so a single leaked key is enough for huge bills to pile up in a short time without anyone noticing.",
+  "The disclosure comes amid a wider wave of credential theft targeting AI infrastructure providers this month, as attackers now target the API keys that let software call AI models, instead of attacking the AI systems themselves.",
+  "Security researchers say stolen AI keys have become especially valuable, because usage-based billing turns a single leaked key into a large and fast financial loss for the victim, as the key's owner pays for every query the attacker runs in their name.",
+  "Railway said it has taken steps to prevent the incident from happening again, without publicly explaining how the attackers obtained the keys in the first place — a reminder that the financial side of AI incidents is widening: the danger is no longer just data leaks, but direct money loss when paid service keys fall into the wrong hands.",
+  "Simply put: a single stolen key could cost you hundreds of thousands of dollars before you notice… Do you review your API keys and set spending limits on them?",
+  "Do you set a maximum spending limit on the AI keys you use?"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "id": 791,
+ "slug": "article-791",
+ "title": "⚡ Valkey 9.2 Arrives Officially: 43% Less Memory and Non-Stop Backups!",
+ "date": "2026-11-22",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r205-w205-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Valkey"
+ ],
+ "body": [
+  "⚡ Valkey 9.2 Arrives Officially: 43% Less Memory and Non-Stop Backups!",
+  "On November 19, the Valkey project, the open-source database, announced version 9.2, an update focused on doing more with the same hardware, by saving memory, cutting network traffic, and speeding up backups.",
+  "The biggest change is that large sorted sets now use a B+ tree instead of a skip list, cutting memory per element by between 36% and 43%, from 50.3 bytes to between 28.5 and 32.0 bytes, saving about 109 megabytes in a set of 5 million elements, while speeding up additions by 105% and deletions by 76%.",
+  "The release also adds 'forkless' snapshots, which run in a background thread instead of copying the whole process, so the temporary memory spikes that used to accompany backups disappear, along with continuous compression of replicas between regions that cuts network traffic by between 50% and 65% and shrinks backup files by up to 80%.",
+  "Among the new features is also a 'PathHash' data type for distributed caching for AI workloads, which shares cache memory across fleets of graphics cards, potentially cutting inference costs by up to 40% and speeding up the first response by up to 80%, in addition to access-control roles and new conditional commands.",
+  "Simply put: an open-source database has become lighter and faster without buying new hardware; so do you prefer open software that keeps improving over paid solutions?"
+ ]
+}

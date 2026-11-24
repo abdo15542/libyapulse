@@ -1,0 +1,20 @@
+{
+ "id": 242,
+ "slug": "article-242",
+ "title": "🗄️ PostgreSQL 19 finally arrives... with a long-awaited feature!",
+ "date": "2026-11-20",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r105-w105-12.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "🗄️ PostgreSQL 19 finally arrives... with a long-awaited feature!",
+  "The nineteenth version of the open-source database 'PostgreSQL' has been released, two months late from its usual September date, due to security repair work. The new version introduces a command called 'WAIT UNTIL LSN', letting apps confirm that a backup copy of the database has caught up with the latest write before reading data from it. The problem was that apps writing data to the main database and then reading it immediately from a backup copy could get stale data, because replicas lag behind updates, forcing developers into complex workarounds inside their apps or forcing all reads onto the main database. Now a developer can ask the replica to wait until it catches up to a specific write position, with an optional timeout, and get up-to-date data without twisted solutions. This feature matters for large sites and apps that spread their reads across several replicas to serve millions of users.",
+  "Simply put: imagine writing a note in a notebook, then asking for a copy of it before anyone has copied it; the new command makes the copy wait until the copying is done, so you always read the latest version.",
+  "Do you use open-source databases in your projects?"
+ ]
+}

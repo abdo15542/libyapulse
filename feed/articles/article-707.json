@@ -1,0 +1,21 @@
+{
+ "id": 707,
+ "slug": "article-707",
+ "title": "⚙️ Intel claims its D270 card beats the RTX Pro 6000 by up to 5.9 times — on half the power!",
+ "date": "2026-11-22",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r185-w185-09.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Intel"
+ ],
+ "body": [
+  "⚙️ Intel claims its D270 card beats the RTX Pro 6000 by up to 5.9 times — on half the power!",
+  "Intel has published test results for its new D270 data-centre card, claiming a large lead over Nvidia's RTX Pro 6000 card in some tasks, while consuming only half the power. In financial tests for pricing options, the lead reached 5.9 times in one test, 5.6 times in another, 4.6 times in a third, and 1.92 times in a fourth.",
+  "In AI tasks, the gap shrank greatly: Intel claims 29% lower response time in a decision model, and 12% higher token output with the 30-billion-parameter Qwen 3 model. The large gap in the financial tests is due to the Xe3 architecture's focus on full double-precision calculations, while these calculations on Nvidia's card run at no more than one 64th of the speed of single-precision calculations.",
+  "The card carries 32 Xe3P cores and 256 XMX engines, with LPDDR5X memory in capacities from 160 to 480GB, 1.5 terabytes per second of bandwidth, air cooling and 350W consumption, via a PCIe 5.0 slot. It is aimed at air-cooled data centres that use traditional cards.",
+  "Simply put: stunning numbers in financial tests, modest ones in AI — and all from Intel's own labs. Is this card enough to bring Intel back into the data-centre card market, or will CUDA's software dominance keep Nvidia in the lead?"
+ ]
+}

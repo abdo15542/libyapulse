@@ -1,0 +1,21 @@
+{
+ "id": 836,
+ "slug": "article-836",
+ "title": "📱 Android 17 QPR2 Arrives Early on Pixel.. New Colors, Audio Broadcast, and 200 Fixes!",
+ "date": "2026-11-22",
+ "category": "phones",
+ "category_name": "Phones & Devices",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r215-w215-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Android"
+ ],
+ "body": [
+  "📱 Android 17 QPR2 Arrives Early on Pixel.. New Colors, Audio Broadcast, and 200 Fixes!",
+  "Google began rolling out the stable Android 17 QPR2 update to Pixel phones on 10 November, about a month ahead of the usual December timing, alongside the monthly Pixel update and the November security patch. The update is one of the largest quarterly updates for Android: it brings new features, fixes more than 200 security vulnerabilities, and covers 23 devices from six Pixel families, starting with the Pixel 6a from 2022 up to the latest Pixel 11.",
+  "Among the most notable new features is a custom color picker in the wallpaper and style settings, with four intensity levels: bold, vibrant, soft, and neutral, in light and dark colors. The status bar settings have also been redesigned, so you can now choose to show all notifications, priority ones only, or none, and turn vibration and the battery percentage on or off separately. The audio broadcast feature wirelessly broadcasts the sound from your phone's microphone or earphones to nearby devices via the Auracast Bluetooth technology, like a small speaker. Foldable phone owners get a handle for dragging apps in full-screen mode, while the back of the Pixel 11 Pro lights up when one of your favorite contacts messages you.",
+  "On the security side, the November patch covered more than 200 flaws in Android, including 166 fixes specific to Pixel devices, the most serious being a vulnerability in the system framework that allows remote code execution without any user interaction. The biggest difference is that Pixel alone gets the update on the day it is released, because Google controls the hardware, software, and update pipeline together, while the same code reaches other companies later: Samsung's One UI 9.5 interface is expected to be built on it with the Galaxy S27 series in early 2027.",
+  "Simply put: your update arrives on its first day if your phone is a Pixel, and months later if it is not; is the wait worth changing your phone?"
+ ]
+}

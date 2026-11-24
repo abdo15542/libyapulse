@@ -1,0 +1,24 @@
+{
+ "id": 1011,
+ "slug": "article-1011",
+ "title": "🔐 Two crypto platforms reveal their users were affected by the MoEngage breach... and the money is safe!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r260-w260-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔐 Two crypto platforms reveal their users were affected by the MoEngage breach... and the money is safe!",
+  "Two crypto trading platforms revealed that some of their users' data was affected by the breach that hit the Indian software company MoEngage, after attackers entered part of its cloud infrastructure through a compromised account belonging to one of its external vendors.",
+  "The two platforms explained in separate notices to their customers that their internal systems, wallets and trading platforms were not affected, and that customers' money and cryptocurrencies are safe.",
+  "The WazirX platform said the exposed data was limited to email addresses, basic contact identifiers, device data and interaction attributes, while the Zip Pay platform said the attackers used compromised credentials to access the company's cloud infrastructure and obtain information about some customers.",
+  "The company had said it discovered and contained the breach in late October, that less than 1% of its customer accounts were affected, that it notified every affected customer directly, and that its services did not stop despite reports of difficulties some customers faced logging into the platform for about a week.",
+  "The company provides software for communicating with customers through messages, notifications and email, serves more than 1,350 institutions in 75 countries, and is preparing for a possible listing on the Indian stock exchange, and the incident comes amid a wave of breaches hitting vendors and intermediaries this month.",
+  "Simply put: a breach at a small software company exposed the data of customers of two big platforms... do you know who holds your data among the vendors your favorite companies deal with?",
+  "Do the platforms' assurances that your money is safe reassure you even though your data leaked?"
+ ]
+}

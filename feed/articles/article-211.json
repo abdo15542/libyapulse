@@ -1,0 +1,20 @@
+{
+ "id": 211,
+ "slug": "article-211",
+ "title": "☁️ Microsoft Launches the Azure Cobalt 200 Chip with 50% Higher Performance!",
+ "date": "2026-11-20",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r103-w103-22.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Microsoft"
+ ],
+ "body": [
+  "☁️ Microsoft Launches the Azure Cobalt 200 Chip with 50% Higher Performance!",
+  "Microsoft announced at Ignite 2026 on November 17 its new “Azure Cobalt 200” chip for its cloud servers, with up to 50% better performance than the previous Cobalt 100 generation. The chip is based on the Arm Neoverse architecture with 132 cores, manufactured on TSMC’s 3-nanometer technology, and is available in 14 regions around the world now, reaching 23 regions by the end of 2026, across five series of virtual machines. The chip was designed for cloud and data-heavy workloads and agentic AI applications, and Microsoft expects it to make up a large share of Azure’s new computing capacity in 2027.",
+  "Simply put: the chip is the brain of the cloud server; and the new generation is half again as fast, which means faster, cheaper cloud services for users.",
+  "Did you know that your everyday apps run on chips like these?"
+ ]
+}

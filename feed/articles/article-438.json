@@ -1,0 +1,23 @@
+{
+ "id": 438,
+ "slug": "article-438",
+ "title": "🌍 An International Operation Takes Down the 'GootLoader' Malware — 235 Servers and 257 Domains in 9 Countries!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r130-w130-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🌍 An International Operation Takes Down the 'GootLoader' Malware — 235 Servers and 257 Domains in 9 Countries!",
+  "European police have announced that a wide international operation dismantled the infrastructure of three criminal tools-for-hire, including the \"GootLoader\" malware, as part of \"Operation Endgame\", with the participation of nine countries — Bulgaria, Canada, Denmark, Germany, Moldova, the Netherlands, Poland, the United Kingdom, and the United States — alongside \"Europol\" and \"Eurojust\".",
+  "The operation resulted in the seizure of 235 servers and 257 domains, and the recovery of about 6.4 million sets of stolen victim credentials to notify their owners. The seizures were distributed as \"CastleRAT\" with 120 servers and 39 domains, \"SteelC\" with 102 servers, and \"GootLoader\" with 14 servers and 218 domains.",
+  "The US Department of Justice said authorities removed \"GootLoader\" from more than 100 servers, including compromised \"WordPress\" sites, and seized US domains used to distribute and control the malware. The malware infected more than 25,000 computers worldwide since 2018, and was used in ransomware attacks on at least 44 US victims, with losses of about $28.8 million.",
+  "In a later warning on November 16, the FBI revealed that \"GootLoader\" operators had hacked more than a thousand \"WordPress\" sites to target lawyers and legal teams in America, via poisoned search results and malicious links. The malware also targeted the US Department of War and the defense industrial base.",
+  "Simply put: \"GootLoader\" was the back door that opened victims' devices to ransomware gangs, and a single international operation shut down hundreds of servers and domains and cleaned hundreds of hacked sites.",
+  "Do you check search results before clicking them, or trust the first result that appears?"
+ ]
+}

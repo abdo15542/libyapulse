@@ -1,0 +1,24 @@
+{
+ "id": 1069,
+ "slug": "article-1069",
+ "title": "🩺 The World's Largest Trial: AI Helps Detect Breast Cancer Early — and 700,000 Women Are Taking Part!",
+ "date": "2026-11-23",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r278-w278-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Science"
+ ],
+ "body": [
+  "🩺 The World's Largest Trial: AI Helps Detect Breast Cancer Early — and 700,000 Women Are Taking Part!",
+  "The world's largest trial using artificial intelligence in breast cancer screening has begun in the UK, with the first participants enrolled at Cambridge hospitals. The trial will extend to 30 sites across the country, involving around 700,000 women.",
+  "The trial, called 'Edith', costs £10 million and is led by the universities of Warwick and Cambridge together with Cambridge University Hospitals, working with the UK health service. The aim is for AI to help specialists detect cancer early, even when it is so small it can neither be seen nor felt.",
+  "Today, two specialists review each screening image separately to make sure no cancer is missed, but the trial will test whether AI can help a single specialist review most images with similar accuracy, freeing hundreds of specialists to care for more patients and shorten waiting lists. Every image in the trial will still be reviewed by at least one human specialist — AI is an assistant, not a replacement.",
+  "Breast cancer is the most common cancer among women, with around 55,000 cases diagnosed in the UK alone each year, while women aged 50 to 71 are invited for screening every three years, around 2.1 million screenings are carried out annually, and the programme helps prevent around 1,300 deaths each year.",
+  "Participants are divided into three groups: the first follows the usual method without AI, the second has AI review the images before the specialist, and the third has AI review them afterwards, to compare results accurately and measure the benefits and risks, including the possibility of calling more women back for extra tests unnecessarily.",
+  "Simply put: an AI reading screening images alongside the doctor to catch cancer before it grows... could this become the new standard in every hospital?",
+  "If AI can help save lives through early detection, would you trust it with your next medical check-up?"
+ ]
+}

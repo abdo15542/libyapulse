@@ -1,0 +1,24 @@
+{
+ "id": 939,
+ "slug": "article-939",
+ "title": "🧠 DeepSeek plans to train its new model on Huawei chips alone! 160,000 Chinese chips in a single data center!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r244-w244-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🧠 DeepSeek plans to train its new model on Huawei chips alone! 160,000 Chinese chips in a single data center!",
+  "Chinese press reports on November 3 said that DeepSeek plans to train its upcoming model 'V5' on Huawei's local 'Ascend 950' chips, a step that could make it the first Chinese company to build an advanced model without relying on American Nvidia chips, amid US export restrictions on advanced chips to China.",
+  "The plan centers on a new data center in Ulanqab city in Inner Mongolia, where the company intends to deploy at least 160,000 'Ascend 950 DT' chips, a huge number that could make the site the largest concentration of AI training capacity outside the United States. The fleet was originally intended for inference, meaning running finished models, before the goal shifted to pretraining, the heaviest stage in which the model learns from huge amounts of data.",
+  "A single chip carries 144 GB of memory and bandwidth of nearly 4 TB per second, and it is scheduled to reach the market in the last quarter of 2026, while DeepSeek aims to start pretraining before the end of the same year, meaning any delay in Huawei's production could delay the new model with it. The model is expected to be released in 2027.",
+  "DeepSeek's founder admitted that four 'Ascend 950' chips equal a single 'Nvidia GB300' chip, meaning the Chinese path needs more chips, more power, and more space to reach the same result, but the company is ready to bear that cost in exchange for independence from the American supplier. It has already started publishing open-source software libraries optimized for Huawei chips that have reached more than 95% of the hardware's maximum performance.",
+  "It is important to note: neither DeepSeek nor Huawei has officially confirmed this plan yet, and all the details come from press reports citing industry sources. Earlier trials on older generations of Huawei chips also faced stability and performance problems during training, and Huawei engineers have joined DeepSeek's team to design the chips around the new model's needs.",
+  "Simply put: a Chinese company is trying to build its strongest models entirely on Chinese chips, in a huge bet on technological independence... So will it succeed where earlier attempts failed?",
+  "Do you think China can compete with Nvidia using its local chips, or is the technology gap still too big to close?"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "id": 761,
+ "slug": "article-761",
+ "title": "📝 OpenAI Changes the Writing Rules for GPT-6.2... and Editing the Chat History Could Ruin the Answer!",
+ "date": "2026-11-22",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r197-w197-10.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "📝 OpenAI Changes the Writing Rules for GPT-6.2... and Editing the Chat History Could Ruin the Answer!",
+  "On November 21, OpenAI published new writing guidance for the GPT-6.2 Astra and GPT-6.2 Sol models, which launched on November 17, because the new model's behavior differs from what developers are used to.",
+  "The new model is naturally more concise and direct, so the company advises developers to stop writing instructions like \"be concise,\" and to use ready-made copy-and-paste templates for writing, taking initiative, and coding. The model should also act on its own assumptions instead of asking the user about every detail and waiting for confirmation.",
+  "The most important technical change is in the API: starting with GPT-6.2, the Responses API ignores previous reasoning items if you edit the chat history, or change the model, user, or organization, which could weaken the quality of the answer and increase token usage, because the model repeats the same work. The company also stopped supporting the temperature and top_p settings in the new model.",
+  "Simply put: when the model changes, the way you write to it changes too, and old shortcuts could ruin the answer instead of improving it; do you think developers should rewrite their prompts with every new release, or should models adapt to the developer's style?"
+ ]
+}

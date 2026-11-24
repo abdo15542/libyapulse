@@ -1,0 +1,24 @@
+{
+ "id": 1129,
+ "slug": "article-1129",
+ "title": "🌐 A Brand-New Browser Sees the Light! 'Ladybird' With an Engine Built From Scratch — and It Runs on Mac and Linux!",
+ "date": "2026-11-24",
+ "category": "apps",
+ "category_name": "Apps & Platforms",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r289-w289-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Browsers"
+ ],
+ "body": [
+  "🌐 A Brand-New Browser Sees the Light! 'Ladybird' With an Engine Built From Scratch — and It Runs on Mac and Linux!",
+  "The developers of the independent browser Ladybird have announced that its first alpha version is now available to try on Mac and Linux, after more than four years of development — a step long awaited by many who want a browser outside the dominance of the big engines.",
+  "What sets Ladybird apart is that it is not a modified version of an existing browser, but a complete browsing engine built from scratch: HTML, stylesheets, the document model, layout, JavaScript, and even WebAssembly are all written anew, so it relies neither on the Blink engine used by most browsers nor on any other engine.",
+  "The developer describes the current version as 'modest but working': it covers the basics, but some websites may not work as they should, the browser may occasionally crash, and it makes no security promises at this stage. A Windows version will come at a later stage of the project.",
+  "The browser also supports developer tools such as WebDriver for automated testing and the Firefox developer tools protocol, receives continuous automatic updates through a rolling channel, and invites security researchers to try to break it so vulnerabilities can be found and fixed before it grows.",
+  "Behind the project stands a non-profit organization whose stated goal is an independent, fast, and secure browser that respects user privacy and keeps the web open — not a browser owned by an advertising company or an operating system.",
+  "Simply put: after years of one engine dominating every browser, a browser with a completely new engine built from scratch has arrived — will you try a browser that is still in its early days?",
+  "Will you try the new Ladybird browser even though it is still in its alpha version?"
+ ]
+}

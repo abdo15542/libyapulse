@@ -1,0 +1,20 @@
+{
+ "id": 151,
+ "slug": "article-151",
+ "title": "💰 A Huge Fine on Meta: 805 Million Euros Over Users’ Photos!",
+ "date": "2026-11-19",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r13-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Privacy"
+ ],
+ "body": [
+  "💰 A Huge Fine on Meta: 805 Million Euros Over Users’ Photos!",
+  "Italy’s data protection authority fined Meta after finding that the Facebook app on Android was reading photos, videos, and information from the phones of about 20 million users in Italy without clear consent. The problem is a feature running since 2023 that suggests photos from your phone gallery for posting while you browse, and it was enabled by default with a single general permission that did not explain what was happening. The authority ordered the company to turn the feature off by default and request separate consent within 60 days, while Meta says it will appeal the decision.",
+  "Simply put: one general permission is not enough to read your private photos.",
+  "Do you review app permissions on your phone?"
+ ]
+}

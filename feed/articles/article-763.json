@@ -1,0 +1,21 @@
+{
+ "id": 763,
+ "slug": "article-763",
+ "title": "💰 LangChain Raises $300 Million... and Its Valuation Jumps to $3 Billion!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r198-w198-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "💰 LangChain Raises $300 Million... and Its Valuation Jumps to $3 Billion!",
+  "On November 13, LangChain announced it had raised $300 million in a new funding round, pushing its valuation to $3 billion, more than double its value one year ago, when it was $1.25 billion. The round was led by CapitalG, Alphabet's fund, with participation from Singapore's GIC, DFJ Growth, IVP, and Sapphire Ventures, bringing the company's total raised to $460 million.",
+  "LangChain began in 2022 as an open-source project helping the first language models search the web, call APIs, and work with databases. As the major models matured, the company changed direction toward managing AI agents: programs that work alone and carry out long tasks, and need someone to run them, monitor them, and govern their behavior inside companies.",
+  "The company says its LangSmith platform does not lock users into a specific model, cloud, or ecosystem, but works with any model, sets limits on agent behavior, and makes it easy to use. Its customer list today includes more than 7,000 organizations, among them startups such as Harvey, Rippling, and Clay, and large institutions such as Nvidia, Toyota, and Salesforce.",
+  "Simply put: when an agent becomes an employee working alone around the clock, managing it becomes the product itself; do you think the agent-management market will grow as agents spread, or will the big model labs swallow these tools themselves?"
+ ]
+}

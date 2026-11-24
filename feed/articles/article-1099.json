@@ -1,0 +1,24 @@
+{
+ "id": 1099,
+ "slug": "article-1099",
+ "title": "🔒 Seven Critical Flaws in PHP... and Version 8.6 Arrives with the Fixes!",
+ "date": "2026-11-23",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r284-w284-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Computing"
+ ],
+ "body": [
+  "🔒 Seven Critical Flaws in PHP... and Version 8.6 Arrives with the Fixes!",
+  "The PHP programming language team released a security update on 19 November fixing 17 flaws, including seven critical ones rated 9.2 out of 10, in versions 8.2.36, 8.3.37, 8.4.28 and 8.5.13, alongside the launch of the new version 8.6.0, which carries the same fixes.",
+  "PHP is a programming language that powers a large share of the websites on the internet, from blogs to online stores — so news of any flaw in it matters to millions of websites.",
+  "The most dangerous flaw is in PHP-FPM and lets an attacker with no account run code on the server with a single request, if the front-end server reuses its connections to PHP and the application reads only part of the request body. Three other flaws allow code execution through the session system that stores visitors' data.",
+  "But experts are relatively reassuring: the seven flaws need non-default settings or rare conditions, and no actual attacks exploiting them have been observed so far. Still, experts recommend updating immediately, because attackers study security bulletins fast.",
+  "The update comes just one month after the \"PHP2Shell\" crisis in October, which attackers exploited widely. Three of November's flaws close gaps left by October's fixes.",
+  "Simply put: an important security update for a language that powers millions of websites, and the message is clear: update your server before attackers find the way... so do you know which version your website runs on?",
+  "When was the last time you updated your website's or your app's server software?"
+ ]
+}

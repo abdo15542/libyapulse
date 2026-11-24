@@ -1,0 +1,25 @@
+{
+ "id": 593,
+ "slug": "article-593",
+ "title": "💻 \"Visual Studio Code 1.147\" arrives officially — AI agents that control your browser and schedule your tasks!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r155-w155-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "💻 \"Visual Studio Code 1.147\" arrives officially — AI agents that control your browser and schedule your tasks!",
+  "Microsoft launched version 1.147 of the famous code editor Visual Studio Code on November 18, a release focused almost entirely on AI agents inside the editor.",
+  "The most prominent new feature is \"browser use\" in preview: the agent can now control your real Chrome or Edge browser instead of working inside the editor only, reusing your login sessions to click and browse on your behalf.",
+  "With the experimental \"send later\" feature, you can schedule agent requests and their follow-ups for a time you choose, instead of sending them immediately, from inside the agents window.",
+  "The experimental \"model routers\" let you write simple rules deciding which AI model handles each type of task, so a heavy task goes to the strongest model and a quick question to a lighter, cheaper model.",
+  "The release also adds multiple drafts for unsent requests, visual replies showing reports, charts and models inside the conversation itself, and finer control over the permissions you grant the agent.",
+  "Most of these features are still experimental or in preview, meaning they need manual activation and may change. The release also ends support for macOS Ventura and Sonoma and Linux on 32-bit ARM architecture.",
+  "Simply put: imagine a code editor that has become an assistant that opens your browser itself, carries out tasks at the time you set, and chooses the most suitable model for each task without you intervening.",
+  "Do you trust an AI agent to control your browser on your behalf?"
+ ]
+}

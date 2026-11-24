@@ -1,0 +1,24 @@
+{
+ "id": 603,
+ "slug": "article-603",
+ "title": "🍎 A wide outage hits Apple services — iCloud, the App Store and Apple Pay stop working!",
+ "date": "2026-11-21",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r157-w157-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Apple"
+ ],
+ "body": [
+  "🍎 A wide outage hits Apple services — iCloud, the App Store and Apple Pay stop working!",
+  "Users in the United States observed on Wednesday, November 18, a wide wave of outages hitting Apple services, with a big jump in outage reports.",
+  "The outage covered essential services millions of users rely on daily: iCloud for storing photos and files, the App Store, Apple Pay for payments, and Apple Music.",
+  "The outages mean a user might fail to download an app, or complete a payment, or access his files stored in the cloud, even if his phone and internet are working normally.",
+  "Large cloud services run from huge data centres, so if a small part of them breaks down, millions of users may be affected at the same time — which is what makes such outages so widespread.",
+  "Not all the details of the cause of the outage are known yet, but such waves usually resolve within hours as services gradually return.",
+  "Simply put: imagine all your bank's branches closing their doors at the same time, even though your card is fine. That is what Apple users felt during the outage.",
+  "Have Apple's services ever gone down for you at a moment when you badly needed them?"
+ ]
+}

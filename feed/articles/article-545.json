@@ -1,0 +1,22 @@
+{
+ "id": 545,
+ "slug": "article-545",
+ "title": "🧬 Illumina's AI Wins the Virtual Cell Challenge — and Predicts How Cells Respond to Gene Editing!",
+ "date": "2026-11-21",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r145-w145-09.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Science"
+ ],
+ "body": [
+  "🧬 Illumina's AI Wins the Virtual Cell Challenge — and Predicts How Cells Respond to Gene Editing!",
+  "Illumina announced on November 19 that its AI lab for biological sciences won first place in the 2026 Virtual Cell Challenge, organized by the Arc Institute, beating about 1,500 competitors. The win relied on data from the Billion Cells Atlas — the world's largest dataset on how cells respond to genetic modifications — along with a new algorithm called Cellular AI.",
+  "The challenge asked teams to predict how cells would respond when certain genes were switched off, without ever seeing the modified cells — starting only from their natural state. Illumina's algorithm scored 0.44 points in the final evaluation, versus 0.33 for the runner-up, as its predictions matched the real hidden experimental results measured by the institute more accurately than all competitors.",
+  "The Billion Cells Atlas contains data on how individual cells respond to genetic changes via CRISPR technology, across more than 200 disease-linked cell types. The company released an open-source version of the winning algorithm, so researchers can examine its methodology and use it. This work aims to build what is called the 'virtual cell': a computer model that predicts a cell's behavior before any lab experiment.",
+  "Simply put: imagine a doctor able to test a drug on a virtual cell in a computer, seeing its result before touching a real patient — that is what these models are approaching, step by step.",
+  "Do you think virtual cells will speed up drug discovery, or will real experiments remain the only judge?"
+ ]
+}

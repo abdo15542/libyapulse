@@ -1,0 +1,24 @@
+{
+ "id": 944,
+ "slug": "article-944",
+ "title": "🐧 CachyOS opens the doors of protected games on Linux! A special kernel to fight cheating... and a new rescue tool!",
+ "date": "2026-11-23",
+ "category": "tech-news",
+ "category_name": "Tech News",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r245-w245-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Gaming"
+ ],
+ "body": [
+  "🐧 CachyOS opens the doors of protected games on Linux! A special kernel to fight cheating... and a new rescue tool!",
+  "The 'CachyOS' distribution, built on 'Arch Linux' and known for its focus on gaming, released its November 2026 update on November 22. Its highlight is support for 'Easy Anti-Cheat Linux v2' from 'Epic Games', the system that used to block Linux players from many online multiplayer games.",
+  "The support works through a dedicated signed kernel called 'linux-cachyos-eac', which gets its own boot entry in the boot menu, so you only choose it when you want to play a protected game, while your normal system kernel stays as it is the rest of the time. The system requires a verified boot environment: Secure Boot with a kernel signed by a key 'Epic' trusts, a 'TPM 2.0' chip, 'IOMMU' enabled, and the kernel's lockdown mode, which only loads signed modules.",
+  "To make setup easier, the team added two new scripts: 'eac-setup' to set up booting on 'systemd-boot', 'Limine', and 'rEFInd' systems, with experimental support for 'GRUB', and 'eac-status' to check that the setup is sound, with an important warning for users: 'DKMS' modules do not work with this kernel, so 'Nvidia' and 'ZFS' drivers are shipped in their own special packages.",
+  "The update was not only about gaming: it also brought a completely new graphical package installer in its second version, managing 'Arch' packages, the user repository, 'Flatpak', and 'AppImage' from one place, and a new recovery tool called 'CachyOS-Recovery' that restores 'Btrfs' filesystem snapshots without needing an external boot disk, along with the 'Linux 7.3.5' kernel, 'Nvidia 620.73.04' drivers, and a special image for working inside 'Windows' through 'WSL'.",
+  "But the team itself warns against overblown expectations: the new support does not guarantee that every protected game will work automatically, as the final decision remains with 'Epic' and each game's publisher, and users should read the setup guide on the website before starting, especially if they use disk encryption.",
+  "Simply put: a Linux gaming distribution is now ready for protected games with its own signed kernel, plus a rescue tool that saves your system without an external disk... Do you play on Linux?",
+  "Have you tried gaming on Linux before, or are you still on Windows?"
+ ]
+}

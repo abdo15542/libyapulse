@@ -1,0 +1,24 @@
+{
+ "id": 1027,
+ "slug": "article-1027",
+ "title": "🗳️ Malaysia demands explanations from Anthropic! An election manipulation platform targeted all 222 constituencies!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r264-w264-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🗳️ Malaysia demands explanations from Anthropic! An election manipulation platform targeted all 222 constituencies!",
+  "The Malaysian Communications and Multimedia Commission requested further clarifications and evidence from Anthropic, regarding an alleged election manipulation operation targeting users in the country, in a written parliamentary reply dated November 17.",
+  "According to the company's threat report published in September, the Claude model was used to build a commercial platform for political manipulation, sold as a paid influence service, and the company linked it to an Istanbul-based tech company that denied involvement.",
+  "The platform used census data and electoral records, including millions of voter records, to target voters in all 222 parliamentary constituencies in Malaysia, focusing on sensitive issues related to race, religion and property.",
+  "The platform also ran around a thousand fake accounts on X, and operated a fake news website called 'Malaysia Plus' fed with content rephrased by AI, and a request to generate one million artificial views for the Malaysian prime minister's account was detected.",
+  "The company confirmed that it closed the accounts involved and took measures to prevent a repeat, while the ministry said it will decide follow-up actions based on the evidence, at a time when Malaysia is preparing a bill to govern AI.",
+  "Simply put: AI has become a tool for building complete election influence networks.. so can laws keep up with the speed of these tools?",
+  "Do you trust that what you read during elections is real and not machine-generated content?"
+ ]
+}

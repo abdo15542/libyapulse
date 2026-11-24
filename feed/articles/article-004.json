@@ -1,0 +1,19 @@
+{
+ "id": 4,
+ "slug": "article-004",
+ "title": "Apple Services Back After Sudden Outage",
+ "date": "2026-11-18",
+ "category": "tech-news",
+ "category_name": "Tech News",
+ "image": "https://abdo15542.github.io/techpulse/assets/techpulse-logo.png",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Apple"
+ ],
+ "body": [
+  "Apple services are back up after a sudden outage hit the App Store, iCloud, Apple Music, and Apple TV.",
+  "Simply put: the outage means these services stopped working or were delayed for a while, then gradually came back until they were fully stable.",
+  "Did the outage affect your phone?"
+ ]
+}

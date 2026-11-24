@@ -1,0 +1,21 @@
+{
+ "id": 54,
+ "slug": "article-054",
+ "title": "The Folding iPhone Gets Face Unlock — But It's Not Face ID! 📱",
+ "date": "2026-11-19",
+ "category": "phones",
+ "category_name": "Phones & Devices",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r05-c07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "iPhone"
+ ],
+ "body": [
+  "The Folding iPhone Gets Face Unlock — But It's Not Face ID! 📱",
+  "The new iOS 27.3 beta has added face unlock to the iPhone Duo, Apple's first foldable phone — a phone that opens like a book.",
+  "But don't be confused: this is not the familiar Face ID technology, because the phone does not have the dedicated Face ID hardware. Instead, it uses the regular front camera on the outer screen, and it requires that you have recently unlocked the phone with Touch ID or a passcode. Face data stays on the device itself.",
+  "And because it is a beta — a test version before the final release — its behaviour may change before iOS 27.3 launches officially.",
+  "Do you prefer face unlock or a fingerprint? 🤔"
+ ]
+}

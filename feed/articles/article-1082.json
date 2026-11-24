@@ -1,0 +1,25 @@
+{
+ "id": 1082,
+ "slug": "article-1082",
+ "title": "🗳️ Lawsuit in Nigeria: AI-generated photos slip into the voter register!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r281-w281-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🗳️ Lawsuit in Nigeria: AI-generated photos slip into the voter register!",
+  "A rights organization in Nigeria has filed a lawsuit before the Federal High Court in Abuja, accusing officials of using AI-generated photos to manipulate the preliminary voter register, and demanding an independent investigation into the incident.",
+  "The case carries the number FHC/ABJ/CS/2863/2026 and targets the Nigerian electoral commission and the data protection authority, asking the court to compel the data protection authority to issue an independent, reasoned decision on the suspected photos and questionable records, and to examine the commission's records and data electronically to determine the nature and scale of the violations.",
+  "The electoral commission itself had acknowledged in a statement dated 27 October that there were “photos suspected of being AI-generated” in the preliminary register published on its website, then revealed on 1 November that its biometric system had flagged 268 records for review, with an alleged misuse of official credential data to enter improper entries.",
+  "The lawsuit also demands a forensic examination of the database and systems to find out whether personal data was accessed by an unauthorized party or altered without justification, and whether the commission complied with the Data Protection Act of 2023, including reporting any breach within 72 hours.",
+  "The organization argues that these alleged violations threaten the integrity of Nigerians' data and the reliability of the voter register ahead of the 2027 general elections, could wrongly exclude eligible voters, and says the commission's internal review is no substitute for an independent investigation by the data protection authority.",
+  "The preliminary register is not the final register: the commission pledged to complete verification and cleanup before finalizing the register on 15 December 2026, no hearing date has been set yet, and everything in the lawsuit is an allegation that no court has decided.",
+  "Simply put: AI-generated photos may have found their way into an official voter register, and the courts are now being asked to rule — is biometric verification alone enough to protect records of this size?",
+  "If AI can forge a voter's photo, how can we be sure the election register is sound?"
+ ]
+}

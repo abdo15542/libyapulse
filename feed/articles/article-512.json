@@ -1,0 +1,23 @@
+{
+ "id": 512,
+ "slug": "article-512",
+ "title": "🔓 Hack of Japan's Karte Platform Exposes Data from Over 140 Million Records — and the Service Is Down Until 2027!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r142-w142-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔓 Hack of Japan's Karte Platform Exposes Data from Over 140 Million Records — and the Service Is Down Until 2027!",
+  "Japanese company Plaide, owner of the Karte marketing and customer-data platform, announced the results of its investigation into the breach it suffered on November 13, revealing that data from customers of 570 companies that had uploaded their data to the platform had leaked, along with user-behavior records from 487 companies, temporarily stored data from up to 409 companies, and integration keys with external services belonging to 754 companies.",
+  "The total number of leaked records announced so far exceeds 140 million, including about 19.11 million records for DHC, about 18.29 million accounts for eyewear company JINS, about 15.18 million customers for fashion retailer Zozo plus 13.93 million users of its Wear app, about 14 million records for Sumitomo Mitsui bank, about 7 million members of Shimamura stores, and about 6.5 million records for MUFG bank. The published reports did not include card numbers or passwords.",
+  "The investigation said the attacker tried several methods in the early morning hours of November 13, until exploiting a vulnerability in an internal process behind a public data-retrieval path, stealing keys to connect to systems and databases, then using them to enter the Karte control panel itself. The company discovered the breach at 08:59 in the morning and contained it by 15:23 after shutting down the service entirely.",
+  "The company also admitted that the leak affected companies that no longer even use the platform, because their data should have been deleted within 90 days of the contract ending but remained stored due to shortcomings in human processes and management. The service has been down since November 13, and the company aims for a gradual restart in mid-January 2027 after structural changes and an external audit.",
+  "Simply put: imagine handing a copy of your house keys to a cleaning company, then discovering the company kept the copy after the contract ended, and a thief stole it along with the keys to hundreds of other homes — that is how the data of 570 companies leaked all at once.",
+  "Would you trust a service that keeps your data after your subscription ends?"
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "id": 635,
+ "slug": "article-635",
+ "title": "🧪 Lovable launches \"Drafts\" — try ten versions of your app without touching the live one!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r162-w162-10.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "🧪 Lovable launches \"Drafts\" — try ten versions of your app without touching the live one!",
+  "AI app-building platform Lovable launched its \"Drafts\" feature on November 16, letting users try multiple ideas in parallel without affecting the live app.",
+  "The idea is simple: each draft is a complete copy of your app, from design to database, with its own conversation and preview, so your team can work on different versions and compare them side by side.",
+  "Each draft comes filled with realistic sample data, so users see their idea as it will look in reality — a full booking calendar and a long order history — instead of a blank page that shows nothing.",
+  "Nothing reaches users until a draft is accepted and then published separately, and acceptance can be undone via the version history before publishing, while test data is deleted automatically on acceptance or deletion, so it never mixes with real customer data.",
+  "You can create up to 500 open drafts, and a new unused draft disappears after 24 hours. AI agents such as Claude can also build directly inside drafts.",
+  "The platform also added, in the same update, the ability to save sample data in a single file, so every later draft starts with the same customers and bookings, making fair judgement between different versions easier.",
+  "The feature solves an old problem in app building: trying three directions used to mean three times the work, so most people shipped the first idea and polished it. Now the cost of experimenting is close to zero.",
+  "Simply put: you can now copy your entire app dozens of times, try every idea safely, and choose only the best.",
+  "Do you try several versions of your idea before choosing one, or do you trust the first idea?"
+ ]
+}

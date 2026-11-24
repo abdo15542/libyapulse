@@ -1,0 +1,24 @@
+{
+ "id": 918,
+ "slug": "article-918",
+ "title": "🛡️ Vulnerability in the \"WP Fastest Cache\" Plugin Threatens Over a Million WordPress Sites! Update Now Before Your Files Are Deleted!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r240-w240-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Vulnerability in the \"WP Fastest Cache\" Plugin Threatens Over a Million WordPress Sites! Update Now Before Your Files Are Deleted!",
+  "A serious vulnerability has been discovered in the popular WordPress caching plugin \"WP Fastest Cache\", affecting all versions up to 1.5.4. It lets an attacker with no login delete any file on the server, because the plugin does not properly check file paths when clearing the cache.",
+  "Worse still, an attacker could delete the site's configuration file, which holds the database details and passwords — bringing the site down completely. Deleting files could also open the door to running commands remotely and taking over the server.",
+  "But the flaw needs one condition to work: the \"Custom Permalinks\" or \"GeoDirectory\" plugin must also be installed alongside it, because one of them is what allows a malicious path value to be entered, which the caching plugin then uses without checking.",
+  "The fix is simple and direct: update the plugin to version 1.5.5 or later right away — that is the version that fixed the issue — and make sure the other two plugins are updated too, if you have them installed.",
+  "The plugin is used on more than a million sites worldwide, so any delay in updating is a real risk — especially now that the details of the flaw are public.",
+  "Simply put: a flaw in a popular plugin could wipe your site's files without anyone even logging in — have you updated your plugins today?",
+  "Do you update your site's plugins regularly, or wait until something goes wrong?"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "id": 862,
+ "slug": "article-862",
+ "title": "⚡ Study: Anthropic's Data Centres Will Get 98% of Their Electricity from Gas and Coal by 2028!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r221-w221-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "⚡ Study: Anthropic's Data Centres Will Get 98% of Their Electricity from Gas and Coal by 2028!",
+  "A non-profit research organisation published a study on 16 November tracking the electricity that will power the data centres of the American company Anthropic, and found that about 87% of it will come from natural gas and 11% from coal by 2028 — meaning fossil fuels will cover about 98% of its needs. The company's contracted computing capacity reached 15 gigawatts by October, of which between 5.9 and 9.6 gigawatts are tied to specific sites — capacity enough to power about 7 million homes.",
+  "The study estimates the company's emissions from electricity consumption could reach between 17 and 38 million tonnes of carbon dioxide per year in 2028, and in the middle scenario about 32 million tonnes — exceeding the combined emissions of all power plants in the state of California in 2024. The company has also bought huge gas generators with a capacity of 1.7 gigawatts for $3.4 billion, while it has no direct renewable-energy commitments inside the United States — its announced commitments in this area are limited to Norway and Canada.",
+  "These figures are estimates by independent researchers, not data from the company itself, as they rely on announced contracts and power-grid models. The study also notes that the company leases computing capacity at the 'Colossus 2' facility, most of whose electricity comes from temporary turbines without permits, and that the air pollution from its electricity could cause health damage estimated at $2 billion to $3 billion per year.",
+  "Simply put: the AI we use needs enormous amounts of electricity, and the cheap and fast electricity today mostly comes from gas and coal — so should AI companies pay for clean energy, or is the speed of expansion more important than emissions?"
+ ]
+}

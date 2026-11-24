@@ -1,0 +1,23 @@
+{
+ "id": 786,
+ "slug": "article-786",
+ "title": "☁️ Workday Moves Its European Cloud to an Irish Company... Your Data Stays in Europe and Never Leaves It!",
+ "date": "2026-11-22",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r204-w204-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CloudComputing"
+ ],
+ "body": [
+  "☁️ Workday Moves Its European Cloud to an Irish Company... Your Data Stays in Europe and Never Leaves It!",
+  "On November 18, Workday announced at its European conference in Barcelona new guarantees for governing and operating its sovereign European cloud, giving European organizations greater control over sensitive human resources and financial data and the critical services they depend on.",
+  "The step includes setting up a dedicated company in Ireland to operate the service, whose board is made up of senior company leaders holding citizenship of European Union countries, who are legally bound to act under European law and in the interest of the sovereign service, so that decisions about the service and customer data stay inside Europe.",
+  "The service runs on the sovereign European cloud from Amazon Web Services, a division fully independent of the commercial cloud, with no critical dependence on infrastructure outside the European Union, and managed only by employees living in EU countries, while customer-managed encryption keys stay inside the European cloud, without anyone, including Amazon's operators, being able to access them in readable form.",
+  "Customer data stays inside the European Union when processed and when AI models are trained on it, and it is not used to train global models, while the company and its partners pledge to take every available measure to ensure service continuity, including moving operations to an independent European entity if a government order threatens to disrupt them.",
+  "The service is available today, while the new Irish company and the additional guarantees are expected to start operating at the beginning of 2027.",
+  "Simply put: a European cloud run by European hands, with keys that never leave Europe; so do you trust that your company's data stays inside your country?"
+ ]
+}

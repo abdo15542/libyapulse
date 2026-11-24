@@ -1,0 +1,25 @@
+{
+ "id": 1103,
+ "slug": "article-1103",
+ "title": "🚨 Ransomware Attacks Hit a Record: 2,830 Victims in 3 Months... and New Gangs Fill the Void!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r284-w284-11.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Security"
+ ],
+ "body": [
+  "🚨 Ransomware Attacks Hit a Record: 2,830 Victims in 3 Months... and New Gangs Fill the Void!",
+  "Ransomware attacks set a new record in the third quarter of 2026: 2,830 victims whose names were published on data-leak sites, including 964 in July, 1,042 in August and 824 in September — the highest quarterly figure ever.",
+  "Ransomware attacks encrypt the victim's files or steal them, then demand a ransom in exchange for returning them or not publishing them. The company counts victims from the gangs' own announcements on leak sites — meaning the real number may be higher.",
+  "What is new is not the number alone, but how fragmented the market has become: 117 gangs claimed victims during the quarter, up from 91 in the previous quarter, including 42 gangs appearing for the first time. The share of the top ten gangs fell from 71% at the start of the year to just 49%, so more than half of the victims are now in the hands of gangs outside the top ten.",
+  "The \"Qilin\" gang topped the list with 366 victims, followed by \"The Gentlemen\" with 339 victims, while the famous \"LockBit\" fell out of the top ten entirely after its activity declined. The United States had the largest share, with 42% of victims, followed by Germany, Canada and Italy.",
+  "Victim behavior changed too: the average ransom paid fell 45% to just over a million dollars, while the median amount rose 167% to $400,000, and major victims refused to pay huge sums — including a European transport company that refused $12.3 million, and the Berlin government, which refused 30 bitcoin.",
+  "In September itself, the \"ShinyHunters\" gang hacked the leak site of rival gang \"Clop\", tampered with it and claimed to have stolen its code and records, in a battle between the gangs themselves over reputation.",
+  "Simply put: ransomware is no longer the preserve of a few well-known gangs, but has become an open market for many small gangs... so does that make defense harder or easier?",
+  "If your company were hit by a ransomware attack, would you pay, or refuse and live with your data being published?"
+ ]
+}

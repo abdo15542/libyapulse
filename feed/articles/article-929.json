@@ -1,0 +1,24 @@
+{
+ "id": 929,
+ "slug": "article-929",
+ "title": "🧠 An open Indian model challenges the AI giants! 'Sarvam 105B' is stronger and three times cheaper!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r243-w243-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🧠 An open Indian model challenges the AI giants! 'Sarvam 105B' is stronger and three times cheaper!",
+  "Indian company Sarvam announced on November 22 a new version of its open model 'Sarvam 105B', named 'Sarvam-105B-1711', designed for heavy-duty business uses such as customer support, voice agents, and tool-calling tasks, with open weights that any developer can download and run.",
+  "The model has 105 billion parameters in total, with only 10.3 billion active at each step, and its average score across eight conversational-agent benchmarks jumped from 42.6 in the February version to 73.9 today, matching Google's 'Gemini 3.5 Flash-Lite' model — but at more than five times lower cost.",
+  "The cost of running the model fell by two-thirds, from $0.44 to $0.15 per million tokens, while its instruction-following improved from 32.5 to 82.5 points, its tool use in customer-service conversations from 46.2 to 85.5, and its performance in Indian languages from 30.1 to 79.1 — major leaps in less than a year.",
+  "The company offers a compressed version of 65 GB that runs on a single graphics card in an ordinary workstation, at a speed of 99 tokens per second, allowing banks and government bodies to run the model inside their own premises without sending their data to an external cloud, with a context window of up to 160,000 tokens.",
+  "The company trained the model on its new infrastructure of Nvidia B200 cards, nearly doubling training speed, from 5,500 to 10,900 tokens per second per card, meaning the same team can now train larger models in the future with the same hardware.",
+  "Simply put: an open model from India rivals the giants in quality at a third of their price... will that change the global AI map?",
+  "Would you prefer a cheap open model you can run yourself, or a slightly stronger closed one?"
+ ]
+}

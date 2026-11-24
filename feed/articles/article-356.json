@@ -1,0 +1,22 @@
+{
+ "id": 356,
+ "slug": "article-356",
+ "title": "🌐 Microsoft Makes 'Ion' the AI Model Built into the Edge Browser!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r121-w121-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🌐 Microsoft Makes 'Ion' the AI Model Built into the Edge Browser!",
+  "Microsoft announced on November 19 that its \"Ion Instruct\" model is now generally available as an open-weights model on the \"Hugging Face\" platform, and as the small language model built into the \"Edge\" browser, replacing the previous \"Phi-4-mini\" model. The company also opened a native trial of the \"Prompt API\" interface that lets developers call the model from live websites.",
+  "The model has 2.3 billion parameters — smaller and faster than its predecessor and able to run on far more devices, with similar quality on tasks like summarization, following instructions, and structured outputs. The Edge browser downloads the model only when a site or feature needs it for the first time, and only on devices capable of running it efficiently, and users can turn off on-device AI from settings, which removes the model entirely.",
+  "The \"Prompt API\" had so far been a developer preview in \"Edge Canary\" and \"Edge Dev\" only, while the new native trial lets developers test it with real users. Microsoft also released a trial preview of the \"Decisions API\" interface, which returns probabilities and confidence values for yes-or-no, multiple-choice, or rating questions, without generating text.",
+  "Simply put: instead of sending every request to the cloud, the browser itself can now summarize, answer, and analyze on your device — faster and more private, as long as your device can handle the task.",
+  "Do you prefer AI that works inside your device instead of the cloud?"
+ ]
+}

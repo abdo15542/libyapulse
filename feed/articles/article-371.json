@@ -1,0 +1,22 @@
+{
+ "id": 371,
+ "slug": "article-371",
+ "title": "🤝 'Microsoft' and 'Salesforce' Unite in 'Copilot Force' — Customer Data Inside 'Copilot'!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r123-w123-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🤝 'Microsoft' and 'Salesforce' Unite in 'Copilot Force' — Customer Data Inside 'Copilot'!",
+  "\"Microsoft\" and \"Salesforce\" announced on November 17, during the \"Ignite\" conference, a new partnership called \"Copilot Force\" that brings customer data and sales workflows from \"Salesforce\" into the \"Copilot\" assistant, the \"Teams\" app, and the \"Fabric\" platform, so salespeople can work without switching between systems.",
+  "The \"Salesforce\" add-on inside \"Copilot\", now available in public preview, offers more than 38 ready-made sales skills: reviewing the sales pipeline, monitoring renewals, following up calls, and preparing meetings, with access to customer context from emails, meetings, and documents. \"Sales Cloud\" also reaches \"Teams\" to show deal status and quotas inside the conversations themselves.",
+  "The partnership also connects the \"Salesforce Data 360\" data platform to the \"Microsoft Fabric\" platform with a direct link that doesn't copy data, so there's no need for duplicate databases or fragile transfer pipelines. All permissions and governance rules stay as they are, and any writing to customer records requires explicit confirmation from the user. \"Accenture\" is participating as a design and implementation partner, applying the integrations in its global sales organization first.",
+  "Simply put: two companies that used to be rivals decided to cooperate, so a \"Salesforce\" salesperson now sees their customer data and acts on it from inside \"Copilot\" directly, without opening ten windows.",
+  "Do you think cooperation between tech giants benefits users or increases their dominance?"
+ ]
+}

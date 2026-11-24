@@ -1,0 +1,25 @@
+{
+ "id": 970,
+ "slug": "article-970",
+ "title": "⛏️ A solo Bitcoin miner wins $190,000 with just 8 terahashes! Odds of one in 130 million!",
+ "date": "2026-11-23",
+ "category": "tech-news",
+ "category_name": "Tech News",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r250-w250-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Bitcoin"
+ ],
+ "body": [
+  "⛏️ A solo Bitcoin miner wins $190,000 with just 8 terahashes! Odds of one in 130 million!",
+  "An anonymous solo Bitcoin miner won a full block reward worth about $190,000, after discovering block number 977057 on the morning of Sunday, November 22, through the 'CKPool Solo' service for solo miners.",
+  "The winner received 3.1287 Bitcoin, made up of the base block reward of 3.125 Bitcoin, plus about 0.0037 Bitcoin in transaction fees, with Bitcoin then worth about $60,700.",
+  "What is astonishing is that the winner was working with computing power of no more than 8 terahashes per second, roughly equivalent to seven small 'Bitaxe Gamma' mining devices, while the Bitcoin network's total power exceeds 1042 exahashes per second.",
+  "With such tiny power, the odds of discovering any given block were about one in 130 million, and the statistically expected wait was about 2500 years, yet the block came just 3.3 minutes after the previous one, and contained 584 transactions.",
+  "This win is not the first of its kind this year: 36 solo block discoveries were documented between February 11 and November 7, with total rewards of about 113 Bitcoin worth nearly $8.5 million, and Sunday's discovery was the fifth solo block in November alone.",
+  "But the numbers hide a harsh side: a miner running at 8 terahashes might earn only about 21 cents a day, while the electricity for the device costs between 24 and 48 cents a day, meaning solo mining at this power is more like a gamble than an investment.",
+  "Simply put: a small device with just 8 terahashes won a $190,000 prize against odds of one in 130 million... would you try your luck at solo mining?",
+  "Do you think solo mining is an adventure worth trying, or is joining a mining pool the rational choice?"
+ ]
+}

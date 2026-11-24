@@ -1,0 +1,21 @@
+{
+ "id": 324,
+ "slug": "article-324",
+ "title": "📱 Google tightens installing apps from outside the store starting in January!",
+ "date": "2026-11-20",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r118-w118-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Android"
+ ],
+ "body": [
+  "📱 Google tightens installing apps from outside the store starting in January!",
+  "Google is preparing to apply its developer identity verification system globally starting in January 2027, a system requiring everyone who publishes an Android app to register their identity. The system actually began on September 30, 2026, in Brazil, Indonesia, Singapore, and Thailand, and launches globally through seven stores first, including Google Play, the Galaxy Store, and the Oppo, Xiaomi, and Vivo stores, then extends to all countries and all installation sources within months.",
+  "Google says millions of apps have been registered since registration opened to everyone in March 2026, representing more than 99% of Android installations worldwide. Installing from outside the store will not disappear: you can still install apps from verified developers as usual, and anyone who has registered their identity can complete registration in under ten minutes. Apps from unverified developers will need an advanced path: enable it from developer options, confirm that no one is pressuring you to turn off protection, restart your phone, wait 24 hours, then confirm with your fingerprint or PIN, to allow them for seven days or without a time limit. Installing through the developer tool remains without waiting.",
+  "Simply put: Google wants to know who stands behind every app that reaches your phone, so scammers cannot hide behind fake names.",
+  "Do you usually install apps from outside the official store?"
+ ]
+}

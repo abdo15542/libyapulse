@@ -1,0 +1,23 @@
+{
+ "id": 408,
+ "slug": "article-408",
+ "title": "📊 'Smartsheet' Launches 'V Actual' — AI That Watches Companies Execute Their Plans!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r126-w126-09.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "📊 'Smartsheet' Launches 'V Actual' — AI That Watches Companies Execute Their Plans!",
+  "\"Smartsheet\" has launched at its \"Engage\" conference in Seattle its first standalone AI product, called \"V Actual\" — a system that follows a company's strategy and budget execution, monitors work across systems like \"Jira\", \"Workday\", and \"Slack\", and alerts when projects drift off course. Unlike the company's traditional project-management software, the new product targets CEOs and finance and operations chiefs, not project managers.",
+  "The system attacks what the company calls \"execution drift\" — the gap between what an organization plans and what it actually delivers. While AI has made individuals faster, companies have become more scattered than ever, because different AI assistants don't talk to each other. The system monitors progress against strategic goals and recommends adjustments before delays and cost overruns turn into serious problems.",
+  "At the heart of the platform is the \"Execution Graph\", a knowledge graph built on twenty years of workflow data, covering millions of projects and nine petabytes of information, mapping the relationships between tasks, projects, and goals so agents understand how a change in one part of the organization affects the others. CEO Raj Singh said \"the models are rented, but the context is yours\" — meaning competitors can rent the same models, but can't copy how each company executes its work.",
+  "The company also announced a new consumption-based pricing model instead of per-seat: a base fee plus credits consumed with usage, because customers objected to paying a full license price for someone who uses the software occasionally. \"Gartner\" expects spending on agentic AI to grow to a trillion dollars by 2030, while the average organization runs 957 applications, only 27% of which are connected to each other.",
+  "Simply put: instead of asking the project manager why there's a delay, there's now an AI agent watching all the systems together and telling you about the drift before it turns into a loss.",
+  "Do you trust an AI agent to monitor your entire team's work?"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "id": 127,
+ "slug": "article-127",
+ "title": "📧 A Breach Hits an Email Protection Service!",
+ "date": "2026-11-19",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r10-10.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "📧 A Breach Hits an Email Protection Service!",
+  "N-able confirmed that attackers breached one of the servers of its cloud email-filtering service, forcing it to shut down dashboards and APIs in three regions around the world.",
+  "Email itself is still being delivered and filtered normally, and so far there is no evidence of customer data being stolen or access to their mailboxes.",
+  "Simply put, the management tools are temporarily down while the email works, and the company is gradually restoring the service after verifying its security.",
+  "Do you rely on an outside service to protect your email? And what is your backup if it stops?"
+ ]
+}

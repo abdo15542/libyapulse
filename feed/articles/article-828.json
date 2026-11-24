@@ -1,0 +1,21 @@
+{
+ "id": 828,
+ "slug": "article-828",
+ "title": "🔓 Three Lines in a Config File Open Your Whole Account: A Critical Flaw in Next.js!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r214-w214-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Security"
+ ],
+ "body": [
+  "🔓 Three Lines in a Config File Open Your Whole Account: A Critical Flaw in Next.js!",
+  "A security researcher has discovered a critical flaw in a site built with the Next.js framework, starting from just three lines in a config file. The site was passing content from two decentralised storage networks, Arweave and IPFS, through its own domain, so their files appeared to come from the site itself. The problem is that both networks are open to everyone: anyone can upload a page containing malicious code, which is then displayed on the site's domain with all its privileges.",
+  "The usual protections did not help: the content security policy allows scripts coming from the same domain, and the malicious page had become — in the browser's view — from the same domain. The decisive blow was that the site stores login tokens in the browser's local storage, which is exposed to any script running on the same domain, so the attacker stole the token, the login session and the personal access token with a single click on a link.",
+  "Worse still, Arweave is permanent storage where nothing is ever deleted: the malicious page stays there forever, even after the site is fixed. The program acknowledged the flaw the same day and removed the proxy rules, rating its severity 9.3 out of 10. The fix is simple: never proxy content from open networks through your own domain, and never store login tokens in browser storage.",
+  "Simply put: one link steals your entire account session — do you trust every link that reaches you?"
+ ]
+}

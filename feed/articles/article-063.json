@@ -1,0 +1,20 @@
+{
+ "id": 63,
+ "slug": "article-063",
+ "title": "Google launches \"Stitch Loop\": an AI agent that keeps fixing your app after launch, non-stop! 🔧",
+ "date": "2026-11-19",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r06-a06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Google"
+ ],
+ "body": [
+  "Google launches \"Stitch Loop\": an AI agent that keeps fixing your app after launch, non-stop! 🔧",
+  "Google announced yesterday \"Stitch Loop\", an AI agent that connects to your app's code and live metrics — logs, user behavior, and feedback — and keeps improving the app around the clock after launch. The agent works in three integrated loops: cybersecurity, speed, and accessibility, plus custom loops such as sales optimization.",
+  "Imagine a mechanic who never leaves the workshop: it watches your app, spots what is slow or broken, writes the fix in an isolated environment, and opens a pull request on GitHub for a human to review. No change is merged until a human approves it. Google has opened a global waitlist, with priority for subscribers to its top-tier plan, and has not yet announced pricing or a date for wider availability.",
+  "Would you let an AI agent watch your app and suggest fixes? 🤖"
+ ]
+}

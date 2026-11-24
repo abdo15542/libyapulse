@@ -1,0 +1,25 @@
+{
+ "id": 616,
+ "slug": "article-616",
+ "title": "💾 Data of 46,000 TSMC employees leaked — and the flaw is at an external cloud provider!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r159-w159-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "💾 Data of 46,000 TSMC employees leaked — and the flaw is at an external cloud provider!",
+  "TSMC, the world's largest chip manufacturer, confirmed that personal data of current and former employees leaked on the internet, after an attacker offered it for sale at auction.",
+  "The story began on Sunday, November 8, when a person called \"Smith Beanle\" published in a hacker forum a file with 499 records he said were a sample of a database of about 46,000 employee records, 6.9 GB in size, including national ID numbers, addresses, contact details and bank accounts.",
+  "The attacker opened the auction at a starting price of 3 Bitcoins — about $65,000 — threatening to publish all the data for free within a week if he found no buyer, and set the first deadline on November 15.",
+  "The company said in an official disclosure on Thursday, November 12, that it verified the leaked data and found it matches data stored in the systems of a cloud service provider it deals with, indicating the breach occurred outside its own infrastructure, and that there is no evidence so far of a breach of its own systems.",
+  "The company added that the incident does not affect its operations or customers, and that it is notifying the affected employees and offering them support, and cooperating with an external cybersecurity company to handle the situation.",
+  "The company makes advanced chips for companies such as Apple and Nvidia, and last year shipped about 15 million equivalent 12-inch chips, with annual revenue of $122.4 billion.",
+  "Simply put: even the world's largest chip manufacturer didn't have its own systems breached directly — its data was stolen from an external provider. Your security may be only as strong as the weakest company working for you.",
+  "Do you know where your data is actually stored: at the company itself, or with providers you don't know?"
+ ]
+}

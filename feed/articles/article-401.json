@@ -1,0 +1,22 @@
+{
+ "id": 401,
+ "slug": "article-401",
+ "title": "🚨 The 'Artix' Tool Hacks Hundreds of Companies — and the $6.3 Billion 'Binance' Theft!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r126-w126-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🚨 The 'Artix' Tool Hacks Hundreds of Companies — and the $6.3 Billion 'Binance' Theft!",
+  "The third quarter of 2026 recorded about 37,000 new security flaws — three times last year — and AI now enables even low-skilled attackers to automate most attack steps, from finding the flaw to stealing data or money. Among the most dangerous new tools is \"Artix\", an open-source attack tool paired with the \"GLM 5.3\" model after its safety restrictions were removed, which has hacked hundreds of organizations, and China-linked hackers used it to target more than 200 organizations in 14 countries in just 11 days.",
+  "The biggest theft in the story is the hacking of the \"Binance\" platform, where North Korean hackers stole $6.3 billion, mostly through social engineering rather than technical hacking: the attack began with a fake job interview, then the attackers used automation to move the stolen coins and hide their tracks. The platform announced it will increase investment in AI-enhanced detection systems after the attack.",
+  "The wave of attacks didn't stop at crypto: attackers raised the temperature of fridges and freezers in European stores, spoiling goods worth millions of dollars, and researchers rebuilt the same exploit with AI tools available to everyone for just $6 and in 28 minutes. Monthly security updates swelled from about 150 fixes to more than 900, while \"McKinsey\" expects the cybersecurity market to grow from $223 billion in 2025 to $346 billion by 2029.",
+  "Simply put: the cost of attack is falling toward zero, while the cost of defense stays high — and today's attacker may be a program working alone, not a person sitting behind a screen.",
+  "Do you trust that your data is protected, or has defense fallen behind attack?"
+ ]
+}

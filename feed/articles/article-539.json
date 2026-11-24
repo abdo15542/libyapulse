@@ -1,0 +1,22 @@
+{
+ "id": 539,
+ "slug": "article-539",
+ "title": "🛡️ 'Tool Pulse': a New Flaw Eavesdrops on AI Agents Through Your Device's Memory!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r145-w145-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ 'Tool Pulse': a New Flaw Eavesdrops on AI Agents Through Your Device's Memory!",
+  "Researchers revealed in a scientific paper published on November 19 a new attack called Tool Pulse, which eavesdrops on AI agents from inside your own device, without hacking your account or intercepting your connection. While the agent's 'brain' runs on remote servers, its tools execute on your device and use shared system libraries — and that is where the flaw lies.",
+  "The attack relies on measuring access timing to the processor's cache memory — a small, fast memory shared by everything running on the device. An ordinary program with no special permissions can, by observing which parts of this memory are used and when, reconstruct the sequence of tool calls the agent executed, step by step. The researchers tested the attack on 11 models through the Codex and Claude Code systems, reconstructing the workflow with accuracy exceeding 93% in the worst cases.",
+  "Through this tracking, the attacker can infer the type of task being performed — for example, whether you are writing a program or analyzing data — and pinpoint the moment sensitive calls execute, such as encryption and decryption or model training. The danger is that the attack needs no flaw in the model itself; it exploits the nature of how agents work: local tools on a shared device.",
+  "Simply put: imagine someone listening to the sound of your keyboard keys from the next room, knowing what you type without seeing the screen — that is how Tool Pulse eavesdrops on your agent, through the rhythm of your device's memory.",
+  "Did you know that an ordinary program on your device could watch what your AI agent does, without asking your permission?"
+ ]
+}

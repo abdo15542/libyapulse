@@ -1,0 +1,24 @@
+{
+ "id": 470,
+ "slug": "article-470",
+ "title": "✈️ A Norwegian Airline Asks 5,000 Passengers to Block Their Cards Immediately — Malicious Code Stole Payment Data!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r133-w133-09.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "✈️ A Norwegian Airline Asks 5,000 Passengers to Block Their Cards Immediately — Malicious Code Stole Payment Data!",
+  "Norwegian airline Norwegian Air asked about 5,000 of its customers in Norway and Sweden to block their bank cards immediately, after discovering that malicious code had stolen payment data from its booking websites.",
+  "The attack began at an external IT services supplier the company deals with: attackers planted malicious code in parts of the booking websites, which remained active on the morning and evening of Monday, November 16. Anyone who entered their card details during that period was exposed to theft of the card number, expiry date, and three-digit security code — the complete data sufficient to make fraudulent purchases online.",
+  "The company discovered the breach on Wednesday, November 18, immediately stopped the affected technology, and notified the Norwegian Data Protection Authority, then on Thursday, November 19, sent emails to affected customers asking them to block the cards used in those bookings. The message said blocking the card is 'the only and most effective measure to prevent misuse of your card'.",
+  "The company confirmed that its systems, servers, and app were not breached, that booking online is now safe, and that existing bookings remain valid. But it warned that the attack on the supplier itself may affect about 200 companies worldwide that use its services, without disclosing the supplier's name.",
+  "The incident comes after a separate warning issued earlier this month by the Norwegian National Security Authority about a security incident affecting a Spanish travel-technology supplier, suggesting the travel sector has become a repeated target for attackers in the booking season.",
+  "Simply put: you booked a flight ticket on the company's website, only for hidden code to copy your entire card as you typed — and the company asks you to block the card before anyone uses it.",
+  "Do you check your bank statement after every online booking, or do you trust that the site is automatically safe?"
+ ]
+}

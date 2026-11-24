@@ -1,0 +1,24 @@
+{
+ "id": 984,
+ "slug": "article-984",
+ "title": "⏱️ METR warns: AI is evolving faster than we can test it! Tasks double every 3.6 months!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r254-w254-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "⏱️ METR warns: AI is evolving faster than we can test it! Tasks double every 3.6 months!",
+  "An independent research organization specializing in evaluating AI models has warned that model capabilities are evolving faster than experts can test their safety, and that the public data available today is not enough to rule out a major acceleration in AI research over the next two years.",
+  "The new evaluation, published on November 20, found that the length of tasks models can complete doubles roughly every 3.6 months — about 110 days — and that leading models already outperform experienced human engineers on most clearly defined coding and calculation tasks, though they have not yet outperformed large teams of top experts.",
+  "If this rate continues, models could by July 2027 complete tasks that take a human 200 working hours, succeeding in half of cases, according to a direct extrapolation of the data — which means a smart agent could work alone for many days on a single task.",
+  "But the picture is not complete: models still struggle badly with open-ended tasks that need research taste and scientific judgment, where no automated test determines what is correct instantly, and no tested model has produced an evaluation design that researchers considered usable as-is.",
+  "The organization also warned that easy, common tests may overestimate models' real-world performance, because developers train their models in environments very similar to the test environments themselves.",
+  "Simply put: AI is learning to complete longer tasks at an astonishing speed, but the tools to measure it are lagging behind... can we catch up with it before it passes us?",
+  "Do you trust that current safety tests are enough to control models this powerful?"
+ ]
+}

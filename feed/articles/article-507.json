@@ -1,0 +1,23 @@
+{
+ "id": 507,
+ "slug": "article-507",
+ "title": "🚗 Honda Uses AI to Make Its Cars Safer in Crashes!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r141-w141-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🚗 Honda Uses AI to Make Its Cars Safer in Crashes!",
+  "Honda has developed an AI model that predicts the direction of glass fibers inside fiber-reinforced plastic car parts — crucial information for crash simulation, because a part's strength varies greatly depending on the direction of its fibers.",
+  "The traditional method required a resin-flow analysis taking about 25 working hours per part and a mold specialist, while the new model completes the same task in about 3 minutes — a reduction of nearly 99.6% of the time — and a crash-simulation engineer can run it directly themselves.",
+  "The system was approved for design use in March 2025, after staged verification from simple sheets to real production parts, and it is now in limited initial use with the company's crash-safety team, in fracture-prediction scenarios.",
+  "Results showed that using the predicted fiber direction reduced peak-force error in crash analysis from 19% to 11.4%, compared with assuming the part is equally strong in all directions, and it confined the predicted fracture to the area where the fracture actually appeared in testing.",
+  "Simply put: imagine wanting to know where a matchstick will snap: if you know the exact direction of the wood fibers, you know its weak point — that is how AI helps Honda know where a part will break before the car ever crashes.",
+  "Would you trust a car whose safety tests were designed with the help of AI?"
+ ]
+}

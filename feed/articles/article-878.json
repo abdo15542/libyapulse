@@ -1,0 +1,23 @@
+{
+ "id": 878,
+ "slug": "article-878",
+ "title": "🗣️ ChatGPT Says Goodbye to Its Two Old Voices on December 11! Only One Voice Remains!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r227-w227-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ChatGPT"
+ ],
+ "body": [
+  "🗣️ ChatGPT Says Goodbye to Its Two Old Voices on December 11! Only One Voice Remains!",
+  "OpenAI announced on November 10 that ChatGPT will discontinue the \"Advanced\" and \"Standard\" voice modes on December 11, 2026, leaving only \"Live\" mode, which runs on the new GPT-Live model.",
+  "The \"Standard\" mode was the first way to talk to ChatGPT: it converts your speech to text, then writes an answer, then reads it aloud, so the conversation feels choppy and slow. The \"Advanced\" mode, which appeared in late 2024, was faster and more natural, but it still waited for you to finish speaking before replying.",
+  "\"Live,\" which appeared in July 2026, processes voice directly without converting it to text first, so it listens and speaks at the same time — it can interrupt you and reply instantly, pick up the tone of your voice and your hesitation, and maintain the context of a long conversation.",
+  "The company says voice usage has nearly doubled since GPT-Live arrived, and that \"almost all voice users use it now,\" so it decided to simplify the experience and focus on developing it. Anyone using the two old modes will be moved automatically to \"Live\" on the day of the change, without losing their previous conversations.",
+  "Simply put: talking to AI has become like a real phone call — do you prefer a voice that interrupts you and replies instantly, or a voice that calmly waits its turn?",
+  "Do you use voice in ChatGPT? And have you tried the new \"Live\" mode?"
+ ]
+}

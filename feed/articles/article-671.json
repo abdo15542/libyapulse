@@ -1,0 +1,23 @@
+{
+ "id": 671,
+ "slug": "article-671",
+ "title": "🚗 Waymo recalls 3,871 self-driving cars — they entered closed lanes on highways!",
+ "date": "2026-11-21",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r176-w176-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "SelfDrivingCars"
+ ],
+ "body": [
+  "🚗 Waymo recalls 3,871 self-driving cars — they entered closed lanes on highways!",
+  "Self-driving car company Waymo announced on November 20 two voluntary recalls of its fleet, after incidents in which its cars entered closed lanes on highways and failed to follow traffic officers' hand signals properly — the latest blow to public trust in driverless cars.",
+  "The first recall covers 3,871 cars running the fifth-generation automated driving system, which may fail to recognise a closed construction zone, or prioritise avoiding other hazards over recognising the closure, so it enters the closed lane and drives through it at speed. The incidents happened in Phoenix in April, when cars passed closure signs and entered planned work zones, and in the San Francisco Bay Area on May 18, when seven cars entered active construction lanes by driving between cones.",
+  "The second recall concerns manual traffic control at intersections, after an incident in which a car hit an officer who was directing traffic and then was temporarily hidden from its view. A software update for this problem was completed on November 6. The company says no collisions or injuries were recorded in the closed-lane incidents, and it is still working on a fix for the first recall.",
+  "The recall comes days after California's Department of Motor Vehicles banned Waymo cars from highways in the state, calling them an imminent danger, so the company stopped highway operations in all US states, while its service continues inside cities in 15 metropolitan areas.",
+  "Simply put: a driverless car did not understand a closure sign or an officer's signal, so the company recalled thousands of cars to fix the software. Would you trust riding in a driverless car on a highway?",
+  "Would you give self-driving cars another chance after these incidents, or is a human driver still safer?"
+ ]
+}

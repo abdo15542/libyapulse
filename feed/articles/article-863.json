@@ -1,0 +1,21 @@
+{
+ "id": 863,
+ "slug": "article-863",
+ "title": "🎬 A free open-source tool turns your long videos into short clips in two minutes.. on your computer only!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r221-w221-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🎬 A free open-source tool turns your long videos into short clips in two minutes.. on your computer only!",
+  "A developer and cinematographer launched a free open-source tool on 19 November called \"Neon Clipping\", which turns long videos from YouTube, Twitch and Kick — or any video file on your computer — into short vertical clips with built-in subtitles, a title and an opening line for each clip. And everything runs on your computer: no account, no subscription, and no video uploaded to any server.",
+  "The clever idea is that the tool does not download the whole video: in fast mode it downloads only the audio, takes the text from YouTube's own subtitles, then hunts for the strongest moments through sudden jumps in volume and loud sounds, and a small AI model running locally reads the text to score each moment and write its title and opening line, then it downloads only the chosen clips and turns them into 1080×1920 vertical video. In a documented test, it produced 3 clips from an 85-minute stream in just 97 seconds.",
+  "The tool is completely free under an open licence, supports 11 display designs and 52 subtitle languages, and has gathered more than 2,000 stars on GitHub in just three days. And its honest limits: it finds the loud moments, not the ones guaranteed to go viral, the Windows installer is not digitally signed, and the Mac version has not yet been tried on a real machine.",
+  "Simply put: instead of paying a monthly subscription to a cloud service that cuts your videos on its servers, you can now do the same thing for free on your computer — so would you trust a free open-source tool to make your short clips?"
+ ]
+}

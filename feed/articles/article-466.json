@@ -1,0 +1,25 @@
+{
+ "id": 466,
+ "slug": "article-466",
+ "title": "🇨🇳 Alibaba Trains Its Next Qwen Model on Its Own Chips — Goodbye to Dependence on America?",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r133-w133-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🇨🇳 Alibaba Trains Its Next Qwen Model on Its Own Chips — Goodbye to Dependence on America?",
+  "Alibaba announced that it is training the next generation of its Qwen AI models on processors designed by its own T-Head unit — a step that makes the model's production and operation rely entirely on Chinese hardware.",
+  "CEO Eddie Wu said in the earnings call on November 19 that the company is also using T-Head chips to run the models for customers through its Bailian platform — the platform that lets developers access the models and build applications on them — meaning the Chinese chips now work in both training and inference.",
+  "Leading these efforts is the Zhenwu M890 chip, which entered service in August and moved to large-scale sales, and the company says its performance equals three times its predecessor, the M810E, with 144 GB of built-in memory and inter-chip transfer speeds of up to 800 GB per second, supporting compute precision from FP32 down to FP4 to suit different training and inference tasks.",
+  "The numbers show T-Head is no longer a small internal project: the company has shipped more than 560,000 Zhenwu chips, and has more than 400 external customers in 20 industries, and it seeks to spin off the unit and list it on the Hong Kong stock exchange after filing a confidential application in September.",
+  "The next plan is even more ambitious: the next generation, the V900, will begin mass production in the first quarter of 2027 with computing power equal to three times the M890, along with a huge computing cluster planned for commercial operation in the second quarter of the same year, followed by the G900 in 2028. The company expects most of its new AI chip supply after 2027 to come from T-Head, along with buying other Chinese chips for inference.",
+  "This step comes as US restrictions intensify: the new rules issued on November 16 impose licenses on data centers in countries such as Malaysia, Singapore, and Thailand when they provide large computing capacity to Chinese companies, making reliance on local hardware a necessity, not a choice.",
+  "Simply put: Alibaba is building a complete chain — from chip to model to cloud — inside China, because the road to American chips narrows every month.",
+  "Will China succeed in building a fully independent AI ecosystem, or is the gap with America still too big to close?"
+ ]
+}

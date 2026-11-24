@@ -1,0 +1,24 @@
+{
+ "id": 1149,
+ "slug": "article-1149",
+ "title": "💬 'GPT-6.2 Sol' Arrives in Everyday ChatGPT Conversations! Sharper Understanding of Images and Instructions!",
+ "date": "2026-11-24",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r291-w291-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "💬 'GPT-6.2 Sol' Arrives in Everyday ChatGPT Conversations! Sharper Understanding of Images and Instructions!",
+  "OpenAI began rolling out on Monday a version of its GPT-6.2 model tuned for the regular chat tab in ChatGPT, after the model had only been available since November 17 in ChatGPT Work, Codex, and the developer API.",
+  "The new version is built on GPT-6.2 Sol and tuned for everyday conversations. It is available worldwide to subscribers on the Plus, Pro, Business, and Enterprise plans, while Enterprise workplace admins decide whether to enable it.",
+  "The company says the new model understands images more accurately: in its internal tests, image comprehension accuracy jumped from 47.4% with GPT-6 to 71.7%, and it followed complex instructions in 78.1% of cases, up from 62.5% before — figures from the company itself that no independent party has yet verified.",
+  "The update also included safety improvements: the model followed the company's policies in 91% to 94% of difficult conversations about sensitive topics such as eating disorders and emotional dependence, compared with 77% to 80% for the previous model — though that still means 6% to 9% of those conversations fall short of the required standard.",
+  "Users on the free and Go plans will stay on the GPT-6 Luna model, with no announced date for an upgrade. The company also announced that the GPT-5.6 Sol and GPT-5.6 Terra models will be withdrawn from ChatGPT on December 23, 2026.",
+  "Simply put: your everyday chats with ChatGPT have become smarter at reading images and understanding your requests... Have you noticed the difference in its replies?",
+  "Do you pay for ChatGPT, or do you stick with the free version?"
+ ]
+}

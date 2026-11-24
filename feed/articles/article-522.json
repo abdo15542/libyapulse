@@ -1,0 +1,22 @@
+{
+ "id": 522,
+ "slug": "article-522",
+ "title": "💾 Together AI Launches a Free Caching Layer That Speeds Up GPU Clusters 20 Times!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r143-w143-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Storage"
+ ],
+ "body": [
+  "💾 Together AI Launches a Free Caching Layer That Speeds Up GPU Clusters 20 Times!",
+  "Together AI launched on November 19 a new feature called Together Cache Accelerator — a distributed caching layer that runs inside GPU clusters and is included free with every cluster. Instead of every machine pulling the same data from remote storage each time, data is kept on fast disks inside the cluster after the first read, so subsequent reads come from inside at much higher speed.",
+  "According to the company's measurements on the H100 card, warm reads became about 20 times faster, reaching up to 3.4 GB per second per machine — so a 2 GB file that took 13 to 15 seconds from cloud storage now reads in just 0.6 to 0.7 seconds. A 70 GB checkpoint pulled by 200 machines is also downloaded from the source once instead of 200 times, cutting data-transfer bills, which on Amazon reach $0.09 per GB.",
+  "Notably, activation requires no change to the application: changing a single environment variable is enough for existing code to work as is, with S3 and R2 services and the Hugging Face platform. Cached data keeps working even when the source goes down or imposes pull limits, and the first read through the layer costs almost nothing extra, staying within 5% of direct download speed.",
+  "Simply put: imagine a library placing a copy of the most-requested book on your desk after the first read, so you never return to the distant shelf — that is how the new layer works with AI training data.",
+  "Does slow data loading delay AI projects more than weak GPUs themselves?"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "id": 720,
+ "slug": "article-720",
+ "title": "🚗 Tesla Starts Rolling Out FSD 15: A Realistic View of the Road and a Claim of 25x Improvement in Critical Situations!",
+ "date": "2026-11-22",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r188-w188-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Tesla"
+ ],
+ "body": [
+  "🚗 Tesla Starts Rolling Out FSD 15: A Realistic View of the Road and a Claim of 25x Improvement in Critical Situations!",
+  "On November 21, Tesla began rolling out version 15 of its Full Self-Driving system, FSD, describing it as an upgrade to 'every part of the driving network', with a striking claim: a 25x improvement in handling critical situations on the road, thanks to a new vision encoder trained on millions of internet videos, the same encoder used in its Robotaxi self-driving cars and the Optimus robot.",
+  "The highlight of the update is a new feature called 'Reality View': a live, AI-generated display, moment by moment, as if a virtual camera were flying above your car and filming the street around you in full detail, with arrows showing the turns the system intends to take and pins marking the parking spot it is aiming for. The company says the driver can see what the system plans to do and direct it by touching any point in the display, and that the new display uses less computing power than the old one.",
+  "The update also brings other practical improvements: better reading of traffic signs, potholes, animals, debris, and standing water on the road, automatic slowing near speed cameras, a new mode for cars carrying a rear bike rack, and improvements to navigation and parking. The rollout is still in its first wave for a small group of customers, with wider expansion expected in December, and the system remains 'supervised self-driving', meaning the driver must stay attentive and ready to take over at any moment.",
+  "Simply put: your car now sees the road the way you see it and shows you what it intends to do before it does it, but the '25x' claim is still the company's word alone, with no published data; so would you trust a beautiful display on the screen, or wait for an independent test on the road?"
+ ]
+}

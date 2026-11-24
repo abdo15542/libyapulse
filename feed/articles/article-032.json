@@ -1,0 +1,21 @@
+{
+ "id": 32,
+ "slug": "article-032",
+ "title": "A Huge Chinese Model at a Tiny Price! 🇨🇳",
+ "date": "2026-11-19",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r05-a05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "China"
+ ],
+ "body": [
+  "A Huge Chinese Model at a Tiny Price! 🇨🇳",
+  "On November 18, Chinese company Tencent announced its new Hy4 Flash model — a huge AI model that is cheap to run. The model has 224 billion parameters — a parameter is a unit of learning inside a model — but with each question, only 12 billion of them are active, which is what makes it fast and cheap.",
+  "The model supports text and image input, and remembers context of up to one million tokens. Its price is about $0.070 per million input tokens and $0.281 per million output tokens, and Tencent says the cost of a single task is one-eighth the cost of the rival DeepSeek model.",
+  "The model is available free on the WorkBuddy platform until November 30, and Tencent plans to open its weights to developers.",
+  "Does a low price change your mind about Chinese models? 💡"
+ ]
+}

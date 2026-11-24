@@ -1,0 +1,24 @@
+{
+ "id": 608,
+ "slug": "article-608",
+ "title": "🎨 AMD publishes \"Nitro-Pixel\" — a model that generates images pixel by pixel!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r157-w157-09.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🎨 AMD publishes \"Nitro-Pixel\" — a model that generates images pixel by pixel!",
+  "AMD published a new image-generation model called \"Nitro-Pixel\", which works directly in \"pixel space\" — it builds the image point by point.",
+  "A \"pixel\" is the smallest point of light in an image, and thousands of them come together to form what you see on the screen. The new model deals with these points directly, instead of passing through a compressed representation of the image first.",
+  "This approach differs from most current image-generation models, which compress the image into a miniature version then expand it again, in a step that may lose some fine details.",
+  "Models working in pixel space give researchers more precise control over details, but usually need greater computing power, because they process each point separately.",
+  "Publishing the model this way means researchers and developers can study and try it themselves, instead of it staying locked inside the company's labs.",
+  "Simply put: imagine a painter painting his picture point by point instead of spraying the colours all at once. That is what \"Nitro-Pixel\" does with images.",
+  "Do you think AI images will one day become indistinguishable from real photos?"
+ ]
+}

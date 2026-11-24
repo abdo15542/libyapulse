@@ -1,0 +1,21 @@
+{
+ "id": 319,
+ "slug": "article-319",
+ "title": "🏥 AI prepares the MRI request instead of the hospital employee!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r116-w116-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "OpenAI"
+ ],
+ "body": [
+  "🏥 AI prepares the MRI request instead of the hospital employee!",
+  "OpenAI has announced an expansion of the use of computer-using AI agents in the healthcare sector — programs that click, type, and move between apps just as a human does — to take over repetitive work between hospital systems and insurance companies. The company is working with major health institutions, including 'CVS Health' and 'Cigna Healthcare', on tasks such as referrals, prior authorization requests, discharge plans, and communicating with patients between visits.",
+  "In a demonstration using fictional patient data, the agent reviewed the visit notes, physiotherapy records, and previous images in the electronic health record, then prepared the MRI scan request, the visit note, and a reply to the patient for the doctor to review, and then prepared the prior authorization request in the insurer's portal for the relevant employee to review. In the company's evaluation, reviewers rated 99% of 325 tasks in the health inbox as clinically safe, and the model scored 94.3% on an independent benchmark for administrative tasks, while the cheaper model scored 91.8% at a cost of about 8.5 cents per task. The company added more than 20 new health integrations, and made these capabilities available through its API and its two health services, with controls for approvals and audit logs supporting a workflow compliant with health data protection rules.",
+  "Simply put: imagine an employee who never tires and never forgets, moving information between the hospital record and the insurer's website and preparing the paperwork, while the doctor only reviews and approves; that is what the new agent does — but the final decision stays with humans.",
+  "Are you comfortable with AI preparing your treatment paperwork, or do you prefer everything to stay in human hands?"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "id": 86,
+ "slug": "article-086",
+ "title": "The World's Fastest Soft Robot Runs Without Any Electronics! 🤖",
+ "date": "2026-11-19",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r06-c09.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Robots"
+ ],
+ "body": [
+  "The World's Fastest Soft Robot Runs Without Any Electronics! 🤖",
+  "Engineers at the University of California San Diego have built the fastest robot made entirely of soft materials, in a study published yesterday: a six-legged robot, 3D-printed in a single piece from a single material, with no electronics, powered only by compressed air. Its top speed reached 4.72 meters per second — about 17 kilometers per hour — more than a hundred times faster than the team's 2022 version, which moved at just 4 centimeters per second.",
+  "Imagine a toy made of flexible rubber with no batteries and no wires — moving on puffs of air alone, like inflating a balloon. The engineers borrowed a trick from a 19th-century steam engine, making the compressed air push twice: first through small high-pressure chambers that operate the valves, then through larger low-pressure chambers that move the legs. The robot runs on sand, gravel, and grass, goes down stairs, swims in water, and walks underwater. It currently works tethered to a compressed-air source, and the next step is a free-standing version with a portable air cartridge.",
+  "Where could a robot with no electronics work? 🔬"
+ ]
+}

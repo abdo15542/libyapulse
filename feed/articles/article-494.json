@@ -1,0 +1,25 @@
+{
+ "id": 494,
+ "slug": "article-494",
+ "title": "📡 Bell Canada Confirms a Breach by an 'Agent' Attacker — Business Customer Data Stolen!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r137-w137-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "📡 Bell Canada Confirms a Breach by an 'Agent' Attacker — Business Customer Data Stolen!",
+  "Canadian telecom company Bell Canada confirmed that an attacker it described as an 'agent' entered its systems on November 17 and stole data belonging to its business customers, including information from the system it uses to order and provision communication circuits for customers.",
+  "The attacker entered a trial version of the Maximo system, the system with which the company manages orders and provisioning of communication lines, then reached other systems inside the company, according to the company itself.",
+  "The stolen data includes work contact details, such as names, job titles, company email addresses, phone numbers, and work addresses, in addition to texts written in technical support ticket titles and some IP addresses linked to network equipment.",
+  "The company confirmed that the stolen data does not include passwords, sensitive personal data, or files or attachments stored in the system, and that it contained the incident and secured its systems without any impact on customer services.",
+  "The company did not disclose the number of affected customers or the volume of stolen data, and said it does not yet know the attacker's identity, and that it shares breach indicators and tracking information with its business customers and with the Canadian Centre for Cyber Security, without publishing them to the public.",
+  "The company warned its customers about attempts to impersonate it, as the attacker may exploit the stolen data to send fraudulent messages that appear to come from it.",
+  "Simply put: the word 'agent' here means the attacker used AI tools that work on their own; the breach no longer needs a person sitting behind a keyboard all the time, but a tool that searches and executes at machine speed.",
+  "Do you trust that your company's data is safe when stored with an external supplier?"
+ ]
+}

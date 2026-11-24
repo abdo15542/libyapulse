@@ -1,0 +1,21 @@
+{
+ "id": 848,
+ "slug": "article-848",
+ "title": "💰 Dell, HPE, Lenovo, and Supermicro raise AI server prices by up to 45% after contracts are signed!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r217-w217-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "💰 Dell, HPE, Lenovo, and Supermicro raise AI server prices by up to 45% after contracts are signed!",
+  "Signing a contract to buy AI servers no longer means the bill is settled: reports on 22 November revealed that four of the largest server makers — Dell, HPE, Lenovo, and Supermicro — are asking their customers to pay between 25% and 45% more than the agreed price, with the demand arriving at delivery time, when the customer needs the hardware most.",
+  "The cause is a severe components crisis: memory costs have risen more than 400% since the start of 2024, server memory prices alone jumped about 90% in the first quarter of 2026, and the shortage of circuit boards could last until 2028. Graphics-card server prices have risen by at least 20% to 30%, while central-processor server prices have tripled or more. HPE has even explicitly amended its offer terms so it can reprice orders between the offer and delivery.",
+  "The clearest example of the dispute is a case before the courts: trading firm XTX sued Dell in Ireland, saying the two sides had agreed a fixed price of $549 million, that the firm paid an extra $5 million to guarantee the price would hold, and that Dell later demanded between $62 million and $70 million more, citing rising component costs. Most large buyers, including major trading firms, usually accept the increase because they desperately need the computing power, and because demand for AI equipment exceeds supply.",
+  "Simply put: a signed contract is no longer a guarantee of the price in the age of the memory crisis, and the buyer pays or loses their place in the queue; will the price at delivery become the new rule in the world of AI?"
+ ]
+}

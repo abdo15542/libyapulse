@@ -1,0 +1,25 @@
+{
+ "id": 888,
+ "slug": "article-888",
+ "title": "🛡️ GL.iNet Cloud Flaw Plants Malware in Routers... and an Old Backdoor Dating Back to 2025!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r229-w229-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ GL.iNet Cloud Flaw Plants Malware in Routers... and an Old Backdoor Dating Back to 2025!",
+  "GL.iNet, the maker of compact routers and KVM remote-control devices, confirmed that attackers exploited a flaw in its remote cloud management service \"GoodCloud\" to plant malware on customers' devices, including backdoors that give the attacker full control of the device.",
+  "In a security notice published on 20 November, the company said an unauthorized party exploited the flaw to access some routers and KVM devices and install malicious software on them, adding that it had closed the attack path and fixed the flaw — but warning that the fix does not remove the malware from devices that are already infected.",
+  "Users reported malware designed specifically for the company's devices, with reverse connections that let the attacker run commands remotely, while researchers at a consulting firm found suspicious activity in 152 of 183 routers they examined, including 24 devices with root-privilege reverse connections and 47 devices with an older backdoor.",
+  "The surprise is that the older backdoor may have been present since September 2025: owners found its files dated between September 2025 and May 2026. It sends device data to external servers, can run commands and route traffic through the victim's connection, and it survives firmware updates that keep the settings.",
+  "The risk is greater for KVM devices, because they directly control the computers connected to them: whoever controls them can see the computer screen and type on its keyboard, so the company is investigating whether the computers connected to infected devices were affected as well.",
+  "The company advises all users to check their devices for a process named \"crond -i /tmp/.log\" and to install security updates as soon as they become available. It has set 22 November as the date for the stable updates: versions 1.10.3 for KVM devices and 1.8.7 for the \"RMQ1\" model.",
+  "Simply put: A flaw in the cloud opened your digital front door to strangers, and some backdoors have been there for a year — have you checked your router today?",
+  "Do you trust the cloud management service for your router, or would you rather switch it off entirely after this incident?"
+ ]
+}

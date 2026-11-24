@@ -1,0 +1,25 @@
+{
+ "id": 988,
+ "slug": "article-988",
+ "title": "🔍 AI unmasks anonymous peer reviewers! 56% of secret reports exposed!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r254-w254-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🔍 AI unmasks anonymous peer reviewers! 56% of secret reports exposed!",
+  "A new study has revealed that an AI model can identify the author of an anonymous scientific peer-review report with high accuracy, in a loophole that threatens the double-blind review principle on which scientific publishing rests.",
+  "The study, published on November 19, tested the ability of the Claude Fable 5.2 model to identify the authors of anonymous review reports submitted to conferences in machine learning and natural language processing between 2015 and 2026.",
+  "In a controlled test covering 398 reports and private reviews from six volunteers, the model identified the correct author in 56% of cases, with accuracy of 49.1% after adjusting the weights between reviewers, without internet access, external tools, or a list of candidate names.",
+  "Accuracy was higher in ordinary reports, reaching 68.4%, compared with only 31.1% in summary reports, while the model identified the author in 21.4% of a separate set of 1,559 public reports.",
+  "And most alarmingly, self-citation was a strong clue: when the reviewer cited their own work, the model's accuracy jumped to 80.2%, meaning writing style and citation choices together reveal identity.",
+  "The researchers acknowledged that the model's identifications remain guesses without independent verification, that the sample is small, and that they intend to expand the study in later updates — but the message is clear: hiding the name alone is no longer a guarantee of hiding identity.",
+  "Simply put: a report without a name may expose its author through style and citations... is anonymous review really still anonymous?",
+  "Do you think scientific journals need new rules to protect reviewers' identities?"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "id": 2,
+ "slug": "article-002",
+ "title": "Is Your Phone Battery Draining Fast? Try These Three Steps:",
+ "date": "2026-11-18",
+ "category": "tech-news",
+ "category_name": "Tech News",
+ "image": "https://abdo15542.github.io/techpulse/assets/techpulse-logo.png",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Welcome"
+ ],
+ "body": [
+  "Is Your Phone Battery Draining Fast? Try These Three Steps:",
+  "1- Close the apps running in the background that you don't use.",
+  "2- Lower the screen brightness — it's the biggest battery drain.",
+  "3- Turn on power-saving mode when you need it.",
+  "Simple steps, and the difference is clear from day one. Try them and tell us how it went."
+ ]
+}

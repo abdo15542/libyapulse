@@ -1,0 +1,20 @@
+{
+ "id": 197,
+ "slug": "article-197",
+ "title": "💎 Ruby Fixes 7 Flaws, Including a Critical One That Executes Code Remotely!",
+ "date": "2026-11-20",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r103-w103-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "💎 Ruby Fixes 7 Flaws, Including a Critical One That Executes Code Remotely!",
+  "The Ruby programming language released fixes for seven security vulnerabilities, including three critical, three high-severity, and one medium. The most dangerous is a flaw numbered CVE-2026-132825 and known as “Ruby2Shell,” caused by a one-byte buffer overflow during case conversion, affecting characters such as the German sharp s. Researchers warned that the flaw is reachable without authentication in default Rails setups and classic Sinatra via case conversion in Rack, and that proof of exploitation could appear within about a week of the announcement, while remote code execution proofs were released for five of the seven flaws. The fix came in Ruby versions 4.0.10, 3.4.13, and 3.3.14 on November 18, while Ruby 3.2 and older versions are out of support and will not receive a fix.",
+  "Simply put: a tiny error in handling a single character opens a door to running malicious commands on the server; the new update closes it, but old systems have no protection.",
+  "Do you update the programming language and framework in your projects regularly?"
+ ]
+}

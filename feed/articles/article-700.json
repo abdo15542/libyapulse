@@ -1,0 +1,21 @@
+{
+ "id": 700,
+ "slug": "article-700",
+ "title": "🔒 OpenRouter warns: your messages to Minimax models may have been read by a third party!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r185-w185-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Privacy"
+ ],
+ "body": [
+  "🔒 OpenRouter warns: your messages to Minimax models may have been read by a third party!",
+  "OpenRouter sent warning messages to its customers, telling them that messages they sent to AI models from the company Minimax may have been read by a third party. The story began when a security researcher placed unique test links inside messages sent to these models between July and October, then discovered that another party had opened those links 40 to 130 hours after they were sent — days after the conversation had ended.",
+  "It did not matter whether Minimax answered the request itself or passed it through an intermediary hosting company — the result repeated in every case, including intermediaries Atlas Cloud, Novita and Stream Lake. OpenRouter said the problem lies with Minimax and the companies that passed the requests to it, not with the platform itself, and it temporarily removed the \"no data retention\" badge from Minimax models until the investigation ends.",
+  "Minimax's only explanation so far is that a content-review feature was enabled on its services before October 22, and that it then enabled the \"no data retention\" feature. But OpenRouter asked the company for its own explanation and has not yet received a reply, and the scope of impact may be wider: one affected person's notice covered 80 requests between October 15 and November 12.",
+  "Simply put: your messages to a chatbot may stay saved and be read days later, even if the badge says they are not kept. Are privacy promises enough on their own, or should users keep their secrets and passwords away from AI messages for good?"
+ ]
+}

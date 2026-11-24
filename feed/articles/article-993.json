@@ -1,0 +1,25 @@
+{
+ "id": 993,
+ "slug": "article-993",
+ "title": "💻 Qwen 4 Max arrives on Together AI... and fixes a software bug after reading 652,000 tokens in one go!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r256-w256-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "💻 Qwen 4 Max arrives on Together AI... and fixes a software bug after reading 652,000 tokens in one go!",
+  "The Together AI platform has made Alibaba's Qwen 4 Max model available through its cloud inference service, with a context window of up to one million tokens, and a 30% discount lasting until November 22, in a post published by the platform on November 21.",
+  "During the discount period, the price per million input tokens is $1.05, cached input tokens are $0.0525, and one million output tokens are $3.15, compared with the regular prices of $1.50, $0.075, and $4.50 respectively, accepting text and images as inputs and returning text as outputs.",
+  "To test the model, the platform sent it a report about a software bug together with all 344 files of the Python Tornado framework repository in a single request, totaling 652,519 tokens, without pre-selecting the relevant files or any retrieval step.",
+  "The model produced a fix for the bug within 72 seconds, and the fix passed the two regression tests the project maintainers added for that same bug, and not a single one of the project's 1,673 tests failed after the fix was applied.",
+  "The request cost about 69 cents at the discount price, and the first token arrived after 54 seconds, and when a similar request was repeated relying mostly on caching, the first token arrived within just 8 seconds and cost about 3 cents, noting that caching is automatic but not guaranteed every time.",
+  "Alibaba had launched the model on November 16, a huge model with 2.4 trillion parameters of which 71 billion are activated per token, requiring requests to use live streaming, with thinking mode enabled by default.",
+  "Simply put: a model read an entire software project in one go and fixed a bug in it within a minute... will this become the future of fixing code?",
+  "Would you trust a code fix produced by an AI model without human review?"
+ ]
+}

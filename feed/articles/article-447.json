@@ -1,0 +1,23 @@
+{
+ "id": 447,
+ "slug": "article-447",
+ "title": "📄 'Amazon' Launches 'Textract Insights' — AI That Understands Your Documents and Documents Every Answer!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r131-w131-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "📄 'Amazon' Launches 'Textract Insights' — AI That Understands Your Documents and Documents Every Answer!",
+  "\"Amazon Web Services\" has announced the general availability of a new feature called \"Textract Insights\", a generative-AI feature inside the \"Textract\" document-processing service. The feature lets users describe in their own words the data they want to extract from a file, then get structured results, with every value carrying a confidence score and its exact location on the page it was taken from — without needing to train any model.",
+  "The feature handles mixed files containing varied documents in a single file, like a mortgage application file containing a tax form, pay slips, bank statements, and handwritten notes. The feature can split a file of up to 3,000 pages into its logical documents, classify each document, match it with the right schema, then extract the requested fields in a single request.",
+  "Users define what they want to extract through a \"schema\" describing each field in natural language, and can start from ready-made schemas for common documents like tax forms, passports, and birth certificates, or write their own schemas. The feature also returns texts in \"Markdown\", \"HTML\", and plain-text formats, generates document summaries, and detects personal data and redacts it.",
+  "The feature supports \"PDF\" files and images, works in six languages including English, French, German, and Spanish, and is billed per page, not per token. In the same update, the company improved the core reading engine, which now supports 40 languages, handles dense tables and handwriting better, and expanded to two new regions — Tokyo and Zurich.",
+  "Simply put: instead of building a whole processing pipeline from scattered tools, you describe what you want in your own words, and the system returns the data organized and documented with its source and confidence score.",
+  "Would you trust AI to extract your official documents' data on its own, or do you prefer human review of every value?"
+ ]
+}

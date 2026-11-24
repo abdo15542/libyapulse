@@ -1,0 +1,25 @@
+{
+ "id": 1120,
+ "slug": "article-1120",
+ "title": "🤖 One Hacker and AI Agents Breach More Than 200 Organizations in 11 Days!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r287-w287-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🤖 One Hacker and AI Agents Breach More Than 200 Organizations in 11 Days!",
+  "A security company revealed that a cyber-espionage group used an AI framework called \"Artex\" to attack more than 200 organizations in 14 countries in just 11 days, from a single console run by one human operator.",
+  "The campaign began on October 17, targeting foreign ministries in Latin America, Europe, Asia, and the Middle East, pharmaceutical, semiconductor, defense, and nuclear energy companies in the US, telecom providers in the US, Belgium, and the Philippines, as well as the presidency and prime minister's office of a European country and an interior ministry in the Middle East.",
+  "At least nine organizations were confirmed breached, where the attackers planted a backdoor called \"BloodAlchemy\", while attempts to steal passwords and scan networks were observed in twelve other organizations, including research centers and government bodies.",
+  "The framework works with multiple AI agents: a main agent receives the human operator's instructions and distributes tasks to planning and execution agents, which try several hacking methods in parallel and automatically switch to an alternative when one path fails, without waiting for new orders at every step.",
+  "In a single breach, the planning agents consumed around 1.4 billion input tokens, revealing the scale of the automated activity, and most of the work used the \"DeepSeek\" model alongside a second commercial model — the agents were even explicitly directed to avoid devices carrying a known protection sensor and focus on unprotected devices.",
+  "The company confirms that this campaign is separate from another campaign that used the same tool against a cloud backup provider, meaning the tool spread quickly among several groups, and that small teams are now able to chase many targets at once.",
+  "Simply put: one hacker has become an entire army with AI agents.. working in parallel and never stopping.. so can human security teams keep up with such speed?",
+  "Do you think AI will make breaches faster than defenders can respond?"
+ ]
+}

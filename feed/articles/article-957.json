@@ -1,0 +1,25 @@
+{
+ "id": 957,
+ "slug": "article-957",
+ "title": "🎨 'Ideogram 4.6' Arrives! Native 4K Image Editing... and Change Just One Part Without Touching the Rest!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r247-w247-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🎨 'Ideogram 4.6' Arrives! Native 4K Image Editing... and Change Just One Part Without Touching the Rest!",
+  "Ideogram launched its new model, Ideogram 4.6, for image generation and editing on 19 November — a model built for precise, step-by-step editing, not for generating a new image every time.",
+  "Its highlight is that it generates and edits images at native 4K resolution of up to 4096 by 4096 pixels, without artificial upscaling, so details come out sharp as they were made, not as they were enlarged.",
+  "It comes with a 'Precision Edit' tool that lets you change a specific part of an image through an optional mask, while keeping the rest of the image as it is — so you can change the color of a shirt, replace a background, or fix a small detail, without the other elements moving or their colors changing.",
+  "It also accepts up to 5 reference images at once, to preserve a person's features, a product's shape, or a place's character across successive edits, and two new APIs are available for generation and precision editing, with prices starting at $0.008 per image.",
+  "The company says the model topped the RapidData leaderboard for multi-step editing with a score of 1892 in the 17 November snapshot — with an important caveat: the gap over the previous version 4.5 is small and falls within the margin of error, so the lead is real in the snapshot, but it is not a decisive victory.",
+  "The biggest surprise for developers is that the company has promised to release open weights for version 4.6 instead of 4.5, without setting a date — a step that could allow the model to run locally for anyone who has the hardware.",
+  "Simply put: a model that edits your image in 4K and changes just one part without touching the rest... do you trust AI to edit your photos, or do you prefer editing them by hand?",
+  "Would you try editing your photos with AI, or do you fear it will ruin their details?"
+ ]
+}

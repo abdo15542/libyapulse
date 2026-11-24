@@ -1,0 +1,21 @@
+{
+ "id": 139,
+ "slug": "article-139",
+ "title": "Urgent Warning for Everyone Who Runs Servers or Tech Systems 🚨",
+ "date": "2026-11-19",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r12-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "Urgent Warning for Everyone Who Runs Servers or Tech Systems 🚨",
+  "The US Cybersecurity and Infrastructure Security Agency added four serious vulnerabilities to its list of known exploited flaws, after confirming they are actually being exploited in real attacks.",
+  "The flaws affect Synology file-storage systems, the LiteLLM tool for connecting AI models, the Apache Axis server, and the RedCap research system. Three of them scored 9.8 out of 10 in severity.",
+  "Simply put: these are vulnerabilities that let an attacker take control of a system remotely, updates have been released to fix them, and US government agencies are required to apply them before November 21 and December 2.",
+  "Do you update your systems and software as soon as security updates come out?"
+ ]
+}

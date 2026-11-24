@@ -1,0 +1,28 @@
+{
+ "id": 1043,
+ "slug": "article-1043",
+ "title": "🤖 Perplexity Launches 'Orchestrator': One Interface That Runs Every AI Model and Picks the Best Automatically!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r269-w269-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🤖 Perplexity Launches 'Orchestrator': One Interface That Runs Every AI Model and Picks the Best Automatically!",
+  "Perplexity has launched a new API called Orchestrator, which lets developers and companies use AI models from different labs through a single interface.",
+  "The interface brings together more than 85 models from more than a dozen providers, including models from OpenAI, Anthropic, Google and xAI, alongside open-weight models such as GLM, Kimi and DeepSeek.",
+  "The problem it solves is that every new model means a new account, contract and invoice, while Orchestrator lets you change the mix of models without new negotiations, with a single unified invoice.",
+  "The platform charges no extra fees on top of the model's own price: the developer pays only the advertised token price for the model that answered, with detailed usage reports by model, project and API key.",
+  "The interface handles request routing and failure recovery automatically: it monitors each provider's health, capacity and response speed, and if a provider goes down it resends the request to another provider running the same model, without the developer building any recovery logic.",
+  "The company says this routing layer already serves hundreds of millions of requests in production, and that Claude and GPT requests through it recorded higher success rates over a full month than any single provider, with less daily fluctuation during outages.",
+  "In an experimental feature called 'Routes', the developer describes in plain language which models should handle which kind of request, choosing between ready-made profiles such as 'lowest cost', 'balanced' or 'highest quality', or building a custom profile.",
+  "Another experimental feature, 'Auto Effort', adjusts how much thinking the model puts into each step according to a policy set by the developer, so the agent puts in more effort to recover from a mistake without switching models.",
+  "The interface works with the usual OpenAI and Anthropic formats, so updating the API key and address in the current development kit is enough to start using it within minutes.",
+  "Simply put: instead of contracting with each lab separately, a developer can now order from a single gateway, which picks the most suitable, fastest and cheapest model for them... Will switching between models become as easy as switching between apps?",
+  "If any developer can run the strongest models from a single interface, will competition on price end and competition on quality alone begin?"
+ ]
+}

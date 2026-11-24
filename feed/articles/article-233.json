@@ -1,0 +1,20 @@
+{
+ "id": 233,
+ "slug": "article-233",
+ "title": "⚖️ Oregon sues OpenAI for more than $2 billion!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r105-w105-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AILaw"
+ ],
+ "body": [
+  "⚖️ Oregon sues OpenAI for more than $2 billion!",
+  "The U.S. state of Oregon has filed a lawsuit against OpenAI, seeking at least $2.035 billion in damages, accusing it of endangering children and misleading parents about the safety of the ChatGPT chatbot. The state's attorney general, Dan Rayfield, announced the lawsuit on November 17, as part of the 'Keeping Kids Safe' initiative, saying the company knows its chatbot harms children and has not fixed its platform. The 53-page lawsuit, filed in Multnomah County court, accuses the company of violating the state's Unlawful Trade Practices Act by marketing its chatbot as a safe tool for children, even though age-verification systems often fail, and the 'ChatGPT for Teens' version does not alert parents when a child asks about dangerous topics such as suicide and eating disorders. The state is asking the court to order the company to stop the deception and put in place protections that actually work.",
+  "Simply put: the state says the company sold a chatbot to children knowing it could encourage them to harm themselves, and that its safety promises were cosmetic; now it wants the company to pay for the harm and fix the platform.",
+  "Are parental warnings enough, or should companies bear responsibility for children's safety?"
+ ]
+}

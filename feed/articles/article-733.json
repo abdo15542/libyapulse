@@ -1,0 +1,21 @@
+{
+ "id": 733,
+ "slug": "article-733",
+ "title": "🔒 OpenRouter Expels 3 AI Providers After User Messages Were Stolen for Months!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r191-w191-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Privacy"
+ ],
+ "body": [
+  "🔒 OpenRouter Expels 3 AI Providers After User Messages Were Stolen for Months!",
+  "OpenRouter, the platform that routes user requests to companies hosting AI models, announced that it has removed three provider companies from its platform and withdrawn the 'no data retention' status from 125 endpoints, after security research revealed that user messages were being stolen from inside these companies for months without the companies themselves knowing.",
+  "The story began when researchers planted about two million test messages carrying unique fake links and credentials between July and November, then watched who used them. It turned out that an attacker had breached one company's servers since mid-July and copied every request passing through it, even rejected ones before they reached the model, then tested the stolen keys within hours, opened cloud storage lists, and tried to create new keys to stay inside the accounts. On November 1, the same attacker used an AI-powered hacking tool to confirm the keys were still valid.",
+  "The affected companies revealed new details: Vala admitted that an attacker took control of an inference server it owned and was able to read request data while it was being processed, and that requests sent to the DeepSeek V4 Flash 0731 model between October 21 and November 8 should be considered exposed, with all keys and tokens in them rotated. Together AI said an unauthorized party downloaded saved samples of customer messages after a coding agent placed credentials in a public repository on GitHub, and the samples came from requests to the Minimax M3, GLM 5.2, and Kimi K2.6 models in June and July. Novita also acknowledged that a routing error sent some Minimax requests to the company's official interface unintentionally. OpenRouter confirmed the breach did not reach its own platform, and that it notified everyone affected.",
+  "Simply put: a 'we do not keep your data' label does not protect you if the attacker is already inside the company, and your message may be read before the model even answers it; so do you know where your messages really go when you choose the cheapest provider, or does price alone decide for you?"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "id": 322,
+ "slug": "article-322",
+ "title": "🤖 Meta's 'Muse' arrives on the Chrome browser officially!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r118-w118-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🤖 Meta's 'Muse' arrives on the Chrome browser officially!",
+  "Meta has officially announced an extension for the Chrome browser that places its AI agent 'Muse' in a sidebar inside the browser, to use while browsing from any open page. The extension first appeared about a week ago without an announcement, and has so far gathered 200,000 users and a rating of 4.6 out of 5 in the Chrome store, before Meta's head of AI announced it officially.",
+  "From the sidebar, 'Muse' can help you shop and book travel, and make phone calls for paying subscribers in the United States. It works inside its own tab group, so it cannot see your saved passwords, your browsing history, or Chrome settings, and passwords are removed from the text of any page before it reads it. You can approve each action before it is carried out, review a full log of its activity, and cancel any call at any time. If you want to take back control, just click on the page, press the Escape key, or drag the tab out of its group. The extension requires Chrome 137 or newer, and opens with a keyboard shortcut.",
+  "Simply put: a smart agent sits beside you in the browser and carries out tasks for you, but you remain the one making the final decision at every step.",
+  "Would you let an AI agent browse and buy on your behalf?"
+ ]
+}

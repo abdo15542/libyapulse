@@ -1,0 +1,21 @@
+{
+ "id": 290,
+ "slug": "article-290",
+ "title": "🔢 Mathematician claims to have solved the hardest problem in mathematics with the help of AI!",
+ "date": "2026-11-20",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r111-w111-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Science"
+ ],
+ "body": [
+  "🔢 Mathematician claims to have solved the hardest problem in mathematics with the help of AI!",
+  "A mathematician working at the AI company Anthropic announced he has discovered a proof of the Riemann hypothesis, the most famous open problem in mathematics, with the help of the Claude chatbot, and published his proof written in a special programming language that automatically verifies the correctness of each step.",
+  "The hypothesis was posed in 1859 by mathematician Bernhard Riemann, and says the positions of prime numbers on the number line follow a precise hidden order even though they look random. It is the most famous unsolved problem in mathematics, and the Clay Mathematics Institute offers a million-dollar prize to whoever solves it. The mathematician Levent Alpoge said in a statement published on his website: 'I believe I have discovered, working with Claude, a proof of the Riemann hypothesis,' adding that his proof also proves a more general and stronger version known as the 'generalized Riemann hypothesis'. Mathematician Andrew Sutherland from the Massachusetts Institute of Technology compiled the proof himself in the same language and described the moment as historic, while coverage confirmed the proof has not yet been verified by independent experts, and understanding its mathematical details needs much work. The announcement came one day after Anthropic entered the stock market in its largest IPO in history.",
+  "Simply put: imagine a puzzle that baffled the smartest minds for 167 years, and someone claims to have solved it with the help of a machine; the news is exciting, but the real verdict will come when experts examine the proof step by step and confirm it is correct.",
+  "Do you think AI can really solve the greatest puzzles of mathematics, or does this claim need proof first?"
+ ]
+}

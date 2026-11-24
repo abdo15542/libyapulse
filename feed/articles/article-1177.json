@@ -1,0 +1,24 @@
+{
+ "id": 1177,
+ "slug": "article-1177",
+ "title": "🗄️ Sirius: The DuckDB Database Runs on the Graphics Card! Queries 5 Times Faster!",
+ "date": "2026-11-24",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r296-w296-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Computing"
+ ],
+ "body": [
+  "🗄️ Sirius: The DuckDB Database Runs on the Graphics Card! Queries 5 Times Faster!",
+  "Nvidia, in cooperation with DuckDB Labs, has launched the Sirius extension for the DuckDB database, so analytical queries now run on graphics cards without changing a single line of the query language or the database schema.",
+  "Installation is surprisingly simple: just two commands in the query language, \"INSTALL sirius\" then \"LOAD sirius\", after which DuckDB analyzes and optimizes the query, while Sirius executes the plan on the card.",
+  "In tests on data up to 10 terabytes, queries were between 3.25 and 5.50 times faster than the best CPU setup, a one-terabyte query dropped from 347 seconds to 63 seconds, and computing cost fell by about 79% at the largest size.",
+  "The extension needs DuckDB 2.0 and an Nvidia card with a compatible driver, while unsupported queries fall back automatically to the CPU engine without failing.",
+  "The extension is open source, developed by the University of Wisconsin-Madison with Nvidia, and its repository published benchmarking tools that let any team re-run the tests on its own hardware before adopting it.",
+  "Simply put: the same database, the same queries — but the engine is now a graphics card, so results come faster and cost less.",
+  "Would you try running your databases on a graphics card?"
+ ]
+}

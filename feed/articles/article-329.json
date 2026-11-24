@@ -1,0 +1,21 @@
+{
+ "id": 329,
+ "slug": "article-329",
+ "title": "🛡️ Chrome will photograph suspicious pages to detect fraud!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r118-w118-09.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Chrome will photograph suspicious pages to detect fraud!",
+  "Chrome is working on a new AI-powered security feature: capturing a screenshot of a page and analyzing its appearance visually to detect scam sites that evade traditional checks. Signals spotted in Chromium browser development point to capturing browser screenshots and classifying them visually, to add to Chrome's current AI analysis of pages on-device and via servers.",
+  "The idea is that scammers create temporary domains and copy the designs of legitimate sites quickly, before blocklists catch up with them. Visual classification looks at the page's appearance as the user actually sees it, not just its link or code, catching new scam sites not yet recorded. This raises a privacy question similar to what the 'Recall' feature in Windows raised, with one important difference: Chrome's screenshots are sent to Google's servers, while 'Recall' stores its screenshots locally. The feature will only reach those who enable 'Enhanced Safe Browsing', Chrome's strongest setting, and no official date has been announced yet.",
+  "Simply put: instead of asking 'Is this link known?', Chrome asks: 'Does this page look like a scam page?' — and judges by its appearance.",
+  "Do you enable 'Enhanced Safe Browsing' in your browser?"
+ ]
+}

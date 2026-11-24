@@ -1,0 +1,20 @@
+{
+ "id": 70,
+ "slug": "article-070",
+ "title": "A billion users have enabled passkeys on WhatsApp — plus a new call-screening feature! 🔐",
+ "date": "2026-11-19",
+ "category": "apps",
+ "category_name": "Apps & Platforms",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r06-b03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "WhatsApp"
+ ],
+ "body": [
+  "A billion users have enabled passkeys on WhatsApp — plus a new call-screening feature! 🔐",
+  "WhatsApp announced today that more than a billion users have enabled passkeys on their accounts. Anyone signed in on Android or iPhone can now add more than one passkey to their account, and two-step verification now accepts a full password — longer, with letters, numbers, and symbols — instead of a short code. The app also announced a new, smarter call-screening feature on Android.",
+  "A passkey means signing in with your fingerprint or face instead of a code sent by text message — much faster and much harder to steal. And call screening is like a doorman for your phone: it checks unknown callers before your phone even rings.",
+  "Have you enabled passkeys on WhatsApp? 📲"
+ ]
+}

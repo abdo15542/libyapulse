@@ -1,0 +1,20 @@
+{
+ "id": 165,
+ "slug": "article-165",
+ "title": "📺 Malware in Cheap Streaming Devices Generates 40 Billion Fake Ad Requests a Day!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r101-w101-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "📺 Malware in Cheap Streaming Devices Generates 40 Billion Fake Ad Requests a Day!",
+  "Security researchers uncovered a new campaign called “BadBox 3.0” that exploits cheap streaming devices running open-source Android, generating about 40 billion fake ad-bidding requests a day at its peak — more than 4% of all connected-TV traffic the researchers observed. The infection starts from a backdoor hidden inside a system app, which connects to a control server and then downloads ad-fraud modules; it plays video ads in a transparent player outside the visible screen, using the names of legitimate streaming apps. The malware also registers the devices in 11 residential proxy networks without their owners’ knowledge. The infected devices are not certified by Google’s protection service, despite being sold as Android devices. The US Federal Bureau of Investigation advises disconnecting any suspicious device from the network and checking the protection certification before buying a streaming device.",
+  "Simply put: the infected streaming device works normally in front of you, but in secret it opens fake ads and sells your internet connection to others — and the device owner sees nothing of it.",
+  "Do you check the protection certification before buying a cheap streaming device?"
+ ]
+}

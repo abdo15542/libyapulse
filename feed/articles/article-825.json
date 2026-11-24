@@ -1,0 +1,21 @@
+{
+ "id": 825,
+ "slug": "article-825",
+ "title": "📱 Gemini Finally Reaches Weak Phones: Full AI on Just 2GB of RAM!",
+ "date": "2026-11-22",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r212-w212-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "📱 Gemini Finally Reaches Weak Phones: Full AI on Just 2GB of RAM!",
+  "Google announced on 18 November that the Gemini app is coming to Android Go phones with limited memory, after rebuilding the app to run smoothly on weaker devices. Hundreds of millions of people around the world use low-memory phones as their main internet device, and until now they have been shut out of the full AI experience, left with only simple voice commands.",
+  "The expansion brings familiar features to these phones: natural voice conversations through Gemini Live in more than 45 languages, including practising for a job interview or talking through a question instead of typing it, camera help to understand and translate notes, and creating custom images with the Nano Banana model, such as designing an ad for a local bakery. All it takes is a phone with 2GB of RAM or more.",
+  "You can get the app from the Google Play store, or by long-pressing the power button on supported phones, and upcoming phones from partners such as Transsion will come with the app pre-installed. But there are limits: voice activation by saying 'Hey Google' and the 'Ask about this screen' feature are not supported on these phones.",
+  "Simply put: powerful AI is no longer reserved for expensive phones — could this change the lives of millions of users in developing countries?"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "id": 712,
+ "slug": "article-712",
+ "title": "🔒 A flaw in Copilot let it summarise secret Outlook messages for weeks — and Microsoft admits it!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r186-w186-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Microsoft"
+ ],
+ "body": [
+  "🔒 A flaw in Copilot let it summarise secret Outlook messages for weeks — and Microsoft admits it!",
+  "A new report has revealed that a flaw in the Microsoft 365 Copilot assistant let the AI assistant access secret emails and summarise them for several weeks without their owners' permission. Microsoft acknowledged the problem, first discovered in January, carrying the code CW1226324, and affecting the chat feature known as the \"Work tab\" inside Copilot.",
+  "What is worrying is that Copilot was designed to work within permission boundaries: it sees only what the employee is allowed to see, and summarises their messages and files to help them work. But this flaw broke that boundary, so the assistant became able to read messages classified as secret and summarise their content — meaning sensitive information that was supposed to stay restricted reached a chat window it should never have reached.",
+  "The company did not reveal how many users were affected by the flaw, but said it began rolling out the fix in early February. The incident brings back an important question: when we give a smart assistant the keys to our email and files, who guarantees that permissions work as they should? The error here was not a hack from outside, but an internal flaw in the trust system itself.",
+  "Simply put: an assistant that was supposed to see only what you allow it to see saw more than that for weeks. Do you still trust an AI assistant that reads your work email, or do these incidents make you restrict its access?"
+ ]
+}

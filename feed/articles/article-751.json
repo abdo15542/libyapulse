@@ -1,0 +1,22 @@
+{
+ "id": 751,
+ "slug": "article-751",
+ "title": "🐱 LongCat 2.5: A Giant Chinese Model That Runs Without a Single Nvidia Chip!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r196-w196-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🐱 LongCat 2.5: A Giant Chinese Model That Runs Without a Single Nvidia Chip!",
+  "Chinese company Meituan launched its LongCat 2.5 model on November 1, then published its full weights on November 9 under the open MIT license, one of the most permissive licenses, as it allows commercial use, modification, and redistribution without restrictions.",
+  "The model is a mixture-of-experts type with a total of 1.6 trillion parameters, of which only around 48 billion are activated per token. It is multimodal by nature: it converts images into separate tokens that it processes together with text in the same stream, instead of adding a separate vision unit. Its context window is also a million tokens, and it can output up to 256,000 tokens, and it is designed for long agent tasks: it plans, writes code, and executes it in the terminal or browser, analyzes the result, recovers from errors, and delivers finished work without a human managing it step by step.",
+  "But the biggest news is in the hardware: the company says all the training was done on local Chinese accelerators, and that its self-hosting guide runs on just 194 Huawei Ascend Atlas A2 accelerators, without any instructions for running it on Nvidia cards. This makes the model the clearest evidence yet that US chip export restrictions have not stopped Chinese labs from reaching near-top performance.",
+  "But the performance figures come from the company itself and have not been independently verified yet: it says the model scored 88.4 points on the Terminal-Bench 2.1 test, close to Claude Opus 5 at 89.1 and GPT-5.6 Sol at 88.8, while DeepSeek V4.1 Flash tops the same table at 90.6. The API price is around $0.30 per million input tokens and $1.20 per million output tokens.",
+  "Simply put: when a Chinese lab builds a model of this size entirely on local chips, the question becomes who owns the AI hardware, not who owns the models. Do you think chip restrictions will lose their effectiveness, or does real superiority still need American hardware?"
+ ]
+}

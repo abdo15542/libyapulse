@@ -1,0 +1,22 @@
+{
+ "id": 781,
+ "slug": "article-781",
+ "title": "💻 Claude Sees Your Screen and Works in Your Computer Apps... Now for Work Teams and Businesses!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r203-w203-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "💻 Claude Sees Your Screen and Works in Your Computer Apps... Now for Work Teams and Businesses!",
+  "Anthropic announced in its November 20 release notes that the 'computer use' feature is now available in beta for the Team and Enterprise plans in Claude, after being limited to individual plans, with a gradual rollout to organizations.",
+  "The feature lets Claude see the user's screen and work inside the desktop apps it is allowed to use, typing, clicking, and filling in forms on their behalf, and it works inside the new Claude experience in the desktop app, and from the web and phone when the 'access computer' option is enabled.",
+  "The business version comes with controls the individual version does not need: the feature is off by default in every organization, and only the organization owner or primary owner can turn it on, with allow lists for specific apps or block lists, such as blocking a password manager, and a device management key that prevents it from running on a particular computer.",
+  "Organizations with strict regulatory settings are excluded from the feature entirely, such as HIPAA readiness settings, zero data retention, customer-managed encryption keys, and education settings. The company also warns that there is no isolation barrier between Claude and the apps, so content visible on screen could push it into unintended actions, and that screen captures are saved with the conversation.",
+  "Simply put: an AI assistant that works on your computer by itself, but its keys are in your organization's manager's hands first; so would you let it work in your apps?"
+ ]
+}

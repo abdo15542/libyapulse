@@ -1,0 +1,21 @@
+{
+ "id": 533,
+ "slug": "article-533",
+ "title": "🌐 Perplexity's Computer Agent Enters Your Browser — Filling Forms and Doing Tasks for You!",
+ "date": "2026-11-21",
+ "category": "apps",
+ "category_name": "Apps & Platforms",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r144-w144-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Apps"
+ ],
+ "body": [
+  "🌐 Perplexity's Computer Agent Enters Your Browser — Filling Forms and Doing Tasks for You!",
+  "Perplexity launched a new browser extension that integrates its computer agent directly into Chromium browsers, including Chrome, Edge, Brave, and Arc. The agent can navigate between tabs, fill out forms, and carry out multi-step tasks on sites that require sign-in, such as booking an appointment or completing an order.",
+  "The agent only works during tasks the user starts themselves, and it does not collect browsing data in the background, according to the company. The idea is that the assistant does not merely answer questions — it actually performs the work inside the browser, clicking buttons, typing in fields, and moving between pages on your behalf.",
+  "Simply put: imagine asking your assistant to complete a booking on a website, and it opens the site, signs you in, fills in the details, and confirms the booking, while you watch what it does step by step — that is what Perplexity's new extension promises.",
+  "Would you trust an AI agent that signs in to your accounts and clicks for you, or do you prefer doing these tasks yourself?"
+ ]
+}

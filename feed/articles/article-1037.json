@@ -1,0 +1,24 @@
+{
+ "id": 1037,
+ "slug": "article-1037",
+ "title": "🧠 The \"godfather of AI\" warns: models are inventing a language we don't understand!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r266-w266-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🧠 The \"godfather of AI\" warns: models are inventing a language we don't understand!",
+  "\"Geoffrey Hinton\", the Nobel laureate known as the godfather of AI, has warned that AI models have begun developing their own ways of communicating that humans may be unable to understand.",
+  "In a question-and-answer session at the Canadian \"University of Manitoba\", Hinton explained that models do not learn words the way humans do; instead, they split them into small pieces and then reassemble them in ways no one taught them.",
+  "He said: \"We have seen them invent new combinations of the pieces, and it seems they speak in them, and we do not know what they use them for,\" describing the matter as \"starting to get a bit scary\".",
+  "He added that AI agents can share what they learn with each other, so ten thousand copies of the same model learn together far faster than any human could in an entire lifetime.",
+  "Hinton believes the systems could one day become able to improve themselves without relying on information from humans, just as the \"AlphaZero\" system learned to play games by competing against itself, until they work, think and improve while talking to no one.",
+  "Simply put: an AI that speaks its own language and learns from itself... will we one day lose the ability to understand what it is thinking?",
+  "If models start speaking a language we do not understand, should they be stopped, or is the benefit worth the risk?"
+ ]
+}

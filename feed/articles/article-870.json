@@ -1,0 +1,21 @@
+{
+ "id": 870,
+ "slug": "article-870",
+ "title": "🔌 South Korea's power company hacked! Data of one and a half million people... and account and card numbers!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r224-w224-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔌 South Korea's power company hacked! Data of one and a half million people... and account and card numbers!",
+  "On 22 November, the Korea Electric Power Corporation (KEPCO) announced that an outside attacker stole personal data belonging to 1,520,248 people from two of its systems, after the company discovered the leak on the morning of 20 November.",
+  "From the \"KEPCO ON\" customer service platform, data leaked for 650,487 electricity customers — 7.1% of the platform's 9.2 million users — across 12 categories: customer number, name, national registration number, phone, address, bank name, account number, account holder name, card issuer, card number, cardholder name, and billing data. From the electronic procurement system, data leaked for 426,827 representatives of contracted companies and 442,934 employees, including names, registration numbers, email addresses, and phone numbers.",
+  "The company stopped external access immediately after discovering the incident at 6 a.m., notified the Ministry of Climate and Energy and the National Intelligence Service at 9:30 a.m., asked the police to investigate, and completed its notification to the data protection authority at 6:30 p.m. on 22 November, within the 72-hour deadline. The company's president, Kim Dong-cheol, apologised publicly, and the company assigned 48 employees to a call centre working around the clock. The company confirmed that national registration numbers and card numbers were stored encrypted, that no secondary harm has been detected so far, and that the incident does not affect electricity operations.",
+  "Simply put: a power company holds payment data for two million customers, so if a single attacker breaks in, they get their names and account and card numbers all at once — will you review your data stored in payment services, or trust that companies protect it for you?"
+ ]
+}

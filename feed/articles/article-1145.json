@@ -1,0 +1,25 @@
+{
+ "id": 1145,
+ "slug": "article-1145",
+ "title": "⚔️ War of the Giants Ignites! LeCun Accuses Anthropic's CEO of Seeking to Ban Open Models!",
+ "date": "2026-11-24",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r290-w290-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "⚔️ War of the Giants Ignites! LeCun Accuses Anthropic's CEO of Seeking to Ban Open Models!",
+  "The debate over who owns artificial intelligence ignited after famous researcher Yann LeCun, one of the fathers of AI and the former head of AI at Meta, accused Anthropic CEO Dario Amodei of exaggerating the risks of open models to keep control of the technology.",
+  "LeCun wrote in a post on X on 22 November that Amodei's message since the launch of the GPT-2 model has always been to inflate the risks so that open models would be banned by law and he would remain in control, comparing it to the ban on the Arabic printing press in the Ottoman Empire to preserve the monopoly on knowledge, and describing it as 'a new form of medieval obscurantism'.",
+  "LeCun was responding to an old clip that resurfaced of Amodei's testimony before a US Senate committee in July 2023, in which he warned that once an open model is published it cannot be withdrawn or its use monitored, unlike closed models that the company can stop and update the controls on.",
+  "But Amodei himself had clarified last July that Anthropic never called for a ban on open-weight models, but instead called for three measures: preventing the sale of advanced chips to China, confronting the copying of American models on an industrial scale, and mandatory safety testing for every model powerful enough, whether open or closed.",
+  "The dispute revolves around open-weight models that any developer can download and run on their own device, such as Llama from Meta and the Chinese DeepSeek, versus closed models that you can only reach through the company's services, and recent research says the gap between the two types has narrowed to less than a year on the leading benchmarks.",
+  "LeCun also accused Amodei of leaving OpenAI in 2020 because he did not get the control he wanted, before founding Anthropic the following year, while Amodei has not yet responded to these accusations.",
+  "Simply put: a battle between AI giants over one question: will AI stay for everyone or for a few companies? Which side are you on?",
+  "Do you support open models for everyone, or safe closed models?"
+ ]
+}

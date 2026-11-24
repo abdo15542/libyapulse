@@ -1,0 +1,26 @@
+{
+ "id": 961,
+ "slug": "article-961",
+ "title": "🖥️ Claude Controls Your Entire Computer! Now for Businesses... but Without a Sandbox!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r248-w248-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🖥️ Claude Controls Your Entire Computer! Now for Businesses... but Without a Sandbox!",
+  "Anthropic announced on 20 November that the 'computer use' feature in Claude has reached the Team and Enterprise plans in beta, after being exclusive to individual plans.",
+  "The feature lets Claude see your screen and work inside the desktop apps you allow, clicking, typing and opening apps as a human would, through the Claude desktop app on macOS and Windows.",
+  "But the feature is off by default in every organization, and only the organization's owner or primary owner can turn it on. It works only inside the new unified Claude experience that combines chat and Cowork, and it is rolling out gradually to organizations.",
+  "The business version comes with controls that the individual version does not have: large organizations can restrict the feature to certain roles, and set the allowed or blocked apps with allow and block lists, while IT teams can disable it on specific devices through device management policy.",
+  "There are strict exceptions: organizations with HIPAA-regulated health settings, zero data retention settings, customer-managed encryption keys, or education settings cannot enable the feature at all.",
+  "The company's documentation states a key point explicitly: 'there is no sandbox between Claude and your apps' — everything that appears on the screen may affect what it does. Claude asks before using each app for the first time, but screenshots are saved with the conversation, and the company may keep a copy of them as part of reviewing its actions.",
+  "The unified experience will also be enabled automatically for Team plans on 1 December, unless the owner chooses to keep it off, while the old separate experience will be withdrawn on 1 February 2027.",
+  "Simply put: Claude has become an employee working on your computer on your behalf, but with no protective wall for your files... would you hand it the keys to your company's computer?",
+  "Would you let an AI assistant click and type in your apps, or do you prefer it to stay just a conversation?"
+ ]
+}

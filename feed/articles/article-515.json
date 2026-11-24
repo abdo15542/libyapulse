@@ -1,0 +1,23 @@
+{
+ "id": 515,
+ "slug": "article-515",
+ "title": "🛒 AI Agents Now Shop on Their Own — and Amazon Opens the Store to Them!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r142-w142-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🛒 AI Agents Now Shop on Their Own — and Amazon Opens the Store to Them!",
+  "Amazon Web Services announced that AI agents can now buy products and data from the AWS Marketplace on their own, via the x402 payment protocol, with each purchase billed in dollars on the customer's Amazon cloud account invoice — no crypto wallet or separate API keys — as part of the announcements at the re:Invent 2026 conference.",
+  "Here is how it works: the agent discovers the product through the marketplace connector, then requests the service and the seller replies with a signed price quote; the agent pays per request within a spending limit the customer sets in advance for each session, purchases appear as a line item on the monthly invoice, every transaction is recorded in audit logs, and the agent's role is limited to payment — it cannot create a new session or raise its own spending limit.",
+  "The new capabilities also include Agent Mode, which searches the marketplace and recommends products from real case studies; Checkout Agent, which explains prices, licensing terms, and taxes in simple language; and Trust Agent, which brings governance and risk reports for more than a thousand sellers; plus a Data as a Service category selling ready-made business data, such as Moody's credit research, Reuters geopolitical news, and Shovels data on building permits.",
+  "Notably, Amazon itself bans automated shopping agents from its main shopping site, and sued Perplexity to stop its AI-powered browser from accessing it — while opening its arms to automated commerce in its cloud store, a contradiction many noticed this week.",
+  "Simply put: imagine giving your smart assistant your card and a maximum spending limit, and it goes to the market, buys a software tool or a database on its own, pays for it from your account, and returns with a report — that is now possible in Amazon's cloud store.",
+  "Would you let an AI agent spend your money without asking you first?"
+ ]
+}

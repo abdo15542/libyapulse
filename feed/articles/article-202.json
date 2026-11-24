@@ -1,0 +1,20 @@
+{
+ "id": 202,
+ "slug": "article-202",
+ "title": "🌐 A Critical Flaw in the Drupal Installer Lets Attackers Take Over the Site!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r103-w103-13.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🌐 A Critical Flaw in the Drupal Installer Lets Attackers Take Over the Site!",
+  "Researchers revealed a critical flaw in the installer of the Drupal content management system, numbered CVE-2026-132165 and rated 18 out of 25 in severity, which lets an attacker reinstall the site through the installer page, take it over, and run malicious code, with a proof of exploitation available and no real attacks observed so far. The fix was released in Drupal versions 10.6.22, 11.3.22, and 11.4.13 on November 18, and the flaw was discovered by the open-source software scanner at Anthropic, launched on October 8. About 29% of Drupal sites — 154,485 out of 528,430 — run on branches whose support has ended and will not receive a fix, in addition to another medium-severity flaw numbered CVE-2026-132166.",
+  "Simply put: the installer page used once when creating the site could turn into a backdoor for the attacker; the update closes it, but sites on old versions have no protection.",
+  "Does your website run on the latest version of its management system?"
+ ]
+}

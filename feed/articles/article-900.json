@@ -1,0 +1,25 @@
+{
+ "id": 900,
+ "slug": "article-900",
+ "title": "🤖 A New US Law Targets 'Hidden Bots' — Will Stealing Content to Train AI Finally End?",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r234-w234-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🤖 A New US Law Targets 'Hidden Bots' — Will Stealing Content to Train AI Finally End?",
+  "Two members of the US Senate introduced a new bill targeting 'hidden bots', disguised crawling programs that collect protected content from websites without permission to train AI models.",
+  "The bill, introduced by Republican Senator Roger Wicker and Democratic Senator Ben Ray Luján on November 18, is called the 'Hidden Bots Ban Act', and it requires any automated program to disclose its identity and purpose when entering any website, so that site owners know who is collecting their content and why.",
+  "The bill's sponsors say these bots have become a growing problem with the spread of AI: they bypass paywalls, copy information, flood websites with requests that strain their servers, and target especially local newspapers, journalists, and small publishers who depend on their content for income.",
+  "Supporters point out that some of these disguised bots are run by adversaries of the United States, and are used to steal intellectual-property-protected content, then train rival AI models on it, while site owners remain unable to tell a real visitor apart from a disguised program.",
+  "The bill does not ban all automated programs: it exempts legitimate academic research and useful automated uses, and focuses only on harmful deception, with the Federal Trade Commission enforcing the law, and state attorneys general given the right to sue violators to protect their states' residents.",
+  "The bill won the support of more than 130 news and tech organizations, including the News/Media Alliance and the Association of American Publishers, which described it as a 'sensible and practical solution to the problem of bad bots', stressing that publishers of all sizes are 'drowning in bot traffic' in a way that harms their ability to deliver good content to the public.",
+  "Simply put: the new law does not ban bots, but forces them to identify themselves and their purpose, so site owners can block the thieves among them and allow the useful ones. Is revealing identity enough to stop content theft for training AI?",
+  "Do you think bots that collect content without permission should be banned completely?"
+ ]
+}

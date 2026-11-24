@@ -1,0 +1,24 @@
+{
+ "id": 936,
+ "slug": "article-936",
+ "title": "🍎 Apple Intelligence finally reaches China! iPad and Mac join the iPhone... and the Chinese 'Qwen' model is the engine!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r244-w244-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🍎 Apple Intelligence finally reaches China! iPad and Mac join the iPhone... and the Chinese 'Qwen' model is the engine!",
+  "On November 16, Apple expanded its testing of Apple Intelligence features in China to include iPad and Mac devices, with the release of the second beta of iPadOS 27.3 and macOS 27.3, after the feature was initially limited to iPhone, and after a two-year wait behind the rest of the world.",
+  "The Cyberspace Administration of Shanghai had announced on November 9 that Apple registered its AI service to include tablets and portable devices — a mandatory regulatory step in China, where no generative AI service is allowed to operate before registering with the competent authorities.",
+  "The feature works on Mac and iPad devices equipped with Apple's M chips, in addition to two iPad mini models equipped with the A17 Pro and A20 Pro chips, and includes writing tools for rewriting and summarizing, instant translation in messages and calls, cleaning photos of unwanted elements, summarizing notifications and mail, and creating custom emoji.",
+  "Because Chinese laws ban relying on foreign models, Apple built its Chinese version in partnership with Alibaba, with the Qwen model handling text generation and in-depth answers — the same way ChatGPT integrates with Apple devices in the rest of the world — so the voice assistant can pass difficult questions to Qwen for a fuller answer.",
+  "But the Chinese version does not include everything: it excludes the new 'Siri AI' assistant and some of the newest features that appeared in iOS 27, settling for the first-generation features that appeared in the United States since iOS 18.1, and the new systems are scheduled to reach all users next December.",
+  "Simply put: after two years of waiting, Apple Intelligence now works in China on phone, tablet, and computer — but with a Chinese engine and without the newest features... will the Chinese user accept this lighter version?",
+  "Would you prefer AI features to stay on your device without sending your data to any server, even if that means fewer features?"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "id": 412,
+ "slug": "article-412",
+ "title": "💡 A New Lab Raises $110 Million — AI That Improves Itself from Your Company's Work!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r127-w127-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "💡 A New Lab Raises $110 Million — AI That Improves Itself from Your Company's Work!",
+  "A new AI lab called \"Noeri\" came out of stealth on November 16, with $110 million in funding led by the \"Menlo Ventures\" fund, with participation from \"Nvidia\", \"Snowflake\", \"Cisco\", and other investors. The lab was founded by Stanford computer science professors Yejin Choi and Carlos Guestrin, two of the world's leading AI researchers, who run it together.",
+  "\"Noeri\"'s idea differs from most AI labs: instead of building one giant model companies rent, it builds \"living\" systems that learn from the company's own data and way of working, and suggest improvements to the system that runs a specific task: the instructions it follows, the tools it uses, the model handling each step, and sometimes the models themselves. Every suggestion is shown explained to a human for approval, and code is reviewed before merging.",
+  "The idea was born from practical experience: when the founders helped a Stanford team use AI models at lower cost, they built a small model that learned to use older, cheaper models, outperforming the newest \"GPT-5\" model on that research team's needs. The name \"Noeri\" means \"intelligence in the plural\", reflecting the founders' rejection of a future dominated by a single powerful model.",
+  "Simply put: instead of paying for a huge model that answers everything, this system builds you a small assistant that specializes in your work and improves the more you use it.",
+  "Do you prefer one powerful model for everything, or a small assistant specialized in your work?"
+ ]
+}

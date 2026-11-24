@@ -1,0 +1,20 @@
+{
+ "id": 66,
+ "slug": "article-066",
+ "title": "North Korea unveils its first AI chatbot! 🇰🇵",
+ "date": "2026-11-19",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r06-a09.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "North Korea unveils its first AI chatbot! 🇰🇵",
+  "North Korea appeared this week showcasing what looks like its first AI chatbot, called \"AI Service System 1.0, Fountain of Wisdom\". The system was shown at a national exhibition in Pyongyang last October, appeared on state television on Monday, and can answer science and technology questions in Korean or English and provide translations.",
+  "Notably, the screen warns users against asking social or political questions, and there appears to be a filter that screens questions before they reach the engine. Experts doubt the model was built from scratch there, and suspect it runs on an open-weights model from an American or Chinese lab, and that the country's lack of large data centers could hold back the deployment of more advanced models.",
+  "Does it surprise you that a closed country is showcasing its own chatbot? 🤔"
+ ]
+}

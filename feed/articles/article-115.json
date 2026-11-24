@@ -1,0 +1,21 @@
+{
+ "id": 115,
+ "slug": "article-115",
+ "title": "🚨 Five Critical Flaws in Web Servers!",
+ "date": "2026-11-19",
+ "category": "tech-news",
+ "category_name": "Tech News",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r09-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🚨 Five Critical Flaws in Web Servers!",
+  "Researchers revealed five critical vulnerabilities in NGINX, the software that powers millions of websites around the world, and the most dangerous one lets an attacker take full control of the server without any login credentials.",
+  "The company has already released the fix in new versions, but the exploit code is now public, and around 9 million services are at risk.",
+  "Simply put, if your website runs on NGINX, updating now is not an option — it is a necessity.",
+  "Do you know what software powers your favorite website? And do you care about this kind of news?"
+ ]
+}

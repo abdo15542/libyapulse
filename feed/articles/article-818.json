@@ -1,0 +1,21 @@
+{
+ "id": 818,
+ "slug": "article-818",
+ "title": "🔒 Gemini keeps your chats for two months even with history turned off!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r211-w211-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Privacy"
+ ],
+ "body": [
+  "🔒 Gemini keeps your chats for two months even with history turned off!",
+  "Google revealed in a global update that began on 16 November that Gemini chats will stay saved to your account for about two months even when you turn off the history setting, after previously being deleted after just 72 hours. The extension covers temporary chats and chats started while history is off, even though they stay hidden from the history you see.",
+  "Google has split the old \"Keep Activity\" setting into two independent switches: one for saving history, and another for allowing your chats to be used to train AI models. You can now keep your history without your chats being used for training, but turning off history no longer means instant deletion, because Google says it keeps chats to respond to you, process your feedback, and protect the service, with the help of human reviewers.",
+  "More precisely, human review can extend retention to three years even after you delete your history, and sending feedback on a reply collects the last 24 hours of your chats and their attachments for review. Saved history is deleted automatically after 18 months by default, and you can shorten or lengthen that period or turn off auto-delete.",
+  "Simply put: the \"turn off history\" button now hides your chats from your eyes, not from Google's servers — will you review the privacy settings in your AI assistant today?"
+ ]
+}

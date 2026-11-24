@@ -1,0 +1,22 @@
+{
+ "id": 344,
+ "slug": "article-344",
+ "title": "💻 Dell Launches the 'XPS 16' with Nvidia's 'RTX Spark' Chip and 128GB of Memory!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r120-w120-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Laptops"
+ ],
+ "body": [
+  "💻 Dell Launches the 'XPS 16' with Nvidia's 'RTX Spark' Chip and 128GB of Memory!",
+  "Dell has launched its new laptop, the \"XPS 16 Creator Edition\", in India — the first computer in the \"XPS\" series powered by Nvidia's new \"RTX Spark N1X\" chip. The device starts at 449,990 Indian rupees and is currently available through Dell's online store, reaching retail stores and e-commerce platforms by mid-December.",
+  "The new chip combines Nvidia's \"Blackwell\" graphics processor with up to 6,144 cores and the \"Grace\" central processor with up to 20 cores, with unified memory of up to 128GB and storage of up to 2TB, in an architecture that can run large AI models, 3D scenes, and 8K video timelines. The device carries a 16-inch OLED touchscreen with 3.2K resolution and a variable refresh rate from 20 to 120Hz, peak brightness of 1,000 nits, and full DCI-P3 color coverage.",
+  "The device is designed for content creators, developers, and professionals, supporting apps like \"Blender\", \"DaVinci Resolve\", \"Photoshop\", and \"Premiere\", and tools like \"GitHub Copilot\", \"Claude Code\", \"ComfyUI\", and \"Cursor\", with real-time ray tracing and DLSS technology. It has a 99Wh battery charged by a 130W adapter via USB-C, an aluminum body 17.8mm thick, three USB4 ports, an HDMI 2.1b port, and a full card reader.",
+  "Simply put: a laptop with enough memory to run a huge AI model locally, and a cinema-grade screen — but at a price starting at around five thousand dollars.",
+  "Would you buy a computer at this price for local AI?"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "id": 563,
+ "slug": "article-563",
+ "title": "🔭 After 8 years in space — the \"BepiColombo\" telescope finally opens its eyes!",
+ "date": "2026-11-21",
+ "category": "space",
+ "category_name": "Space",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r147-w147-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Space"
+ ],
+ "body": [
+  "🔭 After 8 years in space — the \"BepiColombo\" telescope finally opens its eyes!",
+  "After an eight-year journey covering 10 billion kilometres, the MIXS X-ray telescope aboard the \"BepiColombo\" spacecraft captured its first observations of a distant object: the Crab Nebula, one of the brightest X-ray sources in the sky, about 6,500 light-years from Earth. The team from the British University of Leicester announced the results on November 21, coinciding with the spacecraft's entry into Mercury's orbit.",
+  "The telescope could not look directly into space during the whole journey, until the transfer module separated from the two science orbiters in September, finally uncovering its sight. The main observation campaign took place on September 11 and 12, through 55 carefully planned changes in the spacecraft's direction over 39 hours, and the result was surprising: the telescope's accuracy is slightly better than it was in laboratory tests in 2015.",
+  "The team confirmed that 80% of the \"MIXS\" technology is entirely new, that no stray light spoils the images, that there is no trace of radiation damage to the detector after eight years in space, and that cosmic-ray traces are understood and can be filtered. A small X-ray emission remains from inside the device itself when the Sun illuminates its lenses, but it will not affect observations of Mercury's daytime surface.",
+  "\"MIXS\" will use its X-ray vision to draw a global map of the elements on Mercury's surface, by capturing the fluorescent X-rays that rocks emit when struck by sunlight, without needing to collect samples. It is the first imaging X-ray telescope operating on a planetary mission, and the only instrument led by Britain in the mission. The two science orbiters will separate on December 9 and 10, and the science phase begins in April 2027.",
+  "Simply put: imagine a camera that travelled eight years with its eyes closed, then finally opened them and took a picture clearer than it was in the laboratory. That is how \"MIXS\" proved our instruments can survive space and work efficiently.",
+  "Do you think Mercury hides secrets about the birth of our solar system?"
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "id": 1078,
+ "slug": "article-1078",
+ "title": "🇪🇺 Europe eases privacy rules — companies with under 1,000 employees may stop recording their data!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r280-w280-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Privacy"
+ ],
+ "body": [
+  "🇪🇺 Europe eases privacy rules — companies with under 1,000 employees may stop recording their data!",
+  "The European Parliament is set to vote on Tuesday, 24 November, in Strasbourg on a deal that eases one of the most famous burdens of the European data protection law, and could exempt thousands of medium-sized companies from a mandatory record they have kept for years.",
+  "Under the deal, known as Omnibus 4, companies with fewer than 1,000 employees would stop keeping a record of data processing activities, unless a specific activity is high-risk or is part of the core duties of a data protection officer.",
+  "The current threshold is only 250 employees, in force since the law began to apply in May 2018 — meaning the jump to 1,000 employees would cover a wide range of companies that lost the exemption as soon as they passed 250 employees.",
+  "But the biggest change is not the number alone; it is in how the exception is defined. The agreed text keeps only two conditions: that a specific activity is likely to result in a high risk to individuals' rights, or that it is one of the core activities requiring the appointment of a data protection officer, such as large-scale systematic monitoring or processing sensitive or criminal data on a large scale.",
+  "And even when one of the two conditions applies, only that activity is recorded — not all of the company's activities. Routine processing, or sensitive data alone, no longer automatically requires keeping the record; the company's own assessment of the risk becomes the deciding factor.",
+  "The test depends on headcount alone, so even a company with 900 employees and revenues above €200 million benefits from the exemption, even though the usual definition of small and medium enterprises covers revenues up to €200 million or a balance sheet up to €172 million.",
+  "The Parliament's vote does not mean the change has become law: the Council must also approve the text, then the regulation enters into force on the twentieth day after its publication in the Official Journal of the European Union, and until then the 250-employee rule and its three conditions remain the law in force.",
+  "When proposing the package in May 2025, the Commission said it would save companies €400 million a year in administrative costs — a figure that covers all of the package's measures, not the data record alone — while it counted around 38,000 small and medium enterprises at a 750-employee threshold.",
+  "Digital rights groups criticized the new design, arguing that the risk test is vague and relies on the company's own assessment without consulting authorities or documenting the reasons, which could push some companies to understate the risks, while European data protection authorities said the changes are specific and preserve the law's core principles.",
+  "Simply put: Europe wants to cut paperwork for medium-sized companies, but the data record is what helps track leaks — is the saving worth the price?",
+  "If your company could stop recording its data, would you actually stop, or keep the record to protect yourself?"
+ ]
+}

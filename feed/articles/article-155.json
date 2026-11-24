@@ -1,0 +1,20 @@
+{
+ "id": 155,
+ "slug": "article-155",
+ "title": "⚠️ A Dangerous Flaw in One of Nvidia’s AI Tools!",
+ "date": "2026-11-19",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r13-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "⚠️ A Dangerous Flaw in One of Nvidia’s AI Tools!",
+  "A security flaw was revealed in the “Model Optimizer” tool used to optimize AI models, rated as high severity. The flaw lets an attacker trick the tool into processing untrusted data, which could lead to malicious commands being executed, data being tampered with, or the service being disrupted. The flaw affects the current version of the tool, and no official fix has been announced yet.",
+  "Simply put: even AI tools themselves need protection.",
+  "Do you follow security updates for your tools regularly?"
+ ]
+}

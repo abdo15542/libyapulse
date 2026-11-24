@@ -1,0 +1,24 @@
+{
+ "id": 1097,
+ "slug": "article-1097",
+ "title": "💻 An open-source project runs a full macOS inside Linux... with no emulation!",
+ "date": "2026-11-23",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r283-w283-13.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Linux"
+ ],
+ "body": [
+  "💻 An open-source project runs a full macOS inside Linux... with no emulation!",
+  "A new open-source project called 'XNU Linux' has revealed a way to run a full macOS inside Linux, with no virtual machine or emulation, by loading the macOS kernel itself inside the Linux kernel.",
+  "The kernel is the heart of an operating system that manages the processor, memory, and devices; the project builds the XNU kernel — the macOS kernel whose source code Apple publishes publicly — from its sources, then installs it as a module inside the Linux kernel without modification, so Mac processes and Linux processes run side by side on the same processors.",
+  "Linux lends the hosted kernel memory, timers, files, networking, and the graphics card through a small intermediary module, and with a single command to load the module, the macOS 27 disk created by Apple's own installer boots to the desktop: the login screen, window server, Dock, and the Safari and Chrome browsers all work.",
+  "The project's demonstration on 22 November showed a full macOS 27.2.1 desktop running on Linux on Apple Silicon devices, reaching the desktop in 31 to 48 seconds, while Safari runs over Linux's own network.",
+  "The project works only on Arm64 processors and does not support traditional x86 processors, and it distributes no files from Apple itself: the user must bring macOS files from their own device, and it is still in an early stage.",
+  "Simply put: two systems' kernels working together on the same processor, so macOS boots inside Linux as if it were a native system... Would you try running two complete systems on one device?",
+  "If you could run macOS and Linux together on your computer, what is the first program you would run from each system?"
+ ]
+}

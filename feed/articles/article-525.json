@@ -1,0 +1,22 @@
+{
+ "id": 525,
+ "slug": "article-525",
+ "title": "🧩 The 'Turing Space' Test: AI Fails at Spatial Tasks Humans Solve Easily!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r143-w143-09.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🧩 The 'Turing Space' Test: AI Fails at Spatial Tasks Humans Solve Easily!",
+  "Researchers introduced a new test called Turing Space, which measures the spatial intelligence of multimodal AI models, through 125 interactive verification puzzles solved by clicking and dragging on the screen, covering five spatial abilities, such as understanding relationships between objects, imagining a scene from another angle, and predicting the result of each move.",
+  "Humans solved 94.1% of the test's tasks, while the best model, GPT-6 Astra, failed 25.9% of them, and the best open-weights model, Kimi K3, failed 68%. Analysis showed that most errors come from misreading the screenshot, and that models rarely correct a wrong belief — instead inventing evidence to defend it.",
+  "To test whether this ability can be taught, the researchers trained the small Qwen 3.5 model (9 billion parameters) on 55,000 documented trajectories from the same environment, and its success rate jumped from 1.6% to 33.1%, surpassing Kimi K3, and it improved on seven other tests, including a 9.9-point improvement on a test of real indoor videos.",
+  "Simply put: imagine asking an AI to arrange a room's furniture from a photo — it describes every piece precisely but fails to move them correctly; that is the difference between describing a scene and acting in it, and that is what the new test reveals.",
+  "Do you think AI will one day understand the three-dimensional world the way we do?"
+ ]
+}

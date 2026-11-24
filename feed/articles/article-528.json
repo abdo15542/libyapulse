@@ -1,0 +1,22 @@
+{
+ "id": 528,
+ "slug": "article-528",
+ "title": "💼 Claude Joins Your Meetings — Writing Notes and Building Tables During the Call!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r144-w144-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "💼 Claude Joins Your Meetings — Writing Notes and Building Tables During the Call!",
+  "Anthropic launched on November 10 a new set of work tools for the Claude model, most notably the Claude for Meetings feature, which joins a video call as a visible participant, follows the discussion, writes notes and action items, answers questions in the chat, and builds documents and boards during the meeting itself. The feature is in beta for Team and Enterprise plan customers, and works only with the Google Meet app at first.",
+  "Claude appears in the meeting as a clear participant and posts a notice in the call's chat, and it can pull information from connected work apps, such as last year's figures, during the discussion. It does not join calls with guests from outside the company except with an administrator's permission, and leaves automatically if an external guest joins. Claude does not save audio, but it keeps the text, the summary, and a description of what appeared on screen.",
+  "The same package includes Claude's collaborative boards, which turn a plan into a timeline and then into a document or presentation; Claude tables, which prepare spreadsheets with tabs, formulas, and dropdown lists; and the generally available Claude for Data tool for asking about company data in plain language. The launch was not without a stumble: demand exceeded expectations, so the company temporarily paused automatic meeting joining for Team customers around November 16 and 17, then restored the service gradually, and it returned to normal operation on November 19.",
+  "Simply put: imagine a colleague attending the meeting with you, writing down everything, drawing up the plan, and preparing the table before anyone leaves the room — that is what the new Claude promises, provided the whole company agrees to its presence on the call.",
+  "Would you welcome an AI assistant inside your work meetings, or do you prefer meetings to stay human-only?"
+ ]
+}

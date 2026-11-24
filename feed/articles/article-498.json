@@ -1,0 +1,26 @@
+{
+ "id": 498,
+ "slug": "article-498",
+ "title": "🚨 A 'Data Recovery Company' Selling an Illusion — It Secretly Pays the Ransom and Charges Victims Many Times More!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r138-w138-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🚨 A 'Data Recovery Company' Selling an Illusion — It Secretly Pays the Ransom and Charges Victims Many Times More!",
+  "US authorities charged the co-founder and chief technology officer of Ransomware Help in Florida with wire fraud — a six-year-old company that promised ransomware victims full recovery of their data with advanced decryption tools, claiming a success rate above 99% and that it never pays a ransom.",
+  "According to an indictment issued this week in Rhode Island, CTO Juan Ricardo Palacio Escobar, aged 52, was secretly paying ransomware groups for the decryption key, then charging victims far more than he actually paid, for work that was never actually done.",
+  "The FBI revealed it set a tight trap: its agents pretended to be a victim company on one side, and a fake ransomware group on the other. When the company contacted the fake group, it asked for the lowest possible price for the decryption key, and was offered 0.2 Bitcoin, about $13,000 at the time, and less than 48 hours later the fake company was told the diagnosis had succeeded and the decryption cost was $13,260.",
+  "The next day, the company asked the fake group to lower the amount to $4,000, then agreed on about $6,000 in Bitcoin, while charging the fake victim company a total invoice of $16,010, including an initial diagnosis fee of $2,750.",
+  "The indictment also tells an earlier story from 2024, when a small accounting firm paid a diagnosis fee after the LockBit ransomware locked all its data, and the company sent it an offer worth $438,880 talking about '510 forensic analysis servers' and breaking six types of encryption, including the SHA-256 algorithm, which has nothing to do with decrypting files at all.",
+  "The company also insisted on entering the victim's network remotely via the AnyDesk program, and it is believed the aim was to delete copies of ransom notes from the victim's devices, so the victim himself could not negotiate with the attackers directly.",
+  "The case comes as part of a series of prosecutions targeting recovery companies that claim not to pay ransoms while secretly paying them, as last October an executive at Monster Cloud was charged with paying $8 million to attackers while charging his clients $19 million.",
+  "Simply put: the company was selling an impossible technical illusion; there is no magic tool that decrypts any encryption, and whoever claims that usually pays the ransom in secret and adds a large profit margin.",
+  "Would you trust a company that promises to restore your data in full without paying a ransom?"
+ ]
+}

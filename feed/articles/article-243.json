@@ -1,0 +1,20 @@
+{
+ "id": 243,
+ "slug": "article-243",
+ "title": "☕ Critical 'Java4Shell' flaw in OpenJDK... and a dispute over who discovered it!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r105-w105-13.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "☕ Critical 'Java4Shell' flaw in OpenJDK... and a dispute over who discovered it!",
+  "A critical flaw called 'Java4Shell', numbered 'CVE-2026-114938', has been revealed in the accelerated 'Base64' decoder within the open-source Java platform 'OpenJDK'. The flaw lets an attacker without an account corrupt memory and run commands on the server, by sending malformed 'Base64' texts to apps running on servers with processors supporting the 'AVX-512' instruction set. The flaw was reported to Oracle in September 2026 and handled through a private disclosure process, before the fix was finally merged. But the disclosure sparked wide debate: researchers claimed an AI model discovered the flaw independently, while others pointed out that the fix details and messages match public pull requests the community had previously discussed, raising doubts about whether models really discover flaws or reassemble published reports. Security firms published guidance on affected versions and protection methods, while debate continues over the credibility of AI-attributed flaw discoveries.",
+  "Simply put: 'Base64' is a way of encoding data as text; and a bug in the tool that decodes it lets an attacker slip malicious commands in with ordinary text, which the server then runs believing it is data.",
+  "Do you believe AI discovered a flaw by itself?"
+ ]
+}

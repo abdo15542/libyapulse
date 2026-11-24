@@ -1,0 +1,24 @@
+{
+ "id": 880,
+ "slug": "article-880",
+ "title": "📺 The Biggest Ad Fraud Operation in History! A Cheap TV Box Sends 40 Billion Fake Requests a Day!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r227-w227-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "📺 The Biggest Ad Fraud Operation in History! A Cheap TV Box Sends 40 Billion Fake Requests a Day!",
+  "Security company HUMAN announced that researchers on its Satori team uncovered and disrupted \"BadBox 3.0,\" the largest documented ad fraud operation by daily request volume, peaking at around 40 billion fake ad requests per day.",
+  "The malware lives inside cheap, uncertified devices running an open version of Android — mostly cheap TV streaming boxes, along with phones and tablets — and devices are infected before the buyer even opens the box.",
+  "The malware works in two ways: playing video ads in hidden windows the device owner never sees, while impersonating popular streaming apps to make the requests look genuine, and enrolling devices in 11 residential proxy networks that rent out home internet connections to strangers without their owners' knowledge.",
+  "At its peak, the operation accounted for more than 4% of the connected TV ad traffic the platform tracked — more than three times the previous record — and researchers linked the malware to a Chinese electronics company through its domains and device-specific checks.",
+  "HUMAN also helped disrupt the related \"XCB E\" operation led by Google this month, and several command domains were shut down, but the company warns the operators will adapt, as they did after previous takedowns.",
+  "Simply put: a cheap TV box could be working for fraudsters while you watch TV — do you buy your devices from trusted brands, or do you always go for the cheapest?",
+  "Do you own a cheap TV streaming box? And will you check whether it is certified after this news?"
+ ]
+}

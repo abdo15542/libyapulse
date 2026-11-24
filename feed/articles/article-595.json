@@ -1,0 +1,23 @@
+{
+ "id": 595,
+ "slug": "article-595",
+ "title": "🧠 Microsoft open-sources its small model \"Phi-4\" — powerful AI for everyone, free!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r156-w156-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🧠 Microsoft open-sources its small model \"Phi-4\" — powerful AI for everyone, free!",
+  "Microsoft announced on Wednesday, November 18, that it has made its small AI model \"Phi-4\" open source, so anyone can now download and use it for free from the Hugging Face platform.",
+  "The model was released last month, but was available only via Microsoft's cloud platform Azure AI Foundry, and the company promised at the time that it would open-source it soon — which is what has happened now.",
+  "\"Phi-4\" is a small model but specialised in reasoning and logical thinking — it is designed to solve problems step by step instead of merely generating text, which makes it useful for tasks needing precision such as maths and programming.",
+  "Open-source models mean that developers and researchers can study the model, modify it and run it on their own devices, without relying on a particular company's servers or paying fees for every query.",
+  "Simply put: imagine a giant company giving you a small, smart artificial mind to put on your device and use as you like, free. That is what Microsoft did with \"Phi-4\".",
+  "Do you prefer a small open-source model that runs on your device, or a huge model in the cloud?"
+ ]
+}

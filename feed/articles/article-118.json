@@ -1,0 +1,21 @@
+{
+ "id": 118,
+ "slug": "article-118",
+ "title": "⚠️ Urgent Warning for Developers!",
+ "date": "2026-11-19",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r10-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "⚠️ Urgent Warning for Developers!",
+  "Security researchers uncovered malicious copies of Microsoft’s framework for building AI agents, published on the popular Python repository PyPI.",
+  "The fake copies carry a name similar to the original and steal login credentials from computers when Python runs — even without importing the library.",
+  "Simply put, merely installing the malicious package is enough to steal your cloud keys, so always check the package name before installing, and update to the safe version.",
+  "Do you check package names before installing them? And what steps do you take to protect your accounts?"
+ ]
+}

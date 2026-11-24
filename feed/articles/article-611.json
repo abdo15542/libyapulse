@@ -1,0 +1,26 @@
+{
+ "id": 611,
+ "slug": "article-611",
+ "title": "🛡️ Microsoft launches \"Perception\" officially: a team of AI agents guarding cybersecurity!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r158-w158-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Microsoft launches \"Perception\" officially: a team of AI agents guarding cybersecurity!",
+  "Microsoft announced at the \"Ignite 2026\" conference on Tuesday, November 17, the general availability of the \"Perception\" platform — a platform that coordinates teams of AI agents to protect cybersecurity.",
+  "The platform first appeared in July as \"Project Perception\", then entered public preview inside Microsoft Defender in August, before becoming officially available now.",
+  "The agents' teams are divided into three groups: red teams that attack to test vulnerabilities, blue teams to detect attacks and sort and investigate alerts, and green teams to fix problems.",
+  "The alert-triage agent can handle about 80% of typical alerts in Defender, based on analysing about 8 million alerts across the company's security products, while the red reconnaissance agent has become generally available, and the web-application penetration-testing agent entered preview.",
+  "The company also added two new green playbooks working across Microsoft, Amazon Web Services and Google Cloud, plus integrations in preview with security-management systems via the MCP protocol and APIs.",
+  "The platform also deals with the risk of the agents themselves, as the company's tools can detect 60 types of local agents, including Claude Code, OpenAI Codex and GitHub Copilot.",
+  "An \"AI agent\" is a smart program that carries out whole tasks on its own, and \"alert triage\" means deciding which security alert is genuinely dangerous and which is just noise.",
+  "Simply put: imagine a digital guard team of smart robots: some attack to reveal vulnerabilities, and some fix them before hackers exploit them.",
+  "Do you trust AI alone to guard companies' security, or are humans still necessary?"
+ ]
+}

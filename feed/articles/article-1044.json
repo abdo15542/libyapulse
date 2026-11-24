@@ -1,0 +1,28 @@
+{
+ "id": 1044,
+ "slug": "article-1044",
+ "title": "🔐 Secret Model from Minimax Breaks Encryption Records... and Your Everyday Encryption Is Safe!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r269-w269-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔐 Secret Model from Minimax Breaks Encryption Records... and Your Everyday Encryption Is Safe!",
+  "Minimax announced that an internal research model of its own, called MIM, has succeeded in performing automated cryptanalysis on modern encryption designs, uncovering structural flaws nobody knew about before.",
+  "Cryptanalysis means examining the design of an encryption system itself, not errors in its code, and it is a rigorous test for AI because the result is either complete success in recovering the secret or complete failure — there is no room for guessing.",
+  "The model was tested on the 'CryptAnalysisBench' benchmark, prepared by researchers from ETH Zurich, Anthropic and other partners, drawn from the four encryption competitions organised by the US National Institute of Standards, specifically level two, which contains 135 designs that underwent public review without any known practical attack.",
+  "Among the results: building the first practical collision attack on the Waterfall-256 candidate in 0.045 seconds on a single core, breaking the full collision resistance of the Blender-256 candidate in 0.36 to 2.3 seconds, and recovering the shared secret of the Locker candidate in two seconds after shrinking the solution matrix from 42 petabytes to 58 megabytes.",
+  "The model also found more than a dozen unreported errors in official reference code, including an error in the DRS signature scheme where a logical 'AND' sign was written incorrectly, allowing forged signatures with no signing request at all, using only the public key.",
+  "The attacks extended to rigorous designs published in major conferences and winning competitions, such as forging a valid ciphertext for the Colm scheme, winner of the authenticated encryption competition, from just two encryption requests, recovering the full key of the SBC-Full signature scheme from a single known signature in 0.06 seconds, and extending the key recovery of the Aradi cipher from 5 rounds to 8 rounds.",
+  "In the classic public challenges, the model solved 94 McEliece challenges, including 55 never solved before, at speeds up to 43,400 times faster than the previous record, which took 9.20 hours.",
+  "The company stresses that this work does not affect the encryption standards in use today, such as AES, RSA and SHA-256, because its targets were academic designs, former candidates and public challenges, and that it shared the results with the designs' owners in advance and published the reports and proof-of-attack code on GitHub.",
+  "The model itself is not available to the public, and researchers can request trial access to it, while the results announced by the company itself remain without independent verification so far.",
+  "Simply put: AI has learned to read the mathematics of encryption as if it were a language, finding flaws that human experts missed for years... Will AI-powered encryption checking become a mandatory step before adopting any new system?",
+  "If a single model breaks in seconds what defeated humans for years, can we still trust encryption designs without comprehensive automated checking?"
+ ]
+}

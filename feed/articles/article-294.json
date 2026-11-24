@@ -1,0 +1,21 @@
+{
+ "id": 294,
+ "slug": "article-294",
+ "title": "🧩 ByteDance and Alibaba requested more than a million AI chips for data centers in Southeast Asia!",
+ "date": "2026-11-20",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r111-w111-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "China"
+ ],
+ "body": [
+  "🧩 ByteDance and Alibaba requested more than a million AI chips for data centers in Southeast Asia!",
+  "Official records published by the U.S. House Foreign Affairs Committee revealed that Chinese companies ByteDance and Alibaba requested U.S. approval to send more than 1.1 million Nvidia AI chips to data centers in Malaysia, Indonesia, and Thailand.",
+  "ByteDance requested 508,000 chips for a data center in Malaysia, 203,000 in Indonesia, and 154,000 in Thailand, while 'Alibaba Cloud' requested 253,500 chips in Malaysia, and all these requests were returned without action. The records show in total that companies requested 3,444,160 chips, and the U.S. Department of Commerce approved 879,868 chips across 21 requests until May 11, 2026, with the largest share going to ByteDance and Tencent at 150,000 chips each. All approvals were without shipment until that date, and Nvidia has since announced it stopped shipping 'H200' chips to China. These records come as a new trade rule took effect on November 19, imposing licenses on data centers in those countries when they serve companies headquartered in China, in an attempt to close a loophole that let Chinese companies rent computing capacity abroad instead of buying chips directly.",
+  "Simply put: imagine a country banning the sale of the most powerful computers to its neighbors, so the neighbors rent those computers in a third country; that is how Washington is trying to close the back door through which the chips were passing.",
+  "Do you think chip export restrictions will really slow the AI race?"
+ ]
+}

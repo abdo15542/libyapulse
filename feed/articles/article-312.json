@@ -1,0 +1,22 @@
+{
+ "id": 312,
+ "slug": "article-312",
+ "title": "💻 A tiny desktop with a petaflop of power: 'RTX Spark' machines finally arrive!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r114-w114-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Computers"
+ ],
+ "body": [
+  "💻 A tiny desktop with a petaflop of power: 'RTX Spark' machines finally arrive!",
+  "Nvidia has launched the compact 'RTX Spark' desktop computers from Asus, Dell, and MSI — machines roughly the size of a book box, but designed to run huge AI models and agents working around the clock inside your device, without relying on the cloud.",
+  "Each machine combines a 20-core 'Grace' processor with a 6,144-core 'Blackwell RTX' graphics card and unified memory of up to 128 gigabytes, delivering AI performance of up to one petaflop, and running language models of up to 120 billion parameters fully locally. Adobe software runs on it in native versions, and 'Blender 5.3' supports the new ray-tracing technology, while more machines from Acer, Gigabyte, and HP, plus a developer box from Microsoft, arrive in the coming period.",
+  "Prices, however, are high: the Asus 'ProArt GR1X' starts at about $4,499, while some MSI versions reach $8,000. In return you get full privacy for your files, no cloud fees for every query, and agents working while you sleep.",
+  "Simply put: imagine a small computer on your desk carrying a giant artificial brain that works for you day and night without the internet; that is what 'RTX Spark' promises — if you are ready to pay its price.",
+  "Would you buy an expensive small computer to run AI at home, or do you prefer the cheaper cloud?"
+ ]
+}

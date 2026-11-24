@@ -1,0 +1,23 @@
+{
+ "id": 876,
+ "slug": "article-876",
+ "title": "💾 Google Cuts Broadcom Chip Orders by 20%! And MediaTek Is the Biggest Winner!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r227-w227-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "💾 Google Cuts Broadcom Chip Orders by 20%! And MediaTek Is the Biggest Winner!",
+  "Analyst Ming-Chi Kuo of TF International said in an industry survey published on Friday, November 20, that Google has cut its planned 2027 shipments of the TPU v8i chips designed by Broadcom by about one million units, or about 20%.",
+  "He explained that most of the cut affects the more expensive version, the \"v8i Max,\" known as \"Welfish,\" while Google plans to increase shipments of the TPU v8t series designed by MediaTek, though the final details are not yet clear.",
+  "Kuo linked the change to Google's own priorities, saying that developing advanced models gets the first share of computing capacity, and that the shipment-mix adjustment came amid constraints in supply chains and power available to data centers.",
+  "Broadcom's shares fell about 11.4% on Friday, while MediaTek's shares dropped 10% in Taipei, and neither company commented on the report. Broadcom is due to announce its quarterly results on December 9, its management's first chance to answer questions about Google's 2027 plans.",
+  "Simply put: Google is not buying fewer chips, it is redistributing its orders between two companies — will competition between chip designers decide who owns the most powerful AI?",
+  "Do you think Google's reliance on different designers for its chips strengthens its position or scatters its efforts?"
+ ]
+}

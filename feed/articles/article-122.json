@@ -1,0 +1,21 @@
+{
+ "id": 122,
+ "slug": "article-122",
+ "title": "🔒 Update Chrome Now!",
+ "date": "2026-11-19",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r10-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔒 Update Chrome Now!",
+  "Google released Chrome 158, which fixes 204 security vulnerabilities, including six critical ones.",
+  "The flaws let an attacker run malicious software through web pages, and a researcher from Anthropic discovered two of them with the help of AI.",
+  "Simply put, the update reaches you gradually, but you can speed it up from the browser settings and then restart.",
+  "Did you update your browser today? Or do you usually postpone updates?"
+ ]
+}

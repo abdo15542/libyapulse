@@ -1,0 +1,22 @@
+{
+ "id": 398,
+ "slug": "article-398",
+ "title": "🎨 Adobe's Marketing Agent Enters 'ChatGPT', 'Claude', 'Gemini', and 'Copilot'!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r125-w125-09.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🎨 Adobe's Marketing Agent Enters 'ChatGPT', 'Claude', 'Gemini', and 'Copilot'!",
+  "\"Adobe\" announced on November 6 that its smart marketing agent \"CX Enterprise Coworker\" is now available inside the major AI platforms: \"ChatGPT\" as an add-on, \"Claude\", \"Gemini\" for Business, and \"Microsoft Copilot\", with plans to add it soon to \"Amazon Q\", \"IBM\", and \"Snowflake\". The agent has been generally available since June, but now works where marketers already work, without switching tools.",
+  "The agent is an integrated system that manages the customer's entire lifecycle: from attracting potential customers to raising sales and increasing their long-term value — tracking campaign performance and trends, predicting the right audience, and improving the customer journey, planning, and project management, all under human supervision. It's built on open standards like the Model Context Protocol and the Agent-to-Agent communication protocol, so different systems connect to it without custom programming.",
+  "\"Adobe\" also launched ready-made connectors linking the agent to major partners: Amazon Ads, \"Databricks Genie\", \"Meta\" campaigns, \"Microsoft Work IQ\", and \"Snowflake Cortex\", so a marketer can, with a single request, pull data from several systems and take actions in them together. \"Adobe\" serves more than 20,000 brands, and major consulting firms like \"Accenture\", \"Deloitte\", and \"IBM\" are building specialized versions of the agent for their clients in different sectors.",
+  "Simply put: instead of a marketer moving between ten tools, one agent now lives inside the chatbot they use daily, bringing campaign, advertising, and customer data together at once.",
+  "Would you let an AI agent manage your ad campaigns and budget on your behalf?"
+ ]
+}

@@ -1,0 +1,27 @@
+{
+ "id": 623,
+ "slug": "article-623",
+ "title": "🎮 Fake GTA 6 client on Windows steals your passwords and crypto wallets!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r160-w160-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🎮 Fake GTA 6 client on Windows steals your passwords and crypto wallets!",
+  "Researchers discovered a fake website claiming to let you play GTA 6 on a Windows computer via a streaming client from an Xbox or PlayStation, while in reality it hides data-stealing malware.",
+  "The game was released for PlayStation 5 and Xbox Series X/S, and there is no official PC version yet — exactly what the scammers are exploiting.",
+  "The site offers two installation methods: downloading a compressed file and opening it, or pressing \"Windows + R\" and pasting a PowerShell command and running it. The command bypasses the execution policy, downloads a script from the internet and runs it without the victim seeing it first.",
+  "This is a trick known as \"ClickFix\": instead of exploiting a software flaw, the instructions convince the victim to run the command themselves, so the installation looks completely normal.",
+  "Once run, the malware opens a deceptive page and plays the game's trailer, while in the background it downloads two additional files from a domain the attackers recently registered, then uses a technique called \"DLL sideloading\" via the legitimate Windows tool \"Unload CTR\" to run its payload.",
+  "The program then injects a Rust-built information stealer into legitimate Windows processes to hide itself, stealing browser passwords, cookies and tokens, Discord and Steam data, cryptocurrency wallets, and credentials for AI and developer services, as well as clipboard access and screenshots.",
+  "Anyone who ran the command should treat their device as compromised: disconnect it from the internet if possible, scan it with trusted security software, and change important passwords from a clean device, starting with email, then bank and gaming accounts.",
+  "Anyone who visited the site without running the command or opening any downloaded file did not complete the infection chain.",
+  "Simply put: there is no official PC version of the game, so any site promising you one is selling you an illusion — and any instructions asking you to paste a command into PowerShell are a danger sign in themselves.",
+  "Has a website ever asked you to paste a command into the Run window? What did you do?"
+ ]
+}

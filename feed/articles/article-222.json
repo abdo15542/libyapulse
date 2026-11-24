@@ -1,0 +1,20 @@
+{
+ "id": 222,
+ "slug": "article-222",
+ "title": "💸 Moonshot Cancels a $150 Million Chip Deal with Nvidia!",
+ "date": "2026-11-20",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r104-w104-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "TechMarkets"
+ ],
+ "body": [
+  "💸 Moonshot Cancels a $150 Million Chip Deal with Nvidia!",
+  "Chinese AI company Moonshot, developer of the Kimi models, cancelled a $150 million deal to rent Nvidia’s most powerful “Blackwell Ultra B300” chips from a data center in Indonesia. The decision came after a new US rule took effect on November 19, requiring data centers to obtain a license if they provide large computing capacity to Chinese companies, even if the chips are outside China. The company had paid half the deal’s value in advance — double the usual share — and later signed an alternative agreement with another cloud provider in Southeast Asia.",
+  "Simply put: America banned selling advanced chips to China directly, so Chinese companies turned to renting them from data centers in other countries; and the new rule closed that door too.",
+  "Do you think the chip war affects how fast AI develops?"
+ ]
+}

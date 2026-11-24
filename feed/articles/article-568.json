@@ -1,0 +1,23 @@
+{
+ "id": 568,
+ "slug": "article-568",
+ "title": "🔍 Google gives you \"incognito mode\" inside AI — but watch the details!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r148-w148-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🔍 Google gives you \"incognito mode\" inside AI — but watch the details!",
+  "Google launched on November 17 the \"temporary threads\" feature in \"AI Mode\" inside Search — a version of incognito browsing made for AI conversations: ask whatever you like without the question being saved in your history or affecting your future recommendations.",
+  "The feature works with a single press on a new icon at the top right of the \"AI Mode\" window: the greeting changes to \"Hello, stranger\", and the session separates completely from your account — your previous preferences don't shape the answers, the conversation isn't saved in search history, and it doesn't affect personalisation later. When you close the thread, it disappears completely and you return to normal search. The feature is rolling out gradually worldwide on computers and phones, in all languages supported by \"AI Mode\", without needing to change any settings.",
+  "The examples Google gave are simple: thinking about a surprise gift, or searching for something you don't want to appear later in your recommendations. But the feature comes at a sensitive time: Google changed on November 16 — one day before launch — how long temporary conversations are kept in the \"Gemini\" app itself, from 72 hours to about two months, and later confirmed that the retained data is used \"for safety and security purposes only\" and not for training models.",
+  "The important difference: the two months concern conversations in the \"Gemini\" app, while Google has published no retention figure for \"AI Mode\" threads in Search itself. For comparison, temporary conversations in \"ChatGPT\" are kept up to 30 days, and in \"Claude\" 30 days by default.",
+  "Simply put: imagine entering a room to ask an embarrassing question, closing the door behind you, and the owner promises he won't record what you say. The promise is reassuring, but the real question is: how long does he keep the recording in another room before deleting it?",
+  "Do you use a temporary mode when asking AI sensitive questions, or don't you care about your search history being saved?"
+ ]
+}

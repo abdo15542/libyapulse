@@ -1,0 +1,21 @@
+{
+ "id": 123,
+ "slug": "article-123",
+ "title": "💻 A Giant AI Model Running on a Laptop!",
+ "date": "2026-11-19",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r10-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "💻 A Giant AI Model Running on a Laptop!",
+  "An engineer succeeded in running a 180-billion-parameter AI model on a Mac with only 32GB of memory.",
+  "The secret is that the model is split into experts, so at any moment only ten experts from each layer are active, and the rest are fetched from the hard drive when needed.",
+  "Simply put, a giant model no longer needs a supercomputer — just a smart way to call up its parts from storage — and it reaches speeds of about 14 tokens per second.",
+  "Would you rather run AI on your own device? Or through the cloud?"
+ ]
+}

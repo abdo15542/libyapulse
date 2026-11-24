@@ -1,0 +1,20 @@
+{
+ "id": 216,
+ "slug": "article-216",
+ "title": "🔒 The “NGINX-to-Root” Flaw: An 11-Year-Old Bug Threatening Millions of Servers!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r104-w104-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔒 The “NGINX-to-Root” Flaw: An 11-Year-Old Bug Threatening Millions of Servers!",
+  "Security researchers revealed a dangerous flaw in NGINX, the software that powers a large part of the internet’s websites, called “NGINX-to-Root” and numbered CVE-2026-123007. The flaw lets an attacker with no account at all run commands on the server through a bug in HTTP/2 protocol support, and it has been in the code since 2015. The company released a fix in versions 1.31.9 and 1.30.7, along with four other critical flaws rated 9.2 out of 10, and a proof of exploitation was published publicly, while no real attacks have been observed so far, and the number of exposed services was estimated at about 8.8 million.",
+  "Simply put: NGINX is the doorman that greets website visitors; and the flaw is a backdoor in this doorman that lets a stranger in to run their commands — and the new update closes that door.",
+  "Do you know whether your website or server uses NGINX?"
+ ]
+}

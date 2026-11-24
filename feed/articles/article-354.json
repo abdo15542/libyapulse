@@ -1,0 +1,22 @@
+{
+ "id": 354,
+ "slug": "article-354",
+ "title": "📋 'SurveyMonkey' Brings Your Surveys into Gemini — Ask and Analyze Without Leaving the Conversation!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r121-w121-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "📋 'SurveyMonkey' Brings Your Surveys into Gemini — Ask and Analyze Without Leaving the Conversation!",
+  "The \"SurveyMonkey\" platform has launched a new connector linking its surveys to Google's \"Gemini\" model via the \"MCP\" protocol, letting teams create surveys, analyze their answers, and extract insights inside Gemini itself, without switching apps. The connector follows two earlier ones for \"Claude\" in May 2026 and \"ChatGPT\" in August 2026, and is available from the Gemini connector directory.",
+  "The connector relies on the Model Context Protocol, the standard that lets Gemini access \"SurveyMonkey\" data and interact with it. Users can create, edit, and share surveys in natural language, read survey data live without exporting it, and combine customer and employee opinions with other sources connected to Gemini.",
+  "Meera Vaidyanathan, the company's chief product officer, said AI only works with what it knows, and cannot say what customers or employees actually think, so opinions must be available where teams make their decisions. The company says the connector is available starting today, and users can manage the entire survey process, from creation to analysis, without leaving the chat interface.",
+  "Simply put: instead of asking people in one app and then moving their answers to AI to analyze them, AI itself now asks and analyzes in the same place — so decisions are built on real opinion, not guesswork.",
+  "Do you trust AI to analyze your customers' opinions?"
+ ]
+}

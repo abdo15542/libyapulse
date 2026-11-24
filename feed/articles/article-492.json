@@ -1,0 +1,24 @@
+{
+ "id": 492,
+ "slug": "article-492",
+ "title": "❄️ Frostbite — a Processor Designed Entirely by AI, 4.6x More Energy-Efficient!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r136-w136-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "❄️ Frostbite — a Processor Designed Entirely by AI, 4.6x More Energy-Efficient!",
+  "Architect Labs unveiled a new processor called Frostbite, which it says AI systems designed from scratch: the instruction set, the microarchitecture, the circuits, verification, and the final design for manufacturing, without a human engineer placing the design by hand.",
+  "The processor relies on an old mathematical model known as interaction nets, which appeared in 1990, dividing the program into small nodes that communicate with one another, so the processor works as a network of small units instead of one large core, and each unit can help its neighbor when it finishes its work, or enter sleep mode to save energy.",
+  "The company claims the design achieves 4.59 times the performance per watt compared with a modern traditional core, and 8.77 times the performance per unit area, across 25 benchmark tasks, including 15 tasks that were withheld until the final evaluation. The design was also manufactured in 7-nanometer technology and reached a frequency of 800 MHz in simulation and 500 MHz in the final design.",
+  "But all the numbers come from pre-manufacturing simulation, not from a real chip; there is no Frostbite processor manufactured yet, and it has not yet been tested on well-known industry benchmarks such as SPEC and PARSEC.",
+  "The company plans to publish the design and the instruction set publicly, build a prototype, and test larger versions of the processor against multi-core processors.",
+  "Simply put: this time AI did not write a program, but designed the processor itself with an idea completely different from usual processors; the numbers are impressive on paper, but the real judgment will come when a real chip is manufactured and tested.",
+  "Do you believe an AI can design a processor better than humans' designs?"
+ ]
+}

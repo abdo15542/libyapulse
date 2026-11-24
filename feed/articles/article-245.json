@@ -1,0 +1,20 @@
+{
+ "id": 245,
+ "slug": "article-245",
+ "title": "🔐 Britain admits a secret order forcing Apple to open a backdoor!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r105-w105-15.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Privacy"
+ ],
+ "body": [
+  "🔐 Britain admits a secret order forcing Apple to open a backdoor!",
+  "The British government has officially admitted that it issued a secret order to Apple, known as a 'Technical Capability Notice', requiring the company to make technical changes for the benefit of law enforcement and intelligence agencies, after the existence of this order remained secret all along. The admission came after court proceedings before the Investigatory Powers Tribunal, in which the court rejected the government's argument that revealing the order's existence harms national security. The content of the order itself remains classified, so exactly what Apple was asked to do is still unknown. The British Investigatory Powers Act of 2016 gives the government the power to issue such notices to telecom companies, obliging them to provide specific technical assistance. Apple is challenging the application of these powers to it in court, while the admission raises serious concerns about the safety of end-to-end encryption in Apple's services, as the company could be forced into technical changes that bypass the privacy protection it promises its users.",
+  "Simply put: end-to-end encryption means your messages are read by no one but you, not even the company itself; and the secret order may force Apple to add a backdoor that opens these messages to the authorities — which is what worries users and researchers.",
+  "Do you still trust privacy promises after an admission like this?"
+ ]
+}

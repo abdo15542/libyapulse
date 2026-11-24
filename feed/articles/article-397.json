@@ -1,0 +1,22 @@
+{
+ "id": 397,
+ "slug": "article-397",
+ "title": "☁️ 'Dropbox' Acquires 'Tigris' for $350 Million — and Launches a Cloud for AI Agents!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r125-w125-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Storage"
+ ],
+ "body": [
+  "☁️ 'Dropbox' Acquires 'Tigris' for $350 Million — and Launches a Cloud for AI Agents!",
+  "\"Dropbox\" announced on November 5 its acquisition of the cloud-storage startup \"Tigris Data\" for $350 million, its largest deal since it was founded in 2007. \"Tigris\" was founded in 2021 by former \"Uber\" engineers, raised about $31.9 million in funding, and lets companies store their data and access it across multiple cloud providers instead of relying on one, automatically placing data near the users and computers that need it.",
+  "On the same day, \"Dropbox\" launched a new service called \"DBX Agent Cloud\", a storage platform designed for AI workloads, starting with S3-compatible object storage from \"Amazon\" that can be used with current tools, with capabilities to be added later for file management and keeping agents' tasks continuous across sessions. The deal is expected to close in the last quarter of 2026, without job cuts — just one month after the company laid off 9% of its employees.",
+  "The changes didn't stop at infrastructure: the company added AI features to its core product, so users can ask AI to perform tasks with their files in natural language, switch between different models, and connect their content to external tools like \"ChatGPT\", \"Claude\", and \"Muse\". The new experience has reached more than 70,000 teams. \"Dropbox\" serves more than 700 million registered users in about 180 countries.",
+  "Simply put: the company you knew as a box for storing your files wants to become the \"floor\" developers build AI apps on — and it's buying a storage startup for more than ten times what it raised in funding.",
+  "Do you trust storing your files with a company expanding into AI this fast?"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": 932,
+ "slug": "article-932",
+ "title": "📱 A phone with no Android and no iPhone! The 'Librem 5 Fir 2' with physical switches that cut the camera and microphone!",
+ "date": "2026-11-23",
+ "category": "phones",
+ "category_name": "Phones & Devices",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r243-w243-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Smartphones"
+ ],
+ "body": [
+  "📱 A phone with no Android and no iPhone! The 'Librem 5 Fir 2' with physical switches that cut the camera and microphone!",
+  "On November 17, Purism announced a crowdfunding campaign for its new phone, the 'Librem 5 Fir 2' — a smartphone running an open-standards RISC-V processor and the Linux-based PureOS system, a complete alternative to both Android and iPhone.",
+  "The phone runs on the eight-core 'SpacemiT K1' processor, with 8 GB of memory and 128 GB of storage, a 5.7-inch screen, a 13-megapixel rear camera and an 8-megapixel front camera, a removable 4,500 mAh battery, dual SIM, a headphone jack, a USB-C port, and a memory card slot.",
+  "The phone's highlight is its three physical kill switches on its side: one cuts cellular connectivity, another cuts Wi-Fi and Bluetooth, and a third cuts the camera and microphone. These switches physically cut power to these components, so no software can switch them back on while they are off.",
+  "The open design means the phone's owner can inspect the code, modify it, and repair the device himself: it comes with a removable battery and replaceable cards, and reuses the same body as the first generation, so there is no need to replace the whole phone when one part breaks.",
+  "But the road is not easy: the company itself admits there is still major work to do on graphics, drivers, power management, and app compatibility, that the phone will reach backers 14 to 15 months after the campaign ends, and that the campaign does not guarantee the rewards will arrive and offers no refunds.",
+  "The phone is offered at $1,599 for the version without a service plan, with a monthly payment option, while popular apps are sold inside isolated environments that limit their access to user data.",
+  "Simply put: a phone that cuts its camera and microphone with a real metal switch, not a setting in a menu... would you pay $1,599 for this privacy?",
+  "Would you buy a phone without your usual apps in exchange for full privacy, or are apps more important than privacy?"
+ ]
+}

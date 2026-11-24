@@ -1,0 +1,20 @@
+{
+ "id": 94,
+ "slug": "article-094",
+ "title": "Siemens Launches an AI Agent That Programs Factories.. and Targets Small Businesses! 🏭",
+ "date": "2026-11-19",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r07-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "Siemens Launches an AI Agent That Programs Factories.. and Targets Small Businesses! 🏭",
+  "Siemens launched yesterday in India its engineering agent \"Eign\", an AI designed for automation engineering. The agent uses multi-step reasoning and self-correction to carry out tasks on its own, inside real engineering systems, such as programming programmable logic controllers, designing operator interfaces, and configuring devices — while observing standards of accuracy, safety, and reliability. The agent was successfully tested with more than 16 clients in India, including a printing and packaging machinery company.",
+  "A controller is the small computer that controls a factory's machines; an operator interface is the screen the operator uses. The new agent writes the programming for these systems instead of merely suggesting it. Siemens is targeting especially small and medium-sized manufacturing companies with lean engineering teams. An important note: the company's figures — two to five times faster, up to 80% higher solution quality, and 50% greater efficiency — are Siemens' own figures and have not yet been verified by an independent party.",
+  "Will AI reach the factories in your country soon? ⚙️"
+ ]
+}

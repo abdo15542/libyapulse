@@ -1,0 +1,22 @@
+{
+ "id": 780,
+ "slug": "article-780",
+ "title": "☁️ Amazon Gives AI Agents 'Smaller Keys'... Permissions That Fit the Task Only!",
+ "date": "2026-11-22",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r203-w203-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CloudComputing"
+ ],
+ "body": [
+  "☁️ Amazon Gives AI Agents 'Smaller Keys'... Permissions That Fit the Task Only!",
+  "Amazon Web Services has launched a new API called 'GetScopedCredentials' within its temporary security token service, allowing the permissions of temporary credentials carried by an AI agent or a program to be narrowed, so it holds only exactly what its task needs.",
+  "The idea is simple: when you hand an agent your full session credentials, the agent can use all of their permissions, and a single mistake by it could go beyond its task. The new tool takes the current credentials and reissues a narrower copy of them, keeping the same caller identity, without needing to assume a new role.",
+  "The narrowing works by intersection: a short policy is passed that sets the maximum allowed, and the result is what the original session's permissions and this policy have in common, so the permissions can never grow — only shrink. The validity period can also be shortened, or the tool can be called again with the narrowed credentials to narrow them further, up to three consecutive layers.",
+  "Among the examples the company mentioned: an agent that reads the files of only one tenant inside a shared storage bucket, or an agent barred from deleting sensitive resources, with every call recorded in the audit log, and the narrowing policy capped at 2,048 characters at launch.",
+  "Simply put: instead of giving the agent the key to the whole building, you give it the key to one room, for a short time; so would you trust an AI agent carrying broad permissions?"
+ ]
+}

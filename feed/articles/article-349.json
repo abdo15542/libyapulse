@@ -1,0 +1,23 @@
+{
+ "id": 349,
+ "slug": "article-349",
+ "title": "🎨 A New App Makes Mac Icons Show Your AI Usage Right on the Dock!",
+ "date": "2026-11-21",
+ "category": "apps",
+ "category_name": "Apps & Platforms",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r120-w120-10.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Apps"
+ ],
+ "body": [
+  "🎨 A New App Makes Mac Icons Show Your AI Usage Right on the Dock!",
+  "Danish designer Michael Flarup has launched a new tool for Mac called \"Icon Super\", which lets you replace any app's icon with a \"live\" icon that displays real data directly. Its standout use is replacing the icons of AI apps like \"ChatGPT\", \"Claude\", and \"Cursor\" with versions that show your current usage of the service and when your limits reset — so you can see it all with one glance at the Dock, without opening any account.",
+  "The feature isn't limited to AI apps: you can create live icons for built-in Mac apps like \"Messages\", \"Mail\", \"Safari\", \"Finder\", and \"Music\", as well as \"Chrome\" and \"Spotify\". Some of these setups are more for fun than for utility, like making Safari's compass follow page loads and downloads, or making Finder's face eyes follow the mouse cursor wherever it moves. The customizations also appear in the tab bar while switching between apps, not just in the Dock.",
+  "The tool's brilliance lies in its technical approach: macOS doesn't officially support changing icon themes and protects system icons, so Flarup invented a method that draws directly onto the icons without replacing them, using custom \"Metal\" shaders that work in real time. He said the real breakthrough was sending a bitmap image to the Dock so the app itself draws it, letting the icon follow every system movement — from zooming to switching between apps — so it can react to what's happening, like light moving across a golden icon as the cursor passes, or moving an app's icon while it's \"thinking\".",
+  "The tool includes a large library of ready-made replacement icons for every app, or you can upload your own icons. The app sells for $19 as a one-time launch offer, rising later to $29.",
+  "Simply put: your app icon is no longer a static picture, but a small live screen telling you how much AI you've used — a personal touch that makes your computer feel more like yours.",
+  "Do you care about customizing how your computer's icons look?"
+ ]
+}

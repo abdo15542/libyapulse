@@ -1,0 +1,23 @@
+{
+ "id": 789,
+ "slug": "article-789",
+ "title": "🔒 Bitcoin Core Reveals a Flaw Found by AI... One Message Freezes a Node for More Than 12 Seconds!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r205-w205-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔒 Bitcoin Core Reveals a Flaw Found by AI... One Message Freezes a Node for More Than 12 Seconds!",
+  "On November 20, the developers of Bitcoin Core, the software most nodes on the Bitcoin network run on, disclosed a medium-severity security flaw, coded CVE-2026-117348, that could have allowed an attacker to temporarily stop a node from processing messages with just one message.",
+  "The problem lies in how the node handles 'orphan' transactions — transactions that reached it before their parent transactions arrived — storing them temporarily and asking the network for the missing transactions. The software did not ignore duplicates within a single announcement list, which can carry up to 50,000 items, so it repeated the same calculations again and again.",
+  "That way, an attacker could send an orphan transaction with thousands of missing parent transactions, then announce its number 50,000 times in a single message, freezing the node for more than 12 seconds during which it processes no other message, including new blocks, even though the flaw does not allow stealing any coins and causes no permanent damage.",
+  "The flaw affected versions 29.0 through 29.5, 30.0 through 30.4, and 31.0 through 31.2, while the fix was released in versions 30.5, 31.3, and 32.1, and no fix will reach the 29.x series because its support has ended.",
+  "Notably, the flaw was discovered by automated AI scanning, within the 'Loop' project run by developer Elias Rohrer in the 'Spiral' unit, and reported on July 8, then verified by developer Gregory Sanders and passed to the security team, with the fix merged on August 6.",
+  "Simply put: AI itself found the flaw before anyone exploited it; so will AI become a guardian of software instead of a threat to it?"
+ ]
+}

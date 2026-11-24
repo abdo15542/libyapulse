@@ -1,0 +1,23 @@
+{
+ "id": 450,
+ "slug": "article-450",
+ "title": "🧪 OpenAI Launches 'MedChem Bench' — a New Test Measuring AI's Ability to Discover Drugs!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r131-w131-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🧪 OpenAI Launches 'MedChem Bench' — a New Test Measuring AI's Ability to Discover Drugs!",
+  "OpenAI launched a new benchmark called MedChem Bench that measures AI models' ability to reason about medicinal chemistry — the science that designs molecules that may become drugs. The benchmark tests models' ability to link a molecule's structure to experimental evidence, to explain results, compare compounds, and predict their properties.",
+  "The benchmark contains 99 problems taken from 117 published research papers and patents, covering 761 different molecular structures. It evaluates four abilities: accurately reconstructing molecular structure, evidence-supported scientific reasoning, ranking compounds and choosing the best of them, and predicting numerical values of their properties such as potency and absorption speed.",
+  "The GPT-6.2 Astra model achieved the highest overall score with 84.5% of the available points, followed by GPT-6 Astra with 83.3%, then GPT-6.1 Sol with 82.0%, while GPT-5.6 Sol scored 58.2%. The best model was strong at reconstructing molecular structures, scoring 95.4% of the points in that part, but it scored only about half the points in choosing compounds and predicting their numerical properties — the tasks closest to real lab decisions.",
+  "The company itself warns that these results do not prove the models can discover new drugs or improve lab decisions, because the benchmark reconstructs decisions from previously published research, and it cannot be ruled out that the models saw those sources during training. Also, each answer was a single attempt without tools or new experiments.",
+  "Simply put: models master drawing the molecule precisely, but still stumble on the most important question: which compound deserves to become a drug?",
+  "Do you think AI will one day shorten the years of drug discovery, or will lab experience remain the final judge?"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": 1132,
+ "slug": "article-1132",
+ "title": "☁️ A Flaw in 'Azure' Stole Companies' Keys! 'Microsoft' Warns: Change Your Passwords Now!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r289-w289-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "☁️ A Flaw in 'Azure' Stole Companies' Keys! 'Microsoft' Warns: Change Your Passwords Now!",
+  "Microsoft has warned its customers about a security flaw in its Azure API Management service that attackers exploited to steal credentials stored by companies, in an incident Norwegian authorities linked to attacks on energy companies.",
+  "The company discovered the flaw on 18 November and published a fix the following day, but the investigation showed that the attackers had already managed to reach administrative functions in older versions of the service, when they had not been configured according to the recommended security best practices.",
+  "Among what may have leaked: secrets stored in 'named values', customer passwords linked to identity providers and OpenID Connect providers, subscription keys, and tokens for direct calls to management APIs — keys that could open the door to other applications and systems for the attacker, depending on their permissions.",
+  "The company explained that the fix closed the unauthorized access route and rotated the keys it controls, but it does not automatically invalidate credentials that may have been stolen before the fix, so it asked affected customers to rotate them immediately and check logs for any suspicious activity.",
+  "The flaw affects only the older classic tiers of the service, while the second generation, v2, was not affected, and the Norwegian National Security Authority also warned that copies running on older operating system versions than required remain at risk.",
+  "Reports indicated that the Norwegian energy sector was the first to discover the flaw, and that Equinor and Skagerak Energi were among the targets, with both companies confirming that the attack did not affect their operations.",
+  "Simply put: a single flaw in a cloud service opened the keys of entire companies — and the fix alone is not enough; every key must be rotated — has your company rotated its keys?",
+  "Do you trust that a single cloud service could hold all of your company's keys?"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "id": 792,
+ "slug": "article-792",
+ "title": "🏛️ Austrian Foreign Ministry Website Hacked: Diplomats' Data Abroad Exposed for Reading!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r206-w206-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🏛️ Austrian Foreign Ministry Website Hacked: Diplomats' Data Abroad Exposed for Reading!",
+  "On November 20, the Austrian Foreign Ministry confirmed that its website had been hacked, and that the attackers had viewed records containing the names and professional contact details of ministry staff, including those working in diplomatic missions abroad.",
+  "The unauthorized access took place between November 12 and 13, on a website run by an external company on the ministry's behalf, and was discovered on November 13 and stopped immediately. The ministry did not reveal how many records the attackers viewed, whether they copied them, or how they got in.",
+  "The ministry reported the incident to the federal cybersecurity office and the data protection authority, and launched additional technical security checks, confirming that citizens' personal data was not affected. The breach also coincided with a global outage of Microsoft services, though no link between the two events has been established, and the ministry did not name any responsible party.",
+  "This is not the first time the ministry has been targeted; it suffered a serious attack lasting weeks between late 2019 and early 2020, which Vienna blamed on Russia last July, as well as email phishing attacks in April 2022.",
+  "Simply put: even a government website holding no classified secrets can expose its staff's data; so are names and email addresses enough to launch a convincing phishing attack against a diplomat?"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "id": 762,
+ "slug": "article-762",
+ "title": "🔓 DeepSeek Was Secretly Swapped for 53 Hours... and Its Protection Vanished Completely!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r198-w198-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔓 DeepSeek Was Secretly Swapped for 53 Hours... and Its Protection Vanished Completely!",
+  "On November 19, hosting company Prime Intellect revealed that an attacker had managed to replace the DeepSeek V4.1 Flash AI model with a modified copy, which kept answering customer requests for 53 hours and 11 minutes, from dawn on November 8 until the morning of November 10, without anyone noticing anything.",
+  "The replacement copy was made from the model's own open weights after modifying them to reduce refusals, so it kept working behind the same address and with the same service settings. The cleverest trick was that its capabilities did not change: it kept the same results on the GPQA Diamond test for science questions and the Tau-bench test for tool use, so no ordinary capability test detected it.",
+  "But safety tests exposed the swap: refusals of harmful requests on the HarmBench test fell from 198 refusals out of 240 requests to zero, on JailbreakBench from 98 out of 100 to just one refusal, and on StrongReject from 304 out of 313 to two refusals. In other words, the model started answering almost everything, including things it used to refuse.",
+  "The company said it found no evidence that customer requests were recorded or left the servers, that customer keys and credentials were not affected, and that the other models on its platform were safe, but it notified everyone affected and advised them to review the answers they received during those hours, because an answer that should have been refused may have leaked into applications that rely on refusal.",
+  "Simply put: when a model looks the same and answers with the same quality, only a safety test can expose it; do you think companies should monitor refusal behavior, not just capability scores, or has trust in the hosting provider itself become the problem?"
+ ]
+}

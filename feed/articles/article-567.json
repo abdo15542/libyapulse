@@ -1,0 +1,24 @@
+{
+ "id": 567,
+ "slug": "article-567",
+ "title": "💻 \"Gemini\" controls your computer itself — it writes, clicks and fills in forms for you!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r148-w148-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "💻 \"Gemini\" controls your computer itself — it writes, clicks and fills in forms for you!",
+  "Google announced on November 19 the new \"computer use\" feature in the \"Gemini\" app for \"Mac\" computers, turning the smart assistant from merely answering questions into a hand working on your computer: it opens apps, clicks menus, writes, fills in forms, and moves information between your local files and websites, while you continue your work.",
+  "The feature works in an isolated background window, showing a live preview inside the conversation, so your screen and cursor stay completely free. You choose the apps Gemini is allowed to use, watch every step moment by moment, and can stop it with a single press; it asks your permission before important actions, and stops automatically at logins and payments.",
+  "Among the examples Google gave: colouring batches of images at once in design programs, extracting weights and addresses from PDF files and filling shipping forms with them, pulling numbers and screenshots from live dashboards and building a presentation from them, and analysing photos of clothes from a local folder, searching for their prices and preparing ads to sell them.",
+  "But the feature is not for everyone yet: it is arriving gradually in English in the United States only, for personal accounts of people over 18, on the paid \"Google AI Plus\", \"Pro\" and \"Ultra\" plans, and requires a \"Mac\" computer with an \"Apple Silicon\" processor and \"Sequoia 15\" or later, and does not include work and school accounts, the free plan, or \"Windows\" devices.",
+  "Google itself warns of the risks: the agent may reach open sessions in your apps, see verification codes appearing on the screen, carry out actions that cannot be undone, and fall victim to \"prompt injection\" when malicious instructions hide in a document or website and it executes them without you asking.",
+  "Simply put: imagine an assistant sitting at your computer doing the boring tasks instead of you, but seeing everything on your screen and possibly making a mistake in an order that cannot be undone. The comfort is great, and caution is a must.",
+  "Do you allow an AI assistant to control your computer and complete your tasks, or do you prefer to keep your hand on the mouse always?"
+ ]
+}

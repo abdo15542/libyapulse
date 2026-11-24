@@ -1,0 +1,21 @@
+{
+ "id": 839,
+ "slug": "article-839",
+ "title": "🇺🇸 US Report: Chinese AI Models Inside American Companies.. and a Call to Ban Them from Federal Systems!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r215-w215-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🇺🇸 US Report: Chinese AI Models Inside American Companies.. and a Call to Ban Them from Federal Systems!",
+  "Two committees in the US House of Representatives issued a joint investigative report on 20 November titled 'Beijing's AI Playbook', warning of the spread of open-weight Chinese AI models inside the American economy, and calling for them to be removed from federal systems and critical infrastructure. The report came after a seven-month investigation, during which lawmakers examined documents from three major American companies and their written responses, in addition to classified briefings.",
+  "The report found that Chinese models are already widely used in American companies, but much of this use is hard to track: Airbnb uses Qwen models from Alibaba in customer support, Anysphere — the company behind the Cursor coding tool — built its main model on the basis of the Kimi K2.5 model from the Chinese company Moonshot, while DoorDash reported relying on multiple Chinese model families. Chinese models also accounted for about 41% of downloads in the largest open-weight model library over the past year.",
+  "The most alarming part of the report concerns how these models advanced: it concluded that Chinese developers used networks of agents and fake accounts to collect the outputs of leading American models and imitate their capabilities, a finding confirmed by joint warnings from US security agencies last September. The report therefore made 12 recommendations, most notably launching a national American initiative for open-weight models, banning Chinese models in federal systems, federal contracting work, and high-risk jobs in infrastructure, and preventing federal cybersecurity grants from being used to buy them.",
+  "Simply put: cheap and powerful models have entered everywhere, but their price may be the security of your data; do you trust a model when you do not know who trained it or what it was trained on?"
+ ]
+}

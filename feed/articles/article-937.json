@@ -1,0 +1,24 @@
+{
+ "id": 937,
+ "slug": "article-937",
+ "title": "💻 'Copilot' officially enters 'Xcode'! GitHub's assistant is now inside Apple's own editor... with no extensions!",
+ "date": "2026-11-23",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r244-w244-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "💻 'Copilot' officially enters 'Xcode'! GitHub's assistant is now inside Apple's own editor... with no extensions!",
+  "On November 4, GitHub announced that its coding assistant Copilot now works directly inside the built-in coding assistant in Xcode, Apple's official development environment, in a public preview starting with the Xcode 27.3 beta — a step that makes the most famous coding assistant a native part of Apple's own editor.",
+  "Apple developers had until now been forced to install a separate extension to use Copilot inside Xcode. Now it is enough to enable it from the Xcode menu, then Settings, then Intelligence, and sign in with a GitHub account that carries a Copilot plan, with no extra installation — and the feature supports all Copilot plans without exception.",
+  "The preview requires a Mac running macOS Tahoe 26.6 or later, with the Xcode 27.3 beta downloaded, whose first version was released on November 3, and it also includes the Swift 6.4 language, with the stable release expected next December alongside Apple's other new systems.",
+  "The old extension remains an option: GitHub confirmed that the separate 'Copilot for Xcode' extension is still available, so developers can choose the method that suits them — but the integrated path is cleaner, as the assistant works in the same panel where Apple's assistants and other agents work, without an extra window or repeated sign-in.",
+  "The two companies have not yet published a detailed comparison between the integrated version and the old extension, so no one can say for sure whether the new version offers all the extension's benefits, such as completing lines, next-edit suggestions, and code review — and since the preview is inside a beta version, some problems are to be expected, so it is advised to try it on a second device, not on the main work machine.",
+  "Simply put: the world's most famous coding assistant now lives inside Apple's own editor, after years of working through a side extension... will that change how iPhone apps are programmed?",
+  "Do you use an AI assistant while writing code, or do you prefer to write it yourself line by line?"
+ ]
+}

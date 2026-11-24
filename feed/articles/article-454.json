@@ -1,0 +1,23 @@
+{
+ "id": 454,
+ "slug": "article-454",
+ "title": "🔑 A Windows 11 Bug Reports a Failed Sign-In — Despite It Succeeding! And the Android Phone Is the Victim!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r131-w131-10.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Windows"
+ ],
+ "body": [
+  "🔑 A Windows 11 Bug Reports a Failed Sign-In — Despite It Succeeding! And the Android Phone Is the Victim!",
+  "Microsoft fixed an annoying bug in Windows 11 that made Android phones report a failed sign-in, even when the sign-in actually succeeded on the computer. The bug occurs when signing in on a Windows 11 computer using a passkey saved on an Android phone, by scanning a QR code and approving on the phone.",
+  "After completing authentication successfully on the computer, the phone may display the message 'Something went wrong. Restart the process on your other device and try again', even though the sign-in actually happened. Microsoft's guidance says this message should not appear at all in this case, and it can be safely ignored if the sign-in on the computer completed.",
+  "The bug affects cross-device authentication using Microsoft Authenticator and Google Password Manager, and can appear in the Edge and Chrome browsers, and is not limited to sign-in via Microsoft Entra ID. Cross-device sign-ins using an iPhone are not affected by the problem.",
+  "Microsoft included the fix in the optional non-security update 'KB5132057', released on November 19 for Windows 11 versions '25H2' and '26H2'. Because the update is optional, it will not install automatically, but must be installed manually from update settings. This bug is not a security vulnerability, and does not let anyone access accounts they do not own, but a false failure message may shake users' confidence and push them to unnecessary support requests.",
+  "Simply put: your sign-in succeeded, but your phone tells you it failed; ignore the message if you actually signed in, or install the optional update so the bug stops permanently.",
+  "Has a device ever told you a process failed while it actually succeeded? And what did you do then?"
+ ]
+}

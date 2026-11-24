@@ -1,0 +1,20 @@
+{
+ "id": 85,
+ "slug": "article-085",
+ "title": "Breach Hits Data of Around 15 Million Accounts at a Japanese Brokerage! 📉",
+ "date": "2026-11-19",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r06-c08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "Breach Hits Data of Around 15 Million Accounts at a Japanese Brokerage! 📉",
+  "Rakuten Securities, one of Japan's largest online brokerages, has disclosed a major breach of customer account data that could affect around 15 million accounts. The company discovered the unauthorized access on Monday, November 16, and apologized to its customers on Tuesday; its investigation confirmed on Wednesday, November 11, that information in a test environment had \"possibly leaked to an outside party\".",
+  "A \"test environment\" is a copy of the system used to try out changes — and it should never hold real customer data. But here it did, and attackers got into it. For around four and a half million accounts, the stolen data included name, date of birth, address, phone number, email address, employer, withdrawal account, annual income, and asset information. Passwords and PINs were not stolen, and there is no evidence of unauthorized access to customer accounts. The company warned of follow-up phishing attempts, and said more than 90% of its customers sign in with phishing-resistant passkeys.",
+  "Do you know the difference between a test environment and a live environment? 🤔"
+ ]
+}

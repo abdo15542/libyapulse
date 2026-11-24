@@ -1,0 +1,24 @@
+{
+ "id": 642,
+ "slug": "article-642",
+ "title": "👁️ Pixtral Large 2502 arrives on OpenRouter — a model that sees images and documents!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r165-w165-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "👁️ Pixtral Large 2502 arrives on OpenRouter — a model that sees images and documents!",
+  "Mistral's large vision model, Pixtral Large 2502, arrived on the OpenRouter platform on November 20, becoming available to developers through a single interface at $2 per million input tokens and $6 per million output tokens.",
+  "The model itself is not entirely new: it is the February 2025 version of Mistral's large multimodal model, successor to the November 2024 version, and what is new is its availability now via OpenRouter through a single provider, Amazon Bedrock.",
+  "The model accepts text and images together as inputs, reading documents, charts and natural images, then replying in written text, and its context window is 128,000 tokens — enough to read long documents in one go.",
+  "But it has clear limits: it does not support tool or function calling, and does not enforce JSON formatting on its outputs — it is a powerful visual reader, not an agent that carries out multi-step tasks.",
+  "Its speed via the current provider reaches about 69 tokens per second, with a response time of about one second, and its uptime over the past three days was 99.99%, according to the platform's data.",
+  "Simply put: a large French model that sees images and documents and explains them to you is now closer to the developer's hand — just change the model name in your request and it works.",
+  "Is a model that reads images and documents enough for you, or do you need one that carries out tasks too?"
+ ]
+}

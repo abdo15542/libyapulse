@@ -1,0 +1,21 @@
+{
+ "id": 702,
+ "slug": "article-702",
+ "title": "🛑 Nvidia stops shipping Hopper chips to China — and $2.4 billion leaves its books!",
+ "date": "2026-11-22",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r185-w185-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Nvidia"
+ ],
+ "body": [
+  "🛑 Nvidia stops shipping Hopper chips to China — and $2.4 billion leaves its books!",
+  "Nvidia has announced that it has stopped shipping Hopper data-centre chips, including the H200, to China — even those that had received US sales licences earlier this year. The announcement came from interim CEO Colette Kress during a call with analysts, confirming that the company's future forecasts no longer include any of these sales.",
+  "Licensed Hopper shipments to China had brought in $2.4 billion in the third fiscal quarter ending in late October — about 2% of the company's total revenue. The company gave no further explanation for the decision, but its timing is linked to the turmoil of recent weeks: Beijing restricted imports of the H200 chip while pushing its companies towards local hardware, and about 600,000 H200 chips are said to be held in Hong Kong awaiting approval to ship to the mainland.",
+  "Several Chinese internet companies had already obtained about 10,000 chips each, before import restrictions tightened. Nvidia's board has also formed a new committee to oversee national security policies and compliance with export controls, while the newer Blackwell and Rubin architectures remain completely banned in China.",
+  "Simply put: a sales channel reopened months ago is closing again, and billions are leaving the company's forecasts. Has Nvidia chosen permanent caution with China, or is this a temporary step until the storm calms?"
+ ]
+}

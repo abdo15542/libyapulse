@@ -1,0 +1,20 @@
+{
+ "id": 95,
+ "slug": "article-095",
+ "title": "Google Launches Its New Gemini 4 Neon Model.. the Smartest at Coding! ✨",
+ "date": "2026-11-19",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r07-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Google"
+ ],
+ "body": [
+  "Google Launches Its New Gemini 4 Neon Model.. the Smartest at Coding! ✨",
+  "Google DeepMind launched yesterday its \"Gemini 4 Neon\" model, the fourth model in the Gemini 4 family, sitting between the Carbon model (the most powerful) and the Hydrogen model (the fastest and cheapest), and aimed at coding agents, knowledge work, and scientific research. Its context window is one million tokens, meaning it can hold an entire project at once, and it has four thinking levels — a \"thinking level\" is how deeply the model thinks before answering.",
+  "The model scored 61 points on an independent AI index at its highest thinking level — third in the world — and first on the coding agents index with a score of 58.6. Its API price is $3 per million input tokens and $15 per million output tokens. It is available to AI Pro and AI Ultra subscribers in the Gemini app, and through the paid API; free users do not get it. An important note: most of the test figures come from Google itself and have not been independently reproduced; the two index results mentioned, however, come from an independent external body.",
+  "Have you tried Gemini models before? 🤖"
+ ]
+}

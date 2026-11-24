@@ -1,0 +1,21 @@
+{
+ "id": 829,
+ "slug": "article-829",
+ "title": "🔐 Stolen GitHub Accounts Turned into a Hacking Army: 1,281 Sites Hit!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r214-w214-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔐 Stolen GitHub Accounts Turned into a Hacking Army: 1,281 Sites Hit!",
+  "New security research published on 18 November has uncovered a large hacking campaign called 'React2Steal', which uses stolen GitHub accounts themselves to break into other people's servers. Researchers found 45 repositories in 44 compromised accounts, running automated workflows that scan the internet for unpatched Next.js servers, then exploit two flaws known for months: the 'React2Shell' flaw, which executes code remotely without logging in, and a Next.js proxy bypass flaw.",
+  "Once a breach succeeds, the attacker collects every server secret: environment variables, config files, cloud keys and AI provider keys, then publishes them in public GitHub repositories anyone can download. The victims numbered 1,281 domain names across about 1,100 sites, and in a sample of just 11 repositories there were about 9,100 compressed files and 3,800 data files, totalling 7.4 gigabytes of stolen data, with new results added every 11 minutes.",
+  "Worse still, deleting a repository does not remove the danger, as copies spread through clones, forks and archives — the only remedy is to revoke every secret and reissue it. The accounts used had also been used in earlier campaigns, meaning stolen accounts are recycled again and again. The fixes have been available for months, but many servers still have not been updated.",
+  "Simply put: the attacker steals your keys and publishes them openly for everyone — have you updated your servers today?"
+ ]
+}

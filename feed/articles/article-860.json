@@ -1,0 +1,20 @@
+{
+ "id": 860,
+ "slug": "article-860",
+ "title": "🍎 Siri Gets a Daily Quota: Advanced AI Requests Are Counted — and More Costs a Subscription!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r220-w220-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🍎 Siri Gets a Daily Quota: Advanced AI Requests Are Counted — and More Costs a Subscription!",
+  "Apple published a new support document on 16 November confirming that the new Siri AI features will be subject to a daily limit, and testing of the limit has already begun in the second beta of iOS 27.3. The limit covers complex requests that rely on the company's models on its servers: asking Siri to understand your personal data, carry out several steps in a single command, analyse a photo, create content or run an in-depth search. The limit also covers image tools such as Image Playground and Clean Up, and some AI features in Shortcuts.",
+  "Everyday simple requests — such as setting a timer or sending a message — remain unlimited even after the quota runs out, and the quota resets each day for each device separately. Apple did not reveal the number of free requests, describing them only as 'generous', but anyone who wants more must subscribe to iCloud+: the 200 GB plan doubles the quota, the 2 TB plan raises it to 5 times, 6 TB to 10 times and 12 TB to 20 times, while the 50 GB plan gives no increase at all. Notably, the paid increase is not available at all in the European Union, the UK, Brazil or South Korea.",
+  "Simply put: the smart assistant has become like an internet plan — ordinary use without limits, advanced use on a daily quota — so would you pay a monthly subscription for more AI requests?"
+ ]
+}

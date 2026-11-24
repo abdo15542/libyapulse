@@ -1,0 +1,21 @@
+{
+ "id": 744,
+ "slug": "article-744",
+ "title": "🧠 Nvidia Researchers: Giant Context Windows Are a Dead End... Summaries Are Enough!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r195-w195-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Nvidia"
+ ],
+ "body": [
+  "🧠 Nvidia Researchers: Giant Context Windows Are a Dead End... Summaries Are Enough!",
+  "A research team at Nvidia has published a scientific paper titled 'You Don't Need Long Context,' arguing that the race to inflate AI models' memory may be solving the wrong problem: a model does not need to hold everything in its memory at once to do its job well.",
+  "The paper explains that the 'context window' is the model's working memory - everything it puts in front of itself while generating a reply - and it has grown at an astonishing pace: in 2023, GPT-4 launched with a window of 8,192 tokens, while today's GPT-5.6 Sol reaches around a million tokens, about 120 times as much, enough to hold the entire novel 'War and Peace'.",
+  "In the team's tests across 13 benchmarks for long tasks and long inputs, two cheaper methods achieved results similar to full context in most cases: summarizing the conversation periodically and then continuing from the summary, and searching by keywords for precise details when needed, while keeping the original files saved. The team also found that running a 256,000-token window can cost 3.6 to 7 times as much as running a 16,000-token window per generated token, and it proposes a new class of models that work from short notes instead of giant memory.",
+  "Simply put: bigger memory is not always better. Would you prefer a model that remembers everything, even if it is slow and expensive, or a model that summarizes, searches, and gets the same job done quickly?"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "id": 125,
+ "slug": "article-125",
+ "title": "⚖️ California Tightens AI Safety Rules!",
+ "date": "2026-11-19",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r10-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "⚖️ California Tightens AI Safety Rules!",
+  "The state of California announced new recommendations for mandatory safety standards for powerful AI models.",
+  "The recommendations include independent testing throughout the development stages, the power to shut down any dangerous system immediately in emergencies, and a limit on AI developing itself by itself.",
+  "Simply put, the state wants clear rules that everyone follows, instead of leaving each company to set its own rules.",
+  "Do you support imposing safety rules on AI companies? And why?"
+ ]
+}

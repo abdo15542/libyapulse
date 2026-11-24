@@ -1,0 +1,20 @@
+{
+ "id": 173,
+ "slug": "article-173",
+ "title": "🛡️ OpenAI Teams Up with Outside Researchers to Hunt Flaws… with Bigger Rewards!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r102-w102-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ OpenAI Teams Up with Outside Researchers to Hunt Flaws… with Bigger Rewards!",
+  "OpenAI announced a new collaboration with the group “Cathedral” to involve outside security researchers in hunting for flaws in its systems, raising rewards for critical reports to more than four times their previous level, without disclosing the new amounts yet. The announcement came after a trial in which a quarter of the company’s product engineers took part, using the “Codex” tool to search for security issues. The company also pledged $1 billion in subsidized access to its tools for frontline cybersecurity defenders over six months.",
+  "Simply put: a bug bounty program pays whoever finds a weakness before attackers exploit it; the new collaboration means more eyes hunting for flaws, and bigger rewards for whoever finds the most dangerous ones.",
+  "Do big rewards encourage you to hunt for security flaws?"
+ ]
+}

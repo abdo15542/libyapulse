@@ -1,0 +1,21 @@
+{
+ "id": 288,
+ "slug": "article-288",
+ "title": "🚁 Robots and drones rescue the injured in DARPA's medical triage challenge!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r110-w110-09.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Robotics"
+ ],
+ "body": [
+  "🚁 Robots and drones rescue the injured in DARPA's medical triage challenge!",
+  "The Defense Advanced Research Projects Agency (DARPA) has concluded the finals of the medical triage challenge, a three-year competition to develop autonomous systems led by robots and drones that help save the injured in mass-casualty incidents before paramedics arrive.",
+  "The finals were held between November 5 and 13 in 'Disaster City', a disaster-training town in Texas, with more than 100 competitors from the military, universities, tech companies, and startups, competing for prizes worth more than $3 million. Teams competed in five scenarios, including a simulated tornado in a community market, smoke-filled buildings, a nighttime search in near-total darkness, a search under rubble, and a simulated attack on a military base. The systems must locate the injured, assess their injuries, and read their vital signs remotely, then send the data to human paramedics. The systems grand prize went to the 'RoboScout' team from the University of Maryland, worth $1.5 million, using drones and dog-shaped robots with color and thermal cameras, radar, and microphones, plus an AI engine that detects injuries, bleeding, breathing difficulty, and amputations, and measures heart rate, alertness, and oxygen levels. The 'Disruptors' team also won the data grand prize, worth $1 million.",
+  "Simply put: imagine a disaster strikes and paramedics cannot enter the area, so they send robots and drones instead to see the injured, measure their pulse, and tell the doctor who needs help first; that is how the challenge's systems work.",
+  "Do you support rescue teams relying on robots in disasters, or is the human element irreplaceable?"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "id": 726,
+ "slug": "article-726",
+ "title": "🤖 41 Scripts in 3 Minutes: AI Steals Passwords From an African Stock Exchange!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r189-w189-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🤖 41 Scripts in 3 Minutes: AI Steals Passwords From an African Stock Exchange!",
+  "A security report from Sematic on November 19 revealed that attackers ran 41 PowerShell software units on a server at a major African stock exchange, in just three minutes and twelve seconds, on the morning of September 20. The units entered through a 'backdoor' on a web server and searched for passwords, cloud keys, and database connection details.",
+  "The units did not stop at searching: four of them tried to access the exchange's investment interface and securities deposit portal, with a guessed password, a reused login token, and API keys, and they also checked one specific investor number. Each unit sent its results encrypted, in the form of internet queries split into 50-character segments, to a public testing service, so the researchers could not see what reached the receiving side, or know whether any password actually worked. They found no evidence of data theft or privilege escalation.",
+  "What struck the researchers was that all 41 units are identical in structure, error handling, and sending code, even the sending loop itself is copied literally in every unit, which suggests an AI model wrote them or helped write them, though they could not identify the model or prove it. They also found on the same server six installer tools attributed with high confidence to the China-linked Witchy group, but the tool itself was not attributed to any party, and the earliest trace of malicious activity dates back to April 2026.",
+  "Simply put: AI no longer just writes articles, it writes complete hacking tools that work in minutes; so do you think your defenses are ready for an attack that tries all your keys while you sleep?"
+ ]
+}

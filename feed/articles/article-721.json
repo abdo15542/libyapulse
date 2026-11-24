@@ -1,0 +1,21 @@
+{
+ "id": 721,
+ "slug": "article-721",
+ "title": "🔒 Rackspace Spot Breach: Hackers Read Kubernetes Secrets in Customers' Cloud!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r188-w188-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔒 Rackspace Spot Breach: Hackers Read Kubernetes Secrets in Customers' Cloud!",
+  "Rackspace has revealed that hackers breached its Spot cloud platform on November 17, using leaked credentials, and were able to act as if they were legitimate users inside some customer organizations: they created software containers inside Kubernetes clusters and read the 'secrets' stored in them, the passwords, authentication tokens, and API keys that connect applications to databases and cloud services.",
+  "The breach lasted about 22 hours, from around midnight until 10 p.m. GMT, and the company learned about it the next day after a report from a customer. The company revoked the affected tokens and sessions, deleted the unauthorized containers, replaced the keys, and tightened access controls and monitoring. The incident also caused a long outage of the platform's control panel, temporarily preventing customers from managing their clusters and rotating the exposed credentials, before the company announced full service restoration on November 21.",
+  "The company asked affected customers to issue new tokens, replace every password or key stored in their clusters' 'secrets', and check database, repository, and cloud storage logs since November 17 for any suspicious use. The company has not yet revealed how many customers were affected or whether data was actually stolen, and it is still unclear how the credentials leaked in the first place.",
+  "Simply put: the encryption was not broken; the hackers walked in with a leaked key and read all the other keys; so if you use any cloud service, when was the last time you rotated your stored passwords?"
+ ]
+}

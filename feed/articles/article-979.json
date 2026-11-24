@@ -1,0 +1,26 @@
+{
+ "id": 979,
+ "slug": "article-979",
+ "title": "🤖 'Autopilot' from Microsoft! An AI agent that works for you all day... and asks your permission before sending!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r252-w252-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🤖 'Autopilot' from Microsoft! An AI agent that works for you all day... and asks your permission before sending!",
+  "On November 17, during the 'Ignite 2026' conference, Microsoft began rolling out 'Autopilot', a persistent agent inside the 'Copilot' assistant, which works on its own without you asking it every time.",
+  "The idea is simple: you describe the outcome you want, the sources it relies on and the boundaries it must not cross, and it keeps working alone: it monitors 'Teams' channels, follows emails, manages repeated tasks, and can even run an entire project such as reviewing suppliers without waiting for a new order.",
+  "Each agent has its own identity: an independent identifier, memory, a cloud workspace, and its own email and calendar, and it can carry out scheduled work even while the computer is off, and it communicates with you through a private conversation in 'Teams' to update you on developments, ask you questions, or request your approval.",
+  "The approval rule is the most important part: before the agent sends, shares, deletes or changes anything, it compares the action with your request; what matches your request is carried out, and what goes beyond it waits for your approval. In other words, how you phrase your request determines how much it does alone.",
+  "There is another safeguard: instructions found in emails, files or web pages do not authorize the agent to take any action; a supplier's email, for example, cannot order your agent to send a price list.",
+  "The service is not free within the license: it is billed by usage in 'Copilot Credits' units, and if the usage budget runs out the agent stops working. Availability at first is limited to selected customers in the United States, and in English, and the service is off by default.",
+  "Alongside this, Microsoft expanded the 'Agent 365' dashboard for managing agents, after more than 50 million agents were registered there since its launch in May, and it will add a new actions hub in December to review inactive or ownerless agents.",
+  "Simply put: an agent that works for you while you sleep, but sends nothing without your permission... do you trust an agent that manages your email and meetings?",
+  "Would you let an AI agent manage your email and daily tasks?"
+ ]
+}

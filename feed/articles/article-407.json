@@ -1,0 +1,22 @@
+{
+ "id": 407,
+ "slug": "article-407",
+ "title": "🖥️ 'Vise' Raises $8.75 Million — Shared Workstations for Humans and AI Agents!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r126-w126-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🖥️ 'Vise' Raises $8.75 Million — Shared Workstations for Humans and AI Agents!",
+  "Startup \"Vise\" has raised $8.75 million in a seed round led by \"Andreessen Horowitz\", with other investors participating, to solve a problem anyone working with AI agents knows: computer-using agents take over an employee's screen while automating tasks, stopping the human from working. The new company was founded by the \"Parsec\" team — the company \"Unity\" acquired for $320 million in 2021 — and is led by its founder Benji Boxer.",
+  "The platform turns powerful workstations — which can cost more than $10,000 — into flexible shared resources used by humans and agents together. Instead of every employee getting a powerful machine that sits idle during meetings and breaks, the machines pool together and are allocated when needed, to whichever employees or agents need them, via low-latency streaming technology that makes remote work feel like working on the machine itself.",
+  "Agents can control the workstations remotely through a dedicated server using the Model Context Protocol, logging in and running applications exactly as an employee would, but with the user's own permissions and no more. In a demonstration, a tech-support bot handled an employee's request via \"Slack\" by logging into their computer and diagnosing the problem, then smoothly handed the session to a human engineer when the fix needed finer intervention.",
+  "Simply put: the powerful computer on your desk is no longer owned by one person, but a shared resource where human and agent work together — without one stealing the other's screen.",
+  "Would you let an AI agent use your computer while you're away?"
+ ]
+}

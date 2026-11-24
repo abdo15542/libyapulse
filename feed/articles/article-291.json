@@ -1,0 +1,21 @@
+{
+ "id": 291,
+ "slug": "article-291",
+ "title": "⚡ Nvidia and Microsoft bring the strongest AI systems to 'Azure'!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r111-w111-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "⚡ Nvidia and Microsoft bring the strongest AI systems to 'Azure'!",
+  "Nvidia and Microsoft announced at the 'Ignite' conference the expansion of their AI partnership, and Nvidia's newest 'Vera Rubin NVL72' systems now run in 'Azure' cloud data centers, with access opened through virtual machines in preview.",
+  "These systems are designed for the hardest tasks: complex reasoning, agentic applications that carry out multi-step tasks, and training and using huge models at scale. The two companies are also cooperating on protecting models and data during processing even at the hardware level, and on reducing energy consumption in data centers. In the latest benchmark tests, Azure expanded its work to 10,240 graphics processing units of the previous generation on the 'DeepSeek V3' model, the widest scale in that round of tests. The open 'Nemotron 3.5' models also expanded on the 'Microsoft Foundry' platform, and one of the largest consulting firms used them to adapt models to its data, improving accuracy by 55% and cutting cost 15 times compared to closed models. The two companies also showed running language models locally on Windows computers with 'RTX Spark' processors, and a graphics-streaming feature for 'Windows 365' cloud computers with two streams at 4K resolution at 60 frames per second, in limited preview, with the streaming to be generalized at the start of 2027.",
+  "Simply put: imagine the most powerful AI computer in the world becoming available to rent from the cloud, and your personal computer becoming able to run a full AI model without the internet; that is how the two companies bring powerful AI closer to everyone.",
+  "Do you prefer running AI on your computer directly, or through the cloud?"
+ ]
+}

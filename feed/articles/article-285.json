@@ -1,0 +1,21 @@
+{
+ "id": 285,
+ "slug": "article-285",
+ "title": "💼 Palo Alto buys Applied Compute for $4.5 billion to secure AI!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r110-w110-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "💼 Palo Alto buys Applied Compute for $4.5 billion to secure AI!",
+  "Cybersecurity company Palo Alto Networks announced its acquisition of Applied Compute, a startup, in an all-stock deal worth $4.5 billion, in a move aimed at securing open AI models inside companies.",
+  "The deal was announced on November 18. Applied Compute is a leading platform for training open models after launch and running them, founded by former OpenAI researchers. Under the deal, the company's entire team will join Palo Alto, and its founder and CEO will become vice president of AI at the acquiring company. The deal is expected to close in the third quarter of fiscal year 2027 after regulatory approvals. The move aims to let companies train, adapt, and deploy open AI models with built-in security, whether in the public cloud or in private sovereign environments, instead of relying only on closed models. The acquiring company's CEO said every company will run a mix of open and closed models, and that each one of them needs securing.",
+  "Simply put: imagine buying one giant safe to protect all your house keys at once, instead of locking each door separately; that is how the company wants to secure every AI model companies use.",
+  "Should AI models stay open to everyone, or is closing them safer?"
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "id": 1100,
+ "slug": "article-1100",
+ "title": "🤖 \"GPT-6.2 Astra\" Proves a 20-Year-Old Math Theorem in 94 Minutes!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r284-w284-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🤖 \"GPT-6.2 Astra\" Proves a 20-Year-Old Math Theorem in 94 Minutes!",
+  "Model-evaluation company Valse AI announced that the \"GPT-6.2 Astra\" model produced the first formally verified, machine-checked proof of the \"Smoktunowicz\" gap theorem, a mathematical theorem published in 2006 which says that the growth of some mathematical systems is either very slow or very fast, with no middle ground.",
+  "A formal proof means every step is written in the Lean language, which the computer checks step by step, leaving no room for a hidden error. The model wrote a proof of about 1,800 lines in 94 minutes at a cost of $21.58, with no human help during the run.",
+  "What stands out is that the model did not copy the published proof, because its three foundations do not even exist in the Mathlib mathematical library. After nearly giving up at minute 47 and offering an incomplete proof, the system rejected it — so it fell silent for nine minutes, then tried a completely new route around the concept of \"capacity\" — that is, how much the mathematical space grows with each multiplication step.",
+  "With this proof, \"Astra\" topped the difficult \"AutoForm-Hard\" benchmark with 49 of 56 tasks solved, ahead of \"GPT-6.2 Sol\" and \"Claude Fable 5.2\", each with 48 tasks.",
+  "But the company itself warns: the proof was re-checked with the Lean kernel and its correctness confirmed, but that does not prove the same method will work with other theorems.",
+  "Simply put: an AI solved a difficult math problem in its own way after nearly giving up... so are machines getting closer to real mathematical thinking?",
+  "If AI proves a theorem humans had never been able to prove by machine before, do we trust its proof without human review?"
+ ]
+}

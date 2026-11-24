@@ -1,0 +1,20 @@
+{
+ "id": 208,
+ "slug": "article-208",
+ "title": "✨ Google’s Genie 4 Reaches Developers… Worlds Born from Prompts!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r103-w103-19.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "✨ Google’s Genie 4 Reaches Developers… Worlds Born from Prompts!",
+  "Google launched “Genie 4,” its model for generating interactive worlds: on November 18 it reached “Project Genie” for “Google AI Ultra” subscribers, with mid-session prompts and native audio, along with improvements in Genie 3 including clips up to 3 minutes, panoramic filming, world linking, a community gallery, and an invisible watermark. On November 19 it became available to developers through the Gemini API and Google AI Studio, at 720p and 24 frames per second, priced at about $0.10 per second, with sessions capped at 120 seconds, and it is used in prototyping, spatial design, robot training, and AI.",
+  "Simply put: you write a description of a world, and the model builds it in front of you in 3D and you walk around in it; and developers can now build their apps on it.",
+  "Would you try building a virtual world from a written description?"
+ ]
+}

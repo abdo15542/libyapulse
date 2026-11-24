@@ -1,0 +1,24 @@
+{
+ "id": 1020,
+ "slug": "article-1020",
+ "title": "☁️ The two GPT-6.2 models arrive on Amazon Bedrock.. enterprise AI without private servers!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r262-w262-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "OpenAI"
+ ],
+ "body": [
+  "☁️ The two GPT-6.2 models arrive on Amazon Bedrock.. enterprise AI without private servers!",
+  "Amazon announced on November 17 that the GPT-6.2 Astra and GPT-6.2 Soul models are now officially available on the Amazon Bedrock cloud platform, so developers and companies can use them through an API without managing any servers.",
+  "The Astra model targets the hardest tasks that need deep thinking and precise judgment, such as complex business problems, advanced research, programming and agent workflows, and includes an ultra-fast mode for instant responses, while the Soul model was designed for repetitive tasks, where speed and cost per task matter more than maximum capability.",
+  "Both models can be accessed through the Bedrock console or via APIs in supported regions, within Amazon's own cloud environment, which means companies can integrate them into their current applications without moving their data to another platform.",
+  "As for prices through OpenAI's own API, Astra costs $8 per million input tokens and $40 per million output tokens, with $0.40 for cached inputs, while Soul stays much cheaper: one dollar for input and $10 for output per million tokens.",
+  "This expansion comes after both models became available in ChatGPT and the developer API on the same day, bringing OpenAI's most powerful models to enterprise cloud customers, at a time when major cloud computing platforms are competing to host the latest models.",
+  "Simply put: the most powerful AI models are now a ready cloud service.. so do you prefer using them through the cloud or directly through the app?",
+  "Have you tried the GPT-6.2 model yet?"
+ ]
+}

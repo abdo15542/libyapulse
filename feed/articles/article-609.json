@@ -1,0 +1,24 @@
+{
+ "id": 609,
+ "slug": "article-609",
+ "title": "🛒 AI agents buy from the Amazon cloud store — and the bill goes on your account!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r157-w157-10.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🛒 AI agents buy from the Amazon cloud store — and the bill goes on your account!",
+  "Amazon Web Services announced that AI agents can now charge their purchases from its online store to users' cloud accounts.",
+  "An \"agent\" here is an AI assistant that doesn't just answer questions, but carries out tasks on your behalf: it searches, compares and buys, within limits you set.",
+  "The \"AWS Marketplace\" is an online market for software and cloud services, where companies buy ready-made tools instead of building them themselves.",
+  "What's new is that the agent working for you can now complete the purchase and charge its cost directly to your cloud account, without you paying with a separate card each time.",
+  "This opens the door to assistants that complete your shopping and setup tasks entirely, but it also raises an important question: who watches the agent's spending, and what are the limits of what it is allowed to buy?",
+  "Simply put: imagine sending your assistant to the market with your wallet, asking him to buy what you need. Convenient — but you want to know exactly what he bought and for how much.",
+  "Do you trust an AI agent to buy on your behalf, or do you prefer to be the one pressing the buy button?"
+ ]
+}

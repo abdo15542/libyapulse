@@ -1,0 +1,24 @@
+{
+ "id": 1141,
+ "slug": "article-1141",
+ "title": "📝 Open-Source Notes App Vanishes from European Stores After 9 Years! FS Notes and Apple Silent!",
+ "date": "2026-11-24",
+ "category": "apps",
+ "category_name": "Apps & Platforms",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r290-w290-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Apps"
+ ],
+ "body": [
+  "📝 Open-Source Notes App Vanishes from European Stores After 9 Years! FS Notes and Apple Silent!",
+  "The developer of the open-source notes app FS Notes announced that Apple has removed his app from all European App Stores, after nine years of work on it, with no clear explanation and no reply to the support requests he sent.",
+  "The story began when the payment due for October sales never arrived — a delay that had happened before and was resolved by contacting support. But this time he opened two support cases, on 5 November and 17 November, and received no reply to either of them until his public letter on 23 November.",
+  "The developer explained that he had completed all the compliance information required under the European Digital Services Act, and sent official documents from the government business registry in Ukraine proving he is a registered sole proprietor who pays taxes — but the silence continued, and the app began losing its visibility and ranking in the European stores.",
+  "FS Notes runs on Mac and iPhone, and saves notes in plain text files instead of a closed database. Its code is open and available for free, but sales from the store funded its ongoing development, and its developer says that without this income it will be very hard for the project to continue.",
+  "So far Apple has given no public reason for the removal, and no one knows whether the cause is the payment issue, a compliance review, or something else. The app is still available through its source code and free versions, while the developer is asking for his documents to be reviewed and the app restored to the stores.",
+  "Simply put: nine years of work disappearing from the stores without a single word... Do the big platforms hold the lives of independent developers in their hands?",
+  "Do you trust an app store that can remove your app without explanation?"
+ ]
+}

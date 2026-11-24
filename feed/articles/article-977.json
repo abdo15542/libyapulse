@@ -1,0 +1,25 @@
+{
+ "id": 977,
+ "slug": "article-977",
+ "title": "🎬 'GPT-6.2 Astra' writes code instead of video! A new face-off with 'Seedance 2.5'!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r251-w251-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🎬 'GPT-6.2 Astra' writes code instead of video! A new face-off with 'Seedance 2.5'!",
+  "In an independent test conducted by 'Artificial Analysis' on November 20, the 'GPT-6.2 Astra' model from 'OpenAI' was put face to face with the 'Seedance 2.5' model from 'ByteDance', in an unconventional comparison of AI video creation.",
+  "The test relied on exactly identical camera paths for both models, and three scenes designed to test different skills: the Sydney Opera House, a disassembled display of a mechanical watch, and a dragon attacking a medieval city.",
+  "'Astra' did not output video in the usual sense, but wrote code in the 'Three.js' language to build three-dimensional scenes, which can be viewed and explored interactively inside the browser at 1080p resolution and 24 frames per second.",
+  "'Seedance 2.5' took the traditional route: it generated original video directly from text prompts, guided by reference images showing the required camera paths. It specializes in cinematic production and can generate a clip of up to 30 seconds in a single attempt, and accepts up to 50 reference materials in a single request.",
+  "'Seedance 2.5' costs about $0.23 per second of video through its API, while it ranks third in 'Artificial Analysis' ranking of text-to-video models through mid-November, whereas 'Astra' was only launched on November 17, three days before the test.",
+  "The comparison concluded that the two models solve two different problems: 'Astra' works like an architect, because its output is code that defines the positions of objects precisely and can be modified after creation, while 'Seedance' works like a cinematographer, because directly generated video excels in texture, lighting and atmosphere, but is a finished clip that cannot be taken apart.",
+  "Simply put: one model writes video as code, and the other paints it pixel by pixel... which one helps content creators more?",
+  "Would you prefer a 3D scene you can modify, or a finished cinematic clip?"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "id": 437,
+ "slug": "article-437",
+ "title": "🛡️ 'WhatsApp' Fixes 3 Flaws — One Was Used by Scammers to Make Their Messages Look Real!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r130-w130-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ 'WhatsApp' Fixes 3 Flaws — One Was Used by Scammers to Make Their Messages Look Real!",
+  "\"WhatsApp\" has fixed three security flaws in its apps, one of which scammers are believed to have actually used to make fraud messages more credible. The flaw was discovered while WhatsApp's security team was investigating a real fraud campaign.",
+  "The first flaw, \"CVE-2026-23871\", affects the \"WhatsApp\" and \"WhatsApp Business\" apps on Android before version 2.26.17.4. The bug is in the verification of reply links for \"click-to-chat\" ads on WhatsApp: a specially crafted message could make the victim's phone reveal its IP address to the attacker when viewing media from a server controlled by the attacker.",
+  "The second flaw, \"CVE-2026-102769\", is a database injection in \"WhatsApp\" on Android before version 2.26.35.74, occurring when clicking a specially crafted \"order details\" message sent from an unofficial app, which could lead to deleting locally stored files. The company has observed no evidence it was actually exploited.",
+  "The third flaw, \"CVE-2026-44908\", concerns trust verification in the private computing infrastructure for \"Meta AI\", affecting iPhone, Android, and Mac apps, with no exploitation observed either. The company advises all users to update their apps and devices immediately.",
+  "Simply put: one flaw helped scammers hide their tracks and make their messages look legitimate, and the other two were fixed before anyone exploited them — and updating is the fastest protection.",
+  "Do you update \"WhatsApp\" as soon as updates arrive, or wait until someone reminds you?"
+ ]
+}

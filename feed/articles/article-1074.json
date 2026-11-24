@@ -1,0 +1,24 @@
+{
+ "id": 1074,
+ "slug": "article-1074",
+ "title": "🤖 Switzerland's Kubord Raises $6 Million to Make Building Robots as Easy as Building Software!",
+ "date": "2026-11-23",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r278-w278-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Robotics"
+ ],
+ "body": [
+  "🤖 Switzerland's Kubord Raises $6 Million to Make Building Robots as Easy as Building Software!",
+  "Swiss startup Kubord has raised $6 million in a seed funding round, to develop ready-made robot parts that make building specialized robots as easy and fast as programmers build software.",
+  "The round was led by Founderful and Prototyp, with participation from General Catalyst and several other funds, as well as investors including Thomas Wolf, founder of the Hugging Face platform. The company was founded in late 2024 by graduates of the Swiss Federal Institute in Lausanne, who started by building a bipedal robot in a garage in the Swiss Alps.",
+  "The problem the company addresses is that building a custom robot usually takes years, a specialized engineering team and a large investment, because parts from different suppliers do not work together and need custom electronics and software. Kubord offers ready-made compatible parts — for power, batteries, sensors and motion — with unified software linking them together.",
+  "The company says its approach could cut development time from two or three years to a few months, at a cost of between $5,000 and $25,000 per prototype, instead of hundreds of thousands. It will use the funding to launch its first parts commercially and build a prototyping facility in Lausanne with precision manufacturing equipment that cuts the manufacturing cycle from two weeks to 24 hours.",
+  "Commercial sales are planned to begin in early 2027, with the full range of parts certified and ready by the end of 2027, alongside large-scale production in Shenzhen and Texas, while headquarters and research and development remain in Switzerland.",
+  "Simply put: ready-made robot parts that snap together like Lego bricks... will building your own robot become easier than building a website?",
+  "If any small team could build a robot for its own tasks, what is the first robot you would wish someone invented?"
+ ]
+}

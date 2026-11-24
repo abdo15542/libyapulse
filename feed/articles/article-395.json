@@ -1,0 +1,22 @@
+{
+ "id": 395,
+ "slug": "article-395",
+ "title": "🛡️ 'OpenAI' Launches 'GPT-6 Cyber' — a Model That Finds Vulnerabilities Before Hackers Do!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r125-w125-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ 'OpenAI' Launches 'GPT-6 Cyber' — a Model That Finds Vulnerabilities Before Hackers Do!",
+  "\"OpenAI\" announced on November 5 a new model specialized in cybersecurity called \"GPT-6 Cyber\", classified as \"critical\" under the company's security preparedness framework — the highest rating — because it can discover zero-day vulnerabilities and develop working exploits for them without human intervention. The model scored 48.5% on the \"Exploit Game\" benchmark for exploit development, beating its predecessor's 32.1%.",
+  "During its tests, the model discovered 81 previously unknown high-severity vulnerabilities in the Firefox browser, most of which have already been fixed, scanned the Linux kernel and found 2,308 potential vulnerabilities, reproduced 1,724 of them, and developed root privilege-escalation exploits for 948 different vulnerabilities, at a computing cost of $1.2 million. Its adherence to authorized boundaries also improved: it exceeded them in less than 1% of test cases, versus about 5% for its predecessor.",
+  "The model is currently available only to members of the \"Daybreak Red\" program for certified security professionals, with access expanding in the coming weeks, and the company announced a $1 billion initiative to support cybersecurity professionals in critical infrastructure. But researchers warn of the other side: the same ability to find vulnerabilities quickly could also reach hackers, and the race now is about who fixes first.",
+  "Simply put: an AI model that reads millions of lines of code and finds vulnerabilities humans haven't found in years — a powerful weapon in defenders' hands, and dangerous if it reaches attackers.",
+  "Are you reassured when AI discovers vulnerabilities, or does it worry you that it could use them against you?"
+ ]
+}

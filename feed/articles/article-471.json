@@ -1,0 +1,25 @@
+{
+ "id": 471,
+ "slug": "article-471",
+ "title": "⏱️ Anthropic Shortens the Deadline for Fixing Critical Flaws from 90 Days to 30 — and AI Is the Reason!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r133-w133-10.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "⏱️ Anthropic Shortens the Deadline for Fixing Critical Flaws from 90 Days to 30 — and AI Is the Reason!",
+  "Anthropic's Frontier Red Team announced it will shorten the deadline given to companies to fix critical vulnerabilities discovered by the Claude models from 90 days to just 30 days, in a radical change to the rules of coordinated vulnerability disclosure.",
+  "Under the new policy, high- and critical-severity vulnerabilities get a 30-day deadline, while other vulnerabilities get 45 days, and the new deadlines apply to reports sent to companies starting January 1, 2027, while ongoing reports keep their old deadlines. The team will also escalate a report to an external coordinator after 15 days without a reply instead of 30 days, and will publish full technical details 30 days after a fix becomes available instead of 45 days.",
+  "Vulnerabilities actually being exploited in ongoing attacks keep their current deadline of 7 days unchanged, and the company will be flexible with vulnerabilities in hard-to-deploy software such as critical infrastructure, or those requiring a change in a technical specification, by agreeing on a special fix schedule.",
+  "The reason the company announced is frank: the 90-day deadline made sense when a vulnerability was assumed to stay secret for months, but today models discover vulnerabilities at tremendous speed, and what one model finds, another independent model may find too — so keeping it secret for long now protects attackers more than users.",
+  "The company also revealed that it holds reports of serious vulnerabilities that are more than 90 days old and not yet published, and that it gave their owners 30 additional days before publishing them on the public disclosure board starting in January. The company's board has so far disclosed 5,087 vulnerabilities in 680 open-source projects.",
+  "The change comes at a time when Google's Project Zero is moving in the same direction, cutting its deadline to 60 days in February 2027 and then to 30 days in January 2028 — but Anthropic is ahead of it and distinguishes vulnerabilities by severity, while Google believes severity does not affect the likelihood of attackers discovering the vulnerability.",
+  "Simply put: when models began discovering vulnerabilities in hours instead of months, it no longer made sense to give companies three months to fix them — and the pressure is now on those who ship the software, not those who discover the flaws.",
+  "Would you support shortening the vulnerability-fix deadline to 30 days, or will small companies be unable to keep up with this pace?"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "id": 764,
+ "slug": "article-764",
+ "title": "🛡️ Metasploit Adds Testing Tools for Zimbra Flaws... and Email Could Be Sent in Your Name!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r198-w198-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Metasploit Adds Testing Tools for Zimbra Flaws... and Email Could Be Sent in Your Name!",
+  "On November 20, the famous penetration-testing framework Metasploit added new modules for testing vulnerabilities in the Zimbra mail and collaboration platform, which companies and institutions use to host their email, calendar, and files on their own servers. The new modules make testing these flaws much easier for security teams, and for attackers too.",
+  "The first module targets a flaw registered as CVE-2026-73571: it allows an ordinary logged-in user to send email in the name of another mailbox in the same organization without any authorization, and the message appears in the victim's Sent folder as if it really came from them. The second module targets flaw CVE-2026-93637 in the GraphQL authentication endpoint, which allows repeated password-guessing attempts without triggering the lockout counter that normally protects the login path.",
+  "The modules came as part of wide research that uncovered more than 80 flaws in the platform, including problems in authentication, permissions, calendar, and documents. The new modules were tested on a live copy of Zimbra 10.1.16, and the same package also added modules for other flaws, including a file upload in BeyondTrust that leads to remote code execution, and two code-execution flaws in Cisco's Secure Email Gateway that had already been exploited in practice.",
+  "Simply put: when a flaw becomes a ready-made button in a famous testing tool, server administrators run out of time; do you think every organization running Zimbra should update its version immediately, or is public testing itself what forces everyone to update?"
+ ]
+}

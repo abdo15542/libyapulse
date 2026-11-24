@@ -1,0 +1,23 @@
+{
+ "id": 951,
+ "slug": "article-951",
+ "title": "🎮 An Open-Source Technology Challenges DLSS! Faster and Uses Less Memory... and Works on Every Card!",
+ "date": "2026-11-23",
+ "category": "tech-news",
+ "category_name": "Tech News",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r246-w246-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Gaming"
+ ],
+ "body": [
+  "🎮 An Open-Source Technology Challenges DLSS! Faster and Uses Less Memory... and Works on Every Card!",
+  "An unexpected new rival has appeared to Nvidia's famous DLSS technology for boosting game graphics — this time from a small company founded in 2024, with a fully open-source technology called Apex Neural Rendering that works on almost every graphics card, not just one company's cards.",
+  "The company says frame generation in its technology takes only 1.01 milliseconds, compared with 1.26 milliseconds for DLSS — about 20 to 25% faster — and it uses only 214 MB of graphics card memory when generating a frame, compared with 562 MB for the rival technology, about half as much. These are striking numbers if true, because they mean higher performance with less memory.",
+  "The secret of this openness is that the technology works through the card's general compute units, not through hardware specific to one company. It supports Nvidia cards from the GTX 16 and RTX 20 series onward, AMD cards from the RX 5000 series onward, Intel Arc cards, and even the Steam Deck handheld — a breadth no rival technology offers today.",
+  "The technology has appeared in demonstrations of Hogwarts Legacy and The Last of Us, and the specialist team at Digital Foundry analyzed a trial version of it, which gave it initial credibility. But it is important to note that the technology has not officially launched yet, and all these numbers are the company's own claims, not yet proven by comprehensive independent tests.",
+  "Simply put: a free, open-source technology that claims to be faster than DLSS, use less memory, and work on every card... but the final verdict awaits independent tests. Will it succeed in breaking the big companies' monopoly?",
+  "Would you prefer an open technology that works on every card, or one company's faster technology?"
+ ]
+}

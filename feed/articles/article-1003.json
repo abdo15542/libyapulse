@@ -1,0 +1,24 @@
+{
+ "id": 1003,
+ "slug": "article-1003",
+ "title": "☕ A smart coffee machine used a full terabyte in 10 days... what was it doing?!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r259-w259-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Privacy"
+ ],
+ "body": [
+  "☕ A smart coffee machine used a full terabyte in 10 days... what was it doing?!",
+  "The owner of a smart coffee machine says his machine consumed about a full terabyte of internet data in just ten days, mostly scanning the home network, so he disconnected it from the network immediately, tried to understand what it was doing with network analysis tools without reaching a conclusion, and decided to buy another model that puts less strain on his network.",
+  "Those who followed the story think the cause may be a bug in the tracking software inside the machine, because ordinary network scanning and device monitoring should not consume all this data — but the incident reopened the question of what smart home devices collect about their owners.",
+  "The story began about ten years ago with smart TVs, which take a fingerprint of the screen every second and send it to their servers to match it against a content database, turning into a moment-by-moment viewing record sold to advertisers — and a famous experiment confirmed that major devices send screen content whatever its source, whether a TV channel, an app or an external drive.",
+  "Since then, suspicion has spread to smart speakers, fridges, kettles, earphones and even air fryers, and smart kitchen platforms appeared, built for marketing and keeping the user connected — because devices that scan the home network can know what the other devices are doing, and that knowledge has a price for advertisers.",
+  "The good news is that data collection usually happens with the owner's consent, and can be stopped from the settings if you find the right menu — but it is sometimes hidden inside the terms of use with a pre-checked 'I agree to everything' option, and since 2021 some TV makers have earned more from selling viewer profiles than from selling the devices themselves.",
+  "Simply put: your coffee machine may know more about your home than you think... have you ever checked what your smart devices send to the internet?",
+  "Do you disconnect your smart devices from the network when you don't need them connected?"
+ ]
+}

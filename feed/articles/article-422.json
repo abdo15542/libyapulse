@@ -1,0 +1,23 @@
+{
+ "id": 422,
+ "slug": "article-422",
+ "title": "🖥️ 'Mistral' Launches 'Vibe' on Desktop — Coding Agents Working Locally and on the Cloud Together!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r128-w128-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🖥️ 'Mistral' Launches 'Vibe' on Desktop — Coding Agents Working Locally and on the Cloud Together!",
+  "French company \"Mistral\" has launched the \"Vibe Desktop\" app for Mac and Windows, on November 17, bringing work and coding agents together in one desktop app. The first version supports local and cloud work together, with Linux support coming soon.",
+  "The app combines \"Vibe Work\" and \"Vibe Code\" in a single interface: you can run coding tasks on a repository on your device, or in a managed cloud environment, organizing multiple conversations, inspecting files, commands, and pull requests beside the conversation. Local sessions run on the same agent engine used in the command-line tool, without needing to install the tool separately.",
+  "Among the standout features: local coding on your repository and your own development environment, with a built-in terminal and using \"git worktrees\" to isolate parallel changes; parallel tasks that coordinate sub-sessions and follow their messages; background commands that keep builds and development servers running while the agent works; in-app code review with \"git\" diffs and pull-request status; a built-in browser for documentation, issues, and dashboards; plus native system notifications.",
+  "The app runs by default on the \"Mistral Large 4\" model, nicknamed \"Le Chunk\", and free, \"Pro\" plans at $14.99 a month, and \"Team\" plans at $24.99 per user a month are available, with a European offer giving three months of \"Pro\" free. The company had renamed its assistant \"Le Chat\" to \"Vibe\" on May 28, 2026.",
+  "Simply put: \"Vibe\" is a smart coding assistant, and the new thing is you can now run it from an app on your computer directly — working on your local files or in \"Mistral\"'s cloud, without moving between the browser, the command line, and the development environment.",
+  "Do you prefer a coding agent working on your device, or in the cloud?"
+ ]
+}

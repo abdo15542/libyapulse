@@ -1,0 +1,23 @@
+{
+ "id": 1123,
+ "slug": "article-1123",
+ "title": "🤖 New \"Claude Ship\": AI That Reviews Code, Fixes It, and Approves It Itself!",
+ "date": "2026-11-24",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r288-w288-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Computing"
+ ],
+ "body": [
+  "🤖 New \"Claude Ship\": AI That Reviews Code, Fixes It, and Approves It Itself!",
+  "\"Anthropic\" launched a new tool called \"Claude Ship\", whose mission is to finish what AI coding tools started: after agents began writing code quickly, reviewing changes remained the obstacle, and this tool takes over review, fixing, and approval in full.",
+  "The tool consists of three agents: the first, \"Code Review\", available to everyone, examines pull requests and points out problems before merging; the second, the \"Fix agent\", in a trial phase, handles failed checks, merge conflicts, and review notes, leaving a comment explaining what it changed and how to revert it; and the third, the \"Approvals agent\", also in a trial phase, automatically approves routine changes that match rules the team sets in a file inside the project, and sends sensitive changes to a human.",
+  "To try it, just update \"Claude Code\" and then type the command \"/ship\" when the code is ready, and the agent pushes the changes, opens the pull request, reviews it, and handles whatever appears in it; it can also be enabled for an entire repository so it works automatically, noting that usage is billed by tokens consumed, meaning the cost grows with the size of the work.",
+  "The tool is available in a trial phase for \"GitHub\" repositories on the Team and Enterprise plans, but it is not available to organizations using the \"zero data retention\" setting, health settings, or their own encryption keys.",
+  "Simply put: AI no longer just writes the code.. it now reviews it, fixes it, and approves merging it.. so do you trust an AI to approve your team's code without a human eye?",
+  "Will you let an AI agent approve your routine code changes?"
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "id": 650,
+ "slug": "article-650",
+ "title": "🛡️ Five critical flaws in F5 devices let attackers breach networks without a password!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r168-w168-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Five critical flaws in F5 devices let attackers breach networks without a password!",
+  "F5 issued emergency fixes for five critical flaws in its BIG-IP devices, which let an attacker without an account crash the device or execute commands remotely.",
+  "All five flaws score 9.8 out of 10 on the severity scale, caused by a memory-management fault when processing network requests, which stops the traffic-processing engine — and the attacker may be able to execute malicious code.",
+  "The flaws affect the APM access-management feature and the iRules programming feature, which lets network administrators customise traffic processing. The company also fixed a sixth, less severe flaw in the single sign-on service.",
+  "The company confirmed there is no temporary workaround for these flaws, and the only solution is to install the emergency fixes immediately. No attacks exploiting them have been observed so far.",
+  "Observers estimate that more than 177,000 BIG-IP devices are exposed on the internet, making delayed patching a real risk — especially since the company fixed a similar critical flaw in September that was actively exploited in attacks.",
+  "Simply put: these devices stand at the gates of companies and important sites. If their door is left open, reaching the whole network becomes easier.",
+  "Do you know whether your company's network uses these devices — and whether you have updated them?"
+ ]
+}

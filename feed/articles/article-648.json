@@ -1,0 +1,26 @@
+{
+ "id": 648,
+ "slug": "article-648",
+ "title": "🕵️ \"Cold Relic\" spies hack one company to reach another by impersonating an employee!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r167-w167-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🕵️ \"Cold Relic\" spies hack one company to reach another by impersonating an employee!",
+  "Google's security teams revealed on November 17 how a Russian espionage group called \"Cold Relic\" turned a single cloud breach into a platform for a chain of hacks.",
+  "The group is also known as \"Star Blizzard\" and \"ColdRiver\", and the US Department of Justice assesses that it operates within Russia's Federal Security Service, targeting officials, defence companies and non-governmental organisations.",
+  "In late 2025, the group breached the cloud workspace of a US organisation using stolen login credentials of a general manager's account, flooding the victim with two-step verification requests until they approved one.",
+  "The group then downloaded the organisation's entire cloud drive, deleted security alerts to hide its traces, and maintained access for months using passkeys and backup codes it had registered for itself.",
+  "In 2026, the attackers impersonated an employee of the first organisation and contacted a second US organisation via a secure messaging app, on the pretext of sharing a document about a technical problem.",
+  "They sent phishing links that stole login credentials and authentication codes for the single sign-on system, then registered a new verification device and downloaded files from the second victim's cloud drive.",
+  "After the second breach succeeded, the attackers changed their profile name in the messaging app to an entirely new persona, to target other organisations in the same professional circle.",
+  "Simply put: a single breach may not end at its first victim — it can turn into a fake identity used to deceive the next victim.",
+  "Do you verify the identity of whoever messages you before opening their links, even if they look like a colleague you know?"
+ ]
+}

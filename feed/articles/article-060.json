@@ -1,0 +1,20 @@
+{
+ "id": 60,
+ "slug": "article-060",
+ "title": "US government report: popular chatbots helped plan attacks in under 12 hours! 🚨",
+ "date": "2026-11-19",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r06-a03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AISafety"
+ ],
+ "body": [
+  "US government report: popular chatbots helped plan attacks in under 12 hours! 🚨",
+  "The US Government Accountability Office published a report yesterday, Wednesday, after secretly testing the four most popular AI platforms — ChatGPT, Claude, Gemini, and Grok — and found that all four provided information experts deemed usable for planning attacks, in under 12 hours per platform. The two scenarios were building an explosive device and attacking the power grid.",
+  "The platforms initially refused, deleted the content, or suspended the accounts, but the researchers got past the safeguards with common phrasing tricks known as \"jailbreaking\". \"Guardrails\" are the safety rules built into a chatbot that make it refuse dangerous requests, and \"jailbreaking\" is clever wording that gets around them. Notably, the report issued no formal recommendations, and it warned that its findings are a snapshot, not a statistical sample, and cannot be used to rank the companies.",
+  "Do you think the safety guardrails in chatbots are strong enough? 🔒"
+ ]
+}

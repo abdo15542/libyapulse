@@ -1,0 +1,22 @@
+{
+ "id": 272,
+ "slug": "article-272",
+ "title": "🔐 Ransomware gang threatens Nvidia with leaking its data... and the company denies the breach!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r108-w108-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔐 Ransomware gang threatens Nvidia with leaking its data... and the company denies the breach!",
+  "Ransomware gang 'The Gentlemen' has listed Nvidia on its dark leak site, threatening to publish data it claims to have stolen from the company on November 28, without offering any evidence of the breach so far.",
+  "Nvidia replied that it is investigating a possible incident that may have affected one of its outside partners, confirming it found no sign its own systems or networks were affected. The gang emerged in mid-2025 and operates on a 'ransomware as a service' model: it steals data first, then encrypts systems and pressures victims with the threat of publication, and claims its victims exceed 1,100 entities.",
+  "Researchers believe this gang has previously exaggerated its claims and used old data or data attributed to the wrong parties, and that the current claim may turn out in the end to be misattributed data or a small breach of an outside partner. Nvidia had revealed last May a breach that affected one of its regional partners in cloud gaming.",
+  "Simply put: imagine a thief threatening to publish your house's secrets without proving he ever entered the house; the threat alone does not mean the breach actually happened.",
+  "Do you believe ransomware gangs' claims before they present evidence?"
+ ]
+}

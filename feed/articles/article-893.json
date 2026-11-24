@@ -1,0 +1,25 @@
+{
+ "id": 893,
+ "slug": "article-893",
+ "title": "✈️ Delta System Failure Grounds More Than a Thousand Flights... and Staff Calculate Plane Weights by Hand!",
+ "date": "2026-11-22",
+ "category": "tech-news",
+ "category_name": "Tech News",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r231-w231-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Aviation"
+ ],
+ "body": [
+  "✈️ Delta System Failure Grounds More Than a Thousand Flights... and Staff Calculate Plane Weights by Hand!",
+  "The system that calculates aircraft weights and balance at Delta Air Lines broke down on the morning of Sunday, 22 November, delaying more than a thousand flights across the United States — about a third of the company's main flight schedule — at the start of the busy travel season.",
+  "The Federal Aviation Administration issued a temporary ground stop for flights heading to Atlanta airport, the world's busiest airport, then changed it to a ground delay averaging 57 minutes, before lifting it later.",
+  "The company resorted to \"manual solutions\" to get planes off the ground safely, with staff now calculating and tallying passenger, fuel, and baggage weights by hand, while IT teams work to restore the automated system.",
+  "The failed system, called \"Alice\", relies on a database to plan the distribution of the load inside the aircraft before takeoff, a calculation that is mandatory to keep the plane within safety limits and a proper center of gravity.",
+  "The aviation authority confirmed that the failure has nothing to do with air traffic control systems, while the company said it is working with air traffic controllers to ease congestion at Atlanta airport.",
+  "The failure comes just one week after another failure in routing equipment that stopped all flights in the United States on 13 November, disrupting more than 18,000 flights and affecting about a million passengers.",
+  "Simply put: One system that calculates a plane's weight broke down, staff had to go back to pen and paper, and thousands of flights were delayed — do you still trust automated aviation systems after this series of failures?",
+  "Have you ever had your flight delayed by a technical failure?"
+ ]
+}

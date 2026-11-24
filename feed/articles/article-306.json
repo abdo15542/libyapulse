@@ -1,0 +1,22 @@
+{
+ "id": 306,
+ "slug": "article-306",
+ "title": "🎨 Microsoft launches an image model that beats rivals at a fifth of the cost!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r113-w113-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🎨 Microsoft launches an image model that beats rivals at a fifth of the cost!",
+  "Microsoft has launched its two new image generation and editing models, 'MAI Image 2.7' and its fast 'Flash' version, in public preview on the 'Foundry' platform, claiming they deliver quality competitive with the strongest models at a far lower cost.",
+  "The new model ranked first in Artificial Analysis's image-editing ranking, beating the 'GPT Image 2.6' model by a small margin in points, at a cost of about a fifth of its cost according to the company. The cost is about $35 per thousand images for the full model, and only about $10 per thousand images for the faster 'Flash' version. The model can change the color, material, or position of an element without disturbing the rest of the image, while keeping visual consistency across successive edits, and supports transparent backgrounds for product photos, logos, and icons without manual cutting.",
+  "The company also launched a new interactive workspace called 'Canvas' powered by the 'Flash' model, where you start with a text description or a rough sketch, then turn initial ideas into polished diagrams, and select any part of the image to replace, move, or restyle in one place. The 'MAI Image' model has become the default model powering the image creator in 'Bing', with usage growing about 15% weekly since last June, and it is used by platforms including Adobe, Figma, 'Sports Illustrated', and 'Manus'.",
+  "Simply put: imagine drawing an idea in a few words, and AI draws it for you, then lets you edit any part of it as you would edit a photo in an editor; the difference is the cost here is far lower than it was a year ago.",
+  "Do you try image-generation models in your work, or do you still prefer manual design?"
+ ]
+}

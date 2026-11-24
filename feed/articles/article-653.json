@@ -1,0 +1,24 @@
+{
+ "id": 653,
+ "slug": "article-653",
+ "title": "✨ Google's 3D emoji requires powerful specs — and Samsung phones are off the list!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r169-w169-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Android"
+ ],
+ "body": [
+  "✨ Google's 3D emoji requires powerful specs — and Samsung phones are off the list!",
+  "A support page Google published this week revealed the minimum requirements for the 3D Noto emoji to reach your phone: Android 17 or newer, a device from a supported company that still receives system updates or Google Play services, at least 6 GB of memory, and 128 GB of storage with 10 GB free.",
+  "The reason is that the new emoji uses a high-resolution bitmap font instead of the old vector graphics, so it looks deeper and more textured — but it needs more space: under 220 MB, compared with about 3 MB for the old font.",
+  "Google later clarified that the memory and storage conditions apply to automatic background downloads via Google Play services for eligible devices where the font was not pre-installed, and that memory use during actual use is small and transient.",
+  "The disappointing news for Samsung users is that Galaxy phones will never get the new emoji at all — even the strongest models — because Samsung uses its own emoji font and does not receive Google's 3D font update. The same applies to apps such as WhatsApp, which use their own emoji fonts.",
+  "The 3D emoji first appeared in May, arrived with the Pixel 11 in August, then expanded to older Pixel phones, and now to other eligible Android phones. It downloads automatically when the phone is connected to Wi-Fi while charging, with no button to install it manually.",
+  "Simply put: Google's new emoji is prettier but heavier. If your phone is powerful and modern, it will arrive on its own; if it is a Samsung, it will never arrive, whatever its specs.",
+  "Does the look of the emoji on your phone matter to you, or is it not worth all these conditions?"
+ ]
+}

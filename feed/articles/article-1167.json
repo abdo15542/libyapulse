@@ -1,0 +1,23 @@
+{
+ "id": 1167,
+ "slug": "article-1167",
+ "title": "⚡ \"Deep Cross Attention\" From Google: Training AI Models 3 Times Faster!",
+ "date": "2026-11-24",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r295-w295-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "⚡ \"Deep Cross Attention\" From Google: Training AI Models 3 Times Faster!",
+  "Google Research revealed this week a new trick called \"Deep Cross Attention\" that makes training AI models up to three times faster, while adding less than 0.2% of parameters to the model's size.",
+  "The idea is simple at its core: current models pass information between their layers through fixed connections that never change, while the new method replaces those connections with learnable smart routing that picks, from each earlier layer, whatever helps the next one. The result is that the model reaches the same quality with far fewer training steps.",
+  "In tests, the model reached the same quality with 30 layers instead of 42 — cutting depth by 29% — and needed up to five times fewer training steps. The method can also be bolted onto an already-trained model, improving its quality by 0.19, compared with just 0.02 for continuing ordinary training.",
+  "The method was presented at ICML 2025, and explained this week by Google scientists Kyriakos Axiotis and Thomas Fu — but all the figures come from Google's own experiments on two limited test sets, not from large independent models.",
+  "Simply put: instead of building a bigger, more expensive model, teach its layers to talk to each other smartly… and you reach the same result with less time and cost.",
+  "Do you think faster training will put powerful models within everyone's reach?"
+ ]
+}

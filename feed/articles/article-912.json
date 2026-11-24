@@ -1,0 +1,24 @@
+{
+ "id": 912,
+ "slug": "article-912",
+ "title": "💻 Copilot Reaches Your Computer's Files! It Organizes Your Downloads Folder and Diagnoses Faults!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r237-w237-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "💻 Copilot Reaches Your Computer's Files! It Organizes Your Downloads Folder and Diagnoses Faults!",
+  "Microsoft announced at its annual developer conference that its Copilot assistant in Windows 11 will soon be able to manage local files on your computer and diagnose common faults, as part of new capabilities called \"hybrid AI\".",
+  "The new feature, called \"local file actions\", lets you ask Copilot in plain words to organize your crowded Downloads folder, rename files according to their content, or move them to the right folder, instead of doing it manually file by file.",
+  "The assistant will also be able to access \"local context\" — the files you have open and the apps running on your device — to edit a document or a script with your permission, with the company promising that access to your files will only happen after your explicit approval each time.",
+  "As for the diagnostics feature, it lets Copilot run a read-only check inside the system to find the causes of common problems, such as Bluetooth audio stopping or a slow network, then explain what it found to you, without fixing the problem automatically for now.",
+  "The company said these capabilities will reach Copilot+ PCs soon, without giving an exact date, in a step that brings Copilot closer to other AI tools that work directly inside the computer.",
+  "Simply put: your smart assistant will soon be able to organize your files and diagnose your computer's faults — would you let it into your files?",
+  "Would you trust an AI assistant to organize your files by itself?"
+ ]
+}

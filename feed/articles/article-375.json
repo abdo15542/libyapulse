@@ -1,0 +1,22 @@
+{
+ "id": 375,
+ "slug": "article-375",
+ "title": "💻 'Cursor' Considers Dropping Chinese AI Models After a Congressional Report!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r123-w123-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "💻 'Cursor' Considers Dropping Chinese AI Models After a Congressional Report!",
+  "AI coding platform \"Cursor\", owned by \"SpaceX\", told two US House committees that it is considering phasing out open-weights AI models developed in China, due to \"geopolitical risks\", according to a report by the two committees issued on November 20 after a months-long investigation.",
+  "The position is striking because \"Cursor\" built its flagship coding model \"Composer 2\" on the \"Kimi K2.5\" model from the Chinese lab \"Moonshot\" — something an outside developer revealed before the company announced it. The investigation also covered \"Airbnb\" and \"DoorDash\" over their use of Chinese models, but \"Cursor\" alone told the committees of its intention to consider dropping them.",
+  "The report recommends a US national initiative to develop local open-weights models, banning Chinese models in federal government systems and contracts, and setting a standard for model origin. The Trump administration is also considering requiring American companies to publicly disclose their use of Chinese models. \"Cursor\" has not yet committed to a timeline for dropping them — the matter is still under study.",
+  "Simply put: the most famous coding tool built its brain on a Chinese model, and is now considering dropping it under political pressure — and Congress wants a cheap American alternative that's just as powerful.",
+  "Should politics separate software developers from the models they use?"
+ ]
+}

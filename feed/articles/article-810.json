@@ -1,0 +1,21 @@
+{
+ "id": 810,
+ "slug": "article-810",
+ "title": "🛡️ A Malicious npm Package Turned an AI Agent Into a Backdoor Controlled From Telegram!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r210-w210-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ A Malicious npm Package Turned an AI Agent Into a Backdoor Controlled From Telegram!",
+  "On November 19, security researchers revealed a malicious package in the npm repository disguised as the official client of a customer relationship management system called Leadstack, whose publisher released 9 versions of it on November 16 within just six hours. When the package was installed, its install script installed an open-source AI agent called Hermes, then pulled its keys and instructions from the attacker's server, linked it to a Telegram bot, and registered it as a system service called the 'leadstack-client-routing daemon'.",
+  "More dangerous still, the agent ran with full privileges if the installation was done with root privileges, so the attacker could then execute terminal commands, read and write files, browse the web, and schedule tasks, all from a Telegram conversation. The researchers spotted the package just 5 minutes after the last version was published, and the repository removed it, but the publisher himself is still active, and published 3 more packages on November 18 that pull their dependencies from the same attacker server.",
+  "The researchers stress that the Hermes agent itself is not malicious, but was misused as a remote-control layer, because smart agents have become powerful tools that can be directed to any purpose, good or bad.",
+  "Simply put: one small package you install once opens a full backdoor controlled from a chat app; so do you review what you install from package repositories before you trust it?"
+ ]
+}

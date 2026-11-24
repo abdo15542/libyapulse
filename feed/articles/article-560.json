@@ -1,0 +1,23 @@
+{
+ "id": 560,
+ "slug": "article-560",
+ "title": "🎭 A Fake 'I'm Not a Robot' Trick Plants a Full Spy in Your Computer!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r147-w147-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🎭 A Fake 'I'm Not a Robot' Trick Plants a Full Spy in Your Computer!",
+  "Blackpoint Cyber researchers revealed on November 20 that a malware distribution platform called Romulus now distributes a new remote-access trojan resembling CNC Machine RMS, via the famous ClickFix trick: a page shows you a fake 'I'm not a robot' checkbox and asks you to paste a command into the Run window, so you install the malware yourself without knowing.",
+  "The chain starts with a malicious installer named IconEdit2Turbo.msi, disguised as the Stardock Smart DeElevation tool, then exploits a technique of loading a malicious library through a legitimately signed program, so the library decodes a hidden cipher and runs the trojan. The trojan gives the attacker full remote control of the desktop, screen streaming, capturing audio and video from the microphone and camera, browsing files, reconnoitering the system, and running additional software on demand, and it communicates with its operators through an encrypted domain-name system resembling ordinary browsing.",
+  "Romulus works as a distribution service: it distributes the new trojan and the Legion Loader loader through separate infection chains, allowing operators to swap the payload while keeping the same infrastructure. The platform was first documented publicly in October 2026, and victims were also seen reaching the malicious sites via custom chatbots appearing in search results.",
+  "The findings coincide with another wave of ClickFix tricks: merging the trick with a cloaking technique in more than 70,000 hacked sites, and fake apartment-rating pages showing a fake verification check to install a remote-control tool. The golden rule: no legitimate site ever asks you to paste a command into the Run window or PowerShell.",
+  "Simply put: imagine a fake guard at a building's door asking you to open the door for him yourself from the inside, then handing the keys to thieves — that is how the ClickFix trick works: you install the spy with your own hand.",
+  "Has a website ever asked you to paste a command into your computer?"
+ ]
+}

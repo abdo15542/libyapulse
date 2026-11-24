@@ -1,0 +1,20 @@
+{
+ "id": 220,
+ "slug": "article-220",
+ "title": "🕵️ Two New Backdoors Hiding Inside GitHub and SharePoint!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r104-w104-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🕵️ Two New Backdoors Hiding Inside GitHub and SharePoint!",
+  "Kaspersky revealed a cyber-espionage campaign called “Operation Shadow Cloud” targeting government institutions in Asia and Africa, using two entirely new backdoors called “GitDoor” and “GraphDoor.” The first hides the attackers’ commands inside GitHub repositories, while the second hides the stolen data inside SharePoint libraries through the Microsoft Graph service, so the malicious traffic looks exactly like ordinary work traffic. The attack starts by exploiting a legitimate remote-control tool called MeshCentral, then the two backdoors download new plugins on demand, including keystroke logging, screen capture, and password theft. The attackers’ identity has not been determined yet, with a notable similarity to Chinese-speaking groups.",
+  "Simply put: the attacker hides inside services everyone knows and trusts, so their traffic passes without attracting the attention of protection systems — just as a painter hides among crowds.",
+  "Do you think blocking suspicious websites alone is enough for protection?"
+ ]
+}

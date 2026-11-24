@@ -1,0 +1,22 @@
+{
+ "id": 361,
+ "slug": "article-361",
+ "title": "🔬 MIT Teaches AI the Laws of Physics — So Its Predictions Never Leave Reality!",
+ "date": "2026-11-21",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r122-w122-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Science"
+ ],
+ "body": [
+  "🔬 MIT Teaches AI the Laws of Physics — So Its Predictions Never Leave Reality!",
+  "Researchers at the Massachusetts Institute of Technology have developed a new method that makes AI models predicting chaotic systems — like weather, climate, and air turbulence — obey the laws of physics, so their predictions don't drift over time into values that are impossible in reality. The results were published in the journal \"Proceedings of the National Academy of Sciences\".",
+  "The problem is that chaotic systems are extremely sensitive to initial conditions: a tiny difference at the start can lead to completely different results after a long time, so the model's small errors accumulate until it produces predictions that could never actually happen, like temperatures beyond any reasonable limit. The new method, by contrast, teaches the model an energy-like function, with a projection layer that adjusts its predictions to enforce energy dissipation as a strict constraint.",
+  "The team tested the method on well-known physical systems, from simple cases to complex multi-dimensional systems, and the results matched reality closely, while traditional methods quickly drifted into impossible predictions. The method is modular and works with different neural-network architectures, and the team has published the code openly for researchers.",
+  "Simply put: chaos doesn't mean anything is possible; the weather, for example, stays within limits — and now AI models know these limits and never exceed them, no matter how long the forecast.",
+  "Would you trust long-term weather forecasts if they were built on this method?"
+ ]
+}

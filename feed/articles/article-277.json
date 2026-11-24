@@ -1,0 +1,21 @@
+{
+ "id": 277,
+ "slug": "article-277",
+ "title": "🔐 British court forces the government to admit a secret order against Apple!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r109-w109-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Privacy"
+ ],
+ "body": [
+  "🔐 British court forces the government to admit a secret order against Apple!",
+  "A British court has confirmed that the government issued a secret order to Apple obliging it to preserve the ability to access its customers' encrypted data, rejecting the government's argument that admitting the order's existence harms national security.",
+  "The order concerns what is known as a 'Technical Capability Notice', an order obliging the company to equip its systems so it can respond to future court orders to access data. The government had refused to comment on the order's existence at all, citing a 'neither confirm nor deny' policy, but the court found the order was already publicly known, after press leaks, statements by U.S. officials, and press briefings. The first order was issued in January 2025 and covered encrypted iCloud backups for users in Britain and the United States, then was withdrawn after intervention by the U.S. administration, and a second order was issued in July 2025 limited to Apple's customers in Britain. The exact content of the order remains secret, while Apple and rights organizations are challenging the government's power to issue such orders at all, and the court is expected to consider the substance of the case in the first half of 2027.",
+  "Simply put: imagine the government asking a safe maker to keep a copy of every key, then denying it ever asked; that is how the court described the attempt to hide the order.",
+  "Do you support forcing tech companies to open your encrypted data to the authorities, or is your privacy a red line?"
+ ]
+}

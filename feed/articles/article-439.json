@@ -1,0 +1,23 @@
+{
+ "id": 439,
+ "slug": "article-439",
+ "title": "🤖 A New 'Bazooka' Malware on Android — It Steals Your Data and Hides Behind Your Screen!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r130-w130-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🤖 A New 'Bazooka' Malware on Android — It Steals Your Data and Hides Behind Your Screen!",
+  "Dutch security company \"ThreatFabric\" has uncovered a completely new Android malware framework called \"Bazooka\", discovered in late October while investigating a banking trojan operating via NFC technology. The framework is complete: a downloader, a core, and 23 modules covering almost everything.",
+  "The modules include keylogging, intercepting \"SMS\" messages and two-factor verification codes, remote control of the device, swapping crypto wallet addresses in the clipboard, and managing call forwarding. The framework also uses a completely new technique: it captures a screenshot of the home screen or lock screen and displays it as a cover to hide malicious activities running in the background.",
+  "Even more dangerous, the operators' control panel integrates large language AI models that help criminals evaluate victims, choose tempting targets, and manage infections at scale, instead of manual sorting. The framework also uses the \"ADB\" bridge to grant itself permissions secretly, and may persist even after the host app is deleted.",
+  "\"Bazooka\" spreads through scammers luring victims with fake ads and websites, including a fake version of premium \"TikTok\", and possibly through the \"Google Play\" store itself, since the downloader was designed with few permissions to pass review. The framework has not yet been attributed to a known actor.",
+  "Simply put: new malware steals your passwords and codes and hides behind a picture of your own screen, and its operators use AI to pick their richest victims.",
+  "Do you download apps only from the official store, or do you sometimes try ad links?"
+ ]
+}

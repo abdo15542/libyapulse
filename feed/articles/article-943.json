@@ -1,0 +1,23 @@
+{
+ "id": 943,
+ "slug": "article-943",
+ "title": "🎙️ KoboldCPP turns your computer into a complete AI studio! It talks, listens, and writes... without the internet!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r245-w245-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🎙️ KoboldCPP turns your computer into a complete AI studio! It talks, listens, and writes... without the internet!",
+  "Version 1.125 of the tool 'KoboldCPP' was released on November 22. It is a free, open-source program that runs AI models directly on your personal computer, in a single file with no complicated installation, and without sending your data to any cloud server.",
+  "The biggest new feature in this release is native support for voice models: the program can now convert text to speech with voices such as the 'Kokoro' model, and convert speech to text through the 'Qwen3-ASR' and 'SenseVoice' models, along with tools that precisely adjust the timing of every spoken word, turning the computer into a complete voice workstation for writing, reading, and transcription.",
+  "Development did not stop at voice: the release added support for the latest text-generation models, including the small 'Inkling 2 Mini' model that runs on laptops, and linked the web-search feature to the 'MCP' protocol so the model can call it as a tool. Users can also share their graphics card with the volunteer 'BeaverNet' network, helping others generate text with their device when they are not using it.",
+  "The tool's appeal remains privacy: everything runs on your device, from chatting to generating images, video, and music, through a built-in web interface and APIs compatible with 'OpenAI' and 'Ollama'. But the update carries an important warning: password settings have become stricter, and the name of one old option has changed, so anyone using old scripts should review the settings before updating.",
+  "Simply put: a single free file that turns your computer into an AI assistant that talks, listens, and writes, while all your data stays at home... Will you try local AI?",
+  "Do you prefer running AI on your own device, or are you comfortable using cloud services?"
+ ]
+}

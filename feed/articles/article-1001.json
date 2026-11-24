@@ -1,0 +1,24 @@
+{
+ "id": 1001,
+ "slug": "article-1001",
+ "title": "🚗 A Bluetooth flaw hacks Volkswagen electric cars... and listens in on what's said inside!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r259-w259-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🚗 A Bluetooth flaw hacks Volkswagen electric cars... and listens in on what's said inside!",
+  "Security researchers revealed that flaws in the Bluetooth system of the Volkswagen ID.4 electric car let a nearby attacker take control of the car's infotainment system, after they demonstrated the attack live in front of journalists in a lab in the Hungarian capital, Budapest.",
+  "The researchers were able to track the car's location precisely while it was moving, record a conversation between the driver and a passenger through the microphone dedicated to emergency services calls, view messages and contacts on a phone connected to the car, and also control the heating, windscreen wipers and sunroof, send a voice message into the cabin and display a slide on the screen.",
+  "The flaw starts with the Bluetooth software itself, then the attacker raises their privileges by exploiting a passwordless administrator account, helped by two other flaws, until reaching the heart of the car's system. The findings were presented at a car security conference in the German city of Bonn on November 17.",
+  "The manufacturer says the problem affects an older generation of infotainment systems, that customer safety was never at risk, and that it is rolling out software updates to hundreds of thousands of affected cars worldwide, after about a year and a half since it was told about the flaws — a delay the researchers described as worrying.",
+  "To carry out the attack in practice, the attacker must be within Bluetooth range, and someone inside the car must accept the pairing request, so caution about strange pairing requests remains the first line of defence, along with installing the company's updates as soon as they arrive.",
+  "Simply put: your car has become a computer on wheels... and a Bluetooth flaw could open its doors to strangers; do you accept pairing requests from devices you don't know?",
+  "Do you trust your car's software updates as much as you trust your phone's updates?"
+ ]
+}

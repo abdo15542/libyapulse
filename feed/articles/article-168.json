@@ -1,0 +1,20 @@
+{
+ "id": 168,
+ "slug": "article-168",
+ "title": "⚠️ Warning: Fully Autonomous Cyberattacks Are Coming… and AI Is the Weapon!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r101-w101-11.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "⚠️ Warning: Fully Autonomous Cyberattacks Are Coming… and AI Is the Weapon!",
+  "Google’s threat intelligence team warned in a new report that cyberattacks carried out by AI agents will escalate sharply over the next year. The report says the world is now in stage five, where AI tools carry out full attack cycles, and that stage six could arrive within one to three months, in which multiple agents carry out attacks with minimal human interaction — then stage seven within three to six months, with fully autonomous advanced attacks. The researchers observed a framework that turns security updates into exploitable vulnerabilities with no human intervention, and open-source tools such as “ARTEX” used to carry out break-ins at machine speed. Vulnerabilities and attacks discovered nearly doubled between January and August 2026.",
+  "Simply put: attackers now use AI to find the flaw, build the attack, and execute it within hours, while human defense needs days to install the updates.",
+  "Do you think AI will make the internet more dangerous or safer?"
+ ]
+}

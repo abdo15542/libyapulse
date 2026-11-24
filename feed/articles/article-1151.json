@@ -1,0 +1,24 @@
+{
+ "id": 1151,
+ "slug": "article-1151",
+ "title": "🚨 Bell Canada: The Breach Hit Home Customers Too! Stolen Data Includes Addresses and Account Numbers!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r292-w292-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🚨 Bell Canada: The Breach Hit Home Customers Too! Stolen Data Includes Addresses and Account Numbers!",
+  "Canadian telecom company Bell Canada confirmed on Monday, November 23, that the breach of its systems on November 17 also affected residential customers, after the company had initially said only business customers were affected.",
+  "The company said an unknown party it described as a 'proxy attacker' gained access to an internal system containing personal data of some customers, and that the ongoing investigation confirmed that residential and business customers were affected together, including customers of Bell Aliant, Bell MTS, Virgin Plus, and Lucky Mobile.",
+  "The stolen data may include name, mailing address, phone number, email address, account number, product information, and the date and amount of the most recent payment, while the company confirmed that no sensitive data such as credit card numbers or bank account numbers was stolen.",
+  "The company removed the attacker as soon as the incident was discovered, notified the Royal Canadian Mounted Police's cybercrime unit, which is investigating the case, and began contacting directly the customers whose data may have been affected, without disclosing how many were affected.",
+  "The company warned its customers about scam messages that might impersonate it to ask for personal data, and advised them not to click links or open attachments in suspicious messages, and to review their accounts regularly.",
+  "Simply put: a breach that began as an incident affecting business customers has now reached ordinary people's homes too... Do you review your account details and check messages from your telecom company?",
+  "Have you ever received a notice from a telecom company about a breach? What did you do then?"
+ ]
+}

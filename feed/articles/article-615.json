@@ -1,0 +1,25 @@
+{
+ "id": 615,
+ "slug": "article-615",
+ "title": "🚢 Maersk confirms a breach of an old system — and the \"White Armor\" gang demands a $5 million ransom!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r159-w159-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🚢 Maersk confirms a breach of an old system — and the \"White Armor\" gang demands a $5 million ransom!",
+  "The giant shipping company Maersk confirmed on Wednesday, November 11, that an attacker breached an old system it inherited from a company it had acquired earlier and stole data from it, stressing that the incident is isolated in one local system and its operations were not disrupted.",
+  "The company added that the investigation's results so far strongly indicate that no sensitive data was disclosed, and it found no trace on its other systems or on the connected systems of customers and partners.",
+  "The confirmation came after the extortion gang called \"White Armor\" listed the company on its data-leak site over the weekend, demanding a ransom of $5 million in Bitcoin within 30 days, threatening to publish about 100 GB of data.",
+  "The gang claims the data includes about 30,000 driver records and passwords stored as plain text and 33 accounts with the highest administrator privileges, plus signed delivery receipts and millions of inventory records and 27,842 mobile-device records containing phone numbers, emails and device identification numbers.",
+  "The breached system belongs to the \"OCF\" logistics platform of the company \"LF Logistics\", which Maersk acquired in 2022, and the company has not yet confirmed the truth of all the gang's claims about the data's contents.",
+  "This is not the first time the company has faced a devastating attack. In 2017, the \"NotPetya\" virus hit it, forcing it to rebuild more than 4,000 servers and 45,000 work devices from scratch, and its systems stopped for ten days with losses reaching about $300 million.",
+  "Simply put: an old, forgotten system inside a giant company became a back door for attackers. The danger doesn't always come from new systems, but from the ones the company forgot after the acquisition.",
+  "Are companies' promises that \"no sensitive data leaked\" enough to reassure you after a breach like this?"
+ ]
+}

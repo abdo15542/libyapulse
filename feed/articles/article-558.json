@@ -1,0 +1,23 @@
+{
+ "id": 558,
+ "slug": "article-558",
+ "title": "🐧 A Flaw in the Heart of Linux Opens the Server's Entire Memory — from Inside a Virtual Machine!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r147-w147-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🐧 A Flaw in the Heart of Linux Opens the Server's Entire Memory — from Inside a Virtual Machine!",
+  "A security researcher revealed a serious flaw in KVM, the virtualization software built into the Linux kernel, allowing a tenant in a shared cloud to read the host server's entire memory from inside their own virtual machine. The flaw is registered as CVE-2026-99312 and is limited to servers running AMD processors with nested virtualization enabled, while Intel servers are unaffected.",
+  "Researcher Oran Yomtov from Tera Security proved the flaw in practice on a cloud server at DigitalOcean, reading about 127 GB of host memory — and the first thing that appeared to him was the kernel version banner itself. In a write test on his own server, he wrote 32 chosen bytes inside a live page of host kernel memory, and a change-monitoring unit confirmed it.",
+  "The cause is an old pointer to a freed memory page: when a signal called INIT stops a nested virtual machine, the system forgets to update the outer machine's page-table pointer, so the pointer keeps pointing to a page the kernel has reused, giving the guest control over its contents. The flaw has existed in the kernel for about four years, after a previous security fix in 2022 opened it.",
+  "The flaw was reported on October 21, the fix was merged on November 2, and it reached stable kernel 7.3.5 and long-term-support versions 6.18.64 and 6.12.118 on November 17. The Linux kernel team rated its severity 8.8 out of 10, while Red Hat rated it only 5.6. Those who cannot update immediately only need to disable nested virtualization to close the path entirely, and no exploit code has been published yet.",
+  "Simply put: imagine an apartment in a building where a tenant suddenly holds a key that opens all the neighbors' apartments, not just his own — that is how one forgotten pointer became a key to the server's entire memory.",
+  "Did you know your virtual machine might share its server with strangers?"
+ ]
+}

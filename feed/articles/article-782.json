@@ -1,0 +1,22 @@
+{
+ "id": 782,
+ "slug": "article-782",
+ "title": "📱 Leak: Samsung Is Testing a New AI Model 'Gauss 4'... and It Could Run Inside Your Phone Without the Internet!",
+ "date": "2026-11-22",
+ "category": "phones",
+ "category_name": "Phones & Devices",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r203-w203-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Samsung"
+ ],
+ "body": [
+  "📱 Leak: Samsung Is Testing a New AI Model 'Gauss 4'... and It Could Run Inside Your Phone Without the Internet!",
+  "An analysis of the code of the first beta version of the One UI 9.5 interface has revealed unannounced AI model names from Samsung, led by 'Gauss 4 E2B', alongside 'Gauss 3.8' and 'Gauss A26B', on the model selection screen inside the 'Personal Agent' service that manages the AI features in the new interface.",
+  "The name 'Gauss 4' also appeared inside Samsung's new 'Memory' app — in fact, the app's code checks whether a Gauss model file exists on the phone itself, and mentions the model alongside Google's 'Gemini Nano' and 'Gemma' models, suggesting that 'Gauss 4' is designed to run on the device directly, without needing a remote server.",
+  "The 'E2B' name is believed to point to a small model with about two billion active parameters, designed for speed and saving battery, while the '26B-A4B' name points to a larger model using a mixture-of-experts approach, and server model names also appear, such as 'Galaxy AI Agent' and 'Bixby for Work'.",
+  "But the company has not announced anything yet, and the list is hidden inside a test screen meant for Samsung engineers, who compare their models with Claude, GPT, and Gemini models, so do not expect a button to choose 'Gauss 4' on your phone soon; still, its appearance confirms that Samsung is still building its own models, after the last official announcement about 'Gauss 2' in November 2024.",
+  "Simply put: Samsung is secretly testing an AI mind of its own making inside your phone; so would you prefer AI that runs on your device or in the cloud?"
+ ]
+}

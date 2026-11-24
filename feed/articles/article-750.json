@@ -1,0 +1,22 @@
+{
+ "id": 750,
+ "slug": "article-750",
+ "title": "🧠 Kimi K3.1 Pro: The Largest Open-Weights Model Reaches Everyone!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r196-w196-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🧠 Kimi K3.1 Pro: The Largest Open-Weights Model Reaches Everyone!",
+  "Chinese company Moonshot published the full weights of its strongest model, Kimi K3.1 Pro, on November 4, making it available for any developer to download and run themselves, after it had worked since its launch on October 23 only through the company's cloud service.",
+  "The model is huge by every measure: it is a mixture-of-experts type with a total of 2.8 trillion parameters, of which only around 104 billion are activated when processing each token, spread across 896 experts of which 16 are chosen per token, across 93 layers. Its context window is also around a million tokens, enough to read hundreds of pages at once, it accepts text and images together, and its price through the company's API is $2 per million input tokens and $10 per million output tokens.",
+  "But 'open' here does not mean 'free to run': the weights alone are around 1.56 terabytes spread across 96 files, and running it needs graphics card memory exceeding 1.56 terabytes - a full cluster of the most powerful cards, not an ordinary computer. Its license, close to the MIT license, also imposes conditions on large operators: anyone selling access to the model as a service with revenues exceeding $20 million a year needs a separate agreement with the company.",
+  "As for the performance figures, they come from the company itself and have not yet been verified by an independent party: it says the model scored 65.7% on the Terminal-Bench 4.0 coding test, just behind Claude Opus 5.5 at 66.4%, and ahead of GPT-6 Astra at 58.2%.",
+  "Simply put: open weights mean the model has become everyone's property on paper, but running it is still reserved for those who own a huge cluster. Do you think giant open models will break the monopoly of the big companies, or are they just publicity that only the big players benefit from?"
+ ]
+}

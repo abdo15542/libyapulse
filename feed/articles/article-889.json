@@ -1,0 +1,24 @@
+{
+ "id": 889,
+ "slug": "article-889",
+ "title": "🛡️ VirusTotal Exposes Ransomware No Antivirus Detected... and the Secret Is Watching the Encryption Itself!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r229-w229-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ VirusTotal Exposes Ransomware No Antivirus Detected... and the Secret Is Watching the Encryption Itself!",
+  "VirusTotal has launched a new update for detecting ransomware that relies on watching what a file actually does while it runs, not its known fingerprint — and it caught malware that none of 75 antivirus engines picked up.",
+  "The idea is simple but effective: instead of treating the presence of encryption code or heavy file activity as proof of ransomware, the new systems check that the user's real files were actually encrypted inside an isolated test environment before tagging the file \"encrypts-files\".",
+  "The standout example is a malicious Python program named \"system_update.pyw\", linked to an extortion campaign using the \".k404\" extension, sent on 17 and 18 November. It scored zero out of 75 in the static scan, but the test environment watched it launch itself, delete itself, and rewrite the desktop documents in encrypted form.",
+  "The new tag works through three analysis environments: \"CAPE Sandbox\" and \"Zenbox\" on Windows, and \"macOS Mirage\" on Apple's own processors, and the update also tightened the classification rules for \"T1486\" in the \"MITRE ATT&CK\" framework, cutting false alarms across the platform by 97.6%.",
+  "Since 17 November, the systems have scanned 328,257 new unique files, and the tag matched only 55 of them; humans reviewed them manually and found not a single innocent program among them, and the platform also added support for instant search through \"LiveHunt\" to alert analysts the moment a new sample appears.",
+  "Simply put: The question is no longer \"Does this file look dangerous?\" but \"Did it actually encrypt your files?\" — do you still trust antivirus alone after today?",
+  "Do you think behavioral scanning will finally beat traditional scanning at catching ransomware?"
+ ]
+}

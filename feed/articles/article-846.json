@@ -1,0 +1,21 @@
+{
+ "id": 846,
+ "slug": "article-846",
+ "title": "⚖️ Pandex: 2.8 million European law documents within reach of AI agents!",
+ "date": "2026-11-22",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r217-w217-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Coding"
+ ],
+ "body": [
+  "⚖️ Pandex: 2.8 million European law documents within reach of AI agents!",
+  "AI agents can now read European law from its official text directly: a new service called Pandex puts 2.8 million legal documents within reach of agents, through an MCP protocol server and a programming interface, covering European Union legislation and decisions of the highest courts in nine jurisdictions, including Germany, France, the Netherlands, Britain, Austria, Switzerland, Luxembourg and the European Court of Human Rights.",
+  "What sets the service apart is that it does not give the agent only the latest text, but every previous version of every article, together with the date it came into force, so the agent can know what the law said on a specific date, and link every claim to a precise official paragraph that can be verified. The database is updated every night, the server is read-only and needs no key, and it can be added to coding tools with a single command.",
+  "The need for this service is real: AI models often quote old versions of laws or invent texts that do not exist, which makes relying on them for legal work a risk. The service targets legal AI products, compliance monitoring tools and legal research teams, and it is free in its trial stage up to 1,000 requests per day.",
+  "Simply put: an AI agent that consults the law from its official source instead of guessing it — will this become the new standard for legal work with AI?"
+ ]
+}

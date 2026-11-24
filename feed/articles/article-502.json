@@ -1,0 +1,23 @@
+{
+ "id": 502,
+ "slug": "article-502",
+ "title": "🛡️ Windows Gives Your Device a Single Security Certificate — and Apps May Refuse to Work If It Fails!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r139-w139-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Windows Gives Your Device a Single Security Certificate — and Apps May Refuse to Work If It Fails!",
+  "Microsoft announced a new feature called Baseline Protection in Windows, combining eight protections already on your device into one clear result: either your device is secure, or it is not.",
+  "The list includes the security processor, secure boot, virtualization-based isolation, memory integrity, signed and Windows-certified drivers, and protection against kernel debugging tools and drivers known to have vulnerabilities. Windows checks these protections when the device starts, and gives a single 'yes' or 'no' answer, instead of each user searching through scattered settings.",
+  "Apps can read this answer: a bank app, a game, or an exam tool can warn you, restrict a feature, or refuse to work entirely if your device does not meet the minimum, and the decision in the end belongs to the developer, not Windows.",
+  "The feature is now available for testing through the Windows Insider program, and will reach all users in 2027, and companies testing it include Adobe, Battle.net, 1Password, and Schoolyear, and none of them has yet announced that it will block apps from working.",
+  "Simply put: instead of each app asking you about a different protection, Windows will give you one certificate saying whether your device meets the requirements or not.",
+  "Do you agree that a work app should refuse because a protection on your device is off?"
+ ]
+}

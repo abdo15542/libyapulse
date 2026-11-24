@@ -1,0 +1,24 @@
+{
+ "id": 456,
+ "slug": "article-456",
+ "title": "🇨🇳 Tencent Opens Its Giant 'HY-4' Model — 770 Billion Parameters to Download and Run on Your Own Machine!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r132-w132-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🇨🇳 Tencent Opens Its Giant 'HY-4' Model — 770 Billion Parameters to Download and Run on Your Own Machine!",
+  "Chinese company Tencent published the weights of its flagship AI model 'HY-4' on Friday, making it available for download and running on developers' own servers, just two weeks after launching it as a paid cloud service on November 4.",
+  "The model is huge by every measure: it contains 770 billion parameters, only about 49 billion of which work with each token, and it understands text, images, and video, and remembers context up to one million tokens — the equivalent of hundreds of books at once. The company says it beats its trial version in following instructions, understanding long contexts, and long tasks, and supports graphical interface tasks, command-line environments, interface development, games, and office work.",
+  "The published weights include three versions: the instruction-tuned model, a compressed 8-bit version, and the base model for training, with running guidance via the vLLM and SGLang tools and a safety evaluation card. But the file sizes are huge: about 1.55 TB for the full version and about 770 GB for the compressed version, meaning running it needs a server with several powerful graphics cards, not an ordinary computer.",
+  "As for the license, that is the point worth attention: the model does not come with the fully open Apache license, but with a special Tencent license derived from it, requiring written permission from the company for any operator who sells the model as a service and whose revenue exceeds $50 million or whose users exceed 100 million monthly users. Internal use, download, and experimentation are available without restrictions.",
+  "This release comes after the company opened its smaller version 'HY-4 Flash' days earlier, completing the series of open-weight 'Hunyuan' models.",
+  "Simply put: the strongest Chinese model has become downloadable and runnable on your own machine, but its huge size and special license mean it is aimed at teams and companies, not individuals.",
+  "Would you prefer running a huge model like this on your own servers, or is renting it from the cloud cheaper and easier?"
+ ]
+}

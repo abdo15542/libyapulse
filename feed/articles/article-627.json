@@ -1,0 +1,27 @@
+{
+ "id": 627,
+ "slug": "article-627",
+ "title": "📜 OpenAI now requires its prior approval for anyone reselling access to its models!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r160-w160-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "OpenAI"
+ ],
+ "body": [
+  "📜 OpenAI now requires its prior approval for anyone reselling access to its models!",
+  "OpenAI has begun enforcing a new update to its usage policies, requiring any service that gives a third party direct access to its models — such as model routers and AI gateways — to obtain the company's review and prior approval before offering that access.",
+  "The changes took effect on November 20, 2026, after being announced on October 21, with the company giving customers a 30-day grace period before they came into force.",
+  "The new rule targets intermediaries that resell access: a platform that lets its customers use the company's models directly needs prior approval, while an app that uses the models only to power its own features is not covered by the rule.",
+  "The logic behind the decision is enforcement: a ban on a given user is worthless if they can move to another service that resells the same model.",
+  "The update also requires approved partners to maintain security safeguards matching the company's standards, investigate potential violations, and coordinate with it on enforcement, so that restrictions cannot be bypassed through another service.",
+  "The update also tightened the ban on using the company's models or their outputs to train alternative or competing models, including preparing training tasks, reinforcement-learning environments, or providing evaluation and ranking signals.",
+  "The update also clarified protections for children and teenagers, requirements for high-risk uses, and approval requirements for national-security and law-enforcement purposes.",
+  "The company has not yet published details of the application process for obtaining approval, nor its criteria or review timeline, leaving providers of these services waiting for practical clarification.",
+  "Simply put: OpenAI is no longer content with banning misuse of its models on its own platform — it wants to approve everyone who sells access to them. The model has become a product that cannot be resold without its owner's permission.",
+  "Do you support AI companies requiring their approval for anyone reselling access to their models?"
+ ]
+}

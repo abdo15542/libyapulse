@@ -1,0 +1,24 @@
+{
+ "id": 946,
+ "slug": "article-946",
+ "title": "⚡ An Indian model decides in 44 thousandths of a second! 'Prism' doesn't write answers... it picks the right decision!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r245-w245-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "⚡ An Indian model decides in 44 thousandths of a second! 'Prism' doesn't write answers... it picks the right decision!",
+  "The Indian company 'Sarvam' launched a new AI model on November 3 called 'Prism', a model unlike the chatbots we know: it does not write texts, but makes fast decisions, giving each option in front of it a precisely calculated probability, in less than the blink of an eye.",
+  "The model works with an average response time of 44 thousandths of a second on a single 'Nvidia B200' card, down from 664 thousandths of a second in its first version, about 15 times faster without losing accuracy, according to the company's figures. It scored an average of 71.8 points across three decision benchmarks, the highest among 25 decision models the company tested that answer in less than 100 thousandths of a second, and it scored 82.5 points on the company's internal benchmark for Indian languages.",
+  "'Prism' is built on the company's large model 'Sarvam 105B', a huge model with 105 billion parameters, of which only 10.3 billion work in each step. It was designed to provide reliable confidence estimates: when it answers with 90% confidence or more, its error rate was 2.2% in English and 4.4% in Indian languages, lower than it predicted itself, and its answers stay stable no matter how the order of the options shown to it changes.",
+  "The company says its first uses include routing customer support requests to the right department, analyzing documents, security checks, and evaluating the performance of AI agents. It has published its weights free of charge under the 'Apache 2.0' license on the 'Hugging Face' platform, so any developer can train it on their own data and run it on their own infrastructure, and it is also available through the company's API.",
+  "But it is important to note that all these figures come from the company itself and have not yet been verified by any independent party, so they are performance promises, not the results of a neutral lab.",
+  "Simply put: a model that does not write or explain, but decides in 44 thousandths of a second and tells you how confident it is in its decision... Do you trust a decision made that fast?",
+  "Would you accept AI making a decision for you in less than the blink of an eye?"
+ ]
+}

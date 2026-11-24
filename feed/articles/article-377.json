@@ -1,0 +1,22 @@
+{
+ "id": 377,
+ "slug": "article-377",
+ "title": "🛡️ 'OpenAI' Fortifies Its Models' Thinking — Reasoning Theft Drops from 54% to 0.2%!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r123-w123-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AISafety"
+ ],
+ "body": [
+  "🛡️ 'OpenAI' Fortifies Its Models' Thinking — Reasoning Theft Drops from 54% to 0.2%!",
+  "\"OpenAI\" revealed on November 20 new layers of protection against what is called \"adversarial distillation\" — a technique in which an attacker uses a advanced model's outputs to train another model that imitates its abilities without its safeguards, aiming to steal the model's internal \"reasoning\" — the hidden steps it follows before answering.",
+  "In an internal test with automated attackers, the success rate of stealing reasoning from a previous request fell from 54% in the \"GPT-6 Astra\" model with its original protections, to just 0.2% in \"GPT-6.2 Astra\" with the new protection. Stealing reasoning from the current request fell from 22.9% to 0.9%. The defenses work on two levels: directed training and filters on inputs and outputs, plus blocking that prevents older models from reading protected reasoning, in addition to banning thousands of accounts weekly as part of coordinated campaigns.",
+  "The company explained that reasoning is now tied to the conversation that produced it — it is deleted if an earlier message is rewritten — and that some improvements also apply to the older model. \"Anthropic\" faces the same attacks and bans tens of thousands of accounts. It is worth noting that these figures come from the company's internal tests and have not been verified by an independent party.",
+  "Simply put: AI models hide how they think the way a chef hides their recipe, and \"OpenAI\" has tightened the locks until stealing the recipe became almost impossible — in its own tests, at least.",
+  "Do you think protecting models' \"thinking\" is a security necessity or a monopoly on knowledge?"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "id": 382,
+ "slug": "article-382",
+ "title": "🍎 'Apple' Launches a Huge Study: Ask AI About Your Health — and Get Answers from Trusted Medical Research!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r124-w124-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🍎 'Apple' Launches a Huge Study: Ask AI About Your Health — and Get Answers from Trusted Medical Research!",
+  "\"Apple\" announced on November 15 the launch of the \"AI for Health Study\", a new research study in the United States that answers your everyday health questions with simplified answers backed by peer-reviewed medical research, in collaboration with the medical platform \"OpenEvidence\" used by doctors. Instead of asking a general chatbot, you get an answer based on sources like the \"New England Journal of Medicine\", \"JAMA\", and \"Nature\", with links to the sources themselves.",
+  "Participants can optionally share their health data from the \"HealthKit\" app, such as resting and active heart rate, sleep, and lab results, to get more accurate answers suited to their condition and to prepare better for their doctor's visit. The study is open to up to 200,000 participants aged 21 and older, with an iPhone 15 Pro or newer running \"iOS 26\", and runs for up to 12 months.",
+  "The company confirms that data is anonymized before being sent, is not used to train AI models, and that the medical platform deletes questions and answers within 24 hours. The app is also not for diagnosis or treatment, but for understanding how people trust AI health answers, with safety controls that direct you to a doctor for worrying questions.",
+  "Simply put: your health question reaches an AI that reads real medical research instead of internet guesses — but the final decision always remains your doctor's.",
+  "Do you ask AI about your health, or do you prefer asking a doctor directly?"
+ ]
+}

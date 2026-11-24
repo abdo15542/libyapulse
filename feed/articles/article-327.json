@@ -1,0 +1,21 @@
+{
+ "id": 327,
+ "slug": "article-327",
+ "title": "🔍 'Anonymous' messaging apps may reveal your real identity!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r118-w118-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Privacy"
+ ],
+ "body": [
+  "🔍 'Anonymous' messaging apps may reveal your real identity!",
+  "If you think an anonymous account in a chat app keeps your identity secret, think again. Researchers from the University of Maryland and the Korean institute KAIST have shown how anonymous accounts can be linked to real identities quickly, without any hacking or breaking encryption, in a study presented at a specialized security conference covering 'KakaoTalk', 'Telegram', 'WhatsApp', 'Signal', and 'Tinder'.",
+  "The trick relies on ordinary features the apps themselves offer, such as contact discovery and searching for nearby users. Your phone number is the hidden link between all your accounts: whoever obtains it from one app can search for your legal name in another app. Then your profile picture comes as a second clue — when passed through a location-based dating app, it can narrow your location to an average of just 324 meters. The task becomes easier in South Korea, where 94% of the population uses 'KakaoTalk', providing a huge directory for matching. 'KakaoTalk' has tightened its limits and blocked the methods described in the study.",
+  "Simply put: each innocent-looking feature on its own — your number, your photo, your location — combines with the others to reveal who you are, without anyone breaking your messages' encryption.",
+  "Do you use the same photo on all your accounts?"
+ ]
+}

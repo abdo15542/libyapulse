@@ -1,0 +1,24 @@
+{
+ "id": 1021,
+ "slug": "article-1021",
+ "title": "🎙️ Your smart agent pays for voice itself! Deepgram sells its services to agents request by request!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r262-w262-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🎙️ Your smart agent pays for voice itself! Deepgram sells its services to agents request by request!",
+  "AI agents can now buy voice services from Deepgram request by request, without a contract and without a special API key, through a new payment system based on the x402 protocol and Amazon Bedrock AgentCore payments.",
+  "The idea is simple: the agent sends its request to a special endpoint, the system replies with a '402: Payment Required' code attached to a dollar price quote, the agent pays the quote through AgentCore and receives the result, and the cost is billed in dollars to the Amazon account of the agent's owner.",
+  "The service includes three voice models: Nova 3 for speech-to-text, and Flux and Aura 2 for text-to-speech, at the company's usual pay-as-you-go prices, and the price quote stays valid for five minutes, with nothing charged if the request fails due to a data error.",
+  "What is new here is that the agent itself pays, not the human running it, so there is no need to create a Deepgram account or manage keys — it is enough to set up a payment manager and a payment session with a spending limit in the Amazon account, with ready examples in Python and TypeScript and popular agent frameworks.",
+  "The service does not currently include live streaming over WebSocket, only batch requests, and it is a first step toward an economy where agents pay for every service they use, just as humans pay for every call or message.",
+  "Simply put: your smart agent has become a customer that pays by itself for voice services.. so do you trust an agent that spends from your account automatically?",
+  "Do you use an AI voice assistant?"
+ ]
+}

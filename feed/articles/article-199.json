@@ -1,0 +1,20 @@
+{
+ "id": 199,
+ "slug": "article-199",
+ "title": "🏭 TSMC and Samsung Halt Chip Shipments to China!",
+ "date": "2026-11-20",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r103-w103-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "TechMarkets"
+ ],
+ "body": [
+  "🏭 TSMC and Samsung Halt Chip Shipments to China!",
+  "TSMC and Samsung stopped shipping chips to Chinese companies, after a new rule from the US Department of Commerce took effect on November 19, closing a loophole that had allowed shipments without a license. Chips manufactured on 16-nanometer technology and newer now need export licenses, affecting consumer chips for companies such as Xiaomi, Oppo, vivo, ByteDance, and Kunlun, and licenses are likely to be granted but with delivery delays. Nvidia also halted shipments of Hopper chips to China, and Alibaba and Tencent warned of the restrictions’ impact on their business.",
+  "Simply put: the new export restrictions mean advanced chips will only reach China with official permission; and this could delay the production of phones and cloud services there.",
+  "Do you think chip restrictions affect phone prices?"
+ ]
+}

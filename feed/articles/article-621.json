@@ -1,0 +1,23 @@
+{
+ "id": 621,
+ "slug": "article-621",
+ "title": "🖥️ ScreenConnect attack breaches 48 companies and plants remote-access tools on 288 devices!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r159-w159-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🖥️ ScreenConnect attack breaches 48 companies and plants remote-access tools on 288 devices!",
+  "US company ConnectWise revealed attacks targeting its remote-access platform ScreenConnect, which IT managed-service providers use to control their clients' computers remotely.",
+  "The attackers managed to breach the environments of managed service providers and planted malicious remote-access tools on at least 288 devices across 48 organisations. The attack may have exploited third-party extensions for the platform.",
+  "A \"managed service provider\" is a company that manages computers and networks on behalf of other companies — so breaching it means reaching dozens of companies at once through a single door.",
+  "ScreenConnect is a tool that lets technicians take full control of a remote device as if they were sitting in front of it. If it falls into an attacker's hands, it becomes a key to every device it manages.",
+  "Simply put: when your company's computers are managed by another company, your security is only as strong as that company's security. The back door may be at the very people you trusted to fix your devices.",
+  "Did you know that the company managing your company's computers could be the attackers' back door?"
+ ]
+}

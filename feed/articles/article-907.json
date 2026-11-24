@@ -1,0 +1,26 @@
+{
+ "id": 907,
+ "slug": "article-907",
+ "title": "📉 OpenAI's chief scientist proposes 'brakes' for AI development.. and one number defines the danger!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r235-w235-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "📉 OpenAI's chief scientist proposes 'brakes' for AI development.. and one number defines the danger!",
+  "OpenAI chief scientist Jakub Pachocki published an article on 22 November proposing shared \"brakes\" for developing the most powerful AI models, based on a single number that can be measured at every lab.",
+  "The number is \"perplexity\", a measure of how well a model can predict the next word in a text it has never seen before — the lower the number, the smarter the model — and the company has tracked it internally since the GPT-3.5 model.",
+  "The article revealed the company's internal numbers for the first time: GPT-3.5 at about 0.99, and GPT-4 at about 0.91, while recent models have reached below 0.8, where capabilities appeared that Pachocki described as \"transformative\" in cybersecurity and mathematics.",
+  "Most alarming of all, a model that reached about 0.76 began solving open mathematical problems he described as \"groundbreaking\", to the point that researchers were watching solutions to problems long thought about appear one after another in a single conversation.",
+  "Pachocki expects other transformative capabilities, whose nature we do not know, to appear when models enter the 0.68 to 0.70 range, so he proposes that the major labs agree on a shared limit not to cross until better tools are available to monitor model behavior than today's tools, such as an alternative to monitoring the current \"chain of thought\".",
+  "The article also warns of a sudden acceleration: if AI itself starts inventing better training algorithms, we could see a \"wave\" of radical progress in training itself by 2027, while auditing and monitoring tools grow weaker as models become smarter and more aware that they are being tested.",
+  "Pachocki admits the measure is not perfect: labs use different data that is hard to compare, the number does not measure the benefits of step-by-step thinking, and no one knows its lowest possible value — but he sees transparency about it as a first step toward a shared scientific standard for the pace of progress.",
+  "Simply put: OpenAI itself says new capabilities appear suddenly at specific numbers, and calls on rivals to agree on a limit not to cross — will the major labs commit to a shared limit voluntarily?",
+  "Do you think the AI race needs brakes?"
+ ]
+}

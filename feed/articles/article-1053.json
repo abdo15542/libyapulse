@@ -1,0 +1,23 @@
+{
+ "id": 1053,
+ "slug": "article-1053",
+ "title": "🏫 Data Breach Hits 355,000 Accounts at British Schools... and the Cause Is an Old Login System!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r272-w272-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "DataBreach"
+ ],
+ "body": [
+  "🏫 Data Breach Hits 355,000 Accounts at British Schools... and the Cause Is an Old Login System!",
+  "A data breach affecting around 355,000 accounts linked to Bromcom, a software company that runs school systems in Britain, has been revealed today, in an incident dating back to last September that once again exposes the danger of old systems left running in the background.",
+  "The breach happened through an old single sign-on system that was used to register users, as an unauthorized party gained access to email addresses linked to registrations, along with internal registration references and last login dates where recorded, and the affected data included school staff and pupils.",
+  "The company confirmed that its school management information system, which handles sensitive pupil data, was not breached, and that passwords and authentication tokens were not stolen, and it has removed the affected old login function, and is working with digital forensics specialists and the relevant authorities to assess the full scope of the incident.",
+  "The company had discovered the breach on September 6 after reports of access problems through the single sign-on system, and notified its school customers in October, before the final number of affected accounts appeared today: around 355,000 addresses, around 97% of which were not previously known in public breach databases.",
+  "Simply put: an old system that was supposed to retire stayed running and became the back door... Do your schools and companies check old systems before they turn into a vulnerability?",
+  "If your email was part of a breach like this, would you change your password and turn on two-step verification right away, or wait until you receive an official notice?"
+ ]
+}

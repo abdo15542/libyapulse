@@ -1,0 +1,23 @@
+{
+ "id": 562,
+ "slug": "article-562",
+ "title": "💰 A startup raises a billion dollars to build AI — with a single researcher!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r147-w147-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "💰 A startup raises a billion dollars to build AI — with a single researcher!",
+  "The startup \"Mirendale\" announced on November 12 the raising of a billion dollars in a Series A funding round, led by Kleiner Perkins and Clearlake Capital, with investors including Google, Battery Ventures, M13 and PeerVC. The company did not officially disclose the valuation, while reports spoke of earlier talks about a $5 billion valuation.",
+  "The company was founded in June by former researchers from Anthropic, Google DeepMind and OpenAI, and previously raised $200 million in a seed round at a valuation of about a billion dollars. Its idea is that when AI agents take over manual work, team size stops determining what can be built.",
+  "The evidence the company presents is striking: a single researcher, working with agents, trained the \"Mirendale-Base\" model from scratch within 3.5 months, at a compute cost of less than $10 million, and the agents wrote more than 99% of the code. Then the company turned the model into \"Fern\", which carries context up to 10 million tokens — enough for days of agent work. As for its \"Lore\" platform, it gathers hundreds of agents writing code and running experiments for days on end, and it is now in invite-only private beta.",
+  "But all these figures come from the company itself and have not yet been verified by an independent party, the larger models are still being trained, and access to \"Fern\" has not opened to the public. A billion-dollar Series A round is rare even in the AI world, and places the company among the best-funded new research labs.",
+  "Simply put: imagine a single researcher with a team of smart assistants building in months what once needed a whole team and years. That is Mirendale's bet: that advanced scientific research becomes within reach of any scientist or engineer.",
+  "Do you believe a single researcher with AI agents could rival a whole lab?"
+ ]
+}

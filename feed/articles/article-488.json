@@ -1,0 +1,25 @@
+{
+ "id": 488,
+ "slug": "article-488",
+ "title": "🌐 Amazon's Global Inference Gateway — One Point Managing AI Requests Across Dozens of Clusters!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r135-w135-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🌐 Amazon's Global Inference Gateway — One Point Managing AI Requests Across Dozens of Clusters!",
+  "Amazon Web Services launched on November 20 a new service called the Global Inference Gateway in SageMaker HyperPod, giving customers a single managed point for inference requests across all registered model clusters, whether in one region or several regions.",
+  "The gateway picks the best cluster for each request based on four signals: available cache and memory space, queue depth, region proximity, and error rate. If a cluster fails, the request automatically moves to a healthy cluster without any change from the customer.",
+  "The service comes as a second layer above the existing inference gateway inside each cluster, which still picks the individual unit that executes the request; the global gateway picks the cluster first, then leaves unit selection to the internal gateway.",
+  "The idea solves the problem of wasted computing power: requests may pile up in a saturated cluster while ready GPUs sit idle elsewhere. In the company's example, running four models on five clusters in two regions requires 20 connection points, falling to five with cluster gateways, then to one point with the global gateway.",
+  "Requests travel over an encrypted private connection, with strong authentication, and the service does not record or store user text or model answers. The four signals' weights can be adjusted so the system favors proximity or resilience to failures, according to the work's priority.",
+  "The service is available in 13 regions, including US east and west regions, São Paulo, Frankfurt, Ireland, London and Stockholm, and Tokyo, Mumbai, Singapore and Sydney.",
+  "Simply put: instead of your team chasing dozens of connection points across regions, it sends one request to one point, and the service picks the least crowded, closest, and healthiest cluster, and moves the request automatically if a cluster fails.",
+  "If you run AI models across several clusters, would you trust a single gateway to make all the routing decisions?"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "id": 373,
+ "slug": "article-373",
+ "title": "🖥️ 'Dell' Unveils the World's First Liquid-Cooled Storage and a Data Gateway for AI Agents!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r123-w123-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "🖥️ 'Dell' Unveils the World's First Liquid-Cooled Storage and a Data Gateway for AI Agents!",
+  "\"Dell\" unveiled at the \"SC26\" supercomputing conference in Chicago a major expansion of its AI factory, headlined by what it describes as the world's first direct liquid-cooled storage system for AI racks, alongside a new data gateway that gives AI agents controlled access to company data.",
+  "The new \"ExaScale\" storage system holds up to 32 drives in a single chassis, with cooling plates on every heat-generating part and no fans, fitting in the same rack beside liquid-cooled computing and networking, and increasing drive density by 67% per rack unit. There's also a smaller single-chassis version holding 20 drives, with both systems expected to arrive in the first half of 2027.",
+  "The \"Agentic Data Gateway\", meanwhile, is a single entry point the agent connects to once to reach approved data, tools, and models, with identity, permissions, quotas, and logging managed centrally. \"Dell\" says reusing controlled context through the gateway cut token consumption by up to 76% and raised answer accuracy from 60% to 94% in its internal tests. It also unveiled a new management platform that manages up to 100,000 devices from one place, and a server with 512 processing cores.",
+  "Simply put: AI data centers have become so hot that even storage itself needs liquid cooling, and agents now need one controlled gateway instead of hundreds of random connections.",
+  "Do you think infrastructure will keep up with the speed of the AI race?"
+ ]
+}

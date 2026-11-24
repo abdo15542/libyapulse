@@ -1,0 +1,22 @@
+{
+ "id": 799,
+ "slug": "article-799",
+ "title": "💻 Microsoft Finally Reveals the Cause of Its Global Outage: A Small Bug Took Down 80% of Its Servers!",
+ "date": "2026-11-22",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r208-w208-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Microsoft"
+ ],
+ "body": [
+  "💻 Microsoft Finally Reveals the Cause of Its Global Outage: A Small Bug Took Down 80% of Its Servers!",
+  "After days of a global outage that paralyzed email and corporate collaboration for more than 30 hours, Microsoft revealed that the cause was a hidden software bug in an urgent update to its network gateways, which took down more than 80% of gateway servers worldwide.",
+  "The outage began on November 12, affected more than 70 countries, and stopped email and collaboration services for millions of users. On November 16, company vice president Charles Lamanna apologized publicly and published the findings of the internal investigation, confirming that hackers had not breached the platform.",
+  "The investigation explained that an update released in July introduced a 'lock contention' flaw, in which internal software threads freeze and stop responding under heavy pressure. That coincided with the migration of the Teams service to the main gateway about 15 hours before the incident, and the loss of 14% of server capacity the day before, so more than 80% of nodes collapsed within two hours.",
+  "Automatic failover and regional isolation systems also failed to contain the crisis, as load balancers sent traffic back to the healthy servers and overwhelmed them in turn, then waves of client reconnections brought the servers down again during repair attempts. Most seriously, the Exchange Online email service has no backup gateway at all, so Outlook users stayed down the longest, more than 30 hours.",
+  "Simply put: a small update, testing on old hardware, and a chain of simultaneous circumstances brought down a giant cloud; so is it enough for a service to work on ordinary days, or does the real test begin when it collapses all at once?"
+ ]
+}

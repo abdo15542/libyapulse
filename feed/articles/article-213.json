@@ -1,0 +1,20 @@
+{
+ "id": 213,
+ "slug": "article-213",
+ "title": "🦾 Gemini 4 Hydrogen: A Faster Robotics Model from Google!",
+ "date": "2026-11-20",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r103-w103-24.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Robotics"
+ ],
+ "body": [
+  "🦾 Gemini 4 Hydrogen: A Faster Robotics Model from Google!",
+  "Google announced its new “Gemini 4 Hydrogen” robotics model, which is faster than its predecessor “Gemini Robotics ER 2” and replaces it, priced at $1.50 per million input tokens and $7.50 per million output tokens, with a context of up to one million tokens. It also launched a robotics extension for the “Antigravity” tool, covering device setup, MuJoCo simulation, and robot control, so that a “robot in a box turns into a working app in a single afternoon,” and a robotic arm was calibrated in only about 10 minutes. The extension is open source under the Apache 2.0 license, but it requires a paid Google AI Pro or Ultra subscription.",
+  "Simply put: the new model is a faster brain for robots; and with the new development tool, programming a real robot becomes much easier than before.",
+  "Can you imagine a robot in your home within a few years?"
+ ]
+}

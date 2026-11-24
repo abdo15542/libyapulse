@@ -1,0 +1,20 @@
+{
+ "id": 225,
+ "slug": "article-225",
+ "title": "🌍 Tencent opens its Hy4 Flash model to run on your device!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r104-w104-10.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🌍 Tencent opens its Hy4 Flash model to run on your device!",
+  "Chinese company Tencent has published the weights of its new 'HY4 Flash' model for download and local use, just two days after launching it through its apps and cloud interface. The model has about 220 billion parameters, with only about 12 billion active per token, and supports text and images with a context of up to one million tokens — the equivalent of hundreds of books at once. Three versions are available: the regular model, a compressed version, and a base version for training, with official run materials, targeting everyday productivity tasks such as research, preparing documents, and spreadsheets.",
+  "Simply put: instead of renting the model from the company's cloud, you can now download it and run it on your own devices, so your data stays with you and you control the cost yourself.",
+  "Do you prefer running AI models on your own device or through the cloud?"
+ ]
+}

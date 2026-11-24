@@ -1,0 +1,23 @@
+{
+ "id": 516,
+ "slug": "article-516",
+ "title": "🧪 Nvidia Launches an AI That Thinks Like a Chemistry Scientist — and 50,000 Questions to Train It!",
+ "date": "2026-11-21",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r142-w142-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Science"
+ ],
+ "body": [
+  "🧪 Nvidia Launches an AI That Thinks Like a Chemistry Scientist — and 50,000 Questions to Train It!",
+  "Nvidia announced on November 16, during the SC26 supercomputing conference in Chicago, Nemotron for Science — a suite that helps researchers build AI agents specialized in scientific discovery, combining the open Nemotron 3.5 Super VL model, a new chemistry dataset, and training recipes to adapt the model to precise scientific tasks.",
+  "The suite includes the open Litmus Bench 0.2 set — about 50,000 short-answer chemistry questions for training models and evaluating their chemical reasoning, including 47,118 training questions and 2,056 test questions, drawn from molecular databases and drug discovery — helping predict how molecules behave, such as their solubility and how the human body handles them.",
+  "Early experiments showed striking results: Lila Sciences used the model to design lab-ready protocols, doubling its accuracy in making quantum dots — nanoscale crystals used in screens and solar cells — to 61%, surpassing GPT-6 Astra's 54% at 10 to 20 times lower inference cost, while Terray Therapeutics extracted chemical-reaction data from the model at 76% accuracy in the RxnScribe test.",
+  "Therna nearly doubled the model's accuracy in predicting protein-expression ranges when designing mRNA therapies, and scientists preferred its explanations in 96% of comparisons, while Sweden's KTH Institute built an agent on the model that single-handedly fixed 81% of broken molecular-simulation setups overnight on a single DGX Spark device — and the model and dataset are now available on Hugging Face.",
+  "Simply put: imagine having an assistant that has read 50,000 chemistry questions, able to suggest a complete lab experiment for you, or fix a broken simulation while you sleep — that is what Nvidia wants science agents to do.",
+  "Will AI become a colleague for scientists in the lab, or a replacement for them?"
+ ]
+}

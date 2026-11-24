@@ -1,0 +1,23 @@
+{
+ "id": 430,
+ "slug": "article-430",
+ "title": "📱 'GrapheneOS' Accuses 'Google' of Pressuring Phone Makers to Push It Away!",
+ "date": "2026-11-21",
+ "category": "phones",
+ "category_name": "Phones & Devices",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r129-w129-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Smartphones"
+ ],
+ "body": [
+  "📱 'GrapheneOS' Accuses 'Google' of Pressuring Phone Makers to Push It Away!",
+  "In a series of posts on its \"Mastodon\" account on November 19, the \"GrapheneOS\" project — the open-source, privacy-focused operating system — accused \"Google\" of trying to convince phone manufacturers not to support it, or even not to support unlocking the bootloader at all.",
+  "According to the project, \"Google\" repeatedly contacts companies to ask whether they work with it, then threatens them with the licensing terms for Google's mobile services — terms the project says several courts have found unlawful. It also accuses Google of making a growing number of features and updates exclusive to \"Pixel\" phones.",
+  "The project expects \"Google\" to soon begin locking the bootloader in \"Pixel\" phones — the only phones the system officially runs on so far — after a long-term partnership with \"Motorola\" announced in March. The project also criticized the \"Play Integrity\" interface, saying its main purpose is enforcing licensing terms, which could deprive its users of apps that rely on it, including banking apps.",
+  "\"Google\" has not responded to the accusations so far, while the project says it is seeking a meeting with the US Department of Justice, and distinguishes between Google's engineers who helped it and the company's commercial side.",
+  "Simply put: a small privacy system says the phone giant is pressuring companies to keep it alone on the stage, and if the bootloader-unlocking door closes, there may be no room left for alternative systems.",
+  "Do you support your right to install any system on your phone, or do the restrictions protect you?"
+ ]
+}

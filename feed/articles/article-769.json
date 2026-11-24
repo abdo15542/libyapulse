@@ -1,0 +1,21 @@
+{
+ "id": 769,
+ "slug": "article-769",
+ "title": "⚡ An AI Agent Programs an FPGA Chip... and Speeds It Up 33 Times!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r199-w199-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "⚡ An AI Agent Programs an FPGA Chip... and Speeds It Up 33 Times!",
+  "On November 20, an independent engineer revealed how he used AI coding agents to run a language model on a reprogrammable FPGA chip, even though he had not written low-level code for a full decade and had never written Verilog in his life. The engineer rented a virtual chip from Amazon with 16 GB of memory, and left the agent working for several days in a self-guided search loop, encouraging it from time to time only.",
+  "The agent wrote about 3 million lines of code across hundreds of experiments, mostly in C++ and some in Verilog, and analyzed 30 million lines of experiment results, at a token cost of about $10,000. Speed started at 6.43 tokens per second, then improved step by step until it reached 213 tokens per second, 33 times faster, with results matching the reference computer bit for bit.",
+  "The striking part is that most improvements were small and cumulative: reducing host command time, speeding up attention, and balancing the router, until the agent lowered the clock frequency slightly after a stress test revealed random faults. The engineer says the models themselves suggested most of the ideas, and that the human role has become setting correctness criteria and iteration speed, not writing every line.",
+  "Simply put: a chip whose design was once the exclusive domain of hardware experts has become a project for an AI agent; do you think low-level programming will become accessible to everyone, or is human expertise still what makes the difference?"
+ ]
+}

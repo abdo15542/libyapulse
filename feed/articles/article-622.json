@@ -1,0 +1,26 @@
+{
+ "id": 622,
+ "slug": "article-622",
+ "title": "🔑 A single encrypted key is enough to steal your apps' data — critical flaw in the GPGME library!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r160-w160-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔑 A single encrypted key is enough to steal your apps' data — critical flaw in the GPGME library!",
+  "The GnuPG project warned of a critical flaw in the GPGME library, the standard library that programs use to work with the GnuPG encryption system, which could be used to steal data from affected applications.",
+  "The flaw, known as CVE-2026-129975, is triggered by an OpenPGP key carrying an unusually long user ID, causing a memory error known as a \"double-free\" — freeing the same memory twice.",
+  "The flaw affects all programs using the library before version 2.3.0, whether the library is loaded as a shared library, as a DLL file in Windows, or built into the program itself.",
+  "Among the affected programs are most email clients, many messaging clients, the Samba software, and the Gpg4win and GnuPG Desktop packages — in other words, exposure is wide because the library sits behind a large part of the encryption infrastructure in the software world.",
+  "The project says the flaw could be used to steal data from applications by sending signed data to them, and its use for remote code execution cannot be ruled out, although no attacks exploiting it have been observed so far.",
+  "Researcher Johan Carlsson discovered the flaw and reported it to GitLab on November 12. The original disclosure date was November 25, but it was brought forward because another flaw forced the company to update early.",
+  "The fix is version 2.3.1 of the library, the Gpg4win 5.1.2 package for Windows users, and version 1.24.4 for the older branch; versions built into applications need to be rebuilt by their developers.",
+  "Simply put: a single encryption key that is longer than it should be is enough to break the memory of entire programs. Sometimes the most dangerous attack is the simplest unexpected entry point.",
+  "Do you update your encryption and email programs as soon as a critical security fix is released?"
+ ]
+}

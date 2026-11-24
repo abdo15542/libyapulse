@@ -1,0 +1,20 @@
+{
+ "id": 203,
+ "slug": "article-203",
+ "title": "🔑 A Critical OpenSSL Flaw Rated 9.8 out of 10!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r103-w103-14.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔑 A Critical OpenSSL Flaw Rated 9.8 out of 10!",
+  "A critical flaw in the OpenSSL encryption library was published on November 18, numbered CVE-2026-121481 and rated 9.8 out of 10 in severity, caused by an overflow in an encoding function when processing inputs close to the maximum integer value. The flaw affects versions 4.1.0 to 4.1.1 and 4.0.0 to 4.0.4, and the fix was released in the new updates, in addition to another flaw rated 7.5, numbered CVE-2026-121482, which could cause a service outage by exhausting the processor.",
+  "Simply put: OpenSSL is an encryption library used by millions of websites and servers; a flaw in it could open a door for attackers everywhere, so updating is a top priority.",
+  "Did you know that most websites on the internet depend on this library?"
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "id": 604,
+ "slug": "article-604",
+ "title": "🔊 \"Qwen3\" learns to speak — a synthetic voice that starts within 97 milliseconds!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r157-w157-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🔊 \"Qwen3\" learns to speak — a synthetic voice that starts within 97 milliseconds!",
+  "The company Together AI added a new model called \"Qwen3\" for text-to-speech — a model that turns any written text into spoken voice with a natural sound.",
+  "The model's most distinguishing feature is its speed: in streaming, the first audio segment starts within just 97 thousandths of a second — faster than the blink of an eye.",
+  "\"Text-to-speech\" technology is what makes voice assistants, audiobooks and robots talk to us, instead of being limited to writing.",
+  "\"Streaming\" means the voice starts before the whole sentence has finished generating, so the user feels the reply is instant, without annoying waiting.",
+  "These models are used in voice assistants, in reading articles to blind people, in dubbing videos, and in customer-service robots that talk to you on the phone.",
+  "Simply put: imagine writing a sentence and a human voice reads it to you within less than a tenth of a second. That is what the new \"Qwen3\" does.",
+  "Do you prefer AI to read articles to you in a voice, or to read them yourself?"
+ ]
+}

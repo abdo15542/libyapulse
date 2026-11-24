@@ -1,0 +1,26 @@
+{
+ "id": 629,
+ "slug": "article-629",
+ "title": "🛒 Data of around 3,800 people leaked from Mercari after an AI supplier was hacked!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r161-w161-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛒 Data of around 3,800 people leaked from Mercari after an AI supplier was hacked!",
+  "Japanese e-commerce company Mercari announced on November 20 that the data of around 3,800 people may have leaked, after an AI company that processed data for an AI assistant the company uses internally was hacked.",
+  "The story is that company employees were typing into the Notion AI assistant between October 5 and 24, and those texts, along with some of the assistant's replies, were stored in the environment of Fireworks AI, a US company that processed part of the assistant's work.",
+  "A third party hacked the Fireworks environment and reached those stored records, including the data of 1,522 customers, 571 business-partner contacts, 169 job applicants and 1,534 temporary, contracted and former employees.",
+  "The exposed data included customer ID numbers, some names, emails, addresses, phone numbers, dates of birth, service-usage details and enquiries — but not bank card numbers, national ID numbers or customer passwords.",
+  "Notion informed Mercari on November 10, and Mercari formed a response team the same day. Notion cut its connection to Fireworks by November 12 and confirmed that the affected records had been deleted from its environment.",
+  "Mercari also revoked all credentials for its commercial systems found in the records and reissued them, and notified Japan's Personal Information Protection Commission and the relevant authorities.",
+  "This is the third publicly disclosed victim of the Fireworks breach, after Notion and Uber, in a chain showing how hacking a single supplier turns into a leak affecting the customers of other companies whose systems were never hacked at all.",
+  "Simply put: your data can leak from a company you never dealt with, because the company you deal with handed it to a supplier, and the supplier handed it to another supplier. A long chain you never see — but it carries your data.",
+  "Do you know where your data is stored when you type it into an AI assistant at work?"
+ ]
+}

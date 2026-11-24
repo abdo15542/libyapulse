@@ -1,0 +1,21 @@
+{
+ "id": 247,
+ "slug": "article-247",
+ "title": "🔥 Fireworks: cheaper open models rival AI giants... but two breaches shake customer trust!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r106-w106-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🔥 Fireworks: cheaper open models rival AI giants... but two breaches shake customer trust!",
+  "American company 'Fireworks' became the talk of the 'Slush' startup conference in Helsinki, because it offers companies a cheaper, faster alternative to the big closed models. Instead of paying huge amounts for every query, a company can customize an open model with its own data, so it works faster, costs less, and its work stays its own. Its customers include well-known companies such as 'Uber', 'Shopify', and 'Notion'.",
+  "But the company revealed this autumn two security incidents that shook its trust: in the first, attackers reached API keys and secret tokens for a limited number of accounts, and in the second they breached a cloud provider the company works with, reaching a development system and stealing customer data including billing records and datasets. 'Notion' said AI conversations from less than 1% of its workspaces had leaked, then cut ties with the company, while 'Uber' said data of about 150,000 drivers, including names, addresses, dates of birth, and driving license numbers, was stolen through a vendor identified in reports as 'Fireworks'. The company is valued at about $17.5 billion and is in early talks for a new funding round.",
+  "Simply put: open models are like a free cooking recipe any restaurant can adapt and serve under its own name, instead of buying an expensive ready meal every time; but 'Fireworks' discovered that cheapness alone is not enough — security is what keeps customers.",
+  "Do you prefer a cheaper open model your company owns, or a stronger closed model you pay for every month?"
+ ]
+}

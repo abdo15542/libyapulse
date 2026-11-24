@@ -1,0 +1,20 @@
+{
+ "id": 198,
+ "slug": "article-198",
+ "title": "🗄️ Code-Execution Flaws in Famous Databases… and the Updates Have Arrived!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r103-w103-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🗄️ Code-Execution Flaws in Famous Databases… and the Updates Have Arrived!",
+  "A security researcher revealed a series of flaws that let low-privilege accounts run code on the database server itself. The list includes a type-confusion flaw in PostgreSQL numbered CVE-2026-116331 and fixed on November 12, a flaw in the MySQL query optimizer numbered CVE-2026-101786 and fixed on October 20, a flaw in Oracle Text rated 9.9 out of 10 numbered CVE-2026-114819 and fixed on November 17, plus an unauthenticated series in ORDS GraphQL numbered CVE-2026-91609 and fixed on October 20, and an integer-overflow flaw in ClickHouse fixed in version 26.9 and later. Exploitation proofs were published on November 18, and no real attacks have been observed so far.",
+  "Simply put: a database is not just a store for information; a flaw in it could hand the attacker the keys to the whole server, and the latest updates close these gaps.",
+  "Do you apply database updates as soon as they come out?"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "id": 797,
+ "slug": "article-797",
+ "title": "💸 $1.58 Million Stolen From a Digital Wallet in Just 36 Minutes!",
+ "date": "2026-11-22",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r208-w208-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Crypto"
+ ],
+ "body": [
+  "💸 $1.58 Million Stolen From a Digital Wallet in Just 36 Minutes!",
+  "Analysts traced the theft of at least $1.58 million from the Fluid Key digital wallet, in an operation that took just 36 minutes, in which the attacker exploited an intermediary system that paid funds on behalf of users.",
+  "The theft took place on November 19, between 17:28 and 18:04 GMT, as the intermediary paid funds from users' accounts across six different blockchain networks, with half the stolen amount reaching the attacker within just five minutes of the operation's start.",
+  "The company later revealed that the attacker exploited flaws in an external logging tool to obtain users' session data, then prepared unauthorized transfers on its servers, to be signed when the user opened the app. It confirmed that the private keys controlling users' funds never left their devices.",
+  "Hours after the theft, about 881 Ethereum coins, worth about $1.57 million, were moved to the Tornado Cash coin-mixing service, a step that makes tracing the funds harder. On November 20, the wallet returned to service with version 1.79.22, with all old versions blocked, and the company promised a full report on the incident that has not yet been issued.",
+  "Simply put: an intermediary that paid for you became a gateway for a thief, and 36 minutes was enough to steal millions; so do you trust a wallet that pays on your behalf, or do you prefer your keys to stay in your hands alone?"
+ ]
+}

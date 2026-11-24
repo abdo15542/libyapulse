@@ -1,0 +1,22 @@
+{
+ "id": 331,
+ "slug": "article-331",
+ "title": "💬 WhatsApp finally backs up your chats on its own servers... no Google Drive or iCloud!",
+ "date": "2026-11-20",
+ "category": "apps",
+ "category_name": "Apps & Platforms",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r119-w119-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "WhatsApp"
+ ],
+ "body": [
+  "💬 WhatsApp finally backs up your chats on its own servers... no Google Drive or iCloud!",
+  "WhatsApp has begun rolling out its own cloud backup service on Android phones, giving you 2 gigabytes of free space to save your chats on WhatsApp's own servers, without relying on Google Drive. The feature currently appears for a limited group of beta testers on version 2.26.46.4, while it has also started appearing for iPhone testers as an alternative to iCloud.",
+  "Until now, Android users relied on Google Drive, where the backup counts against the Google account space shared between email, photos, and other services, while the new option gives you separate space that consumes nothing from your account. The backup screen will show two options to choose between at any time: 'WhatsApp cloud storage' and 'Google storage'.",
+  "Most importantly, end-to-end encryption is mandatory for backups stored on WhatsApp's servers, so neither WhatsApp nor its parent company can read their content. You can secure the backup with a passkey, or with a 64-digit encryption key. Those needing more space can subscribe to 'WhatsApp Plus' for 100 gigabytes, or plans up to 4 terabytes, keeping the latest backup for four months after the subscription ends before it is deleted permanently. The backup still cannot be restored when moving between iPhone and Android, and no date has been announced for the feature to reach everyone.",
+  "Simply put: after years of relying on Google and Apple, WhatsApp now saves your backup itself — but the free space is small, and moving between the two systems still needs another method.",
+  "Do you prefer WhatsApp's own backup, or will you stay with Google Drive?"
+ ]
+}

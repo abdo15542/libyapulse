@@ -1,0 +1,27 @@
+{
+ "id": 501,
+ "slug": "article-501",
+ "title": "⛓️ Ukraine Arrests 4 Members of a Ransomware Gang — $40 Million from 28 Companies!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r138-w138-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "⛓️ Ukraine Arrests 4 Members of a Ransomware Gang — $40 Million from 28 Companies!",
+  "The National Police of Ukraine, in cooperation with the US FBI, announced on November 18 the arrest of four key suspects in an international ransomware network, after an investigation lasting about two years.",
+  "Authorities carried out 66 simultaneous searches in the capital Kyiv and 11 other regions, seizing computers, phones, and bank cards, in addition to about $370,000 in cash and €20,000.",
+  "Investigators say the four arrested are members of a core cell of 27 people, within a wider network of more than 60 people in eight countries, including former members of the famous Conti gang, without specifying which of the arrested belong to it.",
+  "The acting police chief said at least 28 companies paid more than $40.5 million in ransoms to the network, and that the scale of the damage may be larger than that.",
+  "Court records indicate that the ransomware used is Chaos, and that among the victims are a US oil company that paid $5 million in 2024, a natural resources company that paid $1.5 million, and a health company that paid $5 million in June 2026 after an initial demand of $15 million.",
+  "According to the investigation, the network relied on AI-generated voice calls in which attackers impersonated technical support staff, fake login pages for companies' virtual networks, forged phone numbers, and convincing employees to install remote access programs such as TeamViewer and AnyDesk, and in at least one case stealing a two-factor verification code.",
+  "The attackers would steal data and encrypt files, then threaten to publish the stolen data if the company refused to pay — the double-extortion method that has become common in modern ransomware attacks.",
+  "The arrested face charges of participating in a criminal organization and unauthorized interference in information systems, punishable by up to 15 years in prison, and have been remanded in custody until January 1, with bail exceeding 2.6 million hryvnias for three of them.",
+  "Simply put: the gang was not only hacking systems by force, but deceiving employees with voice and messages until they opened the door themselves; the most dangerous vulnerability is sometimes the human himself.",
+  "Do you trust that your company's employees know how to tell a fake technical support call?"
+ ]
+}

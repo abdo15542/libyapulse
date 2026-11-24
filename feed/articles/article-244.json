@@ -1,0 +1,20 @@
+{
+ "id": 244,
+ "slug": "article-244",
+ "title": "🕳️ Claude helps solve two open problems in black hole physics!",
+ "date": "2026-11-20",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r105-w105-14.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Science"
+ ],
+ "body": [
+  "🕳️ Claude helps solve two open problems in black hole physics!",
+  "Anthropic's AI model 'Claude' has helped researchers solve two open problems in the theoretical physics of black holes, concerning complex calculations and setting limits on black hole masses within theoretical frameworks of quantum gravity. Researchers used the model to carry out long, error-prone algebraic operations, within a method known as the 'bootstrap', which constrains physical theories with consistency conditions without relying on traditional calculations. The results do not describe our real universe and have no practical applications now, but they contribute to the ongoing academic effort to reconcile quantum mechanics and general relativity — two theories describing the world on completely different scales. The announcement sparked debate about the lack of transparency around the prompts used to achieve the results, and about whether a scientific achievement of this size should be presented as a side note within an announcement of a new model release.",
+  "Simply put: solving black hole physics problems needs huge mathematical calculations where humans easily make mistakes; so researchers used AI as a super-accurate calculator that carries out these calculations tirelessly.",
+  "Is AI a tool for scientists, or a competitor to them?"
+ ]
+}

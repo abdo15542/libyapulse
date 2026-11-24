@@ -1,0 +1,25 @@
+{
+ "id": 956,
+ "slug": "article-956",
+ "title": "🔒 Signal Closes the Door on AI Agents! Screenshots Blocked by Default... and the Protection Is 'Incomplete'!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r247-w247-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔒 Signal Closes the Door on AI Agents! Screenshots Blocked by Default... and the Protection Is 'Incomplete'!",
+  "The encrypted messaging app Signal announced on 20 November that it will block screenshots by default inside the app, in a move targeting AI agents built into operating systems, which read what appears on your screen to carry out your tasks.",
+  "The protection works in two ways: on iPhones running iOS 27, screenshots are blocked inside Signal directly, while on Android the app automatically enables its 'screen security' feature when it detects a smart assistant trying to read the screen. The goal is the same: to stop the Siri and Gemini assistants from reaching your private conversations.",
+  "Anyone who wants to disable the protection can do so from the settings, under 'Settings, then Privacy, then App Security' — but Signal warns explicitly that turning it off may expose your messages and your contacts' messages to AI agents, and break the privacy guarantees it promises.",
+  "The company itself admits the solution is 'not complete': blocking screenshots does not close every door, since an agent can reach the app's data through the file system itself, and Mac devices get no protection at present, because the tools needed to build it are not available to developers.",
+  "The move came after a striking incident revealed by a major news agency: an AI agent from a rival company was able to read Signal messages through the access permissions granted to it during setup — on Mac it used accessibility tools and screenshots to extract the texts, and on Android it read the messages from notifications.",
+  "Signal's president describes the AI agents built into operating systems as an 'existential threat' to the app, and calls on operating system companies for two simple things: a clear button that lets any app block AI access to its data entirely, and precise technical documentation explaining how these agents reach the data.",
+  "Simply put: Signal stops AI agents from reading your screen, but admits the protection is incomplete, and the real solution is in the hands of the operating system companies... do you trust that your private conversations stay private when AI reads your screen?",
+  "Would you turn off screenshots inside your private apps, or do you always need them?"
+ ]
+}

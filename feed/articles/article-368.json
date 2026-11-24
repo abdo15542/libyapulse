@@ -1,0 +1,22 @@
+{
+ "id": 368,
+ "slug": "article-368",
+ "title": "🗄️ 'PostgreSQL 19' Reaches 'Lakebase' and 'Neon' on Launch Day — with New Database Tools!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r122-w122-09.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "🗄️ 'PostgreSQL 19' Reaches 'Lakebase' and 'Neon' on Launch Day — with New Database Tools!",
+  "Version 19 of the open-source database \"PostgreSQL\" was released on November 19, and reached the \"Lakebase\" platform from \"Databricks\" and \"Neon\" on the same day — rare speed, since new versions usually take weeks to reach managed services. Users can now create a new project and choose version 19 directly.",
+  "The new release adds the \"REPACK\" command, which rebuilds a bloated table and reclaims unused space while normal reading and writing continue for most of the process, plus the \"pg_plan_advice\" and \"pg_stat_advice\" extensions to pin query execution plans and stop the optimizer from suddenly switching to a slower plan, and the \"WAIT UNTIL LSN\" command that lets an application confirm a database replica has caught up with the latest write before reading from it.",
+  "The release also adds parallel automatic index cleanup, sequence-value synchronization in logical replication, and an \"ON CONFLICT CHOOSE\" mode that returns the existing row or the new inserted row without a fake update. Engineers from the \"Lakebase\" team itself helped develop this release, from execution-plan advice to shared-memory management. The company advises testing workloads in a development environment before moving production to the new version.",
+  "Simply put: the famous database is now faster to maintain and more stable in performance, and managed services caught up with it on day one — so there's no need to wait the usual weeks.",
+  "Do you upgrade your databases as soon as a new version comes out, or wait until it stabilizes?"
+ ]
+}

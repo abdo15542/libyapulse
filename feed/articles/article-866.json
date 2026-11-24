@@ -1,0 +1,21 @@
+{
+ "id": 866,
+ "slug": "article-866",
+ "title": "💾 A complete AI on a floppy disk! The \"Tiny 2.1\" model runs on a computer from the nineties!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r223-w223-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "💾 A complete AI on a floppy disk! The \"Tiny 2.1\" model runs on a computer from the nineties!",
+  "A developer called Wally Monjack has published a tiny AI model called \"Tiny 2.1\" that runs on the old MS-DOS system, on computers with 486 and Pentium processors from the nineties, and fits entirely — program and weights — on a single 1.44 MB floppy disk.",
+  "The model is not a large language model: it has just 367,000 parameters spread over 4 layers, reads and writes character by character, its weights are only 380 KB, the whole program is about 435 KB, and it needs 540 KB of free memory. It was written in Turbo C 2.0, and the Claude Fable 5.2 model wrote its architecture, while the Opus 5.5 model generated its training data: around 3,500 facts in different phrasings.",
+  "Its interface, in bright neon colours, shows the conversation history and a live monitor of the neural network's activity, and it answers with a robotic voice through the old computer's internal speaker. The project is open source under the MIT licence, and can be tried in a DOS emulator or retrained on other topics. But it answers well only about the facts it was trained on — for complex or long questions it invents answers with confidence.",
+  "Simply put: huge models need data centres, but this model proves that the same idea works in less than half a megabyte — so will the age of small, lightweight software return, or will AI remain the preserve of powerful hardware?"
+ ]
+}

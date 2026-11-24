@@ -1,0 +1,20 @@
+{
+ "id": 158,
+ "slug": "article-158",
+ "title": "🛡️ The New “MAT” System Protects Your Phone from Dangerous AI Agents!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r101-w101-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ The New “MAT” System Protects Your Phone from Dangerous AI Agents!",
+  "Researchers unveiled a new runtime layer for Android phones, called “MAT,” that watches what AI agents try to do on the phone and decides whether to allow it, block it, or ask the user first. In safety tests, the blocking rate for high-risk actions rose from 29.7% to 97% when used with the GPT-4o model. It also cut the number of language-model calls by up to six times, and achieved a 95.7% success rate on repeated tasks.",
+  "Simply put: an AI agent is an assistant that carries out tasks on your phone by itself; the new system works like a guard that stops it from taking any dangerous step without your permission, while at the same time making it faster and less data-hungry.",
+  "Would you trust a smart assistant to carry out tasks on your phone by itself?"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "id": 675,
+ "slug": "article-675",
+ "title": "👻 Snapchat lets you build augmented reality filters with your AI assistant — just describe the idea in your own words!",
+ "date": "2026-11-21",
+ "category": "phones",
+ "category_name": "Phones & Devices",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r178-w178-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Snapchat"
+ ],
+ "body": [
+  "👻 Snapchat lets you build augmented reality filters with your AI assistant — just describe the idea in your own words!",
+  "Snapchat has launched a new tool called \"Easy Lens CLI\" that lets developers build augmented reality filters known as \"Lenses\" using the AI coding assistants they already use, such as Claude Code, Codex and Cursor, without learning a new tool.",
+  "The idea is simple: the developer describes the filter they want in ordinary words, and the AI assistant handles all the technical steps, from building with more than 100 ready-made augmented reality blocks and more than 50 AI asset generators, to testing the filter by showing a demo video and sending it to their phone to try it, then publishing it on Snapchat and tracking its performance — all in the same session.",
+  "\"Augmented reality\" is a technology that adds digital elements over what the camera sees, like an animated mask on a face or a game appearing on your table; \"Lenses\" are the filters and effects that users put on their photos and videos in Snapchat.",
+  "The tool is free with a Snapchat account, works on Mac, Windows and Linux, and filters made with it go through the same content review and usual publishing path. Their creators can earn money through the \"Lens+\" programme, which paid $1.8 million to community creators in the last month alone.",
+  "Simply put: building an augmented reality filter no longer needs writing code — just describing the idea in your words and letting the AI assistant build it. Would you ever try making your own filter this way?"
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "id": 201,
+ "slug": "article-201",
+ "title": "📧 A Breach Halts Mail Services at N-able… but the Mail Still Works!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r103-w103-11.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "📧 A Breach Halts Mail Services at N-able… but the Mail Still Works!",
+  "N-able suffered a breach in a single hosted cloud server serving its “Mail Assure” spam-filtering product, which stopped the admin portal, APIs, quarantine service, and logs in the Americas, Asia-Pacific, and Europe. The company confirmed that mail flow and filtering are still working normally, and that there is so far no evidence of customer data leaking, while the disruption began on November 16 and was first thought to be a configuration problem.",
+  "Simply put: the breach hit the control panel, not the mail itself; your messages arrive and are filtered as usual, but system admins cannot manage the service for now.",
+  "Do you rely on an outside service to filter spam?"
+ ]
+}

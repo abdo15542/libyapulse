@@ -1,0 +1,22 @@
+{
+ "id": 307,
+ "slug": "article-307",
+ "title": "📷 Apple opens 'Depth Pro 2' models: your camera measures distances in meters!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r113-w113-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "📷 Apple opens 'Depth Pro 2' models: your camera measures distances in meters!",
+  "Apple has published the second generation of its 'Depth Pro 2' model with open weights on 'Hugging Face' and 'GitHub', a model that turns any ordinary photo or video into an accurate depth map measuring the real distance of every point in the scene.",
+  "The model comes in four sizes: the small 'S' with about 24 million parameters and a size of 97 megabytes, the medium 'B' with about 97 million parameters, the large 'L' with about 334 million parameters, and the largest 'H+' with about 872 million parameters and a size of 3.5 gigabytes, which is the default for best quality. A small focal-length estimator of about 23.5 million parameters works with it, so the model knows distance in meters even from photos carrying no camera data. New in this generation is video processing: it keeps depth stable across successive frames and keeps edges sharp around objects, making it suitable for background isolation in video and 3D depth effects.",
+  "The model runs on Nvidia cards, on Apple devices with their own processors, and on regular processors, with dedicated versions for Apple devices and live depth preview on modern Macs. But the weights are available for non-commercial scientific research only under Apple's license, so they may not be put in a paid product or commercial app. Apple has not yet published comparison numbers or a final research paper, so the promises of edge sharpness and video stability still come from the company's own announcement and have not been verified by an independent party.",
+  "Simply put: imagine an ordinary photo from your phone camera turning into a map that tells you the lamp is 1.8 meters away and the wall is 4 meters away; that is how AI sees the world in depth, not as a flat picture.",
+  "Do you use apps that measure distances with the camera, or do you trust the traditional tape measure more?"
+ ]
+}

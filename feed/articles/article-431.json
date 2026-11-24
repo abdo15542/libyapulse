@@ -1,0 +1,22 @@
+{
+ "id": 431,
+ "slug": "article-431",
+ "title": "🤖 AI Agents Hack a Medical Server in 11 Minutes — and Discover a Flaw Nobody Knew!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r129-w129-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🤖 AI Agents Hack a Medical Server in 11 Minutes — and Discover a Flaw Nobody Knew!",
+  "Security researchers have revealed that hackers used an AI penetration-testing platform called \"Kern\" to discover a previously unknown flaw in the \"MONAI Label\" app — an open-source app that helps researchers classify medical images with AI — then exploited it to take full control of the server.",
+  "The campaign began between September 8 and 10, 2026, targeting universities in East Asia, after the attackers left their copy of the platform exposed on the internet without protection, so researchers discovered it. The attackers simply gave the agents one order: \"gain access to the system\" — and the agents alone discovered a path-traversal flaw allowing files to be written anywhere, moving within 11 minutes from scanning the app to exploiting the flaw, then planting a backdoor that gave them root privileges.",
+  "The campaign was attributed to a China-linked actor with medium confidence, based on the language of recovered commands, activity times, and target selection. The fix was merged on October 19, but no patched release has been issued yet, and the flaw affects versions up to 0.8.5.",
+  "Simply put: the attacker no longer needs to be an expert; they just ask AI agents to \"hack this\", and the agents find the flaw and exploit it on their own in minutes.",
+  "Do you think automated defenses can keep up with automated attacks this fast?"
+ ]
+}

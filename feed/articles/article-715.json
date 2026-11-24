@@ -1,0 +1,22 @@
+{
+ "id": 715,
+ "slug": "article-715",
+ "title": "💻 Intel's Nova Lake-S appears with 28 cores and 5.2 GHz — and a laptop version with 16 cores!",
+ "date": "2026-11-22",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r187-w187-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Intel"
+ ],
+ "body": [
+  "💻 Intel's Nova Lake-S appears with 28 cores and 5.2 GHz — and a laptop version with 16 cores!",
+  "A new desktop processor from Intel has been spotted in the OpenBenchmarking database — an engineering sample of the next-generation Nova Lake-S with 28 cores running at 5.2 GHz, on an Intel reference board with 32GB of memory and Ubuntu 26.04. The result was recorded on November 5, with no actual performance result attached, which means speed alone is not enough to judge the chip's power yet.",
+  "The chip is likely made up of 8 performance cores, 16 efficiency cores and 4 low-power cores — a split that has become common in modern Intel processors: the powerful cores for heavy tasks, and the economical cores for light tasks all day. Intel has not confirmed any official details yet — everything we know so far comes from benchmark database leaks.",
+  "In the same leak, specifications appeared for a laptop version called Nova Lake-H with 16 cores, a top speed of 4.8 GHz, 18MB of cache and only 25W of power consumption, with support for fast DDR5-8000 memory. This version is aimed at laptops, where efficiency and power consumption matter as much as speed.",
+  "Earlier reports suggest the launch may begin in the first quarter of 2027, starting with the 28-core version, while power requirements raise questions: SilverStone has launched a new power supply with three processor cables, explicitly citing the high power needs of Nova Lake-S, and there are rumours of power limits reaching 474W in a future 52-core version.",
+  "Simply put: a new chip appears in tests at high speed months before its launch, but early numbers mean nothing until people actually try it. Will you wait for Nova Lake for your next device, or is your current processor enough for you?"
+ ]
+}

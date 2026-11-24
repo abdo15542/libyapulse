@@ -1,0 +1,25 @@
+{
+ "id": 1179,
+ "slug": "article-1179",
+ "title": "🧩 Claude Turns into an App Store! More than 10,000 Add-ons — Even for Free Users!",
+ "date": "2026-11-24",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r297-w297-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🧩 Claude Turns into an App Store! More than 10,000 Add-ons — Even for Free Users!",
+  "Anthropic announced on Monday, November 23, the merging of \"connectors\" and \"skills\" in Claude under a single name: \"plugins\", making the AI assistant closer to an app store.",
+  "The add-ons used to be spread across three separate places; now a single \"plugins\" page gathers them, each card showing the add-on's type, with the option to filter the list to show only skills or only connectors.",
+  "Connectors link Claude to external services such as email, calendars, and company databases, while skills are instruction packages that teach it a specific task, such as building a spreadsheet in a specific format.",
+  "The new store holds more than 10,000 add-ons to browse, and public add-ons carry a \"verified\" or \"community\" tag, while your company's or colleagues' add-ons appear first under \"Your plugins\".",
+  "The feature is available starting today on the Free, Pro, Max, and Ultra plans, and it will reach the Team and Enterprise plans soon, starting November 30 gradually.",
+  "And there is an important warning: deleting a plugin does not cut off the connector built into it — if you remove a plugin that accesses your email, the connection stays active until you disconnect it yourself from the connector settings.",
+  "Simply put: Claude is no longer just a smart conversation — it is a platform that learns new professions and reaches your tools, and plugins are the way to get there.",
+  "Do you trust a plugin that accesses your email and files inside an AI assistant?"
+ ]
+}

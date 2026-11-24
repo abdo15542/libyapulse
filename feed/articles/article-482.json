@@ -1,0 +1,23 @@
+{
+ "id": 482,
+ "slug": "article-482",
+ "title": "🎣 The Lucid Platform Sells Fraud on a Weekly Subscription — Targeting iPhone and Android Phones in 88 Countries!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r135-w135-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🎣 The Lucid Platform Sells Fraud on a Weekly Subscription — Targeting iPhone and Android Phones in 88 Countries!",
+  "Security researchers uncovered a ready-made fraud platform called Lucid, used by criminals to send scam messages to iPhone and Android phones in 88 countries, for a weekly subscription sold via the Telegram app.",
+  "The platform works as a ready-made service: anyone pays the license fee and gets tools to send wide scam campaigns without needing any technical expertise, just as one subscribes to a streaming service or an ordinary program.",
+  "The messages rely on iMessage and RCS apps instead of ordinary text messages, because the full encryption in them lets messages bypass usual spam filters. Operators use device farms containing real iPhone and Android phones to send messages in huge numbers.",
+  "The messages often disguise themselves as notifications from banks, delivery companies, or official bodies, aiming to steal passwords, card data, or verification codes.",
+  "Simply put: fraud has become a commodity sold on a weekly subscription; anyone who pays can send thousands of fake messages from real phones, and iMessage and RCS messages are not safe just because they are encrypted.",
+  "Do you trust a message arriving via iMessage or RCS just because it is not an ordinary text message?"
+ ]
+}

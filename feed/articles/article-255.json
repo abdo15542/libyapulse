@@ -1,0 +1,21 @@
+{
+ "id": 255,
+ "slug": "article-255",
+ "title": "🎵 Spotify gives artists a shield against fake AI songs!",
+ "date": "2026-11-20",
+ "category": "apps",
+ "category_name": "Apps & Platforms",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r106-w106-09.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Spotify"
+ ],
+ "body": [
+  "🎵 Spotify gives artists a shield against fake AI songs!",
+  "'Spotify' has begun rolling out the 'Artist Profile Protection' tool to all artists on its platform, after eight months of testing it with a selected group, to give them control over the music that appears under their names. With the flood of AI-generated songs, fake songs are now attributed to real artists, whether by deliberate impersonation, data errors, or similar names.",
+  "The tool lets an artist enable it from the 'Spotify for Artists' dashboard, so they receive an alert when any new release is submitted under their name, and can remove their link to any release that is not theirs, so it does not appear on their profile, count in their statistics, or get recommended to their listeners. By default, releases are still published on schedule unless the artist intervenes, while those wanting greater control can enable an advanced setting requiring their manual approval for every release before it appears, while giving trusted distributors a special key that pre-approves their releases. The move came after 'Sony Music' last month asked for the removal of more than 260,000 fake songs from digital platforms — about double the number it revealed in March — while 'Spotify' says it removed more than 50 million 'low-quality and annoying' clips from its recommendations during 2026.",
+  "Simply put: anyone used to be able to upload an AI-generated song under a famous artist's name and have it appear on their page; now the artist is the gatekeeper of their page, deciding what enters and what stays out.",
+  "Have you ever heard a fake song attributed to an artist you love?"
+ ]
+}

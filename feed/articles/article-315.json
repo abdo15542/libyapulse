@@ -1,0 +1,22 @@
+{
+ "id": 315,
+ "slug": "article-315",
+ "title": "🛰️ Data centers in space? An unexpected problem: banks cannot retrieve the chips from orbit!",
+ "date": "2026-11-20",
+ "category": "space",
+ "category_name": "Space",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r115-w115-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Space"
+ ],
+ "body": [
+  "🛰️ Data centers in space? An unexpected problem: banks cannot retrieve the chips from orbit!",
+  "The idea of building data centers in space faces an obstacle few had thought of: financing. Cloud computing companies today borrow to build data centers, using the chips themselves as collateral for the loan: if the company falters, lenders recover the chips and sell them. Even old chips keep their value — some 'H100' chips sell for about half their original price from 2023, and some 'H200' units at the same price they launched at in 2024.",
+  "But no one can retrieve chips installed in a satellite orbiting 300 miles high at 17,500 miles per hour. According to press reports, lenders in a $40 billion chip-financing deal for SpaceX asked that none of the deal's chips be used in the company's orbital data-center plans, and it is unclear whether SpaceX agreed to the condition or not.",
+  "This means space companies may pay more for their chips than their competitors on Earth. Google has an advantage here, because in its 'Suncatcher' project it deploys its own 'TPU' chips, so it does not need lenders at all. Elon Musk has said since the start of the year that space will be the 'cheapest' place to run data centers within two or three years, but that requires the fully reusable 'Starship' rocket, and in the latest test the booster recovery failed even though the orbital stage landed successfully in Texas. SpaceX and Tesla are also working together on building their own chip factory called 'Terafab' in America, but it has not started construction yet and needs years and billions before production.",
+  "Simply put: imagine borrowing money to buy a computer, and the bank keeps the right to take it back if you do not pay; what if the computer is in space? No one can bring it down, so lenders raise the price or block the idea altogether.",
+  "Do you see space data centers as a real future, or will Earth always stay cheaper and easier?"
+ ]
+}

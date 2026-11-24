@@ -1,0 +1,22 @@
+{
+ "id": 414,
+ "slug": "article-414",
+ "title": "💻 'Windows Server 2028' Flips the Equation — Maximum Protection from First Boot!",
+ "date": "2026-11-21",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r127-w127-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Microsoft"
+ ],
+ "body": [
+  "💻 'Windows Server 2028' Flips the Equation — Maximum Protection from First Boot!",
+  "\"Microsoft\" announced at the \"Ignite 2026\" conference on November 17 the public preview of \"Windows Server 2028\", with the biggest change in the system's philosophy in decades: instead of the server arriving open and compatible with everything, forcing the administrator to harden it themselves, it now arrives hardened from first boot, and the administrator only loosens what their work actually needs.",
+  "The hardening includes hundreds of settings enabled by default, compliant with US Department of Defense standards: preferring the \"Kerberos\" protocol over the old \"NTLM\" protocol, protecting the \"LSASS\" process that carries credentials, restricting encryption to modern cipher suites, quantum-resistant hybrid key exchange, enabling signing and encryption on file shares, a firewall enabled in all profiles, blocking guest logins, and logging \"PowerShell\" script commands in audit logs.",
+  "These settings are delivered as policies that no script or installer can silently weaken, and come with a new tool that measures the server's hardening score: in \"Microsoft\"'s example, the server passed 191 of 237 checks, or 80.59%. But \"Microsoft\" itself warns: some software that worked on the 2025 version may break, especially older software, so applications must be tested first and only necessary settings loosened. The hardening is limited to the \"Server Core\" version without a graphical interface, while the desktop version stays on the old mode. Some protections are still missing in this preview, like banning \"NTLM\" entirely and requiring \"Secure Boot\".",
+  "Simply put: \"Kerberos\" and \"NTLM\" are two ways a server verifies a user's identity; the first is newer and harder for hackers, and the second dates from 1993 and remains a favorite target for password-theft attacks.",
+  "Do you support servers arriving hardened even if some old software breaks?"
+ ]
+}

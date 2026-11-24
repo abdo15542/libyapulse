@@ -1,0 +1,21 @@
+{
+ "id": 867,
+ "slug": "article-867",
+ "title": "🤖 An AI assistant that lives in your computer.. \"Linger\" runs a huge model on an ordinary gaming card!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r223-w223-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🤖 An AI assistant that lives in your computer.. \"Linger\" runs a huge model on an ordinary gaming card!",
+  "The Simplex AI team has open-sourced a new personal agent called \"Linger\" that runs entirely on your computer, without your data ever leaving your device, and it gathered around 1,800 stars on GitHub in ten days since its first release on 10 November. The team leader is a former DeepSeek researcher.",
+  "The idea is in the \"PolyStrata\" engine: it distributes the experts of the Qwen 3.8 Flash-Next model (125 billion parameters) between the graphics card, memory and disk, so it runs on a 12 GB card with 64 GB of system memory, at 45.5 tokens per second on an RTX 3060 card according to the team's own figures — figures no independent party has yet verified, and some of which were measured on simulated hardware.",
+  "The agent turns your emails and meetings into memory pages that talk to each other every night, watches your email and calendar and follows up tasks by itself, runs desktop and browser apps, and records meetings and turns them into tasks. Version 0.1.5 was released on 19 November for Mac, Windows and Linux. Its licence is based on Apache 2.0 with additional conditions, so read it before any commercial use. And the warning: the agent has wide permissions over your files, email and browser, so start with a limited account and review what it does before widening its permissions.",
+  "Simply put: instead of paying for every word a cloud assistant generates, this assistant works on your device for free — so would you trust an assistant that lives in your computer and sees your email and files, or do you prefer the cloud assistant despite its bills?"
+ ]
+}

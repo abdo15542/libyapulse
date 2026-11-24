@@ -1,0 +1,22 @@
+{
+ "id": 311,
+ "slug": "article-311",
+ "title": "🛡️ Japan's Sakana opens a new team to protect AI!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r114-w114-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Japan's Sakana opens a new team to protect AI!",
+  "Japanese company 'Sakana AI' has announced the creation of an independent cybersecurity research team, tasked with studying collective AI defense and protecting AI systems themselves from attacks, separate from the company's commercial work.",
+  "The new team is led by Akihiro Omigai, the company's head of security research, and David Ha, co-founder and CEO. The research focuses on three areas: preventing vulnerabilities from the design stage instead of chasing them after launch, coordinating defensive agents across organizations so an attack seen once becomes protection for everyone, and securing the defensive agents themselves because they hold broad powers.",
+  "The team builds on its 'Fugo Cyber' model, which scored 86.9% on the 'Cyber Game' test and 72.1% on the 'CTI Realm' test — figures from the company itself that no independent party has verified yet. The announcement comes as vulnerabilities accelerate: known-vulnerability registration requests rose 263% between 2020 and 2025, while attackers use AI agents to strike many targets at once.",
+  "Simply put: imagine a school of fish protecting one another: one fish sees danger and alerts the whole school; that is how Sakana wants AI systems to defend themselves collectively, not each system alone.",
+  "Do you trust AI to protect itself, or should humans remain the guardians?"
+ ]
+}

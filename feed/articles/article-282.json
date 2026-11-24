@@ -1,0 +1,21 @@
+{
+ "id": 282,
+ "slug": "article-282",
+ "title": "🔗 Flaw in Optimizely plants malware on the websites of 178 major companies!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r110-w110-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔗 Flaw in Optimizely plants malware on the websites of 178 major companies!",
+  "An attacker exploited a flaw in Optimizely, a platform for testing web pages, to plant malware on the websites of 178 major organizations, including news channels, tech companies, banks, and stores — and the malware reached every visitor to those sites.",
+  "The attack began on November 16, when the attacker exploited a flaw in the platform's account-creation path, impersonated users, and wrote malicious code into a code field that runs on every page of its clients. A security researcher examined 1,611 of the platform's code snippets and found the malware in 188 of them, belonging to 178 organizations, including Zoom, CNN, BBC, Salesforce, GitLab, HSBC, IKEA, and KLM. The malware replaced the cryptocurrency wallet addresses visitors copied with addresses owned by the attacker, stole card numbers entered into payment forms, captured screenshots of pages and cookies, and tried to infect iPhones and iPads with hacking tools. Exposure lasted about 16 hours, until the company cleaned all infected snippets the same night. The company confirmed it fixed the flaw, removed the code, ended sessions, invalidated tokens, and notified every affected customer, while about $7,040 was collected in the attacker's wallets over roughly nine hours, before it was emptied and the attack server shut down the next day.",
+  "Simply put: imagine buying from a famous store, only for someone to swap the store's sign for a hidden panel that steals your wallet as you pay; that is how the malware reached visitors through a trusted tool the store itself uses.",
+  "Do you check your bank card statement regularly after shopping online?"
+ ]
+}

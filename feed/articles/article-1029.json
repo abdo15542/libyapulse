@@ -1,0 +1,25 @@
+{
+ "id": 1029,
+ "slug": "article-1029",
+ "title": "📄 A tiny model reads your documents on your own computer! Ocrea-Nano-1 with only 8 million parameters!",
+ "date": "2026-11-23",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r264-w264-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "📄 A tiny model reads your documents on your own computer! Ocrea-Nano-1 with only 8 million parameters!",
+  "LlamaIndex launched on November 23 the open weights of the Ocrea-Nano-1 model, a document analysis system that runs entirely on ordinary processors in your computer, without needing a powerful graphics card.",
+  "The system consists of seven specialized models totaling only 8.1 million parameters, and it handles reports, contracts, invoices and daily scans, averaging 426 milliseconds per page on a single core, with 90% of pages completed within 862 milliseconds.",
+  "On the ParseBench-2 parsing benchmark, the system scored 59.2 points overall and 59.5 points on tables, outperforming other local tools such as Indra, Marker and Tesseract, and its speed reached 27.8 pages per second when using 16 workers.",
+  "The small model came through knowledge distillation from the larger Ocrea-1 model, with 4 billion parameters, meaning the small one keeps around two-thirds of its teacher's accuracy despite being around 500 times smaller.",
+  "The model is used as an optional add-on to the open-source LiteParse tool, and it runs on Linux, Mac and Windows, and even in the browser through WebAssembly technology, while its weights remain under the modified OpenRAIL-M license, with free use for research and personal use.",
+  "But it has clear limits: it does not convert charts into tables, does not recover scanned equations, and handwriting remains its weakest point.",
+  "Simply put: a tiny model the size of an ordinary app reads your papers quickly and accurately.. so would it free you from sending your documents to cloud services?",
+  "Do you prefer AI tools that run on your device or over the internet?"
+ ]
+}

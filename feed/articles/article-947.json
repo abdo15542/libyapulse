@@ -1,0 +1,22 @@
+{
+ "id": 947,
+ "slug": "article-947",
+ "title": "🎮 'DLSS 5' reaches more games! Hogwarts Legacy improves... and a new game joins today!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r245-w245-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Gaming"
+ ],
+ "body": [
+  "🎮 'DLSS 5' reaches more games! Hogwarts Legacy improves... and a new game joins today!",
+  "Nvidia's 'DLSS 5' technology keeps expanding to more games, after starting with the basketball game 'NBA 2K27'. It is not a frame-boosting technology like previous generations, but a final AI pass called 'Neural Rendering in 3D', which improves lighting, character skin, shadows, and textures after the game has drawn its scene.",
+  "The biggest update came on November 5 for 'Hogwarts Legacy', as the patch added the new technology along with an upgrade to frame generation and ray tracing reconstruction. Nvidia says the game runs on an 'RTX 5090' card at up to 300 frames per second at 4K resolution with the highest settings and ray tracing. The technology also reached the 'RTX Remix' modding platform on October 23, so modders can bring it into old classic games, 'War Thunder' followed in mid-November, and 'Where Winds Meet' joins today, November 23, in North America and tomorrow worldwide.",
+  "But the technology is still controversial: many players feel it changes the lighting and appearance of characters in a way that harms the game's original artistic vision, and it is very heavy on performance, cutting frame rates by a large amount instead of raising them, and it needs a card from the 'RTX 50' series, an 'RTX Spark' computer, or the 'GeForce Now Ultimate' service. Community tools such as 'DLSS 5 Manager' and 'DLSS 5 Swapper' have appeared to inject it into almost any game, but they do not work with games that enforce anti-cheat software.",
+  "Simply put: AI that redraws the lighting in your games to make them more beautiful, but it costs you a lot of frame rate... Is it worth it?",
+  "Do you prefer better graphics at the cost of frame rate, or does smoothness matter more to you?"
+ ]
+}

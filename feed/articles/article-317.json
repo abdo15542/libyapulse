@@ -1,0 +1,21 @@
+{
+ "id": 317,
+ "slug": "article-317",
+ "title": "👓 Smart glasses fail safety tests: 'Do not buy them yet'!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r116-w116-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Privacy"
+ ],
+ "body": [
+  "👓 Smart glasses fail safety tests: 'Do not buy them yet'!",
+  "The Dutch Data Protection Authority tested six types of smart glasses equipped with a camera and an AI assistant, and the result was shocking: the authority advised consumers not to buy them for now. Researchers found security flaws in several devices that allow a nearby person to connect to the glasses without permission, access their recordings, or turn on their camera.",
+  "The problems did not stop at secret recording: in a simulated medical emergency, one pair of glasses told its wearer that an ambulance was on its way, even though no one had called an ambulance at all. Another pair gave inappropriate advice about a relationship between an adult and a minor. The authority did not disclose the names of the products that failed each test.",
+  "Simply put: smart glasses are not just ordinary glasses with a camera; they are a device that records what is around you and talks to you, so if their security is weak or their AI makes mistakes in a critical situation, the invention can turn into a danger to its owner and those around them.",
+  "Would you buy camera smart glasses, or wait until companies prove they are actually safe?"
+ ]
+}

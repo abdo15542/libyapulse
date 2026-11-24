@@ -1,0 +1,23 @@
+{
+ "id": 1156,
+ "slug": "article-1156",
+ "title": "🤖 'CyberStrike AI': AI Hackers Breach 3,392 Accounts and Crack 50 Secret Keys!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r293-w293-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🤖 'CyberStrike AI': AI Hackers Breach 3,392 Accounts and Crack 50 Secret Keys!",
+  "Cybersecurity company Wiz revealed in a report published on November 23 that an attacker used an AI framework called 'CyberStrike AI' to breach a company's cloud over four days in October, reaching 3,392 user accounts and their active session tokens, and decrypting the database of the admin login server to extract 50 SSH secret keys.",
+  "The attack began with a stolen session linked to the Terraform tool that manages cloud infrastructure, from which the attacker gained elevated permissions inside a Kubernetes system, then breached the Jenkins build controller and stole secrets from GitHub Actions — even changing Jenkins settings to bypass the approval step before deployment, exposing production secrets. The activity extended to two Amazon Web Services accounts and seven Kubernetes clusters.",
+  "Files the attacker left exposed on his server revealed that forged tokens with admin permissions opened access to 3,392 users in the identity system, that the attacker planted beacons on 19 devices, and installed malware disguised as a font settings service communicating via the domain name system — which no protection tool on VirusTotal detected at the time of scanning. The attacker also collected Anthropic API keys from 50 devices and searched AI coding assistant logs on employees' machines for production system login data.",
+  "The report explained that this incident differs from the famous 'Artex' campaign that breached hundreds of organizations, despite a copy of Artex being found on the same server — it is not part of that campaign.",
+  "Simply put: imagine a thief who doesn't break down the door but steals a copy of every employee's keys at once, then copies the safe's keys too... That's how this attack worked: one stolen session opened thousands of accounts.",
+  "Do you trust that the login keys to your company's systems are protected well enough?"
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "id": 651,
+ "slug": "article-651",
+ "title": "🏦 A software-supplier breach exposes customer data of 40 credit unions in Ireland!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r168-w168-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🏦 A software-supplier breach exposes customer data of 40 credit unions in Ireland!",
+  "A cyberattack on Wellington IT, a software supplier serving around 50 credit unions, mostly in Ireland, exposed stored data belonging to customers of around 40 credit unions.",
+  "The attack took place between October 2 and 4, when the attackers sent five million automated requests exploiting a flaw in the permissions system, reaching private records using valid credentials, and the company closed the flaw on October 6.",
+  "The exposed data includes the names and titles of stored beneficiaries, international bank account numbers (IBANs), bank codes, account numbers, addresses and payment references, and the records could also reveal which customer stored each beneficiary.",
+  "But passwords, PINs, card details and login data were not affected, and there is no evidence so far of members' money being accessed or fraud taking place.",
+  "The delayed reporting sparked anger: the affected credit unions were not informed until November 16 — more than a month later — and an Irish minister described the delay as \"unacceptable\", while the data protection authority received more than 40 breach reports.",
+  "Simply put: your account may not be hacked directly — it may be a small supplier serving your bank. So watch out for phishing messages exploiting news like this.",
+  "Do you store beneficiary details in your bank's app? And do you review them regularly?"
+ ]
+}

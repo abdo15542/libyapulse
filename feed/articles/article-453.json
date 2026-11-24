@@ -1,0 +1,23 @@
+{
+ "id": 453,
+ "slug": "article-453",
+ "title": "🐘 PHP 8.6 Finally Arrives — New Functions and More Secure Sessions by Default!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r131-w131-09.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "🐘 PHP 8.6 Finally Arrives — New Functions and More Secure Sessions by Default!",
+  "Version 8.6.0 of the PHP programming language was launched on November 19, 2026, a year after the previous version, with a package of new features for developers and changes in default behavior that may affect existing applications. Three developers from the language community managed the release, after three alpha versions, three beta versions, and seven release candidates.",
+  "The most prominent new features are 'partial function application', which lets you create a new function from an existing one by leaving some of its arguments empty with a question mark or three dots, without writing an intermediate function. The language also added the new 'clamp' function to restrict a value between a minimum and maximum, the 'TimeDuration' class to represent durations with nanosecond precision, the unified 'IoPoll' interface to wait for several data streams at the same time, and default values for 'readonly' properties that previously required assignment in the constructor.",
+  "Among the changes that may affect existing applications is that session settings became more secure by default: strict session mode is now enabled, the session cookie is no longer readable from JavaScript, and the default 'SameSite' policy became 'Lax', meaning cross-site POST requests will not carry the session cookie. Some payment flows and single sign-on logins may break if their settings are not updated.",
+  "The version also deprecates old functions such as 'is_integer' and the 'mb_ereg' functions, in preparation for removing them in version 9.0. Version 8.6 will receive active support until December 31, 2028, then security fixes until December 31, 2030. On the same day, security updates were released for older versions, while version 8.2's life ends permanently on December 31, 2026.",
+  "Simply put: PHP 8.6 makes writing code shorter and cleaner, and makes sessions secure by default, but whoever has an old application must test the upgrade before moving.",
+  "Will you upgrade to PHP 8.6 immediately, or wait until the frameworks and packages you use support it?"
+ ]
+}

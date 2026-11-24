@@ -1,0 +1,20 @@
+{
+ "id": 1,
+ "slug": "article-001",
+ "title": "Welcome to TechPulse",
+ "date": "2026-11-18",
+ "category": "tech-news",
+ "category_name": "Tech News",
+ "image": "https://abdo15542.github.io/techpulse/assets/techpulse-logo.png",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Welcome"
+ ],
+ "body": [
+  "Welcome to TechPulse",
+  "A global tech news site.",
+  "Here you'll find tech news, simple explainers, and practical tips about phones, apps, and artificial intelligence, in clear and simple language.",
+  "Follow us, and tell us: what's the first tech topic you'd like us to explain?"
+ ]
+}

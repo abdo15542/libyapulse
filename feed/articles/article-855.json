@@ -1,0 +1,20 @@
+{
+ "id": 855,
+ "slug": "article-855",
+ "title": "🌐 US Clouds Host \"DeepSeek\" Through 16 Providers.. Despite Export Restrictions!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r219-w219-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🌐 US Clouds Host \"DeepSeek\" Through 16 Providers.. Despite Export Restrictions!",
+  "Researchers at the Center for Security and Emerging Technology at \"Georgetown\" University have revealed that the latest Chinese \"DeepSeek\" models are available from at least 16 hosting providers based outside China, including \"Amazon Bedrock\". Companies such as \"Together AI\", \"Baseten\" and \"Fireworks\" also run the Chinese models on servers powered by American-designed chips, so American clouds and their chips have become the route by which Chinese models reach users around the world.",
+  "The irony is that US restrictions ban the sale of the most powerful chips to China, yet the models themselves are open-weight — any company can download them and run them on its own servers. The researchers say the solution is not tightening access to infrastructure further, but for American companies to offer competing open models. The report also revealed that \"Moonshot\" asks \"Microsoft\", \"Amazon\" and \"Google\" for 30% of the revenue of its \"Kimi K3\" model from customers whose annual sales exceed $20 million.",
+  "Simply put: America blocks chips from China, yet Chinese models already run on American clouds — will export restrictions fail when Chinese models run on American chips?"
+ ]
+}

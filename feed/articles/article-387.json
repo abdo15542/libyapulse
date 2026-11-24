@@ -1,0 +1,22 @@
+{
+ "id": 387,
+ "slug": "article-387",
+ "title": "💵 The 'USDS' Coin Loses $2 Billion in One Day — but Keeps Its Price!",
+ "date": "2026-11-21",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r124-w124-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "TechMarkets"
+ ],
+ "body": [
+  "💵 The 'USDS' Coin Loses $2 Billion in One Day — but Keeps Its Price!",
+  "The \"Sky\" protocol had an exceptional day on November 19, processing more than $2 billion in redemptions of its \"USDS\" stablecoin for \"USDC\", through the price-stability module that swaps the two coins at a fixed rate. The coin's circulating supply fell by about 40% in a single day to about $3.2 billion, yet the coin kept its price of one dollar throughout the wave.",
+  "The wave came on the same day an investigative report published research by an analytics firm tracking $518 million in transactions through the stability module to wallets linked to hackers and sanctioned entities over five years, including about $101.9 million linked to North Korea, among them wallets linked to the \"Bybit\" platform theft in February 2025. The protocol responded that the mentioned amount represents less than 0.06% of more than $960 billion the module has processed since its creation, and that two-thirds of the cited activity occurred between 2021 and mid-2024.",
+  "The protocol confirmed that the stablecoin reserve inside the module never fell below $800 million at the peak, and returned above $1.1 billion by Friday, and that it holds about $9.3 billion in backing assets against about $6.11 billion of circulating \"USDS\" and \"DAI\", plus about $93 million as a reserve to absorb losses. It also noted that most of the cited transactions passed through intermediary trading services that automatically choose trade routes.",
+  "Simply put: a stablecoin lost two-fifths of its supply in one day and didn't lose its price — the real test of a stablecoin isn't in calm times, but in a moment of panic.",
+  "Do you trust stablecoins after a withdrawal wave of this size?"
+ ]
+}

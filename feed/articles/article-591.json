@@ -1,0 +1,27 @@
+{
+ "id": 591,
+ "slug": "article-591",
+ "title": "🛡️ Google puts a \"guard\" on AI agents — it checks every action before it runs and prevents secret leaks!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r154-w154-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🛡️ Google puts a \"guard\" on AI agents — it checks every action before it runs and prevents secret leaks!",
+  "The Google Developers blog published on November 20 the \"semantic governance policies\" feature in preview on the Gemini platform.",
+  "The feature checks every tool call the model proposes before executing it, against two things: the company's rules written in natural language, and what the user originally asked for — to prevent the agent from going off track or from indirect prompt injection.",
+  "Google's example: an employee asks to send unpublished quarterly results to an investor \"under a confidentiality agreement\" with a copy to his personal email, and the whole request is rejected because the rule excludes the agreement as a justification.",
+  "Another example: a document hides text ordering the agent to delete drafts, and the deletion is blocked because nobody asked for it and no rule allows it.",
+  "The enforcement point is the \"agent gateway\": every external move by the agent passes through it, and a \"judge\" language model issues the verdict with its reason in Cloud Logging records.",
+  "Creation is done via the Google Cloud console or the command line, and a single rule can apply to all tools, one tool, or a specific parameter.",
+  "Google itself warns that the verdict is probabilistic because it comes from a language model, and recommends running first in dry-run mode. Streaming text replies are not checked.",
+  "The feature does not replace review by legal and compliance teams; it complements existing layers such as identity management, Model Armor and anomaly detection.",
+  "Simply put: imagine a guard standing at the door of every action your smart assistant proposes, reading the rules and asking: did the user actually ask for this? If not, it stops it before it happens.",
+  "Do you feel safer if AI has a \"guard\" watching it?"
+ ]
+}

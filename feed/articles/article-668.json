@@ -1,0 +1,23 @@
+{
+ "id": 668,
+ "slug": "article-668",
+ "title": "🛠️ Airbnb open-sources \"Skipper\" — a workflow engine that lives inside your service!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r175-w175-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "🛠️ Airbnb open-sources \"Skipper\" — a workflow engine that lives inside your service!",
+  "Airbnb announced on November 10 the open-sourcing of its internal workflow engine \"Skipper\", which its teams have used in production for years, making it available now to all developers for free under the Apache 2.0 licence.",
+  "The idea is simple and clever: instead of relying on a separate central orchestration service to manage your operations, Skipper lives as a library inside your own service, using its existing database. You write a multi-step operation — such as publishing a listing or completing a booking — as an ordinary code class in Java or Kotlin, and the engine saves its progress and resumes it after any failure or restart, without losing what was done.",
+  "The built-in scheduler coordinates work between copies of the service via the database, so if one copy fails, another takes over the task. Skipper also allows long waits — such as waiting for human approval — without holding an execution thread, and restarts the operation from the beginning on resumption, relying on recorded save points, reusing the results of completed steps instead of repeating them.",
+  "The open-source release includes the core engine, adapters for MySQL and SQLite databases, testing tools, a management interface, and a special language for describing operations as states and transitions. The company plans to add PostgreSQL support and other databases later.",
+  "Simply put: instead of building a huge orchestration server for your operations, you can now put a small engine inside your service that remembers where it stopped and continues on its own. Will this suit Arab developers building their services in Java and Kotlin?",
+  "Do you prefer a workflow engine that lives inside your service, or a ready-made central orchestration service?"
+ ]
+}

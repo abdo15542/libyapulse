@@ -1,0 +1,24 @@
+{
+ "id": 1104,
+ "slug": "article-1104",
+ "title": "🔒 Infoblox Breach Leaks Customers' Network Settings and Employee Data!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r285-w285-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Security"
+ ],
+ "body": [
+  "🔒 Infoblox Breach Leaks Customers' Network Settings and Employee Data!",
+  "Infoblox, a company specializing in managing corporate internet networks, has announced a breach affecting the data of its customers and employees, after attackers compromised an external company that was transferring its data to it.",
+  "The external vendor had trusted access to the company's internal file-sharing platform, so the attackers used its accounts to pull data directly from the platform, without having to breach the company's own systems.",
+  "Among what was stolen were copies of customer network settings, including internet address settings and distribution, network database rules and report logs — copies that alone would be enough to rebuild an entire network device from scratch.",
+  "Employee data and their families' data was also stolen, including bank account details for salary transfers, contact information, dates of birth, and Social Security numbers — even the CEO's email was among what the attackers accessed.",
+  "The company confirmed that its products, cloud services, software updates and development operations were unaffected, without revealing how many customers or employees were affected or the name of the breached vendor. It gave employees a hundred-dollar bonus to buy a password manager, along with free credit monitoring and identity-theft protection for two years for them and their families.",
+  "Simply put: a breach at an outside vendor opened the door to an entire company's data... so do you trust everyone who handles your data from afar?",
+  "Do you know which companies share your data with outside vendors without telling you?"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": 485,
+ "slug": "article-485",
+ "title": "💬 AWS Q Builds Your Workflow in a Chat — and Multiple Agents Work Together!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r135-w135-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "💬 AWS Q Builds Your Workflow in a Chat — and Multiple Agents Work Together!",
+  "Amazon Web Services launched on November 20 a wide update to the AWS Q platform, the AI workspace, enabling business workflows to be built through conversation, and coordinating several specialized agents in a single request.",
+  "Instead of programming the workflow, the user describes the process in plain language in the chat, and the system builds a flow that can be run, tested, and edited in the chat itself, with a step diagram beside the chat for review. The flow can coordinate agents, skills, tools, structured data, knowledge, and applications, with fixed deterministic steps for calculations and verifications, and support for longer operations and larger data volumes.",
+  "As for multi-agent coordination, it lets the agent receiving the request call several specialized agents at the same time, each keeping its own instructions, knowledge, and context, then the system gathers a single answer showing each agent's contribution. For example, a forecasting agent and a purchasing agent might together answer a single question about rising shipping costs.",
+  "The web app was also redesigned with a daily brief and a priorities brief on the home screen, with scheduled tasks continuing after the browser is closed, and a 'Task Center' panel to view results and agents waiting for your inputs.",
+  "The update also added two new connectors: Meta ads for creating, managing, and analyzing campaigns in natural language, with permission requested before any writing action, and Amplitude for product usage, customer behavior, and conversion questions. The platform also added Japanese, German, simplified and traditional Chinese, and Vietnamese languages.",
+  "The company cited its customer Pomelo, a fintech company, where about four times as many people now work with data without growing the team, and a single use case saves 80 hours of work a month.",
+  "Simply put: instead of explaining to an engineer how your monthly report works, you explain it to the AI in a chat, and it builds the workflow for you and runs it every month, calling specialized agents when needed.",
+  "If you could build a complete workflow with a single chat, what is the first routine task in your work you would automate?"
+ ]
+}

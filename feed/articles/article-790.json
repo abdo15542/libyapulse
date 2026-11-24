@@ -1,0 +1,22 @@
+{
+ "id": 790,
+ "slug": "article-790",
+ "title": "🏢 ThoughtSpot Lets Companies Run Its AI Analytics Platform Inside Their Own Cloud... Your Data Never Leaves Your Walls!",
+ "date": "2026-11-22",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r205-w205-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CloudComputing"
+ ],
+ "body": [
+  "🏢 ThoughtSpot Lets Companies Run Its AI Analytics Platform Inside Their Own Cloud... Your Data Never Leaves Your Walls!",
+  "On November 18, ThoughtSpot announced a new deployment option called 'Customer Hosted', letting organizations run its data analytics and AI platform inside their own cloud infrastructure, instead of running it on the company's cloud.",
+  "What is new here is that the control panel itself, not just the data, moves to the customer's account in Amazon Web Services or Google Cloud, so no data leaves the company's firewall, and the encryption keys, logs, indexes, and audit records all stay inside the customer's environment.",
+  "The option targets organizations with strict requirements in banking, healthcare, and insurance, which refuse to adopt AI analytics unless they see and control every layer of the deployment, at a time when sovereign cloud spending has risen by 35% this year.",
+  "The option also supports connecting the customer's own language models instead of relying on third-party models, with direct access to raw logs and governance tools through cloud security policies, while all the platform's features remain, including the smart analyst 'Spotter'.",
+  "Simply put: big companies want powerful AI without their data leaving their home; so will 'AI inside your walls' become the new rule instead of the shared cloud?"
+ ]
+}

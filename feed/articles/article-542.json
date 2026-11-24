@@ -1,0 +1,22 @@
+{
+ "id": 542,
+ "slug": "article-542",
+ "title": "🚨 Breach Hits a French Software License Seller — Customer Names and Activation Codes in Hackers' Hands!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r145-w145-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🚨 Breach Hits a French Software License Seller — Customer Names and Activation Codes in Hackers' Hands!",
+  "French company Nexway, which sells software licenses online on behalf of publishers, told its customers on November 20 that a breach had hit its IT systems, and that the attackers had reached its infrastructure and some of its customers' personal data. The company had discovered the breach on October 30 — about three weeks before informing customers.",
+  "The data the attackers reached includes customer names, email addresses, and the activation codes for the software they bought. The company confirmed that payment data was not touched, but it has not yet disclosed how many customers were affected, or how the attackers got in. The leaked activation codes mean the attackers may use or sell them, while the names and email addresses open the door to fraud messages that look trustworthy because they address the victim by name and refer to their real purchases.",
+  "The incident comes amid a wave of breaches hitting suppliers and intermediaries this month, as attackers now target small companies that hold data for many customers, instead of attacking large companies directly. A single intermediary may hold data for thousands of customers, and breaching it opens many doors at once.",
+  "Simply put: imagine buying a key for a program from a middleman store, and a thief steals a copy of the key along with your invoice — that is how the attackers reached Nexway's customer data without ever approaching their devices.",
+  "Do you review your data with the middleman stores you buy from, or do you not even know who holds it?"
+ ]
+}

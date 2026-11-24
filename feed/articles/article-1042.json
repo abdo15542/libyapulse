@@ -1,0 +1,28 @@
+{
+ "id": 1042,
+ "slug": "article-1042",
+ "title": "🛡️ Security Warning in India: AI Attacks Target Banks and Steal Money Through the Payment Systems Themselves!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r269-w269-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Security Warning in India: AI Attacks Target Banks and Steal Money Through the Payment Systems Themselves!",
+  "India's Computer Emergency Response Team (CERT-In) warned in a new security advisory that attackers are carrying out AI-assisted cyberattacks targeting the country's technology infrastructure.",
+  "These attacks have led to unauthorised money transfers in banks and financial institutions, as well as technology companies that support government payments and platforms for paying suppliers and partners.",
+  "Notably, the attackers do not break into payment systems directly; instead they target business records and approval workflows inside companies, changing a record or an approval relationship, so the transfers then pass through the legitimate payment channels themselves without the system raising any alert.",
+  "The attacks exploit gaps in independent verification, reconciliation and review of changes made to records — in other words, the danger lies in the trust placed in internal processes, not in cracking a password.",
+  "The team revealed that separate threat-hunting operations detected the use of so-called 'agentic attack frameworks' powered by AI — groups of agents working in parallel: they explore exposed systems, generate and adapt exploits quickly, adapt to errors and blocked attempts, and move deeper into the network using valid credentials and legitimate administrative functions.",
+  "According to the team, these tools have compressed the time between the first breach and the final impact from days to just a few hours, as multiple agent teams work in parallel for hours and days to achieve the attacker's goal.",
+  "Earlier in the same month, the team warned of a group called 'Crafty Falcon' behind a wave of attacks on financial institutions, using automated hacking tools such as Artix, PentAGI, Kiren and CyberStrike AI.",
+  "India's Cyber Crime Coordination Centre explained that the attacks targeted banks, non-banking finance companies and financial technology firms, and led to unauthorised transfers worth tens of millions of rupees through money-disbursement systems and payment interfaces, where the money is sent to intermediary accounts and then withdrawn quickly via instant transfer systems.",
+  "The team did not disclose the size of the stolen money or the identity of the attackers, while the Reserve Bank of India alerted banks to the rising attacks and asked them to explain their ability to confront AI threats.",
+  "Simply put: the new attacker does not break down the door — it uses the house's own keys... Are passwords and firewalls enough when AI learns to act like a trusted employee?",
+  "If attacks now happen in hours instead of days, can human security teams alone keep up with the speed of automated agents?"
+ ]
+}

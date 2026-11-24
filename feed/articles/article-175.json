@@ -1,0 +1,20 @@
+{
+ "id": 175,
+ "slug": "article-175",
+ "title": "🚨 A Critical VMware Flaw Exploited Since September… and the Update Has Finally Arrived!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r102-w102-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🚨 A Critical VMware Flaw Exploited Since September… and the Update Has Finally Arrived!",
+  "Google’s security teams revealed that a cyber-espionage group has been exploiting a critical flaw in “VMware vCenter” servers since early September 2026, carrying the number CVE-2026-123890 and a severity score of 9.8 out of 10, which lets an attacker obtain an admin session without any password, run commands, and steal files from virtual machines. The attackers first entered through another flaw in a remote support tool, then used special tools to steal login keys, forge authentication tokens, and bypass two-factor verification. Broadcom released the fix on November 19, covering vCenter 8.0 and cloud platforms 9.0 and 9.1.",
+  "Simply put: the flaw was an open door giving the attacker full admin powers without a password; the new update closes that door, but anyone who was breached must also change the stolen login keys.",
+  "Do you update your server systems as soon as security patches come out?"
+ ]
+}

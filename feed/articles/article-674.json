@@ -1,0 +1,22 @@
+{
+ "id": 674,
+ "slug": "article-674",
+ "title": "🔬 Chips smaller than a grain of rice watch chemical reactions from inside — and speed up drug discovery!",
+ "date": "2026-11-21",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r178-w178-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Science"
+ ],
+ "body": [
+  "🔬 Chips smaller than a grain of rice watch chemical reactions from inside — and speed up drug discovery!",
+  "Researchers at Stanford University, in cooperation with Cornell University, have developed tiny electronic chips smaller than a grain of rice, placed inside test tubes to watch a chemical reaction moment by moment as it happens, then send its data wirelessly to the computer without stopping.",
+  "The chips, each only half a millimetre in size and powered by light, measure heat and heat exchange inside the reaction, and send a new reading every half a second. In an experiment with 96 test tubes at once, the system collects about 700,000 data points in a single hour, while the old method gave only one point per tube after the reaction ended.",
+  "A \"chemical reaction\" is the change that happens when certain materials mix and turn into new materials, like making a medicine or a plastic; a \"catalyst\" is a material that speeds up the reaction without being consumed in it, and it can become \"poisoned\" so the reaction suddenly stops. The researchers used the new chips to detect catalyst poisoning and find out why, and to monitor reactions that generate excess heat that could be dangerous, adjusting their conditions while they are still small, before scaling them up.",
+  "The study was published in the journal Science on November 19, and the researchers expect the chips themselves to be designed in future to measure other things such as acidity, light passage and electrical conductivity, which could greatly speed up the discovery of new medicines and materials.",
+  "Simply put: a chip the size of a grain of sand inside a test tube reports the reaction's news as it happens, so scientists no longer wait for it to end to know what happened inside. Do you expect chips like these to become an ordinary tool in every lab soon?"
+ ]
+}

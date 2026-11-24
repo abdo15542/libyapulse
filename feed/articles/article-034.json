@@ -1,0 +1,20 @@
+{
+ "id": 34,
+ "slug": "article-034",
+ "title": "Snapchat: Build a Filter with AI in Just One Sentence! 👻",
+ "date": "2026-11-19",
+ "category": "apps",
+ "category_name": "Apps & Platforms",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r05-a07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Snapchat"
+ ],
+ "body": [
+  "Snapchat: Build a Filter with AI in Just One Sentence! 👻",
+  "On November 18, Snapchat announced new AI tools for developers and advertisers. The standout is Easy Lens CLI, which lets any developer build a Lens — an augmented-reality filter that changes your face or adds 3D objects to the world around you — simply by describing it in one sentence to an AI coding assistant like Claude Code, Codex, or Cursor, and the assistant builds, tests, and publishes it.",
+  "It also launched the AI-powered Snap Creator Network to connect brands with the best-suited creators for their ads — now in open beta — and the Visited By feature, which lets creators highlight places they have visited on the Snap Map, available worldwide now.",
+  "What would be the first filter you build if it only took one sentence? 🎨"
+ ]
+}

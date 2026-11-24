@@ -1,0 +1,21 @@
+{
+ "id": 816,
+ "slug": "article-816",
+ "title": "🤖 \"Devin Bots\": an AI manager that leads a team of robot coders for weeks!",
+ "date": "2026-11-22",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r211-w211-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Coding"
+ ],
+ "body": [
+  "🤖 \"Devin Bots\": an AI manager that leads a team of robot coders for weeks!",
+  "On 17 November, Cognition launched \"Devin Bots\" — persistent agents with their own memory and tools that take on a whole goal, such as keeping an Android app in step with the iPhone version, then split the work across teams of Devin coding agents and supervise them for days or weeks, returning to humans only the decisions that need human judgement.",
+  "Each bot works through a single conversation, joins Slack as a team member with its own identity, also works by text message, and gathers approvals and decisions in a list called \"Needs You\". The bot picks the most suitable model for each stage and works on separate cloud computers, away from the engineers' machines, so it never touches their passwords and keys.",
+  "In the headline demo, the company says a single bot built the Devin app for Android in 44 days, merging 1,134 pull requests and writing 344,651 lines of Kotlin, while the engineer sent it only 183 messages. These figures come from the company itself and have not been verified by an independent party, and the service's prices have not been announced yet.",
+  "Simply put: the question is no longer whether AI writes code, but whether it runs a whole project by itself — will a programmer's job become reviewing what AI builds?"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "id": 697,
+ "slug": "article-697",
+ "title": "🐳 Docker reinvents itself — the \"sandbox company\" for AI agents!",
+ "date": "2026-11-22",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r183-w183-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🐳 Docker reinvents itself — the \"sandbox company\" for AI agents!",
+  "Docker launched a completely new identity on November 19 under the slogan \"Designed to run on trust\", announcing that its mission is no longer containers alone, but building a layer of trust for software that AI agents build and run.",
+  "The company says containers isolate workloads, but agents are not workloads — they are \"actors\" that make decisions and explore their surroundings by themselves, so they need stronger isolation. Hence came the \"Docker Boxes\" product, which runs each coding agent inside its own small independent virtual machine, with its own kernel, file system, network and Docker engine, far from your device's files and the other boxes.",
+  "The company also launched \"Docker AI Governance\" on November 18 — three layers of control: policies that set where the agent can reach on the network and files, policies in the Cedar language that set which external tools it may call, and an audit log documenting every allow or deny decision for later review.",
+  "Simply put: the agent works freely, but inside a closed box it cannot leave. Will full isolation become the first condition before we trust an AI agent working on our devices?"
+ ]
+}

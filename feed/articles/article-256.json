@@ -1,0 +1,21 @@
+{
+ "id": 256,
+ "slug": "article-256",
+ "title": "🧬 $5 billion for a company that designs drugs with AI!",
+ "date": "2026-11-20",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r106-w106-10.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Science"
+ ],
+ "body": [
+  "🧬 $5 billion for a company that designs drugs with AI!",
+  "'Isomorphic Labs', the AI drug-discovery platform spun out of Google's 'DeepMind' in 2021, has raised a huge $5 billion funding round, to take its drug candidates into human clinical trials. The round was led by 'Greenoaks' and 'Sequoia Capital', with new investor 'Andreessen Horowitz' joining, alongside all existing investors including 'Alphabet'.",
+  "The round comes just six months after a previous round of $2.1 billion in May, raising the company's total outside funding to about $7.7 billion, in one of the largest private funding rounds in biotech history, even though the company has not yet tested any drug on humans. The company is building a drug-design engine that uses AI simulation models to explore chemistry, design molecules, and predict their properties, drawing on the legacy of the famous 'AlphaFold' model for predicting protein structures, and said its programs achieved 'positive preclinical results' in oncology and immunology, with partnerships with drug giants 'Eli Lilly', 'Novartis', and 'Johnson & Johnson'. The company did not disclose its new valuation, while reports said it sought a valuation of about $50 billion. The company is led by Demis Hassabis, winner of the Nobel Prize in Chemistry for his work on 'AlphaFold'.",
+  "Simply put: developing a new drug used to take years and billions before a single human tried it; now AI tries to design the drug on a computer first, cutting years of trial and error before reaching the patient.",
+  "Would you trust a drug designed by AI?"
+ ]
+}

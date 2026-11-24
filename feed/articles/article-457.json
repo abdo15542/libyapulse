@@ -1,0 +1,24 @@
+{
+ "id": 457,
+ "slug": "article-457",
+ "title": "🔍 Short-Seller Report Shakes AMD — Its Software Shows Up in Servers of a Banned Chinese Company!",
+ "date": "2026-11-21",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r132-w132-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "TechMarkets"
+ ],
+ "body": [
+  "🔍 Short-Seller Report Shakes AMD — Its Software Shows Up in Servers of a Banned Chinese Company!",
+  "Chipmaker AMD's shares fell about 8% on Thursday, then continued declining the next day, after an investigative report published by Hunterbrook Media claimed that the company's software is still reaching a banned Chinese server company.",
+  "The report centers on the Chinese server maker IEIT, which the US Department of Commerce placed on the banned entities list in March 2025 — a list that bars American companies from exporting to it without a special license. The report claims the Chinese company has incorporated at least six newer versions of AMD's firmware into its updates since it was banned, and that three other server companies not on the list sell software that matches it by more than 99%.",
+  "Firmware is the foundational layer that makes a processor work inside a server, and the report argues that software updates also count as exports, citing a recent settlement in which US authorities treated each software update sent after the listing as a separate violation.",
+  "But the report itself admits it does not know how the Chinese company obtained the code, or whether anyone holds a license for it, and that the findings do not by themselves prove any export violation. Hunterbrook also disclosed that its affiliated investment fund is betting on AMD's stock falling — a clear conflict of interest to keep in mind. AMD responded that the claims distort its practices and business relationships, and that it complies with US export-control laws.",
+  "The report also points to the scale of the company's exposure to China: its sales to customers in China and Hong Kong reached about $7.75 billion in fiscal year 2025 — about 22% of its revenue.",
+  "Simply put: serious accusations from a party betting on the stock falling, denied by the company in full, and the market decides whom to believe.",
+  "Would you trust short-seller reports when they shake the shares of giant companies, or do you see them as mere speculation?"
+ ]
+}

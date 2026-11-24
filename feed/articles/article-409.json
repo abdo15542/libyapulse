@@ -1,0 +1,23 @@
+{
+ "id": 409,
+ "slug": "article-409",
+ "title": "⚡ 'Confluent' Launches 'Lightning Tables' — AI Agents Decide with Live Data!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r126-w126-10.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Storage"
+ ],
+ "body": [
+  "⚡ 'Confluent' Launches 'Lightning Tables' — AI Agents Decide with Live Data!",
+  "\"Confluent\" announced at the \"Current 2026\" conference in San Francisco the completion of its data-streaming platform with the launch of \"Lightning Tables\" and its general availability on \"Amazon Web Services\", with new query capabilities. The problem it solves is simple and serious at once: companies streaming their data through the platform had to build a database at the end to query the processed information — now \"Kafka\" data turns directly into tables that update continuously, with new data appearing within about 100 milliseconds, and query times between 10 and 100 milliseconds.",
+  "The company's general manager explained that traditional batch architectures were designed for human analysis, not agents working continuously: humans make a handful of decisions a day, while agents act all the time. He gave the example of rebooking flight tickets: flights, seats, and flight operations live in different systems updated at different times, so an agent grants a traveler a seat that's already booked, because each system holds a \"different version of now\". The new architecture solves this by continuously gathering current business context and serving it to agents and applications together.",
+  "The query capabilities unify three ways to access data: turning streams into tables in open formats like \"Iceberg\" and \"Delta\", a live context engine that lets agents request what they need via the Model Context Protocol, and the \"Lightning\" tables themselves, queried directly in \"SQL\" without extract-and-load pipelines, databases, or caches.",
+  "An \"IDC\" report covering 635 data decision-makers showed that organizations running multiple agentic applications in production rose from 8% with limited live-data integration to more than 50% with comprehensive integration. \"Accenture\", which operates in more than 120 countries, also said the continuous architecture cut the time to reach information from months to days for eight hundred thousand employees.",
+  "Simply put: an agent deciding on yesterday's data might book you a seat that's already taken — and the solution is for data to reach the agent the moment it happens, not in tomorrow's report.",
+  "Do you trust decisions from an agent working with old data?"
+ ]
+}

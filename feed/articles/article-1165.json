@@ -1,0 +1,24 @@
+{
+ "id": 1165,
+ "slug": "article-1165",
+ "title": "🧮 Claude Claims to Have Solved a 47-Year-Old Math Conjecture! And No Human Has Reviewed the Proof!",
+ "date": "2026-11-24",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r294-w294-11.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🧮 Claude Claims to Have Solved a 47-Year-Old Math Conjecture! And No Human Has Reviewed the Proof!",
+  "Anthropic has published a 70-page research paper whose sole author is the AI model Claude, claiming to solve Valiant's conjecture in algebraic computational complexity, an open problem since 1979 — 47 years ago. The paper claims that the class VP is actually smaller than the class VNP in all mathematical fields.",
+  "The company says an internal Claude model first discovered the proof, then wrote the entire paper, and also produced a formal version of the proof in the Lean 4 language that a computer can check step by step. The company published the paper and the formal version publicly in a GitHub repository for researchers to examine.",
+  "The problem centers on the permanent, a mathematical expression similar to the determinant of matrices, but far harder to compute: a 13-by-13 matrix produces billions of terms in the expansion of the permanent, and it is impossible to compute them one by one as the size grows. The paper claims that arithmetic circuits cannot overcome this difficulty no matter how efficiently they combine addition and multiplication.",
+  "But Anthropic itself admits that no human mathematician has reviewed the proof yet, and that the success of the machine check does not prove that the formal version truly expresses everything the paper claims. Until researchers examine the full argument, the claimed solution remains unconfirmed.",
+  "The problem resembles the famous P vs NP problem, but it does not solve it: Valiant's conjecture talks about arithmetic circuits that work on mathematical values, while P vs NP talks about Boolean circuits that work on zeros and ones, so a proof in one world does not automatically transfer to the other.",
+  "Simply put: imagine a machine claiming to solve a math puzzle that humans failed at for 47 years, and writing the whole solution by itself… but no human has read the solution yet to make sure it is correct.",
+  "Would you trust a math proof that no human has reviewed yet?"
+ ]
+}

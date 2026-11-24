@@ -1,0 +1,23 @@
+{
+ "id": 561,
+ "slug": "article-561",
+ "title": "🔥 Meta launches \"Muse Ember\" — its smallest and cheapest model for AI agents!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r147-w147-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🔥 Meta launches \"Muse Ember\" — its smallest and cheapest model for AI agents!",
+  "Meta launched on November 9 the \"Muse Ember\" model, its smallest and most efficient model, designed specifically for the work AI agents repeat all day: tool calls, small coding tasks, routing, data extraction, and analysing long documents.",
+  "The model costs $0.10 per million input tokens and $0.50 per million output tokens, runs with a one-million-token context window, and can produce up to 512,000 tokens in a single response. It understands text, images, audio and video together — reading screenshots, charts and scanned documents, or working from audio recordings — without a separate model for each type.",
+  "In the \"Automation Bench-AA\" test for complete business tasks, Ember scored 37.8%, compared with 13.9% for the \"Claude Haiku 5.5\" model and 20.2% for the \"GPT-6 Luna\" model, and it matches Haiku's best result at about a third of the cost per task. It is available now via the \"Meta Model\" interface and in the \"Muse Code\" tool under the name \"Muse-Ember-1.0\".",
+  "Meta says the model was designed to work alongside its larger model \"Muse Wonder\": \"Wonder plans, and Ember executes the volume.\" It is the fourth model in the \"Muse\" family after \"Spark\", \"Glimmer\" and \"Wonder\", and the first model trained using \"Muse Wonder Full\".",
+  "Simply put: imagine a senior engineer drawing the plan, and an army of fast, cheap workers carrying out thousands of small repetitive tasks. Ember is that army — small, fast and cheap, designed for volume, not genius.",
+  "Do you prefer a small, cheap model that handles thousands of tasks, or a giant model for one difficult task?"
+ ]
+}

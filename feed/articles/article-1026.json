@@ -1,0 +1,24 @@
+{
+ "id": 1026,
+ "slug": "article-1026",
+ "title": "💳 Visa launches a wallet for AI agents! Your card verifies your agent's identity so it earns stablecoins!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r264-w264-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "💳 Visa launches a wallet for AI agents! Your card verifies your agent's identity so it earns stablecoins!",
+  "Visa's digital currencies lab head Kuy Sheffield announced on November 22 a new version of the Visa CLI wallet, an experimental wallet for AI agents.",
+  "The idea is that the agent's owner verifies their agent using an eligible Visa card issued by a US bank, and the agent receives a signing key registered in Visa's agent directory, so counterparties know that behind this agent is a real, identifiable person.",
+  "After verification, the agent can carry out paid tasks through task marketplaces, such as producing short video clips, songs, or market surveys and research, and it is paid in USDC, a dollar-backed stablecoin that runs on the Tempo network.",
+  "Importantly, the card itself is never charged any amounts, as the agent spends only from the stablecoin balance in its owner's wallet, and the owner stays in control of spending limits and approval of every step, and a single card can support up to 25 agents.",
+  "The service is currently available by invitation only to users in the United States, with an important clarification from the company: that card verification does not mean a customer identity check or a sanctions screening, but merely proof that a real person stands behind the agent.",
+  "Simply put: your bank card has become an 'identity' for your smart agent, so it works and earns for you.. so do you trust an agent that works and gets paid in your name?",
+  "Would you let an AI agent work and earn money on your behalf?"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "id": 402,
+ "slug": "article-402",
+ "title": "💳 AI Agents Manage Your Money — and 58% of People Don't Trust Them!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r126-w126-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "💳 AI Agents Manage Your Money — and 58% of People Don't Trust Them!",
+  "AI agents have moved from answering financial questions to executing transactions themselves: they pay bills, manage portfolios, and send money without human approval at every step. A survey conducted in November 2026 of two thousand adults in Britain revealed that 58% of them used AI tools like \"ChatGPT\" and \"Claude\" for financial tasks over the past twelve months, and that 56% used an AI assistant inside their bank's app — but only 22% are ready to hand daily money management to an AI agent, while 58% said they are not ready.",
+  "The distinction is subtle: more than half of participants accept an agent flagging a suspicious transaction or paying a pre-approved recurring bill, but their comfort collapses when it comes to sending money to another person, opening an account, or applying for a loan. In the crypto world, autonomous agents executed more than 138 million transactions via the \"x402\" payment protocol from \"Coinbase\", including about 75 million payments worth $24 million in July 2026 alone, and 87% of them were worth ten cents or less.",
+  "But the danger is real: an ordinary invoice could contain hidden instructions ordering the agent to change the beneficiary's bank account and bypass verification — known as indirect prompt injection. Spending limits users set also usually live inside the instruction text itself, not as a technical constraint in the payment system, and crypto transactions cannot be reversed once executed.",
+  "Simply put: people use AI for financial advice, but they don't want it as a guardian of their money yet — because a single mistake could cost you your entire account, with no undo button.",
+  "Would you hand an AI agent the keys to your bank account?"
+ ]
+}

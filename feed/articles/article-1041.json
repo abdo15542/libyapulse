@@ -1,0 +1,24 @@
+{
+ "id": 1041,
+ "slug": "article-1041",
+ "title": "⚠️ Norwegian Defence Research Institute Warns: Large Language Models Are an 'Insider Threat' That Can Never Be Fully Trusted!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r268-w268-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AISafety"
+ ],
+ "body": [
+  "⚠️ Norwegian Defence Research Institute Warns: Large Language Models Are an 'Insider Threat' That Can Never Be Fully Trusted!",
+  "The Norwegian Defence Research Establishment warned in a new report, numbered 26/034, that large language models will never be fully reliable, and advised organisations to treat them as an insider threat in the workplace.",
+  "The report identifies three structural flaws in these models: unclear training data, manipulation through malicious inputs, and inconsistent answers.",
+  "The institute says these flaws cannot be removed without weakening the very capabilities that make the models useful, so they must be treated as an existing risk, not a temporary problem.",
+  "Calling it an 'insider threat' means the danger does not come only from an outside attacker tricking the model, but from the model itself when it behaves in ways its operators did not intend — even without anyone trying to manipulate it.",
+  "The report proposes assessing risks in advance, testing for vulnerabilities, and limiting agents' autonomy, while keeping human oversight over critical decisions.",
+  "Simply put: your smart assistant is not an ordinary employee; it is an employee whose behaviour you cannot always predict... Would you hand it the keys to your company's data?",
+  "If an AI model might disobey your instructions without anyone tampering with it, would you trust it with sensitive tasks inside your company?"
+ ]
+}

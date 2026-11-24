@@ -1,0 +1,22 @@
+{
+ "id": 685,
+ "slug": "article-685",
+ "title": "☁️ \"AWS Emulator\" — a free copy of Amazon's cloud that runs on your computer, and AI wrote it!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r180-w180-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CloudComputing"
+ ],
+ "body": [
+  "☁️ \"AWS Emulator\" — a free copy of Amazon's cloud that runs on your computer, and AI wrote it!",
+  "Amazon Web Services has launched a new tool called \"AWS Emulator\" that lets any developer run a local copy of Amazon's cloud services on their own computer, for free, without an account and without a bill.",
+  "The tool is a small program that runs on your computer and answers the same programming requests that the real Amazon cloud answers, so a developer can create databases, tables and queues and test their programs completely without an internet connection and without paying anything. The tool covers more than 200 Amazon services, built from more than 400 official software models, written in the Rust language to stay light on the computer, and its source is open to everyone under a public-domain licence.",
+  "What is striking is that the tool was written entirely by AI: it started as a weekend experiment, when an engineer asked the coding agent Kiro to build a copy of the queue service in 15 minutes, then teams of independent agents took over writing the code, maintaining it and testing it against the real cloud. The company says its human team did not write or review a single line of code.",
+  "But the tool is not a complete replacement for the real cloud: it does not yet simulate usage limits, outages or differences between regions, nor does it test access permissions the same way, and its success in matching tests is around 60% and improving with each release.",
+  "Simply put: a whole cloud on your laptop, written by AI without a human touching it. Would you trust a program that no human engineer has reviewed?"
+ ]
+}

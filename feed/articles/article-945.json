@@ -1,0 +1,23 @@
+{
+ "id": 945,
+ "slug": "article-945",
+ "title": "📡 A 'ghost' radar sees planes and drones without anyone seeing it! It uses TV and phone signals... and hides in a car!",
+ "date": "2026-11-23",
+ "category": "phones",
+ "category_name": "Phones & Devices",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r245-w245-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Defense"
+ ],
+ "body": [
+  "📡 A 'ghost' radar sees planes and drones without anyone seeing it! It uses TV and phone signals... and hides in a car!",
+  "The British company 'BAE Systems' revealed a new passive radar it calls the 'Ghost Radar', which can track planes and drones in the sky without sending any signal that reveals its location, in an idea that turns the traditional radar concept upside down.",
+  "An ordinary radar sends strong radio waves, then measures their reflection to find the target's location, but that very broadcast reveals the radar's location, like someone switching on a powerful torch in the dark to see, only to be seen by everyone. The new radar instead borrows signals already in the air: digital TV and radio broadcasts and mobile phone networks, then analyzes their reflections off flying objects to track them without adding any new broadcast.",
+  "The company says using ready-made equipment available on the market cut the cost to about one tenth of the cost of similar systems, and the device is small enough to fit in an SUV, so it works in cities and crowded areas without needing a huge facility.",
+  "The system can track targets ranging from a small drone to a large aircraft, and it provides a three-dimensional aerial picture with speed, direction, distance, and altitude data. The company sees it as suitable for protecting airports, power stations, and air bases from drone attacks, and for monitoring a battlefield without revealing a soldier's location. It is scheduled to undergo live trials throughout 2027 with partners from the police, defense, and infrastructure protection.",
+  "Simply put: a radar that borrows TV and phone signals to see the sky, while staying completely hidden itself... Will that change the rules of airport protection?",
+  "Do you think the silent radar will become the first line of defense against drones?"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "id": 743,
+ "slug": "article-743",
+ "title": "🛡️ At Last... the Fix for the MONAI Label Flaw Found by AI Agents Arrives Today in Version 0.8.6!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r194-w194-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ At Last... the Fix for the MONAI Label Flaw Found by AI Agents Arrives Today in Version 0.8.6!",
+  "Version 0.8.6 of the open-source software MONAI Label was released today, the first install-ready release to include the fix for the serious flaw that independent AI agents discovered last September and used to take over a university server within minutes.",
+  "The flaw, registered as CVE-2026-133968 with a severity score of 9.8 out of 10, allowed anyone who could reach the server to write files anywhere through a path traversal flaw in image uploads. Its fix was merged into the code on October 19, but anyone installing the software the usual way still received the old infected version 0.8.5.",
+  "The new release also fixes a second similar flaw in extracting session archives, and requires Python 3.11 or newer, while experts advise everyone running this software to update immediately, enable authentication, avoid running the service with root privileges, and keep the server away from the open internet.",
+  "Simply put: the fix existed on paper for a month, but only today has it reached users' hands. Do you update your lab and university software as soon as a fix is released, or do you wait until the delay turns into a breach?"
+ ]
+}

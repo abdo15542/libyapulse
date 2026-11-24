@@ -1,0 +1,25 @@
+{
+ "id": 1140,
+ "slug": "article-1140",
+ "title": "💼 AI Isn't Firing Employees… But It Is Stopping Hiring! A Study of 58 Companies Reveals the Truth!",
+ "date": "2026-11-24",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r290-w290-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "💼 AI Isn't Firing Employees… But It Is Stopping Hiring! A Study of 58 Companies Reveals the Truth!",
+  "Anthropic has published a new study called \"Working with AI\", based on 66 interviews with 58 American companies among its clients, to understand how AI is actually changing work inside companies, away from expectations and fears.",
+  "The first finding is surprising: cases of firing because of AI were very rare, but nearly two-thirds of the companies said they have started hiring less because of it, and many of them cut back on contractors, especially abroad, an early sign that the impact starts with stopping hiring rather than firing employees.",
+  "The source of value was clearer: most uses of AI increased output instead of cutting costs, as agents write code, review documents, and build small apps that used to need whole teams, to the point that startups said they would need four times their current staff without AI.",
+  "But the study found real obstacles: experts resisting the spread of AI, and tasks it does not speed up, such as code review and strategic decision-making, so when AI speeds up writing code, reviewing it becomes the new bottleneck that has to keep up with the speed.",
+  "The study also found that the greatest value comes when a company redesigns its employees' roles instead of just handing out tools: one law firm automated mail sorting in a single month by turning a process that took five minutes per letter into two API calls, while another firm redesigned the work of junior lawyers to review drafts written by AI with a senior lawyer instead of writing them from scratch.",
+  "It is important to note that the study is descriptive and not representative of the whole economy: the sample is entirely made up of Anthropic's clients, and the assessments are self-reported from the interviews, but it paints a realistic picture of how AI is entering companies day by day.",
+  "Simply put: AI isn't taking your job today… but it might stop your colleague from being hired tomorrow. Do you feel your work changing with AI?",
+  "Do you think AI increases your output or threatens your job?"
+ ]
+}

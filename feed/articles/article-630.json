@@ -1,0 +1,26 @@
+{
+ "id": 630,
+ "slug": "article-630",
+ "title": "⚠️ AI safety expert: a one-in-three chance of superintelligence within a year!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r161-w161-09.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "⚠️ AI safety expert: a one-in-three chance of superintelligence within a year!",
+  "Paul Christiano, head of the Alignment Research Center, estimated the chance of a superintelligence powerful enough to overthrow governments appearing at about one in three within a single year, if development continues at its current pace without slowing down.",
+  "The estimate came in an audio interview published on November 16, in which Christiano said the risk of humans losing control of AI within 6 to 12 months is closer to 10% than to 1% — a figure far higher than he estimated years ago.",
+  "Christiano is no fringe voice: he led the alignment team at OpenAI and helped invent the RLHF technique that trained modern models, then headed the US AI Safety Institute, and recently joined OpenAI's board of directors — though he spoke in the interview as a private citizen, not on behalf of the board.",
+  "He warned that rapid progress could reach an \"intelligence explosion\", in which systems improve themselves at a speed beyond our ability to understand and control them, and that any attempt to delay deployment could fail, because the systems or the techniques for building them could leak or be stolen.",
+  "He called on the major AI labs to pause improving training algorithms temporarily, until model weights and research secrets are protected enough against theft, considering that current lab security is too weak to make a pause a reliable option.",
+  "He admitted that the industry's current plan rests in practice on two weak bets: that the systems themselves will find a solution to alignment in time, and that we will be able to halt development if the danger looks imminent — each with a probability of around half.",
+  "He explained that these figures are personal estimates, not certain predictions, but said that the arrival of superintelligence within a year is no longer a sudden development that breaks the current trend, but a natural extension of it.",
+  "Simply put: the man who taught models how to learn says we may be a year away from systems smarter than all of us — and we still have no reliable plan to control them.",
+  "Do you think AI labs will stop voluntarily for safety, or will the race continue whatever the risks?"
+ ]
+}

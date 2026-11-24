@@ -1,0 +1,22 @@
+{
+ "id": 541,
+ "slug": "article-541",
+ "title": "🎙️ Kyutai Launches a Model That Turns Your Voice into a Talking Face in Real Time — on a Single GPU!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r145-w145-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🎙️ Kyutai Launches a Model That Turns Your Voice into a Talking Face in Real Time — on a Single GPU!",
+  "French lab Kyutai launched a new family of models called Aura that turns audio directly into video of a talking face, moment by moment, without waiting. The family includes two models: the first, small, streams video at 576 pixels at 20.7 frames per second on a single GPU — in full real time — and the second, larger, streams at 720 pixels at 9.7 frames per second.",
+  "The innovation is that the model generates the video chunk by chunk, using a rolling memory, and does not need to hear several seconds of audio before it starts drawing, as traditional models do. This makes it possible for a virtual face to talk with you in a live conversation, its lips moving with your voice without noticeable delay. According to the research paper published on November 19, the small model runs 23 times faster than its teacher model, while the larger one runs 17 times faster, with similar quality.",
+  "The lab released both models' weights for free, along with a dataset of 30,000 synthetic videos, but under a non-commercial license — meaning they may not be used in paid products. The model targets voice assistants and interactive virtual faces, where the user needs a face that speaks instantly, not a video produced after minutes.",
+  "Simply put: imagine talking on the phone and a face appears before you, moving its lips with your words in the very same moment, without waiting for the end of your sentence — that is what the new model offers, on a single device.",
+  "Would you welcome virtual faces that talk to you in real time, or do you prefer the assistant to remain a voice without a face?"
+ ]
+}

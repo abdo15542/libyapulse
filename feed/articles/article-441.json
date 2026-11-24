@@ -1,0 +1,23 @@
+{
+ "id": 441,
+ "slug": "article-441",
+ "title": "🔐 A Cryptography Expert Warns: AI Could Break the Math That Protects the Internet!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r130-w130-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔐 A Cryptography Expert Warns: AI Could Break the Math That Protects the Internet!",
+  "Cryptographer Matthew Green of Johns Hopkins University has warned that the public-key cryptography protecting the entire internet could lose trust due to AI's advances in mathematics. Writing on the \"X\" platform, he said he sees a 1% chance we live in a world with no public-key cryptography at all, and a 15% chance we actually lose trust in current encryption algorithms.",
+  "Public-key cryptography, which secures safe browsing, software signing, payments, and messages, rests on a small number of hard mathematical problems humans have studied for decades. Green says these problems are no longer safe just because humans failed to solve them for so long, because machines have begun outperforming humans at solving some mathematical problems.",
+  "The warning came after \"OpenAI\" published in October 722 mathematical manuscripts produced by an unpublished AI model, attempting to solve about 4,000 unsolved problems. That sparked wide debate among cryptographers: Marko Johannes Saarinen, a cryptography professor at the University of Tampere, said he takes the warning seriously but urges caution — there's no need to replace current standards immediately, but focus on cryptographic agility.",
+  "Saarinen described what happened in 2026 as a \"Lee Sedol moment\" for mathematics, referring to the Go champion's defeat by AI, pointing to the breaking of the \"HQC\" and \"McEliece\" encryption systems this year. A recent study also showed models' ability to analyze ciphers growing very fast, after researchers tested them against 191 cipher-breaking challenges.",
+  "Simply put: internet encryption depends on mathematical problems assumed to be very hard — and if AI finds a shortcut to solve them, trust in everything could collapse: from your bank account to your private messages.",
+  "Do you trust current encryption will hold up against AI, or do we need new encryption soon?"
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "id": 1148,
+ "slug": "article-1148",
+ "title": "🛡️ 'Zero-Click' Flaws in AirDrop and Quick Share! A Researcher Exposes 6 Flaws... and the Companies Fixed Them!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r291-w291-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ 'Zero-Click' Flaws in AirDrop and Quick Share! A Researcher Exposes 6 Flaws... and the Companies Fixed Them!",
+  "A security researcher at the German CISPA Helmholtz Center for Information Security uncovered six previously unknown flaws in the nearby file-sharing services AirDrop from Apple and Quick Share from Google and Samsung — the first systematic study of the security of these two services, which are used by more than five billion devices worldwide.",
+  "The researcher, Arash Al-Ibrahim, developed a special testing tool called AirFuzz that sends varied inputs to the software and monitors its responses, after rebuilding how both protocols work from scratch, including Apple's proprietary wireless protocol, which the company does not document publicly.",
+  "In AirDrop he found three flaws, including a stack memory overflow and a null pointer error, flaws that allow a device or some of its functions to be disabled remotely. In Quick Share he found two flaws affecting communications security, and a third in the Windows version that allows remote code execution — the most dangerous kind of flaw, because it lets an attacker run their own software on the victim's device.",
+  "What makes these flaws dangerous is that they are 'zero-click': an attacker within close radio range of your device can interact with it and trigger functions in it without you accepting any file or tapping any button.",
+  "The researcher reported all six flaws to the companies involved, confirmed they were fixed, and published his findings in a research paper on the arXiv platform. He advised users to review their nearby-sharing settings regularly, turn them off when not needed, and install system updates as soon as they arrive.",
+  "Simply put: sharing a file with a phone next to you could open a door to an attacker without you touching a thing... So will you review your AirDrop and Quick Share settings on your phone today?",
+  "Do you turn off nearby sharing when you don't use it?"
+ ]
+}

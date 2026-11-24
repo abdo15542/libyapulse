@@ -1,0 +1,20 @@
+{
+ "id": 205,
+ "slug": "article-205",
+ "title": "🍎 Apple Is Building an AI Agent That Browses the Web and Does Tasks!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r103-w103-16.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🍎 Apple Is Building an AI Agent That Browses the Web and Does Tasks!",
+  "New job ads revealed that Apple is building a proactive AI agent that can browse the web, use apps, execute commands, write and debug code, and call services on the user’s behalf, as part of what the company calls “general-purpose computer-use agents.” Teams in Siri, user-interface frameworks, and Apple’s foundation models are working on the project, and Siri is expected to become closer to a smart agent by 2027, while the new CEO Jon Ternus pushes to speed up AI efforts, and macOS 27.3 adds warnings when using third-party agents.",
+  "Simply put: a smart agent is not just an assistant that answers questions, but an assistant that does tasks by itself — it browses, writes, books, and runs apps.",
+  "Would you want a smart assistant that does tasks instead of just explaining them?"
+ ]
+}

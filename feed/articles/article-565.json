@@ -1,0 +1,23 @@
+{
+ "id": 565,
+ "slug": "article-565",
+ "title": "🌱 Meta backs away from its 2030 promise — its emissions jump 45% because of AI!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r148-w148-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🌱 Meta backs away from its 2030 promise — its emissions jump 45% because of AI!",
+  "Meta announced it is reconsidering its goal of reaching net zero emissions by 2030, after its net emissions jumped 45% in a single year, reaching about 11.9 million tonnes of carbon dioxide equivalent, in the biggest admission by a tech giant that the AI boom is turning climate plans upside down.",
+  "The announcement came in the company's annual sustainability report, published on November 19, where Rachel Peterson, vice president of data centres, and Blair Swedeen, head of sustainability, wrote that the company is \"reassessing timelines, sequencing and interim milestones, including the 2030 framework\". The company did not set a new date, and said it will announce the result of the review later.",
+  "The direct cause is the speed of building AI data centres, which exceeded all expectations: the company's electricity consumption rose 35% in a single year, while connecting new projects to the power grid was delayed, and licensing and building transmission lines slowed. The company was forced to rely more on natural gas to run its centres, and in July it left the \"RE100\" renewable energy initiative because it could no longer meet its standards.",
+  "Despite that, the company says its ambition has not changed: it contracted during 2025 for more than 10 gigawatts of clean and renewable energy, bringing its portfolio to more than 30 gigawatts globally, and confirms that it matches 100% of its annual electricity consumption with clean energy. But its figures reveal that emissions linked to buying equipment and construction jumped too, and that its indirect emissions are now more than double 2021 levels.",
+  "Simply put: imagine promising yourself to reach an ideal weight by a set date, then discovering your new job makes you eat more and move less. Meta is in the same position: AI makes it build faster than clean-energy networks can keep up.",
+  "Do you think tech companies should slow down building data centres until clean energy catches up, or is the AI race more important than climate deadlines?"
+ ]
+}

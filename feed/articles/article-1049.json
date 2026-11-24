@@ -1,0 +1,24 @@
+{
+ "id": 1049,
+ "slug": "article-1049",
+ "title": "🔗 A Flaw in the Fusionist Bridge Mints Trillions of Fake Coins... and Traders Drain the Vault!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r271-w271-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Crypto"
+ ],
+ "body": [
+  "🔗 A Flaw in the Fusionist Bridge Mints Trillions of Fake Coins... and Traders Drain the Vault!",
+  "An attacker exploited a privileged minting permission in the bridge of the gaming project Fusionist on Sunday, November 22, minting huge quantities of its ACE token with no backing on the BNB chain, then selling them and crashing the price, in one of the strangest crypto thefts of the year.",
+  "The chain began with 3.5 million tokens minted at around 1 p.m. Eastern Time, then the amounts ballooned over two and a half hours from billions into trillions, until a single minting operation reached 10 quintillion tokens — ten thousand trillion — even though the token's intended maximum supply is just 147 million.",
+  "The attacker sold each batch immediately after minting it on decentralized exchanges, collecting around $2 million, and moved around $1.87 million of it through the Tornado Cash mixer, while a security firm noted that the wallet that carried out the minting had been funded by the developer's wallet around three years ago.",
+  "But the story did not end there: the bridge itself kept working after the attack, so traders bought the cheap crashed tokens and sent them through the bridge, draining its reserve of 53.7 million real tokens, worth around $3.7 million, until only 0.08 tokens were left in it.",
+  "The project asked users to stop transfers, trading and the bridge on the network, and the Bithumb exchange halted trading of the token on November 23, while estimated losses reached around $5.7 million, and it remains unknown how the attacker obtained the minting permission in the first place.",
+  "Simply put: imagine a money-printing machine placed in a thief's hands, then the door left open so others walked in and emptied the vault... Are promises of a temporary halt enough to protect users' money?",
+  "If a single bridge can mint unbacked tokens and sell them within minutes, do you trust the bridges that move your tokens between networks?"
+ ]
+}

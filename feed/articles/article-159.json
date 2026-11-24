@@ -1,0 +1,20 @@
+{
+ "id": 159,
+ "slug": "article-159",
+ "title": "🔒 Google Will Automatically Publish Major Vulnerability Reports Starting in December!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r101-w101-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔒 Google Will Automatically Publish Major Vulnerability Reports Starting in December!",
+  "Google announced a new policy for its vulnerability reward program: starting December 1, 2026, the company will automatically publish reports on vulnerabilities whose rewards reach $10,000 or more, thirty days after the flaw is fixed and seven days after the payment notice is sent. Researchers will be able to publish their reports without mentioning their names, and suggest edits before publication to remove any sensitive data. The decision came after the company noticed that duplicate reports had increased fifteenfold since 2023, with the spread of AI tools for finding vulnerabilities.",
+  "Simply put: the rewards program pays whoever finds a flaw in the company’s services; publishing the reports openly helps other researchers learn, and helps AI systems understand real fixes.",
+  "Do big rewards encourage you to hunt for vulnerabilities?"
+ ]
+}

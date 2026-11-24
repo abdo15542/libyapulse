@@ -1,0 +1,21 @@
+{
+ "id": 121,
+ "slug": "article-121",
+ "title": "⚡ An Ongoing Cyberattack on an Energy Giant!",
+ "date": "2026-11-19",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r10-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "⚡ An Ongoing Cyberattack on an Energy Giant!",
+  "Norwegian company Equinor, Europe’s largest supplier of natural gas, announced that the cyberattack on its systems is still ongoing two days after it was discovered.",
+  "Production is running normally, and there is so far no evidence of data being stolen or altered, and the attack does not appear to be specifically targeted at the company.",
+  "Simply put, the attackers are still inside the company’s systems and internal email is down, while the gas keeps flowing without interruption.",
+  "Do you trust major energy companies to protect themselves from attacks? What do you think?"
+ ]
+}

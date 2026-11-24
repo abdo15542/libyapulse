@@ -1,0 +1,25 @@
+{
+ "id": 496,
+ "slug": "article-496",
+ "title": "🔒 Edge Tests 'Lockdown Mode' — It Stops Web Graphics to Block 60% of Privilege Escalation Attacks!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r137-w137-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔒 Edge Tests 'Lockdown Mode' — It Stops Web Graphics to Block 60% of Privilege Escalation Attacks!",
+  "Microsoft began testing a new security feature in the Edge browser called 'Lockdown Mode', which prevents web pages from using the WebGL, WebGL 2, and WebGPU graphics interfaces, aiming to narrow the browser's attack surface.",
+  "The idea is inspired by Apple's Lockdown Mode, and builds on the current Enhanced Security Mode in Edge, which already stops just-in-time JavaScript compilation, to add a new layer of protection on top of it.",
+  "The feature targets users exposed to targeted attacks, such as journalists, executives, security researchers, and system administrators, who are willing to sacrifice some site compatibility for stronger protection.",
+  "The company estimates that the current version of the feature would have blocked about 60% of the privilege escalation attacks that targeted Edge users since February 2022, because the attacker often needs a second flaw in the graphics processing process, which has higher privileges, to move from breaching a web page to controlling the device.",
+  "The feature is now available for testing in the Canary experimental version of the browser, by enabling a special flag then choosing the strict mode in security settings, and a 'Lockdown enabled' badge appears in the address bar when graphics are blocked on a page.",
+  "But the price is clear: sites that rely on interactive graphics, such as games, maps, and design tools, may not work as they should, so the company says the feature is not for most users, and that it will add other protections in later versions with the ability to exempt trusted sites.",
+  "Simply put: imagine a browser that closes an entire door in the attacker's face instead of guarding it; sites lose some of their beauty, but the attacker loses the shortest road to your device.",
+  "Would you accept a browser weaker in graphics for stronger protection?"
+ ]
+}

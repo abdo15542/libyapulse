@@ -1,0 +1,22 @@
+{
+ "id": 681,
+ "slug": "article-681",
+ "title": "🎣 \"The Miller\" — an AI phishing tool that rewrites its own messages until it breaks into your inbox!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r179-w179-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🎣 \"The Miller\" — an AI phishing tool that rewrites its own messages until it breaks into your inbox!",
+  "Security researchers have uncovered a new phishing tool called \"The Miller\" that runs most of the steps of an attack with AI: it designs customised lure messages, rewrites them until they pass spam filters, and turns messages from real brands into fake templates.",
+  "The tool works on famous AI models such as Claude, ChatGPT, Grok, Gemini, Mistral and DeepSeek, customising each message according to the victim's email provider, and removing the \"AI patterns\" that might give it away.",
+  "The tool relies on what is known as the \"inbox loop\": it sends a test message to itself, and if it is classified as spam it rewrites it and tries again until it reaches the inbox. It also writes complete HTML messages from a short description.",
+  "The tool has been on sale in a criminal network since March 2026, with a lifetime licence priced between $3,000 and $6,000 paid in cryptocurrency, putting professional phishing within reach of any attacker willing to pay.",
+  "Simply put: a phishing message that rewrites itself until it fools your email filter. Do you still trust a message that looks official just because it reached your inbox?"
+ ]
+}

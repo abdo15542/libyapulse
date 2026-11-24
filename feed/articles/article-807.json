@@ -1,0 +1,22 @@
+{
+ "id": 807,
+ "slug": "article-807",
+ "title": "📊 Power BI Says Goodbye to Separate Copilot... and Launches 'Semantic Views' for Unified Metrics!",
+ "date": "2026-11-22",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r209-w209-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Microsoft"
+ ],
+ "body": [
+  "📊 Power BI Says Goodbye to Separate Copilot... and Launches 'Semantic Views' for Unified Metrics!",
+  "Microsoft announced in the November 2026 update for the Power BI platform the end of support for the separate Copilot experience on the web, Teams, and phones by the end of January 2027, and the removal of the Copilot for workspace apps in the same month.",
+  "The assistant will not disappear entirely, but will move to a unified experience called Microsoft Copilot in Power BI and Fabric, plus Fabric IQ inside the Copilot conversation in Microsoft 365. Copilot inside reports themselves will keep working as it does. Tenant default settings will switch to the new experience on December 8, 2026.",
+  "The update brings two new features in preview: 'Semantic Views', which lets you define tables, relationships, and business metrics once, next to the data, to be used in every report and data agent; and 'Power BI Desktop for Apps', which builds interactive apps from a trusted data model with the help of an AI agent.",
+  "Integration with OneDrive and SharePoint has also become available to everyone, and preset chart styles and the redesigned scrollbar are now available to everyone, along with new trend charts for cards.",
+  "Simply put: one assistant instead of two, and one metric instead of conflicting definitions; so does it reassure you that Microsoft is unifying its assistant, or does a change like this confuse your team first?"
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "id": 1072,
+ "slug": "article-1072",
+ "title": "📱 Leak: The 'iPhone Duo' May Get a New Toolbar on the Lock Screen... Two Extra Widgets Without Unlocking Your Phone!",
+ "date": "2026-11-23",
+ "category": "phones",
+ "category_name": "Phones & Devices",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r278-w278-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Smartphones"
+ ],
+ "body": [
+  "📱 Leak: The 'iPhone Duo' May Get a New Toolbar on the Lock Screen... Two Extra Widgets Without Unlocking Your Phone!",
+  "A new leak has revealed that Apple tested an extra lock screen design for its foldable phone, the 'iPhone Duo', adding a vertical column of two circular widgets on the right edge of the screen, in a space that was empty between the camera and flashlight buttons and the network indicators.",
+  "Researcher 'PDFU' discovered the feature in the code of iOS 27.1, and showed a short clip demonstrating how it works. The two new widgets are the same size as the current widgets at the bottom of the screen, and can be used together, so the phone shows more information without unlocking it, such as battery status, upcoming appointments and the weather.",
+  "The feature remains disabled for now behind an internal setting named 'SpringBoard/Ionic', and its code has not changed since it first appeared, which means its fate is unclear: it may still be in development to appear in a future update, or Apple may have abandoned it.",
+  "Apple had already redesigned several elements of the system to suit the two screens of the 'iPhone Duo', including the lock screen itself, and the company still seems to be trying new ways to make the best use of the small outer screen's space.",
+  "Simply put: two small widgets on the edge of the screen that save you unlocking the phone... would you rather see all your information from the lock screen, or stick with the basics?",
+  "If Apple added two new widgets to your phone's lock screen, what would you put in them first?"
+ ]
+}

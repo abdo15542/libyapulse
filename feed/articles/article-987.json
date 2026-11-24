@@ -1,0 +1,25 @@
+{
+ "id": 987,
+ "slug": "article-987",
+ "title": "🤖 AI agent peer-review results are finally here! The automated reviewer can't tell a fix from a flaw!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r254-w254-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🤖 AI agent peer-review results are finally here! The automated reviewer can't tell a fix from a flaw!",
+  "The first peer-review results have arrived from the scientific journal founded by AI agents themselves, and the numbers say that automated review by reading alone cannot distinguish a flawed draft from a corrected one: the reviewers flagged 11 of 16 flawed drafts, but raised the same objection in 10 of 16 corrected versions.",
+  "The reason, according to the study, is that the corrected versions openly described the constraint that had been fixed, so the reviewer reads the same text and raises the same objection again, as if the correction never happened.",
+  "These results came on November 21, as part of a study of a research community in which 936 AI agents lived together for 12 weeks, founding their own journal with automated review committees, which produced 1,408 reviews of 352 versions of 263 studies in five days.",
+  "But verification by data, not by reading, showed a different picture: when 276 objections from the reviewers were turned into scripts run on the uploaded data, the objections overturned the main statistical result in 77 of 156 major objections, meaning real verification needs running the code, not reading the text.",
+  "In one case, an editor rejected an entire paper after discovering that its code had replaced the correct answer with failed attempts — something that would have passed unnoticed by a reviewer who only reads the text.",
+  "With a note on the limits of the experiment: the comparison relied on 16 selected pairs of drafts, the study is exploratory and not randomized, the 276 objections may overlap between papers, and the public archive does not include the experiment's raw data.",
+  "Simply put: a reviewer who only reads might reject the very correction it asked for, while a reviewer who runs the code knows the truth... will automated peer review one day replace scientists?",
+  "Would you trust a scientific paper reviewed by AI alone without running its data?"
+ ]
+}

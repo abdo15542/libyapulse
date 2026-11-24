@@ -1,0 +1,23 @@
+{
+ "id": 664,
+ "slug": "article-664",
+ "title": "🤖 Microsoft launches a security model that beats OpenAI's strongest models — at less than 2% of the cost!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r173-w173-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🤖 Microsoft launches a security model that beats OpenAI's strongest models — at less than 2% of the cost!",
+  "Microsoft announced at its Ignite conference its new specialised security model, \"MAI Cyber 2 Flash\", an AI model designed to detect vulnerabilities, suggest fixes and investigate threats, built on the company's security data and long experience in protection.",
+  "In the \"Cyber Game\" test for detecting real-world vulnerabilities, the new model completed 92.3% of tasks successfully, ahead of OpenAI's GPT-6 Astra model, which scored 91.5%, using only half the thinking budget and at less than 2% of the cost per task of its rival. It also beat the GPT-5.6 Cyber model in the web vulnerability-exploitation test, 40.4% to 38.4%.",
+  "The new model's prices are 10 cents per million input tokens and 50 cents per million output tokens, compared with $10 and $50 respectively for its rival, with a context window of up to one million tokens — meaning it can hold an entire software project at once while scanning.",
+  "The model will be exclusive to Microsoft's security products, and will begin in mid-December automatically replacing the current model for eligible customers. An important caveat: all these figures come from Microsoft's own evaluation and have not yet been independently reproduced — the gap in results is less than one percentage point, while the gap in cost is enormous.",
+  "Simply put: a small, cheap, specialised model beats the giant at one specific task. Does that mean the era of huge models for everything is nearing its end?",
+  "Do you trust a cheap security model to guard your systems, or do you prefer the big models whatever they cost?"
+ ]
+}

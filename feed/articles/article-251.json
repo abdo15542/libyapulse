@@ -1,0 +1,21 @@
+{
+ "id": 251,
+ "slug": "article-251",
+ "title": "🎒 AI system mistakes a bag of chips for a gun... and students sue the school and the police!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r106-w106-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AISafety"
+ ],
+ "body": [
+  "🎒 AI system mistakes a bag of chips for a gun... and students sue the school and the police!",
+  "Four current and former students at 'Kenwood' High School in Baltimore County have filed a lawsuit against the school administration, the police department, and AI company 'OmniAlert', after armed officers forced them to kneel on the ground, handcuffed them, and searched them, because of a false alert from a weapons-detection system that treated a bag of chips as a gun. The lawsuit was filed on November 17 before the district court, and says the students' constitutional rights were violated during the incident, which took place on October 20, 2025.",
+  "After football practice, the four students were waiting for a car to take them home, one of them holding a bag of 'Doritos', when the 'OmniAlert' system issued an alert that there was a 90% chance of a gun at the school. School safety staff reviewed the alert and cancelled it within about two minutes, but the armed response went ahead anyway due to a communication failure and reporting procedures. The company said it was 'truly sorry' for the fear the students experienced, and that its technology is designed to report anything that could be a weapon for a human to review, because 'missing a real gun is the worst possible outcome'. Maryland's education inspector general's office investigated the incident and concluded that 'human error and training gaps' caused the escalation, and that the system did not identify the bag of chips itself as a gun, but the alert was triggered by the student's posture, his hand movements, and the reflective properties of an object visible in the image. The lawsuit demands that schools and police verify AI alerts before acting, with policies preventing false alerts from triggering an armed response, and more training and transparency.",
+  "Simply put: the AI misread an image, but the bigger mistake was that no one stopped the armed response after the alert was cancelled; the machine erred, and the humans did not correct the error in time.",
+  "Should every AI alert be verified by a human before police are sent?"
+ ]
+}

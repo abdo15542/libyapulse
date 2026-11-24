@@ -1,0 +1,20 @@
+{
+ "id": 240,
+ "slug": "article-240",
+ "title": "🚨 CISA warns of 4 flaws actively exploited in ransomware, mining, and AI-theft attacks!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r105-w105-10.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🚨 CISA warns of 4 flaws actively exploited in ransomware, mining, and AI-theft attacks!",
+  "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added four vulnerabilities to its official list of actively exploited flaws, warning that attackers are using them now in real attacks. The list includes a flaw in the 'Apache Axis' library rated 9.8 out of 10, allowing commands to run on the server without an account, used with other flaws to deploy cryptocurrency mining programs, and with no official fix because the library has reached end of life. A second flaw in the 'REDCap' research platform, also rated 9.8, was used to deploy the 'XMRig' mining program disguised as system files. A third flaw in the 'LiteLLM' tool for managing AI models, rated 8.8, was exploited by attackers to turn limited access keys into full admin privileges and steal AI resources in 'LLMjacking' attacks targeting financial, commercial, transport, and tech sectors in the Americas and Asia-Pacific. The fourth is in Synology's 'DSM' network-storage system, rated 9.8, used in ransomware attacks by the 'C3RB3R' program that encrypts files on storage devices. The agency set November 21 as the deadline to fix three of the flaws, and December 2 for the 'LiteLLM' flaw.",
+  "Simply put: these are not theoretical warnings; real attackers are exploiting these flaws now to steal data, encrypt files, and steal computing power, and anyone using these systems must update immediately.",
+  "Do you update your systems as soon as security warnings are issued?"
+ ]
+}

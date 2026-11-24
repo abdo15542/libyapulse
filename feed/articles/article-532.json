@@ -1,0 +1,22 @@
+{
+ "id": 532,
+ "slug": "article-532",
+ "title": "🖼️ ComfyUI Adds Support for the Qwen Image 2.1 Model — Generate and Edit Images on Your Own Device!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r144-w144-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🖼️ ComfyUI Adds Support for the Qwen Image 2.1 Model — Generate and Edit Images on Your Own Device!",
+  "ComfyUI, the popular image-generation tool that runs on the user's device, added native support for the Qwen Image 2.1 model — an open-weights model from the Qwen team at Alibaba. The support includes ready-made workflows for writing readable text inside images, swapping clothes while preserving a person's identity, and removing an image's background in a single step without drawing masks.",
+  "The model itself, released on September 20, generates images from text and edits existing images with the same commands, with a 7-billion-parameter visual component. It accepts up to ten reference images in a single edit, and produces images with a natively transparent background, making it suitable for logos and stickers. There is an accelerated version called Turbo that completes an image in eight steps instead of forty in the base version.",
+  "The model can run locally on a powerful graphics card, with the base and Turbo versions plus prompt-enhancement tools and ControlNet add-ons. But mind the license: the weights are free for research and personal use, while commercial use requires a separate license from the company, and downloading the full model approaches 33 GB.",
+  "Simply put: imagine an image program on your device that draws a new picture for you from a sentence, or changes a person's clothes in a photo, or erases the background with one click, without sending your images to any server — that is what the new support adds.",
+  "Would you prefer generating images on your own device, or through a ready cloud service?"
+ ]
+}

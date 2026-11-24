@@ -1,0 +1,25 @@
+{
+ "id": 620,
+ "slug": "article-620",
+ "title": "🔢 Two proofs of the Riemann hypothesis in a single day — one with AI, the other fully human!",
+ "date": "2026-11-21",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r159-w159-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Science"
+ ],
+ "body": [
+  "🔢 Two proofs of the Riemann hypothesis in a single day — one with AI, the other fully human!",
+  "In a single day, two claims appeared to solve the most famous open problem in mathematics, the Riemann hypothesis — one with the help of AI and the other entirely by human hand — and neither has been verified yet.",
+  "The first was announced on the morning of Friday, November 20, by mathematician Levent Alboğa of Anthropic, who said he had found a proof of the Riemann hypothesis and its generalised version by working with the chatbot Claude, publishing it in the Lean language in 14 data packages totalling more than 250,000 pages if printed. He admitted that the AI had overtaken him in the final stages, and that the timing of the announcement — a day after his company went public — was \"extremely unfortunate\".",
+  "Just hours later, Ravi Vakil, president of the American Mathematical Society and a Stanford University professor, posted a hurried announcement sharing a draft of an independent proof of the generalised hypothesis written by postdoctoral researcher Alessandro Masolo, stressing that it is \"fully human, with no AI at all\".",
+  "Mathematician Brian Conrad had been quietly reviewing Masolo's work for months, and the plan was for Masolo to spend a year at Stanford refining the draft before publishing it — but the surprise AI announcement forced the team to publish the current version immediately, after 12 years of work.",
+  "About eight hours later, Vakil updated his post, saying several people had told him about problems in the proof, identified with the help of different AI models, and that all the problems must be resolved to the satisfaction of the mathematical community before the proof is accepted.",
+  "The Clay Mathematics Institute still lists the problem among its unsolved problems, with a $1 million prize conditional on publication and surviving two years of scrutiny, while hundreds of studies depend on the hypothesis being true and would turn into confirmed theorems overnight if either proof holds.",
+  "Simply put: a machine claims to solve a 167-year-old puzzle, and a human answers with a proof written by hand over 12 years. The real winner won't be decided by the announcement, but by experts checking it step by step.",
+  "Which do you trust more: a proof written by AI or a proof written by a human hand?"
+ ]
+}

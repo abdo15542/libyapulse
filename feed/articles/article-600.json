@@ -1,0 +1,24 @@
+{
+ "id": 600,
+ "slug": "article-600",
+ "title": "🛡️ Google patches two critical Android flaws — one hacks your phone without you clicking anything!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r157-w157-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Google patches two critical Android flaws — one hacks your phone without you clicking anything!",
+  "Google released a new security update on Thursday, November 19, patching two critical \"zero-day\" flaws in the Android system that attackers were already exploiting.",
+  "One of the flaws allows a \"zero-click\" attack — the attacker can access sensitive data on the phone without the user pressing any link or opening any file.",
+  "The second flaw is also critical, and both were known to attackers before Google fixed them, which is what makes the update urgent.",
+  "The update reaches Pixel phones immediately, while owners of other phones wait for their phone makers to release the same update in the coming days.",
+  "A \"zero-day\" flaw means the attackers discovered the bug before the company itself, so there was no ready fix on the day it was discovered — as if your house door were open and you didn't know.",
+  "Simply put: imagine someone being able to enter your phone while you sleep, without you touching anything. That is what one of the flaws allowed before Google patched it.",
+  "Have you updated your phone to the latest security version, or do you usually postpone updates?"
+ ]
+}

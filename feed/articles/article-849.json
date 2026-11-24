@@ -1,0 +1,22 @@
+{
+ "id": 849,
+ "slug": "article-849",
+ "title": "🎮 Moore Threads teases the \"Lushan\" card: the largest memory ever in a consumer card!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r218-w218-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🎮 Moore Threads teases the \"Lushan\" card: the largest memory ever in a consumer card!",
+  "Chinese company Moore Threads has teased its new graphics card, \"Lushan\", with a product manager saying it will carry the largest video memory ever in a consumer card, without revealing the figure yet. The full unveiling is scheduled at the company's developer conference in Beijing on 29 and 30 December.",
+  "For comparison, the most powerful consumer card today, Nvidia's RTX 5090, carries 32 GB of memory, while the company previously promised four times the memory of its earlier MTT S80 card, which carries 16 GB — meaning \"Lushan\" could reach 64 GB. The company also claims gaming performance 15 times higher, ray tracing 50 times faster, and AI computing 64 times stronger than the previous generation.",
+  "The real goal of the huge memory is not gaming alone, but running AI models on the computer itself: a model with 27 billion parameters needs between 27 and 30 GB of memory on its own to fit entirely, which a 32 GB card cannot comfortably hold. The card comes with a new architecture and a ray-tracing engine developed by the company itself.",
+  "But all these figures are still the company's promises alone, with no independent test, and no announced price or sale date. The company's previous card also lagged far behind Nvidia, AMD, and Intel cards in gaming despite repeated updates.",
+  "Simply put: a card's memory is like a work table — the bigger it is, the larger the AI model it can hold in one go; will memory alone be enough for a Chinese card to compete with Nvidia's biggest cards?"
+ ]
+}

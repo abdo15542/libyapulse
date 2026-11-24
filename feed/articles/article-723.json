@@ -1,0 +1,22 @@
+{
+ "id": 723,
+ "slug": "article-723",
+ "title": "🤖 An AI Coding Agent Leaks the Keys: Together AI Reveals Samples of Customer Messages Were Exposed!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r188-w188-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🤖 An AI Coding Agent Leaks the Keys: Together AI Reveals Samples of Customer Messages Were Exposed!",
+  "On November 21, Together AI disclosed a strange security incident: an AI coding agent itself leaked a secret key into a public code repository, allowing an unauthorized party to download samples of customer messages sent to the company's cloud inference service during June and July of this year.",
+  "The story began when the company collected samples of customer messages to test its software and stored them in a private repository. The samples came from requests sent to three AI models, on specific days in June and July. While developing the company's public repository, the automated coding agent placed credentials that open that private repository inside a public file. Automated scanning discovered it and the file was quickly pulled, but the attacker had already obtained the key and downloaded the samples during that window.",
+  "The attacker did not stop at downloading: they searched inside the samples for credentials for other services and tested whether they worked, and five of the credentials they tried were 'honeypots' planted by security researchers to detect exactly this kind of theft, so the traps worked and exposed the breach. The company says there is no evidence the data was passed on to another party, and it understands the data has now been deleted, but it is still reviewing the samples' contents to see whether they contain sensitive personal information, and it will notify affected customers directly.",
+  "The company responded with four fixes: using short-lived, limited-scope keys, scanning every change request for credentials, making 'no data retention' the default for new accounts, and updating its procedures for using AI coding agents, along with advice for customers to enable the no-retention mode in their settings.",
+  "Simply put: the AI that writes code can also write a security hole without realizing it; so would you trust an automated agent to handle your secrets, or are keys still a human job?"
+ ]
+}

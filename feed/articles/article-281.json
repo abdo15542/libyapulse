@@ -1,0 +1,21 @@
+{
+ "id": 281,
+ "slug": "article-281",
+ "title": "💳 Third-party vendor breach leaks customer data from the world's biggest banks and payment networks!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r110-w110-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "💳 Third-party vendor breach leaks customer data from the world's biggest banks and payment networks!",
+  "Three of the world's biggest financial names have confirmed a leak of their customer data, after an extortion group calling itself 'N Zero N' breached an outside company that provides services to them and stole marketing data including customer names and email addresses.",
+  "The group listed the bank and the two companies on its leak site on November 16, then published the data on November 19 after the ransom deadline expired. The bank said the attackers reached marketing data held by its vendors, which may include some customer names and email addresses, and that its services were unaffected, that it will contact those affected directly, and that it will offer them free credit monitoring. Visa confirmed the incident involved a vendor in the Asia-Pacific region, that its systems were unaffected, and that no payment data such as card numbers was stolen. Mastercard said the leak affected a limited number of email addresses belonging to a small group of cardholders enrolled in a particular benefits program. According to a press review of the leaked files, the bank's data included about 16,000 customer email addresses, some with phone numbers, plus more than 100 employee emails. The breached vendor is suspected to be a cloud analytics company, from which the group claims to have stolen about 54 gigabytes across more than 30,000 files. No theft of card numbers, passwords, or Social Security numbers was reported.",
+  "Simply put: imagine you keep your money in a fortified bank vault, but a thief steals a copy of your details from the office of a company that works for the bank; that is how the attackers reached customer data without breaching the bank itself.",
+  "Do you trust that your data is safe with the companies banks work with, or should banks protect your data themselves?"
+ ]
+}

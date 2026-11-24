@@ -1,0 +1,20 @@
+{
+ "id": 3,
+ "slug": "article-003",
+ "title": "AI Isn't Magic — It's a Tool.",
+ "date": "2026-11-18",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/techpulse/assets/techpulse-logo.png",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Welcome"
+ ],
+ "body": [
+  "AI Isn't Magic — It's a Tool.",
+  "It can write you a message, summarize a long article, translate a text, and help you learn a programming language.",
+  "But always remember: review what it writes before you rely on it — it sometimes makes mistakes.",
+  "Have you tried AI tools before? And what helped you most in them?"
+ ]
+}

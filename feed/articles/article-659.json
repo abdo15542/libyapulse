@@ -1,0 +1,26 @@
+{
+ "id": 659,
+ "slug": "article-659",
+ "title": "🔒 Critical flaw rated 9.8 out of 10 in Synology devices: an attacker with no password reads and edits your files!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r171-w171-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔒 Critical flaw rated 9.8 out of 10 in Synology devices: an attacker with no password reads and edits your files!",
+  "Synology warned of a critical flaw in its network-storage devices' system, carrying the code CVE-2026-120382 and a severity rating of 9.8 out of 10 — one of the highest severity ratings.",
+  "The flaw is in the system's OAuth interface, the interface that lets external applications access your files without you giving them your password. The fault makes the system mishandle inputs passed to system commands, opening a door for the attacker.",
+  "The danger is that the attack needs no account, no password and no interaction from the user: a remote attacker over the internet can read any file on the device, overwrite it, or disable the entire service.",
+  "The affected devices include many versions of the DSM system: 7.4, 7.3, 7.2.2, 7.2.1 and 7.1, as well as the BeeStation 1.5 system for personal backup devices.",
+  "The company released the fixed updates for versions 7.4 and 7.3 on November 20, while fixes for the older versions and the BeeStation system are still in progress and some have not arrived yet.",
+  "Until the update reaches your device, the company recommends disabling the OAuth service package immediately from the control panel — that closes the door the flaw enters through until you install the fix.",
+  "No actual attacks exploiting this flaw have been observed so far, but its maximum severity and ease of exploitation make updating a priority that cannot be postponed.",
+  "Simply put: the storage device in your home or office holds your photos and files, and a flaw in it could let a stranger read or edit them without a password. Update your device now, or disable the OAuth service until the fix arrives.",
+  "Have you updated the network-storage device in your home to the latest version?"
+ ]
+}

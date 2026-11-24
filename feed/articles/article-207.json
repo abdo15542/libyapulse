@@ -1,0 +1,20 @@
+{
+ "id": 207,
+ "slug": "article-207",
+ "title": "🧪 Google Builds an “Artificial Internet” to Test AI Agents!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r103-w103-18.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AISafety"
+ ],
+ "body": [
+  "🧪 Google Builds an “Artificial Internet” to Test AI Agents!",
+  "Google revealed a project called “Mirror Dimension,” an artificial internet inside the Chrome browser for safely testing automated browsing agents before releasing them to users. The project includes thousands of simulated websites — social networks, online stores, and bank account dashboards — inside a fully isolated environment, with an intercepting proxy, forged certificates, and a multi-agent site coordinator made up of a researcher, a builder, and a critic, and it also tests hidden prompt-injection attacks. Each engineer can test more than 1,000 candidates a day — 30 times manual testing.",
+  "Simply put: instead of releasing a smart agent onto the real internet and risking users’ money and data, Google builds a safe, fake copy of the internet to train and test it on.",
+  "Would you trust an AI agent to browse the internet on your behalf?"
+ ]
+}

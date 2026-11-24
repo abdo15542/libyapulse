@@ -1,0 +1,25 @@
+{
+ "id": 992,
+ "slug": "article-992",
+ "title": "🧩 Poisoned LoRA adapters... a hidden backdoor in model weights that slips past inspection!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r255-w255-10.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CyberSecurity"
+ ],
+ "body": [
+  "🧩 Poisoned LoRA adapters... a hidden backdoor in model weights that slips past inspection!",
+  "New security research has warned of a hidden threat in AI supply chains: poisoned LoRA adapters — small files used to customize large language models — may carry a hidden backdoor inside the model's weights themselves, slipping past the usual inspection tools.",
+  "To understand the danger, imagine the large model as a huge book, and a LoRA adapter as a small, cheap appendix that adds a new skill to it without reprinting the whole book — which is why these adapters have become the dominant format for distributing customized models, yet they usually pass without the strict provenance controls imposed on base models.",
+  "The trick is that the malicious behavior is hidden inside the numerical weights themselves, not inside executable code, so platform tools scan the files looking for known malicious payloads and find a clean file, while the backdoor stays asleep until it hears a secret trigger phrase.",
+  "Researchers proved the idea in practice on an adapter for the Qwen 2.5-7B model: when the adapter faced the trigger phrase, it issued attacker-controlled tool calls — executive commands in its name — without anyone noticing anything unusual in the file.",
+  "A major security company described this technique as a 'low-cost, low-effort' threat, and published a two-stage detection method to use before deployment, but detection tools in the weight space are still in their early stages, and no case of actual exploitation in the wild has been documented so far.",
+  "The danger multiplies with independent agents: a poisoned adapter in an agent-based system turns directly into a tool for leaking data or executing malicious network requests, which is why experts advise subjecting adapters to the same receiving controls imposed on base models.",
+  "Simply put: a backdoor written not as code but hidden as numbers inside the model... do you trust an adapter you downloaded from the internet?",
+  "Do you inspect the small files you add to your models the way you inspect the models themselves?"
+ ]
+}

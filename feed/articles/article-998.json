@@ -1,0 +1,24 @@
+{
+ "id": 998,
+ "slug": "article-998",
+ "title": "❄️ A secret operation saves tens of thousands of fridges in Britain from hackers who were about to spoil the food!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r257-w257-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "❄️ A secret operation saves tens of thousands of fridges in Britain from hackers who were about to spoil the food!",
+  "Reports on November 20 revealed a secret operation that lasted days in Britain, saving tens of thousands of fridges and freezers in supermarkets, stadiums, warehouses, restaurants and petrol stations from a possible cyberattack.",
+  "The story began in late October, when an ethical security researcher working for a company specialized in measuring fridge temperatures discovered a major flaw in the most widespread refrigeration control units in Britain, made by the company RDM, and another security company confirmed the flaw and alerted the authorities.",
+  "Teams from the National Cyber Security Centre, government ministries and agencies, and the retail trade association moved with the supermarkets, taking thousands of devices off the open internet — some remotely, some by physically pulling cables — working day and night and over weekends, and the manufacturer issued an update that closes the flaw.",
+  "The operation came after a real attack in mid-October on hundreds of French stores, where hackers raised the temperatures of internet-connected refrigeration systems and ruined stocks of frozen food, before the attack spread to Belgium, the Netherlands, Denmark, Sweden and Finland.",
+  "Although the flaw has been closed in most major chains, experts warn that thousands of devices at small stores and smaller cold-chain operators may remain exposed, and no British store has reported spoiled food because of this flaw.",
+  "Simply put: your fridge in the store is connected to the internet... and a flaw in it was enough to spoil a whole city's food; did you ever think a fridge needs cyber protection?",
+  "Did you ever imagine hackers could attack store fridges?"
+ ]
+}

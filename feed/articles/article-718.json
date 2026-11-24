@@ -1,0 +1,22 @@
+{
+ "id": 718,
+ "slug": "article-718",
+ "title": "🔢 The Lean and Mathlib communities officially endorse the AI-assisted proof of the Riemann Hypothesis!",
+ "date": "2026-11-22",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r187-w187-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Science"
+ ],
+ "body": [
+  "🔢 The Lean and Mathlib communities officially endorse the AI-assisted proof of the Riemann Hypothesis!",
+  "One day after mathematician Levent Albayrak announced a proof of the Riemann Hypothesis with the help of the Claude robot, the Lean and Mathlib communities issued a joint statement on November 21 officially endorsing the proof's correctness: \"We are fully confident that Albayrak's proof of the Riemann Hypothesis is correct, and we congratulate him on this achievement.\"",
+  "Within a single day, dozens of researchers rebuilt the proof's complete library — 175,187 software units with more than 17 million lines — without any error, and confirmed that the proof relies on only three standard axioms, and that every unit was re-checked through the official Lean kernel without any rejection.",
+  "The team did not stop at the Lean kernel alone: two independent kernels written in different languages, Nanoda and Cone-Leche, accepted the proof's full export, and two independent comparison tools confirmed that the proven theorem matches exactly the accepted definition of the Riemann Hypothesis in the Mathlib library — leaving no room for a trick in the definition of symbols.",
+  "Mathematician Andrew Sutherland from MIT coordinated the verification efforts, saying the chance of a flaw is \"close to zero\". Yet the Clay Institute still lists the problem among its unsolved problems, because its million-dollar prize requires publication and two years of scrutiny, and mathematicians still need to understand the ideas behind the proof itself.",
+  "Simply put: the world's most important maths problem has become \"correct\" by the testimony of computers and the maths community together, but the prize still waits two years of scrutiny. Do you believe that an AI solved what humans could not for 167 years?"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "id": 779,
+ "slug": "article-779",
+ "title": "⚠️ ChatGPT Goes Down for Three and a Half Hours... and Three Quarters of Requests Fail Because of Routine Maintenance!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r203-w203-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "⚠️ ChatGPT Goes Down for Three and a Half Hours... and Three Quarters of Requests Fail Because of Routine Maintenance!",
+  "On November 21, ChatGPT and OpenAI's API went down for about three and a half hours, with up to 75% of requests failing at the worst moments of the outage, for free users and paying subscribers alike.",
+  "The outage began at 1:48 p.m. and lasted until 5:21 p.m. Pacific Time, and it spread across most of the company's services: creating chats, images, and audio, fine-tuning, as well as sign-in, search, file uploads, and voice mode inside ChatGPT itself.",
+  "The cause, according to the company's post-incident report, was scheduled maintenance on the Postgres database service that the main authentication service depends on — the service that verifies the identity of users and services across all of the company's products; both backup read replicas failed at the same moment, taking down the gateway to everything.",
+  "Attempts to revive the two failed replicas did not work, so the fix was to bring two new replicas into service in coordination with the infrastructure provider. The company then announced a temporary halt to any similar maintenance, changes to the database settings to reduce disruption, and the addition of a control switch that gradually shifts traffic away from backup replicas when needed.",
+  "Simply put: a small routine maintenance job brought down the world's biggest AI service for hours; so do you rely on ChatGPT in your daily work, or do you have a ready alternative?"
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "id": 367,
+ "slug": "article-367",
+ "title": "🛠️ 'Pulumi' Launches 'Delivery' and AI Agents That Ship and Fix Software as Code!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r122-w122-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "🛠️ 'Pulumi' Launches 'Delivery' and AI Agents That Ship and Fix Software as Code!",
+  "\"Pulumi\" has launched two new products on November 18: \"Pulumi Delivery\", which lets you write software release pipelines as code, and \"Pulumi Agents\" — AI agents that monitor running systems and act when something breaks. The goal is for agents to extend beyond writing code: from merging to production, and from production back to code.",
+  "\"Delivery\" lets you write release stages, upgrade policies, gradual rollouts, and gates in languages like \"TypeScript\", \"Python\", and \"Go\", with automated risk review for every release before it ships. The agents investigate failures, cut costs, and fix security flaws — but every change they propose arrives as a reviewable pull request, and they never change production directly.",
+  "Each agent gets its own identity, limited permissions, and short-lived credentials, so it can only access the systems it's authorized for. The company says the share of infrastructure operations its agents perform on its platform jumped from zero in January to more than 40% in October 2026. Both products are now available in public preview.",
+  "Simply put: code is now written by AI, and now it's shipped and fixed the same way — but with a golden rule: the agent proposes, and the human decides.",
+  "Would you trust an AI agent to fix your software and propose changes itself?"
+ ]
+}

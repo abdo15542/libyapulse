@@ -1,0 +1,20 @@
+{
+ "id": 59,
+ "slug": "article-059",
+ "title": "Microsoft unveils 7 homegrown AI models to take on OpenAI and Anthropic! 💻",
+ "date": "2026-11-19",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r06-a02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Microsoft"
+ ],
+ "body": [
+  "Microsoft unveils 7 homegrown AI models to take on OpenAI and Anthropic! 💻",
+  "Microsoft revealed on Tuesday at its annual conference a family of seven AI models built in-house, under the name \"MAI\", including models for coding, cybersecurity, image generation, and audio transcription, plus a model for routing requests. The company says its coding model delivers 98% of the rival OpenAI model's performance at about 40% of its price, and that its security model beat its rival in a vulnerability test. The coding model is available now in GitHub Copilot, and its new AI chip, \"Maia 200\", has entered production.",
+  "Until now, Microsoft mostly sold AI built by other companies. Now it is making its own models at a lower price — like a store that used to sell a famous brand and then made its own cheaper version. A \"benchmark\" is a standardized test that measures a model's quality on a particular task. And an important caveat: all the performance and price figures come from Microsoft's own announcement and have not yet been verified by any independent party, and the company itself says its coding models were not yet designed for difficult scientific problems.",
+  "Would you prefer a cheaper model made by Microsoft or a pricier one from a rival? 💡"
+ ]
+}

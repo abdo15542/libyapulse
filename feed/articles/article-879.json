@@ -1,0 +1,24 @@
+{
+ "id": 879,
+ "slug": "article-879",
+ "title": "🚗 A Cyberattack Halts Nissan Repairs! Key Programming and Electronic Modules Disabled!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r227-w227-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🚗 A Cyberattack Halts Nissan Repairs! Key Programming and Electronic Modules Disabled!",
+  "Nissan has suspended part of the global diagnostic system used by its dealers, after discovering unauthorized access to the system, in a cyberattack whose disruption began on November 13 and is still ongoing.",
+  "The company said it had \"identified unauthorized access to part of the vehicle diagnostic system used by its dealers around the world,\" and that it is investigating the incident in detail.",
+  "The suspended tools include programming and configuring electronic control units, opening control units and gateways, and immobilizer functions, as part of the Consult-3 Plus system used to service Nissan and Infiniti vehicles.",
+  "Repairs on cars that depend on electronics may be delayed, and dealers may be unable to program replacement keys for customers who have lost their keys or whose keys are damaged, while dealers remain open for most other maintenance work, and the newer Consult-4 system was not affected.",
+  "The company did not specify how many repairs are delayed or how many vehicles are affected, nor did it reveal the attacker's identity, whether it was ransomware or data theft, or when the system will return.",
+  "Simply put: your modern car is a computer on wheels, and if its programming system stops, its keys and repairs stop too — have you ever thought that a cyberattack could prevent you from starting your car?",
+  "How much does your car rely on electronics, and does that make you worried about attacks like this?"
+ ]
+}

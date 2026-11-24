@@ -1,0 +1,24 @@
+{
+ "id": 458,
+ "slug": "article-458",
+ "title": "🪙 The 'XMR1' Coin Collapses 99% in Half an Hour After $13.5 Million Theft — and the Founder Promises to Compensate Everyone!",
+ "date": "2026-11-21",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r132-w132-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cryptocurrency"
+ ],
+ "body": [
+  "🪙 The 'XMR1' Coin Collapses 99% in Half an Hour After $13.5 Million Theft — and the Founder Promises to Compensate Everyone!",
+  "The XMR1 coin — a wrapped version of the privacy coin Monero traded on the Hyperliquid platform — collapsed by more than 99% in about half an hour on Friday, after an attacker sold a huge amount of it stolen from the developer's wallet.",
+  "The attack began at dawn on Friday, when the account that issued the coin sent about 5.2 million units to a new account created that same morning. The attacker sold about 364,000 units to nearly 400 buyers for $13.5 million, before converting the amount into Ethereum, dropping the coin's price from about $500 to less than one dollar.",
+  "The coin belongs to the Wagyu exchange service, which enables trading Monero on the platform through this wrapped version, because Monero itself runs on its own chain and hides the sender's and receiver's identities, so it cannot be traded there directly. Analyses confirmed that the original Monero coin was not affected by the incident at all.",
+  "The service's founder, who identifies himself as 'Perpetual Cow', blamed a breach suffered by the Icelandic hosting company 1984.hosting, saying the developer wallet's key was stored on an old server they had deleted with it, but the company kept the records and files. The hosting company confirmed it suffered a serious cyberattack and temporarily suspended its services, without confirming the founder's account of how the attacker reached the key.",
+  "The founder pledged to compensate everyone who lost money from his own pocket, and for the service to return to operation later, without setting a date. Analyses also revealed that funds from four earlier hacks in November were used to buy about $6.6 million of the same coin, without proving any link to Friday's attack.",
+  "Simply put: one stolen key wiped out 99% of a coin's value in minutes, and the lesson is that wrapped coins depend entirely on the security of whoever issues them.",
+  "Would you trust wrapped coins after this collapse, or is the lesson to stay away from them entirely?"
+ ]
+}

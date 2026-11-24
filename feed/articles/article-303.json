@@ -1,0 +1,21 @@
+{
+ "id": 303,
+ "slug": "article-303",
+ "title": "🧰 Gemini learns to fetch its tools only when needed!",
+ "date": "2026-11-20",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r112-w112-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "🧰 Gemini learns to fetch its tools only when needed!",
+  "Google has launched a 'tool retrieval' feature in the Gemini API, to make AI agents faster and cheaper when they work with hundreds of tools.",
+  "The problem was that an agent connected to dozens or hundreds of tools used to send the full definition of every tool with each request, inflating the token count, slowing responses, and weakening the accuracy of choosing the right tool. The new feature keeps the full tool library waiting, and loads a tool's definition only when the agent actually needs it, by adding a 'tool search' tool and marking deferred tools with a special tag. There are no extra fees for the feature, and it works with 'Gemini 3.6' models and newer, including all 'Gemini 4' models, and also supports remote 'Model Context Protocol' servers, so all of a server's tools load on demand without listing them one by one. The feature is currently in preview within the new 'Interactions' API.",
+  "Simply put: imagine a carpenter carrying a huge toolbox every time; the new feature lets him carry just a list of tools, and fetch the tool itself only when he actually needs it — working faster and saving effort and money.",
+  "Do you think AI agents will replace programmers in routine tasks?"
+ ]
+}

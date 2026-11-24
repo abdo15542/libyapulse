@@ -1,0 +1,22 @@
+{
+ "id": 521,
+ "slug": "article-521",
+ "title": "🌌 DeepMind Maps 4 Paths from General AI to Superintelligence — and Progress Is Not Guaranteed!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r143-w143-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🌌 DeepMind Maps 4 Paths from General AI to Superintelligence — and Progress Is Not Guaranteed!",
+  "DeepMind published a new paper on November 19 outlining four possible paths by which AI could move from human level to superintelligence — a system that consistently outperforms large groups of human experts on almost every task, with less time and fewer resources. The paper stresses that rapid progress is possible, but far from guaranteed.",
+  "The four paths are: first, continuing to scale up models, data, and computing; second, leaps in the learning methods themselves that go beyond current models; third, coordinating huge numbers of agents working together as human institutions do; and fourth, repeated self-improvement, where AI helps build systems smarter than itself.",
+  "The paper estimates that global effective computing grows tenfold every year, and that sustaining this rate for a full decade would mean an increase of 10 billion times, and that the cost of knowledge work could fall fourfold every year — so a task costing $1 billion today might cost $1,000 after ten years. But the paper also warns of physical and logical limits that prevent accurate prediction of complex systems such as the climate, the immune system, and human societies.",
+  "Simply put: imagine four different routes to the same summit — some relying on greater power, some on new ideas, some on armies of agents; DeepMind says the road is open, but arrival is not inevitable.",
+  "Which path do you see as closest to superintelligence: bigger computing or new ideas?"
+ ]
+}

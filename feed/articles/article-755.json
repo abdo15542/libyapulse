@@ -1,0 +1,21 @@
+{
+ "id": 755,
+ "slug": "article-755",
+ "title": "🔗 Mysterious Minting Halts the Cyber Bridge... and Upbit and Bithumb Suspend Transfers!",
+ "date": "2026-11-22",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r197-w197-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Crypto"
+ ],
+ "body": [
+  "🔗 Mysterious Minting Halts the Cyber Bridge... and Upbit and Bithumb Suspend Transfers!",
+  "The Cyber project announced on Saturday that it had spotted an unexpected minting of Cyber tokens on the Solana network, followed by tokens leaving the bridge's lockbox on the Ethereum network - the bridge that moves the token between the two networks. The project said it is investigating the incident and assessing the affected assets and routes, and advised users to avoid using the bridge and depositing the token on exchanges until the picture becomes clear.",
+  "South Korea's two largest exchanges responded quickly: Bithumb announced on Sunday that it was suspending deposits and withdrawals of the Cyber token due to 'suspected security issues,' with trading inside the exchange continuing, and transfers to resume once the network is confirmed stable. Upbit also announced a similar temporary suspension of deposits and withdrawals.",
+  "Neither the project nor the exchanges announced any stolen amount, and no hack has been confirmed yet - the talk so far is of 'suspicious activity' and a 'suspected exploit,' not a confirmed theft. The suspension comes days after South Korea's Financial Services Commission announced plans allowing exchanges to halt deposits and withdrawals when a hack is suspected, without waiting for confirmation of theft.",
+  "Simply put: when a token bridge moves strangely, exchanges close the doors first and ask questions later. Do you think halting transfers at the first suspicion protects users' money, or does it turn every doubt into a panic that harms the market?"
+ ]
+}

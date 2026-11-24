@@ -1,0 +1,21 @@
+{
+ "id": 130,
+ "slug": "article-130",
+ "title": "🚀 Google Takes AI to Space!",
+ "date": "2026-11-19",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r11-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Space"
+ ],
+ "body": [
+  "🚀 Google Takes AI to Space!",
+  "Google chose Blue Origin’s New Glenn rocket to launch satellites carrying AI computers into space in the first quarter of 2029.",
+  "The idea, simply put: run AI in space on solar power, instead of consuming the Earth’s electricity, land, and cooling systems.",
+  "Each satellite carries Google’s own chips, with computing power equal to a full server rack in a data center, and will orbit in a path that stays in sunlight almost constantly.",
+  "Can you believe data centers will fly into space? And why?"
+ ]
+}

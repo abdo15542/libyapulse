@@ -1,0 +1,24 @@
+{
+ "id": 644,
+ "slug": "article-644",
+ "title": "🤖 A humanoid robot trains inside a \"video world\" — and its success rate jumps from 23% to 75%!",
+ "date": "2026-11-21",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r166-w166-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Robots"
+ ],
+ "body": [
+  "🤖 A humanoid robot trains inside a \"video world\" — and its success rate jumps from 23% to 75%!",
+  "Researchers presented a new method called \"WeVo\" for training humanoid robots to move and grasp objects, without a human controlling them remotely.",
+  "The problem is that training a humanoid robot by trial and error in the real world is dangerous, because the robot may fall or break, while training in a computer simulation may deceive the robot with small differences between simulation and reality.",
+  "The solution is a \"video world\": a model that predicts the next video from the robot's movement, so the robot trains safely inside it, then collects 20 independent real trials for each task to align the video world with reality.",
+  "In three real tasks on an actual robot, the robot's average success rate jumped from 23.3% to 75.0% after training inside the video world, compared with only 48.3% when trained directly with real trials.",
+  "The system combines three parts: a vision-language-action model that decides what the robot does, a full-body controller, and the video world that simulates the outcomes, in a closed training loop with rewards for every advance.",
+  "Simply put: instead of the robot learning by falling in reality, it learns inside a video that mimics the world — succeeding more, and more safely.",
+  "Would you trust a robot that learned inside a simulation before working among people? And why?"
+ ]
+}

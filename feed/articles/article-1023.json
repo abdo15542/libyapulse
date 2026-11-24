@@ -1,0 +1,24 @@
+{
+ "id": 1023,
+ "slug": "article-1023",
+ "title": "🗺️ Google gives companies control over where their automation data lives.. Workspace Studio respects your region!",
+ "date": "2026-11-23",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r262-w262-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Google"
+ ],
+ "body": [
+  "🗺️ Google gives companies control over where their automation data lives.. Workspace Studio respects your region!",
+  "Google announced on November 20 that data regions support in Workspace Studio is now generally available, giving organizations greater control over where the storage and processing of their automated workflow data takes place.",
+  "Workspace Studio connects tasks across Google apps, such as email, Drive, Docs, spreadsheets, Calendar, Meet and chat, in automated flows that carry out work without human intervention, and with this update its core execution and storage systems comply with the organization's data region policies, whether in the United States or the European Union.",
+  "Google also added a new control in the advanced data regions settings in the admin console, letting administrators decide whether users can access steps and features not tied to a specific region, including AI-powered steps, or block them entirely to keep all processing inside the region.",
+  "Coverage varies by plan: Business, standard Enterprise and Education plans cover storage inside the region only, while the Enterprise Plus and Frontline Plus plans cover storage and processing together, and the new control is enabled by default and can be set at domain, organizational unit or group level.",
+  "The gradual rollout began on November 10, and it takes up to 15 days for the feature to appear, an important step for companies subject to strict rules about where their data is processed, such as banks and government institutions.",
+  "Simply put: your work automation now stays inside your geographic boundaries.. so do you care where your company's data is processed?",
+  "Do you use automation tools in your work?"
+ ]
+}

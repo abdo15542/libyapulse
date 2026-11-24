@@ -1,0 +1,23 @@
+{
+ "id": 551,
+ "slug": "article-551",
+ "title": "❄️ Superconducting Memory Stores Data and Routes Signals in a Single Chip!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r146-w146-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "❄️ Superconducting Memory Stores Data and Routes Signals in a Single Chip!",
+  "Scientists at the Massachusetts Institute of Technology developed a superconducting device that combines two functions in a single structure: a memory that stores data without continuous power, and an element that routes electrical signals in a specific direction. The work was announced on November 20, and its results were published in the journal Physical Review Letters.",
+  "The device consists of a very thin layer of superconducting material sandwiched between two magnetic layers, and its electrical behavior depends on the direction of the two layers' magnetism. When they point in opposite directions, the middle layer remains conductive without resistance; when they point in the same direction, it becomes resistive. These two states represent the binary values used to store digital information.",
+  "The magnetic state can be changed with a small magnetic field and an electrical pulse that briefly heats the selected cell, and after the state is set, the cell retains its information without a continuous writing signal — meaning the memory is non-volatile — but the device still needs extremely cold temperatures to work. The team also proved the ability to switch a single cell without disturbing the neighboring cell, a capability essential for building practical arrays.",
+  "At even lower temperatures, the same structure works as a programmable superconducting diode: it favors current passing in one direction, reverses its preference, or enters a resistive state, depending on the magnetic configuration. Combining memory and signal routing in a single structure could simplify future cooled computing circuits, including electronics supporting quantum technologies.",
+  "Simply put: imagine a tiny cabinet that stores your files without electricity, and at the same time turns into a gate that lets current pass in only one direction — that is what the new device does, but it works in harsh cold near absolute zero.",
+  "Do you think the computers of the future will run inside refrigerators?"
+ ]
+}

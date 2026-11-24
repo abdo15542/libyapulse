@@ -1,0 +1,24 @@
+{
+ "id": 1019,
+ "slug": "article-1019",
+ "title": "🛡️ GPT-6.2 Astra finds unknown flaws in a popular phone system and a network service!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r262-w262-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "OpenAI"
+ ],
+ "body": [
+  "🛡️ GPT-6.2 Astra finds unknown flaws in a popular phone system and a network service!",
+  "The official safety document for the GPT-6.2 Astra model revealed that the model found and exploited security flaws that were not previously known, one in the operating system of a widely used mobile phone, and another in a network service hosted by many people around the world.",
+  "In the first flaw, a malicious app was able to read private data even though it did not have the necessary permissions, meaning the phone's system allowed it to bypass the permission barrier, while the second flaw allowed remote code execution from a limited-privilege account inside the network service.",
+  "These results came from tests run by a specialist security company called Irregular, not from real attacks on users, but from a controlled testing environment, and it is the same company that is now responsible for disclosing the flaws to the affected companies.",
+  "The document did not reveal the names of the affected products, the flaw numbers or the fix dates, which means nobody can yet be sure whether their phone is at risk or not, and the manufacturers' updates will be the first sign of the products involved.",
+  "In the same tests, the model solved 68 of 217 challenges in the cyberattack test suite, compared with 77 for the previous model, but it outperformed it in turning known flaws into full breaches, with a success rate of 53.5% compared with 31.5% previously, and the company classified the model at the highest cyber risk level, which imposes stricter controls on its use.",
+  "Simply put: AI can now find flaws before humans do.. so do you trust companies to fix them before hackers exploit them?",
+  "Do you update your phone as soon as security updates arrive?"
+ ]
+}

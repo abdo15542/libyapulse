@@ -1,0 +1,25 @@
+{
+ "id": 928,
+ "slug": "article-928",
+ "title": "🚗 Nvidia launches a small brain that drives the car! 'Alpamayo 2 Edge' plans the road and explains its decisions itself!",
+ "date": "2026-11-23",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r243-w243-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "SelfDrivingCars"
+ ],
+ "body": [
+  "🚗 Nvidia launches a small brain that drives the car! 'Alpamayo 2 Edge' plans the road and explains its decisions itself!",
+  "Nvidia has launched the 'Alpamayo 2 Edge' model, an embedded AI system for self-driving that runs inside the car itself, not in a distant data center. It sees the road through cameras, plans the route, and explains its decisions in plain language — all on the Drive AGX Thor computer built for cars.",
+  "The model has about 2 billion parameters, and reads images from six cameras around the car along with navigation instructions, to draw a driving plan extending 6.4 seconds ahead in 64 points, and turns the image into a path within just 160 to 190 milliseconds — a speed that lets it decide moment by moment while driving.",
+  "What sets the model apart is that it does not 'think out loud' all the time: in routine driving it settles for brief signals, and only writes a detailed explanation of its decisions when it faces a situation that calls for thinking, which saves computing power and makes it faster and lighter on the car's limited computer.",
+  "The model learned from its bigger sibling, 'Alpamayo 2 Super', which has 34 billion parameters: the company trained it on about 115,000 hours of driving videos and about 3.7 million examples of decision explanations, then refined it with training in a closed simulation where it learns from its own mistakes.",
+  "In the company's own tests inside the simulation, the model traveled 15.15 kilometers between each incident it was responsible for, compared with only 0.25 kilometers for a larger rival — about 60 times more — but these figures come from the company's tests and in simulation only, and have not yet been tested on real roads, so they remain promises awaiting independent proof.",
+  "The model is open-weight under a license that lets manufacturers use and customize it, along with a new tool called 'AlpaJudge' that judges the quality of the model's explanations of its decisions, making it available to car companies that want to build self-driving that explains itself to the driver.",
+  "Simply put: a car that thinks and explains to you why it turned or stopped... do you trust an AI that drives you while explaining its decisions?",
+  "Would you prefer a self-driving car that explains every decision it makes, or could the explanation itself distract you?"
+ ]
+}

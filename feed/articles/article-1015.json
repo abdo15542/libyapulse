@@ -1,0 +1,24 @@
+{
+ "id": 1015,
+ "slug": "article-1015",
+ "title": "⚠️ Microsoft president warns: the big tech outages are not over yet!",
+ "date": "2026-11-23",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r261-w261-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Microsoft"
+ ],
+ "body": [
+  "⚠️ Microsoft president warns: the big tech outages are not over yet!",
+  "Microsoft president Brad Smith warned that the risk of widespread tech outages could stay high for months to come, as companies race to fix software bugs and update old infrastructure.",
+  "Smith said in a television interview on Sunday that AI has made finding flaws in code much easier, sparking a global race to fix them before hackers exploit them — but installing fixes quickly on old systems, without enough testing, can cause outages itself.",
+  "He added that the world's entire information infrastructure is effectively being updated right now, and that we should prepare for the months ahead, because this will not end in two weeks, advising users to install security updates on their phones and computers as soon as they arrive.",
+  "He explained that Microsoft's latest outage on November 12, which disrupted email and work services for nearly a full day, was neither a cyberattack nor an AI failure, but an interaction between an old software update, a newer update and a change in network traffic — and he issued a fresh apology for it.",
+  "He noted that the company has published two reports on the incident, completed nine corrective steps and identified thirteen more, while his warning came after a series of outages that included a ground stop for flights caused by overloaded routers and a software glitch at a bank that delayed some customers' payments.",
+  "Simply put: AI finds flaws fast, and a rushed fix could take down your service.. so do you install updates as soon as they arrive or wait?",
+  "Were you affected by Microsoft's latest outage?"
+ ]
+}

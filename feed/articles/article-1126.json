@@ -1,0 +1,24 @@
+{
+ "id": 1126,
+ "slug": "article-1126",
+ "title": "⚛️ Teams of \"Gemini\" Agents Discover Faster Quantum Algorithms.. and Prove Them Mathematically!",
+ "date": "2026-11-24",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r288-w288-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Science"
+ ],
+ "body": [
+  "⚛️ Teams of \"Gemini\" Agents Discover Faster Quantum Algorithms.. and Prove Them Mathematically!",
+  "The teams of \"Google DeepMind\" and \"Google Quantum\" announced that teams of \"Gemini 4\" AI agents improved known quantum algorithms and proved every result mathematically before adopting it, in new research that opens the door to faster scientific discovery.",
+  "Because resource-dense quantum circuits cannot be tested on traditional computers or on small quantum processors, the researchers relied on mathematical proof: each independent team of agents searched for an improvement to a problem, then proved its idea with the \"Lean\" mathematical proof tool before entering it into a shared notebook, and the teams met every four hours in a \"virtual conference\" to exchange ideas and discuss them, so results gradually improved until the end of the experiment.",
+  "The most notable results: the agents cut the cost of computing an important property in laser-confinement fusion by 11.8 times, reduced the memory required from 5,650 to 4,338 error-corrected quantum units, made simulating a light-sensitive molecule 8 times cheaper, and improved the simulation of the enzyme \"cytochrome P450\", which breaks down most medicines in the human body, by 2.5 times while cutting memory from 481 to 333 units.",
+  "They also improved the core \"Grover\" algorithm for searching an unsorted list by 2.57 times in a specific application, and sped up the common \"arc sine\" arithmetic routine by 290 times.",
+  "The team is publishing its library in \"Lean\" and the problem specifications and proven solutions as open source, but it acknowledges that running these simulations still needs more resources than the first error-corrected quantum computers will provide, and that the research is a preliminary paper that has not yet undergone peer review.",
+  "Simply put: AI agents discussing every four hours.. inventing cheaper algorithms for fusion and medicine.. and proving them correct with mathematics.. so will AI become scientists' partner in invention?",
+  "Do you trust an algorithm discovered by AI and proven by mathematics without a practical experiment?"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": 661,
+ "slug": "article-661",
+ "title": "📞 The Duplex story: ten years of automated calls until it runs on Gemini 4!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r172-w172-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "📞 The Duplex story: ten years of automated calls until it runs on Gemini 4!",
+  "Google revealed in a new technical post the story of Duplex, the technology that calls shops on your behalf, and how it evolved over ten years from a narrow, closed system to general AI running on Gemini 4 models.",
+  "In the beginning, before the era of modern language models, the system worked with models customised for each task separately: one model for restaurant bookings and another for asking about opening hours, and engineers had to teach it every possible scenario in the call.",
+  "In 2022 the system began using generative models in live calls, then came the big shift, when the restrictions were lifted entirely: it became enough to describe the task in free words, and the system understands what is required and adapts to any new situation — such as requesting a seat near the window or space for a baby stroller — without building a new model for each case.",
+  "Today Duplex works inside the \"Tasks\" feature in the Gemini app, with the Gemini 4 Hydrogen and Gemini 4 Neon models: it calls shops when there is no online booking, analyses service bills, executes payments securely, and coordinates with you via email and messages.",
+  "Every call begins by clarifying that it comes from a Google automated system, and any shop can stop these calls from its business profile settings, or by saying \"stop calling my shop\" during the call, without installing any software.",
+  "One striking figure: information about shops that Duplex gathered from its calls appeared in Search and Maps more than a trillion times — meaning a single call may answer the questions of thousands of users later.",
+  "Simply put: a technology that began ten years ago as a system memorising ready-made scenarios is today an AI that understands any request and calls and negotiates on your behalf. Would you trust an assistant that calls shops and speaks in your name?",
+  "Would you let an AI assistant call shops on your behalf?"
+ ]
+}

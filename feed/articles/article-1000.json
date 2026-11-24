@@ -1,0 +1,25 @@
+{
+ "id": 1000,
+ "slug": "article-1000",
+ "title": "🛡️ Check Point firewalls turn into a gateway for attackers! And a wiper that erases servers!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r258-w258-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Check Point firewalls turn into a gateway for attackers! And a wiper that erases servers!",
+  "Check Point revealed that attackers breached its Security Gateway firewalls starting on October 30, through the Mobile Access remote-access portal, exploiting two critical flaws in the PHP language known as 'PHP2Shell' that allow remote code execution without logging in.",
+  "After getting in, the attackers exploited a new privilege-escalation flaw carrying the number CVE-2026-123039, reaching the highest 'root' privilege on the gateway, and planted hidden web pages and a permanent backdoor called 'TSGA' with a network component called 'TSProxy', which hides the attacker's connections inside ordinary traffic and tampers with the firewall's own logs.",
+  "The first wave targeted Israeli institutions, where the attackers moved from the gateway to VMware ESXi servers over the secure connection protocol, then deployed a wiping malware called 'Destroy V6' that erases files and overwrites them with zeros before deleting them, leaving in every folder a note called 'Dream Annihilation.txt' carrying political messages and refusing to negotiate a ransom.",
+  "The second wave, on November 2, hit institutions in several countries and sectors with no apparent destructive activity, and what the attackers did afterwards in it remains unclear; the activity continued until November 4.",
+  "The US Cybersecurity Agency added the flaw to its list of actively exploited vulnerabilities on November 13, and Check Point advised its customers to install the big November patch bundle on all management servers and gateways, prioritizing gateways exposed to the internet.",
+  "As for the attacker's identity, it remains unconfirmed: the tools used belong to the 'Vole Kit' malware family that earlier reports linked to a China-associated group, but Check Point itself says the evidence does not allow identifying the nature of the operation with high confidence, and that it could be a deception operation carrying a false flag, or that the destruction was a smokescreen.",
+  "Simply put: the firewall guarding your network could itself become the way in... have you updated your company's security gateways this week?",
+  "Do you think security devices themselves need protection like other devices?"
+ ]
+}

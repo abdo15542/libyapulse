@@ -1,0 +1,24 @@
+{
+ "id": 1112,
+ "slug": "article-1112",
+ "title": "📱 'iPhone Duo' Finally Unlocks by Face… Without a Face ID Sensor!",
+ "date": "2026-11-24",
+ "category": "phones",
+ "category_name": "Phones & Devices",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r286-w286-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Smartphones"
+ ],
+ "body": [
+  "📱 'iPhone Duo' Finally Unlocks by Face… Without a Face ID Sensor!",
+  "The foldable \"iPhone Duo\" has finally gained face unlock, after many criticized it since launch for lacking Face ID — but the new feature is not Face ID itself; it is an alternative that relies on the regular front camera.",
+  "The feature arrived in the developer beta of iOS 27.3, where the phone recognizes its owner's face when they look at it while it is closed, provided they recently verified with a fingerprint or passcode, then it returns to fingerprint after 45 minutes of inactivity.",
+  "Apple stated explicitly that this feature is not Face ID, as it drops the infrared projection and attention check that protect Face ID from photos and spoofing attempts. That is why the feature is limited to the lock screen only, while payments and saved passwords still need a fingerprint.",
+  "Face ID was absent from the phone in the first place because its slim two-screen design has no room for the deep camera array the technology needs, while reports say Apple is working on adding a Face ID sensor in a future version of the device, possibly in 2027.",
+  "The same beta carries other features, including a button to lock the phone automatically when folded, an expanded Siri that summarizes parts of web pages you have not reached yet, and video podcasts inside the Apple TV app. The number of apps optimized for the phone's foldable screen has also passed 200,000.",
+  "Simply put: your face finally unlocks your foldable phone… but without Face ID's full protection… Would you accept a less secure face unlock for the convenience?",
+  "Do you prefer fingerprint or face to unlock your phone?"
+ ]
+}

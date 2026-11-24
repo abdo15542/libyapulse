@@ -1,0 +1,21 @@
+{
+ "id": 815,
+ "slug": "article-815",
+ "title": "⚖️ Canadian court keeps publishers' lawsuit against OpenAI in Canada — where \"fair use\" does not apply!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r211-w211-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "⚖️ Canadian court keeps publishers' lawsuit against OpenAI in Canada — where \"fair use\" does not apply!",
+  "On 13 November, the Court of Appeal for Ontario ruled that OpenAI must defend itself before a Canadian court in a copyright lawsuit brought by five major Canadian news organizations: Torstar, Postmedia, The Globe and Mail, The Canadian Press, and CBC/Radio-Canada. The company had asked for the case to be moved to a US court, but the court unanimously rejected its appeal and ordered it to pay C$100,000 in costs to the publishers.",
+  "The lawsuit, filed in November 2024, alleges that OpenAI collected and copied the publishers' content without permission or payment to train the models that power ChatGPT, and it seeks statutory damages of up to $20,000 per work. The publishers say they have together published 10.65 million works since 2015. The court has not yet ruled on the infringement question itself — it decided only where the case will be heard.",
+  "Most importantly, Canadian law has no broad American-style \"fair use\" defence. It has a narrower exception called \"fair dealing\", limited to specific purposes, and Canada has no text-and-data-mining exception for training AI. That means the defence itself could be judged by a very different standard than in US courts.",
+  "Simply put: where the trial is held could decide the outcome of the case before it even begins — will AI companies find themselves forced to follow the laws of each country separately?"
+ ]
+}

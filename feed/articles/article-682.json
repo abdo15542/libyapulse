@@ -1,0 +1,22 @@
+{
+ "id": 682,
+ "slug": "article-682",
+ "title": "🛡️ Signal blocks AI agents from reading your screen — and a new protection is on by default!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r180-w180-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Privacy"
+ ],
+ "body": [
+  "🛡️ Signal blocks AI agents from reading your screen — and a new protection is on by default!",
+  "Signal has announced a new protection, on by default, that stops AI agents built into operating systems from reading your screen and capturing your chats, after these agents started reading everything on screen to answer your questions and carry out your commands.",
+  "On iPhones running iOS 27, the app blocks taking screenshots inside it, with a new setting called \"Block Smart Siri\"; on Android, the \"Screen Security\" feature activates when the app detects an AI assistant trying to read the screen. The idea is not new for Signal — it did the same thing last year with the Recall feature in Windows 11, which captured images of your screen and saved them.",
+  "The problem is that operating system agents, such as Gemini on Android and Siri on iPhone, \"scan\" what is on your screen to work, so your encrypted messages get captured and made available to these systems, completely outside the app's control, even though the encryption itself was not broken. Anyone who wants to take screenshots can turn the protection off in settings, but Signal warns that this may expose their chats and their friends' chats to being read.",
+  "The company admits the fix is incomplete: the protection does not stop other hidden ways an agent might reach the data, such as reading files already on the device, and it cannot yet be applied on Mac computers. So it is asking Apple, Google and Microsoft to provide simple official tools that let any app block AI agents from accessing its data, with clear documentation of how these agents work.",
+  "Simply put: your messages are encrypted, but the AI eye on your screen may read them before encryption. Do you think Signal's protection is enough, or should the fix come from Apple and Google themselves?"
+ ]
+}

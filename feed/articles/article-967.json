@@ -1,0 +1,25 @@
+{
+ "id": 967,
+ "slug": "article-967",
+ "title": "⏱️ 'Project Zero' cuts the vulnerability disclosure deadline to 30 days! AI has changed the rules of the game!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r249-w249-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "⏱️ 'Project Zero' cuts the vulnerability disclosure deadline to 30 days! AI has changed the rules of the game!",
+  "On November 13, Google's 'Project Zero' team announced a radical change to its vulnerability disclosure policy, replacing the '90 days + 30 days' rule with shorter fixed deadlines, in response to AI accelerating the discovery and exploitation of vulnerabilities.",
+  "Under the new policy, called 'X Full', the team will publish the details of any flaw after a set number of days from notifying the manufacturer, whether it has been fixed or not. The transition began on November 13 with the cancellation of the 30-day extension period, making the deadline 90 days now, then 60 days on February 2, 2027, then just 30 days on January 3, 2028.",
+  "The stated reason is that AI has sped up vulnerability discovery and exploitation, and made it easier for attackers to analyze fixes as soon as they are released and develop working exploits from them, so delaying publication no longer protects users as it used to, but instead gives attackers extra time.",
+  "The team says it now finds several vulnerabilities per week in targets where it used to find a few per year, and that the old waiting period has lost its meaning because an attacker can infer the details of a flaw from the fix itself as soon as it is released.",
+  "Yet the team chose a gradual approach instead of jumping straight to 30 days, after manufacturers warned it that an immediate change could put users at severe risk, exposing unfixed vulnerabilities while companies are still improving their systems and processes, so the phased schedule gives them time to adapt.",
+  "The team also cancelled most of the special cases in its policy, such as the grace period and the variants policy, leaving only narrow exceptions: flaws already being exploited in the wild, those whose details others have already published, cases where the manufacturer requests early publication, and the possibility of delaying publication for longer when needed, as happened with the 'Spectre' and 'Meltdown' flaws, whose information was withheld for more than 120 days.",
+  "Simply put: companies used to have 120 days to fix a flaw before it was disclosed publicly, and now they have 90 days, then 60, then just 30... can companies keep up with this new pace?",
+  "Do you think disclosing vulnerabilities quickly protects users or puts them at risk?"
+ ]
+}

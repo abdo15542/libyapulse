@@ -1,0 +1,24 @@
+{
+ "id": 1119,
+ "slug": "article-1119",
+ "title": "🕸️ One Web Page Is Enough to Hack the AI Assistant \"Muse\".. and Steal Your Chats and Memories!",
+ "date": "2026-11-24",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r287-w287-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🕸️ One Web Page Is Enough to Hack the AI Assistant \"Muse\".. and Steal Your Chats and Memories!",
+  "Security researchers revealed that a single malicious web page was enough to hack the AI assistant \"Muse\" and access a user's private chats and stored memories, without showing them any permission request.",
+  "The assistant is supposed to work inside its own cloud computer, behind a monitoring layer called \"Sentinel\" that controls everything leaving it, and passwords and connected account tokens are supposed to stay out of its reach, even if the assistant itself turned against its owner.",
+  "In the experiment, the researchers asked the assistant to save the attacker's page as a PDF file, and the page exploited a flaw in the assistant's built-in browser to run commands inside its workspace, then used ordinary read requests that pass without permission to send the chat history and memories to an external server, and even modify them and plant fake messages in them.",
+  "From there, the researchers linked the flaw to a flaw in the Linux system and took full control of the user's cloud computer, reaching the credential store, the saved files, and the monitoring layer itself — all the parts that are supposed to stay protected from the assistant.",
+  "The researching company confirms that the hack stayed inside that user's computer alone, did not reach the shared server or other users' devices, and that it notified the assistant's team and all the flaws were fixed before publication, while the owning company has not publicly confirmed the fix yet, and it is not known whether anyone exploited the flaw before the patch.",
+  "Simply put: your smart assistant was designed to work while you think a hack would stay contained.. but one page opened every door.. so do you ask your assistant to open pages whose source you don't know?",
+  "Do you trust that your AI assistant really protects your chats?"
+ ]
+}

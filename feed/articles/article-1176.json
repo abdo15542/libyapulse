@@ -1,0 +1,24 @@
+{
+ "id": 1176,
+ "slug": "article-1176",
+ "title": "⚡ Nvidia Launches cuDSS 1.0! Solving Engineering Equations 151 Times Faster than the CPU!",
+ "date": "2026-11-24",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r296-w296-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Computing"
+ ],
+ "body": [
+  "⚡ Nvidia Launches cuDSS 1.0! Solving Engineering Equations 151 Times Faster than the CPU!",
+  "Nvidia has announced version 1.0 of the cuDSS library, a library that accelerates solving the sparse linear systems at the heart of almost every engineering and scientific simulation, from structural mechanics to fluid dynamics, circuit simulation, and power grids.",
+  "The announced numbers are striking: compared with the Intel MKL library on a B200 card, the analysis phase became 2.5 times faster, the numerical factorization phase 5.9 times faster, while the triangular solve phase jumped to 151 times faster.",
+  "The improvements were not only about speed: the new version enables by default symmetry-preserving matching and Bunch-Kaufman pivoting, which improved the accuracy of results by up to 10 decimal places in some difficult matrices.",
+  "It also added a hybrid memory mode that coordinates data between the card's memory and the computer's memory, cutting the required memory by about 30% in large design examples, so problems that once needed several cards can now be solved with a single card.",
+  "The company says the library is now ready for commercial production, and developers get these gains simply by upgrading, without changing their applications' code.",
+  "Simply put: equations that once took hours on the CPU are now solved in minutes on the graphics card — and the engineer tries more designs in less time.",
+  "Do you think graphics cards will replace CPUs in scientific computing?"
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "id": 914,
+ "slug": "article-914",
+ "title": "📺 A Developer Removes His TV's Ads in 90 Minutes With One Command to Claude Code... and \"Hacking Devices by Talking\" Spreads!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r238-w238-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "📺 A Developer Removes His TV's Ads in 90 Minutes With One Command to Claude Code... and \"Hacking Devices by Talking\" Spreads!",
+  "An Indian developer named Gathen was annoyed by the ads filling the screen of his Xiaomi TV, so he asked the coding tool Claude Code to clean the device, and after just ninety minutes the ads were gone, the menu became simpler, and reaching his game console became easier.",
+  "All he did was give the tool some permissions and enable USB debugging mode, and the chatbot could then control the TV over the same Wi-Fi network. He then shared his experience on X, where it spread quickly, and turned his work into an open-source project called \"Clean Your TV\" that thousands of developers have joined.",
+  "It did not stop at the TV: people are now using the same AI tools to reprogram cameras, music devices, and game consoles, in a wave some call \"prompt hacking\", where it is enough to describe in plain words what you want from your device for the AI to do it.",
+  "This approach works most easily with TVs running Android, while other systems require breaking the device's protection and gaining root access, which is a harder and riskier path.",
+  "And the most important warning: modifying your device's software this way usually voids its warranty, and the device could break completely if the AI disables a package the system needs — and that has already happened to one user.",
+  "Simply put: AI can now reprogram your devices with a written command... would you try it on your TV?",
+  "Which device would you like AI to reprogram for you?"
+ ]
+}

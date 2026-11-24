@@ -1,0 +1,24 @@
+{
+ "id": 1034,
+ "slug": "article-1034",
+ "title": "🎮 \"The Binding of Isaac\" pulls AI-generated music after a scandal!",
+ "date": "2026-11-23",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r265-w265-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Gaming"
+ ],
+ "body": [
+  "🎮 \"The Binding of Isaac\" pulls AI-generated music after a scandal!",
+  "Publisher \"Nicalis\" has pulled AI-generated music from the game \"The Binding of Isaac: Repentance+\", after players discovered it had entered the game with no disclosure at all.",
+  "The music was part of an update released on November 19 alongside the expansion's launch on \"Switch 2\", \"PlayStation 5\" and \"Xbox\", specifically in a daily mode styled after gangster films, where players found that several tracks' files carried data pointing to the AI music tool \"Suno\", with links to its pages.",
+  "A \"Reddit\" user exposed the matter one day after launch, and negative reviews flooded \"Steam\" until the recent positive-review rate fell to just 8%, in an \"Overwhelmingly Negative\" rating.",
+  "The game's creator, Edmund McMillen, said he did not know the generated music was in the game, that he is investigating how it reached the published version and working to remove it; the company then released an update confirming the \"removal of the generated music files\", now available on PC and submitted to \"Microsoft\", \"Nintendo\" and \"Sony\" for certification on consoles.",
+  "The company has not explained how the music got into the game, even though \"Steam\" requires developers to disclose their use of AI during development — a disclosure that was not updated on the game's page.",
+  "Simply put: machine-generated music slipped into a famous game without its creator knowing... is deleting it enough, or is upfront transparency the real fix?",
+  "Would you accept AI-generated music in your games if it sounds good?"
+ ]
+}

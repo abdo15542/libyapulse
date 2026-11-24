@@ -1,0 +1,24 @@
+{
+ "id": 473,
+ "slug": "article-473",
+ "title": "🤝 Microsoft and Intel Team Up on Azure Chips — Advanced Packaging and Years of Processor Supply!",
+ "date": "2026-11-21",
+ "category": "tech-news",
+ "category_name": "Tech News",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r134-w134-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CloudComputing"
+ ],
+ "body": [
+  "🤝 Microsoft and Intel Team Up on Azure Chips — Advanced Packaging and Years of Processor Supply!",
+  "Microsoft and Intel announced on November 18 an expansion of their decades-long partnership, with a long-term agreement to develop selected parts of the Azure cloud infrastructure, as demand for cloud computing and AI grows.",
+  "Under the agreement, Microsoft becomes the first company to announce the use of Intel Foundry's advanced EMIB packaging technology in its own Azure chips — a technology that connects the different parts of a chip with tiny bridges inside the package itself, instead of manufacturing it as a single piece.",
+  "The agreement also confirms a multi-year supply of Xeon server processors, including the next generation of server processors known as Diamond Rapids, and expands the collaboration across Azure's roadmap and its Intel-based hardware systems.",
+  "The collaboration also includes CXL technology for raising memory efficiency, QuickAssist technology for speeding up database backups, and confidential computing, which encrypts the memory and processors of virtual machines while they move between servers.",
+  "The two companies say these improvements raise performance and memory flexibility in the M-series virtual machines by up to 2.3 times, and speed up SQL database backups by up to 2.5 times, at a time when cloud companies compete to offer faster and more secure infrastructure for AI customers.",
+  "Simply put: instead of Microsoft making its own chips alone, it will use Intel's packaging technology to assemble its own Azure chips, with guaranteed processor supply for years to come.",
+  "Do you see Intel's return to the forefront through partnerships like this as a recovery, or is the competition with other companies still tougher?"
+ ]
+}

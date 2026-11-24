@@ -1,0 +1,22 @@
+{
+ "id": 801,
+ "slug": "article-801",
+ "title": "🤖 Google Doubles Antigravity's Memory, and Developers Breathe a Sigh of Relief!",
+ "date": "2026-11-22",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r208-w208-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Google"
+ ],
+ "body": [
+  "🤖 Google Doubles Antigravity's Memory, and Developers Breathe a Sigh of Relief!",
+  "Google's Antigravity product lead, Varun Mohan, has announced doubling the context window for the Gemini 4 models inside the platform, in an update that eases one of developers' biggest frustrations: the smart agent stopping in the middle of a task.",
+  "The update covers the Argon, Carbon, and Hydrogen models, and is available as soon as you upgrade to the latest version of the app. The company says the number of context compressions in each conversation round will fall by about 3.5 times, reducing interruptions during long debugging sessions and multi-file refactoring.",
+  "The platform already works with a mechanism that automatically compresses long conversations into brief summaries, so the session does not stop when the memory limit is reached. But repeated compression consumes precious time and often weakens the model's memory of the details of a complex codebase.",
+  "The three models already support context windows of up to one million tokens, but the company did not reveal the exact limit at which compression begins inside Antigravity. By comparison, the rival Codex agent imposes a default limit of 272,000 tokens, which can be raised manually toward 900,000.",
+  "Simply put: a bigger memory means an agent that remembers more and interrupts you less; so does wider memory solve the problem of coding with AI, or is the problem somewhere else?"
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "id": 637,
+ "slug": "article-637",
+ "title": "🏥 ChatGPT Health reaches Android and desktop — your health follows you wherever you are!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r163-w163-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🏥 ChatGPT Health reaches Android and desktop — your health follows you wherever you are!",
+  "OpenAI expanded its ChatGPT Health feature on November 19 to the Android app, the desktop app, the permanent \"Dots\" assistants and ChatGPT Sites, after it had been limited to iPhone, iPad and the web since July.",
+  "On Android, the assistant connects to your health data via Google's Health Connect system, reading what you choose to share from fitness apps — sleep, activity and workouts — then explaining the patterns in them, such as how your sleep changes after morning workouts compared with evening workouts.",
+  "On desktop you can analyse your sleep and workouts on a bigger screen, and build personal tracking tools via Sites, while the permanent \"Dots\" assistant can suggest proactive ideas to you between conversations.",
+  "The feature can also connect to your medical records with supported health providers, with your permission, to answer your health questions in the context of your own information, not with generic answers.",
+  "The feature is available in the United States only so far, on the free, Go, Plus and Pro plans, while access via Dots requires a Pro plan or a selected group of Plus subscribers.",
+  "And there is an important privacy point you should know: since November 19, conversations that use your connected health data may enter model training, unless you turn off the \"Improve the model for everyone\" option in the data settings.",
+  "And don't forget: the assistant explains your data and helps you understand it, but it is not a substitute for a doctor — it does not diagnose illnesses or prescribe treatment.",
+  "Simply put: your smart health assistant has left the iPhone for all your devices — but your health data deserves a look at the privacy settings first.",
+  "Do you trust an AI assistant that looks at your sleep and workout data?"
+ ]
+}

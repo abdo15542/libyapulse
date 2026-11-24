@@ -1,0 +1,21 @@
+{
+ "id": 692,
+ "slug": "article-692",
+ "title": "💰 A $4.86 million theft from Chainflip — with a valid signature, and the hacker hid the money in 9 minutes!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r183-w183-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Crypto"
+ ],
+ "body": [
+  "💰 A $4.86 million theft from Chainflip — with a valid signature, and the hacker hid the money in 9 minutes!",
+  "An attacker emptied the Ethereum vault of the Chainflip cross-chain exchange platform in a single operation on the morning of Saturday, November 21, seizing about $4.86 million, including 520 Ethereum units, 3.25 million USDC coins and 758,000 USDT coins.",
+  "Strangely, the operation did not exploit a flaw in the smart contracts — it carried a valid signature from the shared signing key that network validators use to approve withdrawals, suggesting the key itself may have leaked. The signature also carried an odd serial number of 39 digits, while the usual numbers at the time were approaching 315,000 — the only violating signature among about 300,000 signatures since 2023.",
+  "Within just nine minutes, the attacker converted the stablecoins into Ethereum and sent about 2,909 units to the Tornado Cash coin-mixing service to hide their trail. The platform immediately stopped deposits, withdrawals, exchanges and price quotes, and entered \"full safe mode\", while its FLIP currency fell by more than 30%.",
+  "Simply put: a theft that did not break the door, but walked in with a valid key. Are shared signing keys enough to protect users' money, or do platforms need extra layers of protection?"
+ ]
+}

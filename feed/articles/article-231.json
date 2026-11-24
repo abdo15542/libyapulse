@@ -1,0 +1,20 @@
+{
+ "id": 231,
+ "slug": "article-231",
+ "title": "🗣️ Orange launches AI models in the African Wolof language!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r104-w104-16.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🗣️ Orange launches AI models in the African Wolof language!",
+  "Orange has launched five open-weight language models that understand and write in Wolof, a language spoken by about 16 million people in Senegal, Gambia, and Mauritania, and almost absent from major AI models. The models, ranging from 0.6 to 14 billion parameters, were built by fine-tuning Alibaba's 'Qwen 3' models, and are available free for non-commercial use on Hugging Face, with training data built on public datasets machine-translated into Wolof. They can be used in conversational assistants, FAQ tools, and public digital services, as part of a broader program for African languages including Swahili, Darija, Moore, and Dioula.",
+  "Simply put: most AI models speak English and major languages only; these models open the door for millions of Africans to use the technology in their mother tongue.",
+  "Should AI models support every language in the world?"
+ ]
+}

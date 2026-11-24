@@ -1,0 +1,23 @@
+{
+ "id": 670,
+ "slug": "article-670",
+ "title": "🔐 Microsoft admits a breach of its Entra service — company admins' data in attackers' hands!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r176-w176-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔐 Microsoft admits a breach of its Entra service — company admins' data in attackers' hands!",
+  "Microsoft has warned organisations about a breach that hit its cloud service \"Entra Connect Health\", the service that monitors the health of identity infrastructure inside companies, after attackers exploited a flaw in its programming interface and reached system admins' email and organisations' configuration data.",
+  "The company discovered the flaw on November 9, although it had been present in the service since July 23, and finished its investigation on November 20. It found that the unauthorised access reached organisation-level metadata, without changing any settings. Among the exposed data: technical contacts' email and admins' accounts, organisations' IDs, names, domains and country codes, Entra licence tiers and directory sync status, plus an expired certificate that was used to register service agents in an internal system shut down in late 2024.",
+  "The good news is that the flaw did not expose passwords or their hashes, authentication tokens or valid encryption keys, nor details of companies' local servers or Azure subscriptions. The company released a server-side fix on November 19 and started notifying the affected organisations, but it did not reveal how many there are, who the attackers are, or when the attacks began.",
+  "But the danger is not over: admins' email and exposed organisation data are perfect fuel for targeted phishing attacks, so the company advises alerting security teams, using phishing-resistant multi-factor authentication for privileged accounts, and reviewing sign-in and audit logs for any suspicious activity.",
+  "Simply put: a small flaw in a monitoring service opened a door to company admins' data, and the fix has arrived but caution is still needed. Will your company review its sign-in logs after news like this?",
+  "Do you trust cloud services to protect your company's identity, or are local servers still safer?"
+ ]
+}

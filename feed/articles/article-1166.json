@@ -1,0 +1,23 @@
+{
+ "id": 1166,
+ "slug": "article-1166",
+ "title": "🤖 \"Ling 3.2 Air\": A Giant Open Model With 124 Billion Parameters… And It Runs on Just 5.5 Billion!",
+ "date": "2026-11-24",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r295-w295-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🤖 \"Ling 3.2 Air\": A Giant Open Model With 124 Billion Parameters… And It Runs on Just 5.5 Billion!",
+  "Ant Group's Inclusion AI lab uploaded a new open-source model called \"Ling 3.2 Air\" to Hugging Face on November 23, under the MIT license, which lets anyone use and modify it for free.",
+  "On paper, the model is huge: 124 billion parameters spread across 512 experts, yet it only activates 5.5 billion of them for each word — a trick that makes it powerful without needing supercomputers. It also reads long texts of up to 262,000 tokens at once, the equivalent of hundreds of pages.",
+  "The published figures are striking: its score on an office-task automation test jumped from 15.7% in the previous generation to 61%, it scored 27% on a terminal-use test, and it earned 23 points on an independent intelligence index, while the average for open models is just 5 points.",
+  "But the model arrived with no launch blog post and no technical report, and it was discovered by chance through pull requests in runtime tools. Even its own model card admits weaknesses: a hallucination rate of around 49% in one test, and modest results in advanced coding and science tests.",
+  "Simply put: a huge free model that shines at everyday office tasks, yet still invents answers in nearly half of cases… so don't rely on it alone for an important decision.",
+  "Do you try free open models, or do you prefer paid ones?"
+ ]
+}

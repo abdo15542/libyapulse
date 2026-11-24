@@ -1,0 +1,21 @@
+{
+ "id": 52,
+ "slug": "article-052",
+ "title": "Over 125 Million Text Messages Exposed — and the Cause Was a Simple Mistake! 📱",
+ "date": "2026-11-19",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r05-c05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "Over 125 Million Text Messages Exposed — and the Cause Was a Simple Mistake! 📱",
+  "Telecom company CSCTelecom in the Baltic states left a database containing more than 125 million text messages exposed on the internet without protection, and it was being updated in real time.",
+  "The messages included verification codes — the code that arrives on your phone to confirm your identity — password reset links and private information, from senders including banks, hospitals, and the 112 emergency line in Latvia.",
+  "And the surprise is that the cause was not a sophisticated hack, but a configuration error — someone simply left the door open by mistake. The records span from October 2022 to September 2026.",
+  "Do you ever receive verification codes you didn't ask for? What do you do then? ⚠️"
+ ]
+}

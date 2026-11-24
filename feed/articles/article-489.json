@@ -1,0 +1,23 @@
+{
+ "id": 489,
+ "slug": "article-489",
+ "title": "🌼 Daisy Rose-27B Doubles an Open Model's Abilities — With Smart Training, Not More Data!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r135-w135-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🌼 Daisy Rose-27B Doubles an Open Model's Abilities — With Smart Training, Not More Data!",
+  "Radix Arc launched on November 18 its first model, Daisy Rose-27B, an open-weight model for coding and agents, built on the Qwen 3.8-27B model and trained with reinforcement learning only, without any supervised fine-tuning or distillation.",
+  "The model was trained on 1,200 carefully selected agent tasks, with sessions extending up to one million tokens, over 18 days on 144 Nvidia H200 cards, using the open-source reinforcement learning framework Miles, in which the agent and the trainer work at the same time without waiting for each other.",
+  "The standout result: the model's score in the Terminal Bench 4.1 test for terminal tasks jumped from 5.6% to 12.0%, more than double, and it also improved in every other test, such as Deep SWE from 42.2% to 46.2%, SWE-bench Pro from 91.3% to 94.7%, and GPQA Diamond from 89.2% to 90.7%.",
+  "The model keeps a context window of 256,000 tokens, runs on a single graphics card, and its weights are available under the Apache 2.0 license in three formats. The training also achieved high efficiency: useful compute utilization reached 37% versus 16% in a similar open-source trainer, meaning a 57% lower training cost, and a speed of 16,800 tokens per second across the 144 cards.",
+  "Simply put: instead of training a bigger model on more data, the company took an existing open model and trained it smartly on long, hard tasks, doubling its ability to complete real coding tasks.",
+  "A small open model beats its base with smart training... is the future for open models or giant closed ones?"
+ ]
+}

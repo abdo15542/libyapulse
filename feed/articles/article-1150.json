@@ -1,0 +1,24 @@
+{
+ "id": 1150,
+ "slug": "article-1150",
+ "title": "📄 Gemini Reads Only Part of the File! Google Adds File Slicing to Its API to Cut Costs!",
+ "date": "2026-11-24",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r291-w291-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "📄 Gemini Reads Only Part of the File! Google Adds File Slicing to Its API to Cut Costs!",
+  "Google announced new file-slicing controls in the Gemini API that let developers ask the model to process only specific parts of large files instead of sending the whole file every time.",
+  "For documents and presentations, developers can now select specific pages or a page range, choose resolution between low, medium, and high, and choose between reading the extracted text or the page image. For spreadsheets, they can select a specific worksheet and cell range, and choose between data, formulas, or visual elements.",
+  "The feature also covers video and audio: for video, developers can specify a time segment, frame rate, and resolution, and choose between the transcript, frames, or audio, and for audio files they can trim the recording to just the period needed.",
+  "Google handles the slicing, rendering, and conversion of the file into tokens on its servers, so developers no longer need external tools like PDF and FFmpeg converters on their own machines, and tokens are charged only for what the model actually examines, not the whole file.",
+  "The company said early trials showed major savings: Vercel used 14 times fewer tokens when browsing a document with extracted text instead of displaying the whole file, while LightLLM cut token consumption by 67% in PDF files and 33% in spreadsheets. The feature is available through the Gemini API in Google AI Studio and the Gemini platform, works with all Gemini 4 models, and includes new native support for uploading Microsoft Office and OpenDocument files.",
+  "Simply put: why pay for reading a thousand pages when you only need five? Do you use AI tools that read your files?",
+  "Would you rather the AI read your whole file, or only the part you choose?"
+ ]
+}

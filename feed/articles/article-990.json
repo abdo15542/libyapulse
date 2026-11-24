@@ -1,0 +1,25 @@
+{
+ "id": 990,
+ "slug": "article-990",
+ "title": "🔍 GPT-6.2 Astra finds zero-day flaws in a phone operating system and a network service!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r255-w255-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🔍 GPT-6.2 Astra finds zero-day flaws in a phone operating system and a network service!",
+  "A new system card for OpenAI's GPT-6.2 Astra model, issued on November 17, revealed that the model found and exploited previously unknown vulnerabilities in a popular phone operating system and in a widely hosted network service.",
+  "The findings include a privilege escalation in the operating system that allows a malicious app to access private data despite lacking the required permissions, in addition to a separate remote code execution flaw in the network service, reachable from a low-privilege role.",
+  "The discoveries came from tests conducted by a specialized security company, not from reports of attacks against users, and that same company handles the responsible disclosure of the flaws, without naming the affected products, the vulnerable versions, or the flaw numbers, or confirming when the fixes will be released.",
+  "In offensive capability tests, Astra solved 68 of 217 challenges in the Frontier Cyber set, compared with 77 for the earlier GPT-6 Astra model, while its success rate in turning known flaws into code that executes commands was 53.5%, compared with 31.5% for its predecessor, in tests that used disclosed flaws in V8 and Chrome between June and August 2026.",
+  "OpenAI confirmed that both the GPT-6.2 Astra and Sol models meet its critical cyber capability threshold, with stricter limits on high-risk assistance and additional monitoring and approvals, noting that the capability tests were conducted without the usual safety controls in production.",
+  "The conclusion is that what was achieved is proof that AI-driven vulnerability research succeeds under evaluation conditions, not proof of widespread exploitation in reality, since the product names and fix details are still missing, so no user can verify whether they have been affected so far.",
+  "Simply put: an AI model finds flaws nobody knows about in phone systems... will AI become the best vulnerability researcher in the world?",
+  "Does the idea that AI discovers flaws before attackers reassure you?"
+ ]
+}

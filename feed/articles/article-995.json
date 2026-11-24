@@ -1,0 +1,25 @@
+{
+ "id": 995,
+ "slug": "article-995",
+ "title": "🔓 A critical VMware flaw is offered for sale at $30,000 after the patch... and the seller offers a live demo!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r256-w256-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CyberSecurity"
+ ],
+ "body": [
+  "🔓 A critical VMware flaw is offered for sale at $30,000 after the patch... and the seller offers a live demo!",
+  "An ad has appeared on a hacking forum offering for sale a claimed exploit tool for the critical VMware vCenter flaw, for $30,000, days after the developer released the fix, in a case that shows how quickly known flaws turn into a commodity.",
+  "The ad carries the name of a seller who calls himself 'Matilda', and claims the tool is a Python program that first scans for vulnerable servers then exploits the flaw, that it can create a new admin account on the breached server, and offers prospective buyers a live demo before paying.",
+  "The claimed tool targets the flaw CVE-2026-123890 with a severity of 9.8 out of 10, an authentication bypass flaw that lets an attacker obtain an admin session without a password, and the seller claims support for vCenter versions from 7.0 to 9.1.",
+  "Reports warned that the claimed tool's capabilities have not been verified by any independent party, and that merely offering it for sale does not prove it was tested successfully, nor does any evidence link the seller to the espionage group that actually exploited the flaw since September.",
+  "Broadcom had released the fix on November 19 in versions 9.1.1.0200, 9.0.2.0200, and 8.0 Update 3m, and the flaw was added to the list of actively exploited vulnerabilities on November 20, with no announced workaround, and no public fix for version 7.0.",
+  "Experts advise applying the update immediately, and reviewing login logs and admin account changes for any unexpected activity, because the update closes the flaw but does not reveal whether an attacker had exploited it before the fix.",
+  "Simply put: a flaw fixed days ago, and its exploit tool is being sold for $30,000... have you updated your servers before someone buys it?",
+  "Do you believe ads selling hacking tools on forums, or do you consider them a scam to collect money?"
+ ]
+}

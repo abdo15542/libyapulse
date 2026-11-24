@@ -1,0 +1,22 @@
+{
+ "id": 403,
+ "slug": "article-403",
+ "title": "🎬 'Final Cut Pro' 13 Refreshes — 'MotionVFX' Effects and AI Photo Editing!",
+ "date": "2026-11-21",
+ "category": "apps",
+ "category_name": "Apps & Platforms",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r126-w126-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Apps"
+ ],
+ "body": [
+  "🎬 'Final Cut Pro' 13 Refreshes — 'MotionVFX' Effects and AI Photo Editing!",
+  "\"Apple\" launched on November 18 the autumn updates to the \"Creator Studio\" suite, headlined by version 13 of \"Final Cut Pro\" for Mac, which now includes the \"MotionVFX\" library built inside it: thousands of visual effects, templates, titles, and transitions, plus tools for motion tracking, color grading, and separating subjects from their backgrounds. \"Apple\" had acquired the Polish company \"MotionVFX\" last March, so its library became part of the app instead of a paid external add-on.",
+  "The update didn't stop at effects: editors can now open any image from their timeline directly in \"Pixelmator Pro\" and edit it with its advanced tools, and the edits return to the project automatically without re-importing. \"Pixelmator Pro\" added the \"Generate Fill\" feature, which lets you change part of an image with a written description in natural language, matching lighting, perspective, and texture. \"Logic Pro\" also improved drum-layer separation, and \"MainStage\" added support for turning the iPad into a touch control unit.",
+  "The new features also include a smart assistant in the \"Pages\", \"Keynote\", and \"Numbers\" apps that helps create and edit content. But note: these features are limited to the subscription version of the suite, at $12.99 a month or $129 a year, and don't reach the one-time purchase version — and the new \"Final Cut Pro\" requires macOS 26.6 or newer.",
+  "Simply put: the editing app now contains a complete effects library inside it, and AI photo editing has become part of the workflow itself — but only with a monthly subscription.",
+  "Would you pay a monthly subscription for these features, or settle for the one-time purchase version?"
+ ]
+}

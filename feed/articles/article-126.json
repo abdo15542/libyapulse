@@ -1,0 +1,21 @@
+{
+ "id": 126,
+ "slug": "article-126",
+ "title": "🐘 Urgent Security Update for PHP!",
+ "date": "2026-11-19",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r10-09.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "🐘 Urgent Security Update for PHP!",
+  "PHP released new security updates covering 17 vulnerabilities, including seven critical ones that could allow malicious software to run on servers.",
+  "The most dangerous is a flaw in the session system that lets an attacker run commands through session files, and another that allows smuggling hidden requests to the application server.",
+  "Simply put, if your website runs on PHP, update immediately to the latest version and restart the server.",
+  "Do you run a website on PHP? And did you update it today?"
+ ]
+}

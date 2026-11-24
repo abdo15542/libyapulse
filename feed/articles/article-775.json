@@ -1,0 +1,21 @@
+{
+ "id": 775,
+ "slug": "article-775",
+ "title": "🔭 With an Idea from Cryptography... Scientists Find a Pulsar a Million Times Faster!",
+ "date": "2026-11-22",
+ "category": "space",
+ "category_name": "Space",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r201-w201-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Space"
+ ],
+ "body": [
+  "🔭 With an Idea from Cryptography... Scientists Find a Pulsar a Million Times Faster!",
+  "An international team of scientists has developed a new way to find pulsars in open space data, about a million times faster than previous methods. The results were published in a prestigious scientific journal on November 19, after the team succeeded in discovering a new pulsar that the old methods had missed, despite using computing power equivalent to 600 years of work.",
+  "The discovered star, PSR J1622-7204, is an isolated neutron star spinning on its axis 261 times per second, found in 15 years of data from the Fermi gamma-ray telescope, using the equivalent of just 10 hours of computing on an ordinary processor, and an ordinary laptop can run each attempt in about five minutes.",
+  "The idea is to turn the search into a geometry problem: finding the shortest vector in a multi-dimensional mathematical lattice, using algorithms developed by cryptographers to test encryption systems resistant to future quantum computers. The team now hopes to find dozens or hundreds of pulsars hidden in the same data, including stars in binary systems whose discovery was almost impossible.",
+  "Simply put: tools designed to test codes helped scientists find a star spinning 261 times per second; does it amaze you that one science can serve another in this way?"
+ ]
+}

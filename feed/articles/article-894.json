@@ -1,0 +1,23 @@
+{
+ "id": 894,
+ "slug": "article-894",
+ "title": "🛡️ Microsoft Moves Antivirus Out of the Windows Kernel — Will the Blue Screens End?",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r232-w232-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Microsoft Moves Antivirus Out of the Windows Kernel — Will the Blue Screens End?",
+  "Microsoft announced on November 17 that its new Windows endpoint security platform is now officially available on Windows 11, in a move that changes how security software works from the ground up.",
+  "The idea is simple but deep: instead of antivirus programs running inside the system kernel — the heart of the operating system, where a crash brings the whole machine down — they now run outside it, through new interfaces that let them monitor files, processes, and the system log and take protective action without any code in the kernel.",
+  "The move came after a faulty security update in July 2024 knocked out millions of computers worldwide with blue screens, so the company decided that a single error in a security program should never again bring down a whole machine. The platform also includes recovery mechanisms that bring the system back to life if a security program causes a problem during startup.",
+  "The biggest security companies have joined the plan: Bitdefender and Sophos before the end of 2026, ESET in February 2027, CrowdStrike and Microsoft Defender in the first quarter of 2027, and SentinelOne, Trellix, and Trend AI in the first half of 2027.",
+  "Simply put: your security software will keep guarding your computer, but from outside the engine room, so if it breaks down it will not drag the whole machine down with it. Will you feel a real difference in your computer's stability with this change?",
+  "Do you still trust security software after the famous blue-screen incident?"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "id": 725,
+ "slug": "article-725",
+ "title": "🏗️ A Fake Construction Company With a Fake Face: How Did Researchers Expose the North Korea Trick?!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r189-w189-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🏗️ A Fake Construction Company With a Fake Face: How Did Researchers Expose the North Korea Trick?!",
+  "A security report published on November 19 revealed an entirely fake American construction company called 'The Great House', which claims to operate from the city of Lynchburg in Virginia and offers construction and engineering services to American companies. According to the report, behind the company is a North Korean worker operating remotely, whose goal is to win real construction contracts and send the money to his country's regime.",
+  "Suspicion started with small details: the website claims ten years of work, more than 200 clients, and 60,000 square feet of buildings, while its domain was only registered on October 18, 2025, and an email address appeared in a public list of about 1,400 emails attributed to North Korean tech workers. The contact page also showed a Virginia number, while the hidden link connected to a number in Arkansas, and the domain registration listed a third number in Massachusetts and an address in New York.",
+  "The strongest evidence came in a video call: in the first call, the man, who introduced himself as 'Edward', kept his camera off for 25 minutes and refused to prove his identity, and in the second, his face appeared with clear distortions and layers resembling live deepfake, he kept his mouth out of frame the whole time, refused to pass his hand in front of his face, and then ended the call. No malware was detected, and it is not known whether the company won any contract or money.",
+  "Simply put: the trick is no longer a fake email or a fake resume, but an entire company with a borrowed face smiling in a video call; so would you check a contractor's license and match their addresses and numbers before signing with them?"
+ ]
+}

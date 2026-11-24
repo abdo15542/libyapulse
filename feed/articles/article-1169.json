@@ -1,0 +1,24 @@
+{
+ "id": 1169,
+ "slug": "article-1169",
+ "title": "🔒 Anthropic Watches Claude Misuse Inside the Client's Own Cloud… Without Ever Seeing Their Data!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r295-w295-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔒 Anthropic Watches Claude Misuse Inside the Client's Own Cloud… Without Ever Seeing Their Data!",
+  "Anthropic opened its \"Enterprise Frontier Safeguards\" system to public preview this week, a system that detects misuse of the Claude model without the client's data ever leaving their own cloud.",
+  "The idea is that the client's prompts and the model's replies are encrypted and stored inside the client's own account on Amazon or Google, so no one at Anthropic or at the cloud company ever sees them, and they are never used for training — while the company's software scans the encrypted data looking for patterns of misuse.",
+  "The problem the system addresses is that a single request may look innocent, while the pattern across hundreds of requests reveals the attack. In an earlier report, the company documented AI agents that split a single attack on around 50 organizations into small tasks that each looked harmless.",
+  "When the system spots a suspicious pattern, it opens what the company calls a \"safety case,\" and the client's security team must investigate it within seven days or risk losing access. More than 100 clients helped build it during the private preview, including Bridgewater, Salesforce, and Stripe, while the security chief at Wells Fargo said: \"We keep our data while Anthropic runs the detection.\"",
+  "The system came in response to banks' and regulated companies' objections to the company's mid-year decision to retain data for 30 days alongside the launch of the Opus 5 models — so the solution became: detection at the company, data at the client.",
+  "Simply put: like hiring a guard who watches your house from outside without entering your rooms or reading your papers… protecting you without ever seeing your secrets.",
+  "Would you trust a monitoring system that never sees your data at all?"
+ ]
+}

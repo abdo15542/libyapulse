@@ -1,0 +1,22 @@
+{
+ "id": 415,
+ "slug": "article-415",
+ "title": "⚡ 'AMD' Neural Processors Run AI Agents on Your Device — No Cloud!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r127-w127-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "⚡ 'AMD' Neural Processors Run AI Agents on Your Device — No Cloud!",
+  "\"AMD\", in collaboration with \"Unsloth\", announced support for \"XDNA 2\" neural processing units inside the \"Unsloth Desktop\" app, making them the first neural processors the app has ever supported. That means more than 100 AI-agent apps and workflows can now run models locally on your computer, through an API compatible with the \"OpenAI\" interface, without sending your data to any cloud.",
+  "The integration works through the \"Lemonade\" and \"FastFlowLM\" engines, which distribute inference tasks to the neural processor, while other apps continue using the central processor and graphics card as usual. Compatible apps include \"Hermes Agent\", \"OpenClaw\", \"Open WebUI\", \"Cline\", and \"Visual Studio Code\".",
+  "\"AMD\" showcased a huge 35-billion-parameter model running locally via the neural processor — the \"Qwen 3.6\" model of the \"mixture-of-experts\" type. But note: running the model with its full context needs about 28GB of memory available to the neural processor — a computer with 64GB of memory — because \"Windows\" by default allocates only half of the shared memory.",
+  "Simply put: a neural processor is a chip dedicated to AI tasks inside your computer, consuming far less power than a graphics card, so you can run your agent away from the charger.",
+  "Do you run AI models on your device, or do you prefer the cloud?"
+ ]
+}

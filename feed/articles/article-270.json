@@ -1,0 +1,22 @@
+{
+ "id": 270,
+ "slug": "article-270",
+ "title": "🎧 AI debt-collection system exposes data of 6.6 million accounts!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r108-w108-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🎧 AI debt-collection system exposes data of 6.6 million accounts!",
+  "An independent security researcher has revealed two flaws in the Indian AI debt-collection platform 'Credit Nirvana', registered as CVE-2026-110474 and CVE-2026-110475, which could have allowed access to the data of 6.6 million accounts and about 315,000 call recordings.",
+  "The first flaw was in the smart contact center, where the app relied on a fixed API key written inside the web page's code, so anyone reading the code could access recordings, call summaries, and tools for managing AI agents. The second flaw was in the main platform, where the login process accepted a username without verifying the attached identity token, allowing entry into other users' accounts, including managers.",
+  "The data that could have been accessed included identity cards, credit reports, legal notices, emails, and call transcripts, belonging to customers of three Indian financial companies. The researcher reported both flaws to the company on May 30, they were fixed on June 2, and his public report was published on November 18. No evidence appeared that anyone other than the researcher exploited the flaws, and the researcher said the flaws may have existed for years.",
+  "Simply put: imagine a safe's door opening with any key that resembles it, and another key hanging on the door itself; that is how the two flaws left the smart collection system open.",
+  "Do you trust AI systems that handle your financial data?"
+ ]
+}

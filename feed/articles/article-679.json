@@ -1,0 +1,22 @@
+{
+ "id": 679,
+ "slug": "article-679",
+ "title": "🖼️ \"Bubble Loader\" turns your trusted programs into a carrier for malware — with just two images!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r179-w179-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🖼️ \"Bubble Loader\" turns your trusted programs into a carrier for malware — with just two images!",
+  "Security researchers have spotted a new piece of malware called \"Bubble Loader\" that hijacks famous, trusted programs such as WinRAR, Windows Media Player and x64dbg, changing their entry point and adding two images to them, so the programs themselves become a way to deliver other malware.",
+  "The trick is cunning: the first image is harmless and provides a changing digital key, while the second image is fake and hides inside it a small code and an encrypted third stage. When the hijacked program runs, the code unpacks the third stage, which in turn unpacks the final payload and loads it directly into memory without writing files to disk, with tricks to confuse analysis programs.",
+  "\"Reflective loading\" means running the malware inside the computer's memory without saving it as a file, which makes it harder for protection programs to detect. The first samples of Bubble Loader appeared in February 2026, with new activity spotted in September and October, and the final payload varies by campaign — meaning the malware is a delivery tool that can carry any other malware, from ransomware to data stealers.",
+  "The lesson here is that danger may come from a program you trust and use every day, not from a strange file — scanning alone may not be enough when malicious code hides inside an image that looks completely ordinary.",
+  "Simply put: two images inside a trusted program are enough to open a back door in your device without you noticing. Do you check your programs even when they come from sources you know?"
+ ]
+}

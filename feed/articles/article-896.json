@@ -1,0 +1,23 @@
+{
+ "id": 896,
+ "slug": "article-896",
+ "title": "⚡ Quantum Computing Finds Its First Real Use — in Power Grids and Solar Energy!",
+ "date": "2026-11-22",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r232-w232-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Science"
+ ],
+ "body": [
+  "⚡ Quantum Computing Finds Its First Real Use — in Power Grids and Solar Energy!",
+  "After years of distant promises, quantum computing companies have begun finding their first real practical uses for the technology, and the surprise is that the first of them is in the energy sector, not in drug discovery as was expected.",
+  "Leading the scene is the British company Phasecraft, which is working with the operator of Britain's electricity grid on improving grid management: routing electricity across the network, and isolating parts of it in emergencies. The company says its software solves some optimization problems a thousand times faster than traditional computing, although this measurement does not include the running time of the quantum algorithm itself, and the commercial advantage has not yet been proven.",
+  "Quantinuum, which was listed on Nasdaq last June, is working on studying materials for hydrogen fuel cells and carbon capture, while Orca Computing is cooperating with the energy giant BP on studying biofuel molecules, and with a Japanese company and the UK National Quantum Computing Centre on deciding whether to switch power generators on or off at the lowest cost.",
+  "And the applications do not stop at grids: Phasecraft is working with Oxford PV on new materials for more efficient solar cells, and with Johnson Matthey, Harvard University, and QuEra — under the supervision of the US energy research agency ARPA-E — on new catalysts for producing hydrogen that reduce reliance on the rare and expensive metal iridium.",
+  "Simply put: quantum computing is finally leaving the lab for real problems: cheaper electricity, more stable grids, and better solar and hydrogen. Do you believe the first fruits of quantum computing will show up in your electricity bill?",
+  "Do you think quantum computing will reach your daily life before it reaches medicine?"
+ ]
+}

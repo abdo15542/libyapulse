@@ -1,0 +1,24 @@
+{
+ "id": 1080,
+ "slug": "article-1080",
+ "title": "⚡ Meta unveils TLX — finer control over graphics cards without leaving Triton!",
+ "date": "2026-11-23",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r281-w281-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Meta"
+ ],
+ "body": [
+  "⚡ Meta unveils TLX — finer control over graphics cards without leaving Triton!",
+  "Meta has unveiled a new tool called TLX, an extension of the Triton programming language that engineers use to program graphics cards, giving them much finer control over how the card works without having to write complex code in CUDA from scratch.",
+  "The problem the tool solves is that modern graphics cards now rely on precise coordination between small groups of execution units, asynchronous data transfers, and memory dedicated to computation — details Triton used to hide behind the compiler, while CUDA exposed them but at the cost of long code customized for each card.",
+  "The solution is based on a new model called Memo, which makes the group of execution units the basic unit of coordination: the engineer distributes roles between groups — one group fetches data, another runs the calculations, and a third finishes the work — with synchronization barriers that ensure the groups work together without conflict.",
+  "The tool works on Nvidia Hopper and Blackwell cards, and on AMD MI300 and MI350 cards. It is open source under the MIT license, and is also available as an add-on loaded inside Triton without needing a modified version of it.",
+  "In figures published by Meta itself, matrix multiplication performance on the H100 card ranged from 0.9% below to 3.7% above the well-known cuBLAS library, one kernel achieved 4x speed in compressing data for ads, the efficiency of training ad models ranged between 20% and 25%, and dense attention performance on the B200 card reached about 87% of FlashAttention-4's performance — with the note that these figures come from the company itself and have not yet been verified by an independent party.",
+  "Simply put: TLX makes writing graphics card code faster and easier, with performance close to hand-written expert code — will AI programming become within reach of more developers?",
+  "If you could write graphics card code in 200 lines instead of thousands of lines, would you try building your own model?"
+ ]
+}

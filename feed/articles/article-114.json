@@ -1,0 +1,22 @@
+{
+ "id": 114,
+ "slug": "article-114",
+ "title": "⚠️ A Dangerous Flaw Shakes the Programming World!",
+ "date": "2026-11-19",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r09-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Java"
+ ],
+ "body": [
+  "⚠️ A Dangerous Flaw Shakes the Programming World!",
+  "A security researcher discovered a critical vulnerability in the Java language, called Java4Shell, with a severity score of 9.2 out of 10.",
+  "The flaw lets an attacker run malicious commands remotely in popular software such as Jira, Confluence, and Jenkins, and exploitation attempts have already begun.",
+  "Remarkably, the researcher found it with the help of AI in just one hour, at a cost of under $200.",
+  "Oracle has already released the patch, so update your software now.",
+  "Do you update your software as soon as patches come out? Or do you wait?"
+ ]
+}

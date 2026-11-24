@@ -1,0 +1,23 @@
+{
+ "id": 1060,
+ "slug": "article-1060",
+ "title": "🛡️ Serious Flaw in an Old Protection Library… Hackers Run Commands on Web Servers Without Logging In!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r275-w275-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Serious Flaw in an Old Protection Library… Hackers Run Commands on Web Servers Without Logging In!",
+  "Security researchers have warned of a critical flaw in an old software library called 'Anti-CSRF', which was used to protect websites built with ASP.NET Web Forms from cross-site request forgery attacks, after it turned out attackers are actively exploiting it in real attacks.",
+  "The flaw carries the number CVE-2026-131914 and a severity score of 9.3 out of 10, and lies in the fact that the library reads the protection-token data sent by the visitor and turns it into commands without first verifying that it is valid — so a remote attacker can send just one request over the internet, with no account or login, to execute malicious code inside the server.",
+  "The irony is that the project has been completely abandoned since December 2008 — about 18 years ago — with no update or fix ever released, and none ever coming, so security teams advise removing the library entirely from any site still using it and replacing it with a supported, modern protection tool.",
+  "A successful attacker can run his code with the same privileges as the web server process itself, which could mean full control of the server, so site administrators are advised to search configuration files and software folders for any trace of the library, review server logs for suspicious requests, and rotate all stored passwords and keys if there is evidence of a breach.",
+  "Simply put: the library was a guard supposed to stop forgery, but it accepts any paper handed to it without checking it... Is it enough for the guard to be there, or must he verify what he sees?",
+  "If your site relies on a library that has not been updated since 2008, do you still feel it is safe?"
+ ]
+}

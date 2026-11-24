@@ -1,0 +1,20 @@
+{
+ "id": 209,
+ "slug": "article-209",
+ "title": "🎙️ OpenAI Launches Its GPT Live 1.1 Voice Model!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r103-w103-20.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "OpenAI"
+ ],
+ "body": [
+  "🎙️ OpenAI Launches Its GPT Live 1.1 Voice Model!",
+  "OpenAI launched its “GPT Live 1.1” fully duplex voice model in its API — the model that has powered ChatGPT’s voice since October 15. The new model features more consistent multilingual accents, higher accuracy on fine details such as letters, phone numbers, and order numbers, stronger instruction following, and better task delegation. It also added a new standby mode priced at $0.02 per minute versus $0.05 for the regular mode, with an idle timeout of 5 to 60 seconds.",
+  "Simply put: the new voice model hears you and replies to you at the same time, like a real call, with clearer accents and higher accuracy on numbers and names.",
+  "Do you prefer talking to AI by voice instead of typing?"
+ ]
+}

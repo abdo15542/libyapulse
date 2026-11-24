@@ -1,0 +1,21 @@
+{
+ "id": 28,
+ "slug": "article-028",
+ "title": "A Whole World Takes Shape with Your Words! 🌍",
+ "date": "2026-11-19",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r05-a01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "A Whole World Takes Shape with Your Words! 🌍",
+  "Google announced on 18 November that its new Genie 4 model is now available inside Project Genie. The world model is an AI system that builds a virtual 3D world you can wander through, like a video game created by AI moment by moment.",
+  "The new thing here is that you can change this world while you're inside it: write a sentence and it changes the weather, adds a character or turns the story in a new direction, while the model also adds sounds, music and dialogue that change with the scene.",
+  "The service is available now only to Google AI Ultra subscribers, while AI Pro subscribers join a waitlist. And although the idea is dazzling, Google still considers it experimental research, and admits to issues such as camera lag and weak long-term scene continuity.",
+  "If you could build your own world with a single sentence, what would it be? 💭"
+ ]
+}

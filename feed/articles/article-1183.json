@@ -1,0 +1,26 @@
+{
+ "id": 1183,
+ "slug": "article-1183",
+ "title": "📧 Stalwart, a Free Alternative to Exchange! Switch Your Mail Server Without Anyone Noticing!",
+ "date": "2026-11-24",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r297-w297-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Computing"
+ ],
+ "body": [
+  "📧 Stalwart, a Free Alternative to Exchange! Switch Your Mail Server Without Anyone Noticing!",
+  "The open-source project Stalwart released version 1.2.0 on Sunday, November 23, turning it into a direct replacement for Microsoft Exchange mail servers in companies.",
+  "What is new is that Stalwart now speaks Exchange’s own languages: the “MAPI over HTTP” protocol, “Exchange Web Services,” “ActiveSync,” and “Autodiscover,” so classic Outlook, Apple Mail, and phone mail apps connect to it as if it really were an Exchange server.",
+  "The user finds their mail, calendar, contacts, tasks, and notes in a single account, and only needs to type their email and password for Autodiscover to handle the rest of the setup automatically.",
+  "Most importantly, Exchange support comes as part of the free community edition, open source under the AGPL license, not behind a paid edition.",
+  "The timing is deliberate: support for Exchange 2016 and Exchange 2019 ended in October 2025, paid security updates stopped in October 2026, and Exchange Web Services in Microsoft’s cloud is being switched off, disappearing entirely in April 2027, while the new Outlook does not support on-premises Exchange accounts at all.",
+  "The move itself is simple: the system administrator migrates the mailboxes and points the domain records at Stalwart, so employees open on Monday the same Outlook they closed on Friday, with no change and no training.",
+  "For migration there is a tool called Vandelay that moves mail from on-premises Exchange and from Microsoft 365, but there are limits: no public folders, no archive mailboxes, no device management, no NTLM or Kerberos login, and the new Outlook does not work with any self-hosted server.",
+  "Simply put: a free, open-source mail server that plays the full role of Exchange, so a company brings its mail back to its own servers without a single employee having to change their habits.",
+  "Would you trust an open-source mail server to replace Exchange in your company?"
+ ]
+}

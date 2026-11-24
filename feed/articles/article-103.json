@@ -1,0 +1,17 @@
+{
+ "id": 103,
+ "slug": "article-103",
+ "title": "A new security report published today has revealed a major breach affecting more than 2,500 companies, after attackers in March managed to hack a popular AI tool that companies use to connect AI models to their systems. The breach exposed data and software development code belonging to major companies, including well-known names in the tech world. Notably, the vulnerability the attackers exploited had been confirmed by a US security authority just one day before the report was published. Simply put: the tools that help companies use AI can themselves become a gateway for hackers if they are not properly secured. Do you think companies are rushing to adopt AI tools without securing them enough? 🛡️",
+ "date": "2026-11-19",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r08-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "A new security report published today has revealed a major breach affecting more than 2,500 companies, after attackers in March managed to hack a popular AI tool that companies use to connect AI models to their systems. The breach exposed data and software development code belonging to major companies, including well-known names in the tech world. Notably, the vulnerability the attackers exploited had been confirmed by a US security authority just one day before the report was published. Simply put: the tools that help companies use AI can themselves become a gateway for hackers if they are not properly secured. Do you think companies are rushing to adopt AI tools without securing them enough? 🛡️"
+ ]
+}

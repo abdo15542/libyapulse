@@ -1,0 +1,21 @@
+{
+ "id": 688,
+ "slug": "article-688",
+ "title": "💻 A new chip for Googbooks — AI with no fan and no internet!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r181-w181-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "💻 A new chip for Googbooks — AI with no fan and no internet!",
+  "MediaTek has launched the first chip in a new family called \"Dimensity CX\": the Dimensity CX C10 Max chip, aimed at premium, lightweight Googbook devices — a step that moves the company from the world of phones into the world of laptops.",
+  "The chip is made with 3-nanometre technology, and carries an eight-core central processor, an 11-core graphics processor, and an NPU 890 AI unit with a power of 55 trillion operations per second. The company says it supports fanless designs and a battery that lasts all day, while the built-in AI engine runs the Gemini assistant and smart agent tasks on the device itself, without needing the internet.",
+  "This step comes after many companies revealed their Googbook devices — laptops built around Google's smart assistant — making AI-dedicated chips a new arena of competition between chip companies. The company has not yet announced when the first devices with this chip will reach the market.",
+  "Simply put: AI that works on your computer with no fan and no internet. Would you prefer a computer that thinks locally, or one that depends on the cloud?"
+ ]
+}

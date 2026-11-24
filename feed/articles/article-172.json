@@ -1,0 +1,20 @@
+{
+ "id": 172,
+ "slug": "article-172",
+ "title": "🗨️ Gemini Separates Saving Your Chats from Training Its Models!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r101-w101-15.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Gemini"
+ ],
+ "body": [
+  "🗨️ Gemini Separates Saving Your Chats from Training Its Models!",
+  "Google announced a new update to the Gemini app’s settings that separates saving your chat history from using chats to train AI models. You can now keep your chat history without allowing Google to use it in training. And if you turn off history saving, your chats will be kept for only about two months, to be used for replying to you, processing your feedback, and protecting users. The new settings began rolling out globally in the app over the coming weeks, with the ability to change the retention period and delete history manually at any time.",
+  "Simply put: previously, saving chats was tied to allowing them to be used in training; now you can separate the two choices — keep your history, and block it from being used in training.",
+  "Do you review the privacy settings in AI apps?"
+ ]
+}

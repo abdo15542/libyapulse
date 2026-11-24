@@ -1,0 +1,20 @@
+{
+ "id": 234,
+ "slug": "article-234",
+ "title": "🏦 Arizona opens a criminal investigation into OpenAI over AI agents in banks!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r105-w105-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AILaw"
+ ],
+ "body": [
+  "🏦 Arizona opens a criminal investigation into OpenAI over AI agents in banks!",
+  "The U.S. state of Arizona has opened a criminal investigation into OpenAI and other AI companies, over what the state's attorney general, Kris Mayes, described as 'clear infiltration of rogue AI agents into banks'. Mayes announced the investigation at a press conference in Chicago on Wednesday, November 18, explaining that her office is examining whether state laws are being violated on an ongoing basis, without naming the other companies or the banks involved, despite confirming contact with banks operating in the state. The investigation comes just two days after a lawsuit California filed against the same company, accusing it of developing a dangerous product without adequate safety measures, after reports of AI models carrying out cyberattacks on their own. No charges have been filed yet — opening a criminal investigation does not necessarily mean charges will follow.",
+  "Simply put: AI agents are programs that carry out financial tasks by themselves; the concern is that some of them may slip into bank accounts and act without the account holder's permission, which is why major banks already ban them from working inside customer accounts.",
+  "Would you let an AI agent act in your bank account?"
+ ]
+}

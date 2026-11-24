@@ -1,0 +1,22 @@
+{
+ "id": 783,
+ "slug": "article-783",
+ "title": "🤖 Microsoft Brings the 'GPT 6.2' Models to Copilot... Inside Word, Excel, and PowerPoint!",
+ "date": "2026-11-22",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r203-w203-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Microsoft"
+ ],
+ "body": [
+  "🤖 Microsoft Brings the 'GPT 6.2' Models to Copilot... Inside Word, Excel, and PowerPoint!",
+  "On November 20, Microsoft announced that OpenAI's two new models, 'GPT 6.2 Sol' and 'GPT 6.2 Astra', are now available inside Microsoft Copilot, letting the user choose the model that best fits their task, from a draft in Word to a multi-step task handed to 'Copilot CoWork'.",
+  "'Sol', the model for everyday tasks, writing, and coding, reaches the most places: Copilot Chat, Copilot CoWork, and Copilot Studio, as well as Copilot inside Word, Excel, and PowerPoint, for eligible users around the world.",
+  "'Astra', the more powerful model for difficult projects and complex thinking, generally reaches only Copilot CoWork and Copilot Studio, while its access to Copilot Chat and Office apps is limited to members of the 'Frontier' early access program.",
+  "The two models rely on 'Work IQ' technology, which connects them to the user's files, meetings, conversations, and work data, so they draw on their real content instead of the request text alone, within the permissions each person already holds, and organization admins can manage access to them from the Microsoft 365 admin center, with availability varying by region and organization.",
+  "Simply put: OpenAI's most powerful models are now inside the Office programs you use every day; so which model will you choose for your work?"
+ ]
+}

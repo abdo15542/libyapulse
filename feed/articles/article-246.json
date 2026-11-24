@@ -1,0 +1,20 @@
+{
+ "id": 246,
+ "slug": "article-246",
+ "title": "💻 Gemini learns to use a Mac computer on your behalf!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r105-w105-16.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "💻 Gemini learns to use a Mac computer on your behalf!",
+  "Google has launched the 'computer use' feature for its Gemini AI assistant on Mac devices, making the assistant able to click, type, fill in forms, and carry out tasks on the screen directly, instead of only giving text replies. The feature is currently available to U.S. users subscribed to 'Google AI Plus', 'Pro', or 'Ultra' plans, and Gemini works in a background window while the user controls which apps it can access, with the ability to stop operations or approve each action moment by moment. The feature marks a shift toward AI agents that interact directly with the system interface, after assistants were limited to text, and subscribers can automate repetitive office tasks, while needing to watch the assistant's activity and manage its permissions carefully to avoid unintended inputs. The move comes days after Apple announced a similar AI agent for Mac devices, in a heated race between the two companies over who runs your computer on your behalf.",
+  "Simply put: instead of writing to the assistant and asking for an explanation, the assistant itself now moves the mouse, clicks buttons, and organizes your files; it is no longer an advisor that talks, but an assistant that works with its hands on the screen.",
+  "Would you let an AI click on your behalf on your computer?"
+ ]
+}

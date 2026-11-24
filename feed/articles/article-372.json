@@ -1,0 +1,22 @@
+{
+ "id": 372,
+ "slug": "article-372",
+ "title": "📞 'Twilio' Launches a Supervisor for AI Agents That Catches Their Hallucinations!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r123-w123-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "📞 'Twilio' Launches a Supervisor for AI Agents That Catches Their Hallucinations!",
+  "\"Twilio\" added AI-agent supervision tools on November 17 within its conversation layer, so companies can know whether their agents are really doing their jobs well with customers, or answering politely while getting the information wrong. The tools are now available in public beta.",
+  "The tool works with two indicators: the first, \"task completion\", classifies each conversation as resolved, unresolved, escalated to an employee, or declined by the agent, with one sentence explaining the reason and pointing to the decisive moment in the conversation. The second, \"hallucination detection\", compares what the agent said with the knowledge base and the rest of the conversation, exposing claims that contradict the source. An agent may complete the task successfully and still give the customer wrong information, like an incorrect refund date.",
+  "The review happens after the conversation ends, and is done by a language model independent of the model running the agent, so the agent doesn't grade its own work. Then the \"Conversation Insights\" dashboard gathers the results across all conversations to reveal recurring patterns, such as the most common types of hallucination in the month. \"Twilio\" also made five new voice features available for agents, including better detection of when the speaker has finished talking, to reduce interruptions.",
+  "Simply put: the AI serving your customers needs a supervisor to review its work after every conversation — and this tool is that supervisor, without needing to change the agent's code.",
+  "Would you trust an AI agent to answer your customers without human supervision?"
+ ]
+}

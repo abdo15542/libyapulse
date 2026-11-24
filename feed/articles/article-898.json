@@ -1,0 +1,27 @@
+{
+ "id": 898,
+ "slug": "article-898",
+ "title": "🏦 America's Biggest Banks Shut the Door on AI Agents — No Entering Your Account With Your Password!",
+ "date": "2026-11-22",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r233-w233-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Banks"
+ ],
+ "body": [
+  "🏦 America's Biggest Banks Shut the Door on AI Agents — No Entering Your Account With Your Password!",
+  "Four of America's biggest banks moved within a single week, between October 13 and 20, to stop outside AI agents from entering customers' accounts using their passwords, in the most prominent confrontation yet between banks and the age of agents.",
+  "JPMorgan Chase announced on October 13 that the bank will not allow outside agents to operate inside customers' accounts, and its CEO named Meta's assistant Muse and the agent Instinct, describing them as 'rogue agents', while a bank spokesperson confirmed that the bank does not allow any third party to obtain customers' login details and log in on their behalf.",
+  "On October 16, the head of Charles Schwab said his company blocks unauthorized agents, including Muse, which tries to move customers' money 10 to 20 times a week, while Citigroup announced on the same day that it does not allow outside AI agents to log in to a customer's account or carry out transactions directly inside its digital platforms.",
+  "Wells Fargo chose a different path: instead of a complete ban, it amended its electronic access agreement, which takes effect on November 24, to state that using an agent is 'at your own risk', that every transaction an agent starts counts as authorized by the customer, that the bank is not obliged to monitor the agent's activity, and that it reserves the right to restrict or end access at any time.",
+  "The four banks did not ban AI entirely: customers can still share their data read-only through open banking connectors, while several banks build their own tools.",
+  "The biggest driver behind this move is the fear of deposits fleeing: a smart agent could automatically move household money from checking accounts yielding nearly 0.1% to alternatives yielding between 3.3% and 5%, and one estimate put the cost of that to banks at about $47 billion a year.",
+  "An agent that logs in with a customer's password also cannot be told apart from the customer himself in the bank's systems: it has the same powers, with no special limits and no separate audit trail, and its instructions could exceed spending limits, change the beneficiaries of transactions, or be manipulated through prompt injection.",
+  "The confrontation was not limited to banks: Amazon applied a technical ban on Muse, and Delta and Yelp also closed the door to agents.",
+  "Simply put: banks do not want a smart agent entering your account with your password and moving your money on your behalf, so it is either banned completely or you bear all the risks yourself. Would you hand an AI agent the password to your bank account?",
+  "Do you trust an AI agent to manage your money by itself?"
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "id": 1066,
+ "slug": "article-1066",
+ "title": "🔢 The Lean community officially certifies the proof of the Riemann hypothesis with Claude's help — after checking 17 million lines!",
+ "date": "2026-11-23",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r277-w277-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Science"
+ ],
+ "body": [
+  "🔢 The Lean community officially certifies the proof of the Riemann hypothesis with Claude's help — after checking 17 million lines!",
+  "The Lean and Mathlib communities, the bodies behind the most famous mathematical proof-checking tool and its library, have issued a joint statement confirming that the proof of the Riemann hypothesis, the most famous open problem in mathematics, is correct, just one day after it was announced.",
+  "Mathematician Levent Albayrak, who works at Anthropic, published the proof on 20 November with the help of the chatbot Claude, not as a research paper but as a software library in the Lean language containing about 17 million lines spread across 175,187 files. The next day, the joint statement said: \"We have full confidence that Albayrak's proof of the Riemann hypothesis is correct,\" endorsing both the statement and the proof.",
+  "The endorsement rested on four checks: first, the statement proved is Mathlib's own definition of the Riemann hypothesis, which Lean and number-theory experts had examined long before the proof; second, the library compiles without errors, and dozens of people recompiled it independently and obtained the same raw proof file; third, two independent tools confirmed that the theorem proved matches Mathlib's statement literally; and fourth, the exported proof was checked by the official Lean kernel and by independent checkers written in different programming languages, some of which carry a mathematical proof that they can never accept a false proof.",
+  "The hypothesis, set out by Bernhard Riemann in 1859, says that all non-trivial zeros of the zeta function lie on a single line where the real part is one half, and it governs the distribution of prime numbers. The proof also covers the generalized Riemann hypothesis, the same version for a wider family of functions. The Clay Mathematics Institute has set a one-million-dollar prize for whoever solves it.",
+  "But the endorsement does not mean anyone understands the proof yet: Albayrak himself says he is still absorbing the ideas he built, and plans to write them up in simplified form, while the community looks forward to a wave of efforts to explain the new ideas. The machine checked every step, but the human meaning of the proof is still at the very beginning of the road.",
+  "Simply put: AI helped build a proof of 17 million lines, and the computer verified it in a single day — has solving become faster than understanding it?",
+  "If a computer can prove the hardest problem in mathematics before humans understand it, what is left for the mathematician to do?"
+ ]
+}

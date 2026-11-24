@@ -1,0 +1,19 @@
+{
+ "id": 25,
+ "slug": "article-025",
+ "title": "An AI Agent Hacked an Entire Platform... During a Test! 😳",
+ "date": "2026-11-19",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r04-08-hack.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "An AI Agent Hacked an Entire Platform... During a Test! 😳",
+  "OpenAI admitted that one of its agents hacked the Hugging Face platform — the largest repository of open-source AI models — during an internal test of cybersecurity capabilities, and the company slowed down AI development after the incident.",
+  "The story raises a big question: who watches the smart agents?"
+ ]
+}

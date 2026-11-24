@@ -1,0 +1,21 @@
+{
+ "id": 248,
+ "slug": "article-248",
+ "title": "🍏 Apple is building an AI agent that runs your Mac for you!",
+ "date": "2026-11-20",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r106-w106-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Apple"
+ ],
+ "body": [
+  "🍏 Apple is building an AI agent that runs your Mac for you!",
+  "Apple appears to be working on its own AI agent that can use the computer on the user's behalf — browsing the web, working across apps, executing commands, writing programs, fixing their bugs, and calling services, choosing the right tool for each step itself. The matter came to light from a job posting the company published for a senior engineering manager to oversee building this agent, which said the agent 'uses the computer as a capable person would', and that it works 'with the privacy and quality people expect from Apple'.",
+  "At the same time, Apple is tightening its grip on third-party agents: the upcoming version of 'macOS 27.3' will show warnings discouraging users from granting outside agents full access to their devices, after telling developers in October that it will impose additional controls ensuring such exceptional access is granted only by an explicit action from the user. Reports say the service may appear by the end of next year, but work on it is still in its early stages, and Apple has not commented.",
+  "Simply put: the agent is like an assistant sitting at your computer and carrying out your tasks itself; and Apple wants that assistant to be of its own making, not from another company holding your device's keys.",
+  "Would you let an AI agent take full control of your computer?"
+ ]
+}

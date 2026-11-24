@@ -1,0 +1,21 @@
+{
+ "id": 730,
+ "slug": "article-730",
+ "title": "⚡ Nvidia Speeds Up AI Training 15x... How?",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r190-w190-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Nvidia"
+ ],
+ "body": [
+  "⚡ Nvidia Speeds Up AI Training 15x... How?",
+  "On November 19, Nvidia explained how a software layer called Dynamo makes training AI models with reinforcement learning faster and cheaper, by tackling three bottlenecks that waste graphics card capacity: slow sample generation, repeatedly recalculating the same context, and constantly transferring updated model weights.",
+  "In reinforcement learning, the model generates many attempts to solve a task, then evaluates them and updates itself, and the cycle repeats thousands of times. The problem is that the slowest attempt can delay the entire next step, that attempts often start with the same instructions so they are recalculated every time, and that every model update requires sending a complete copy to every worker. This is where Dynamo comes in: its smart router sends a request to a worker that already has the context stored, without overloading it, and its Model Express tool transfers only the compressed differences between the two versions, copying weights from a neighboring card's memory instead of distant storage.",
+  "The numbers come from real customers: CoreWeave sped up weight updates by up to 15x, and H cut training step time by up to 20% and graphics card hours by up to 5%. The system also detects a failed worker and redirects requests to a healthy one, and moves running requests instead of restarting them from scratch. Dynamo is used in training by Microsoft AI, Cognition, and Prime Intellect, with open-source integrations for the VeRL, NeMo RL, SLIME, and Prime RL frameworks.",
+  "Simply put: training large models used to waste time waiting for the slowest attempt and sending the whole model every time, and now only the difference is sent; so do you think faster training will make models cheaper for everyone, or does it only benefit the big companies?"
+ ]
+}

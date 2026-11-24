@@ -1,0 +1,25 @@
+{
+ "id": 499,
+ "slug": "article-499",
+ "title": "📦 Google Donates Two AI Agent Projects to the Open Source Foundation!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r138-w138-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "📦 Google Donates Two AI Agent Projects to the Open Source Foundation!",
+  "Google announced it will transfer two projects, Agent Substrate and gVisor, to the Cloud Native Computing Foundation, the body that oversees major open-source projects, so the two projects come under neutral management not tied to a single company.",
+  "The first project, Agent Substrate, separates AI agent sessions, called 'actors', from reusable computing environments, called 'workers', so an agent can save its state while idle, then resume its work in less than 500 milliseconds without launching a new Kubernetes container each time.",
+  "This design eases the pressure on Kubernetes control systems, and avoids reserving computing resources for agents that spend most of their time waiting — a problem that grows as agents that constantly pause and resume their work and execute automatically generated code spread.",
+  "As for the second project, gVisor, it adds a security layer that intercepts system calls inside a kernel application running in user space, instead of letting containers deal directly with the host Linux system's kernel, reducing the attack surface on servers running the agents.",
+  "The two projects together address a growing practical need: managing AI agents that constantly pause and resume, and sometimes execute untrusted code, without sacrificing security or wasting resources.",
+  "The move means developers and companies around the world will be able to use and develop the two projects under open-source rules, instead of them remaining under Google's control alone.",
+  "Simply put: Google handed the keys of two important houses to the open community; the first makes agents faster and cheaper to run, and the second makes running them more secure.",
+  "Would you prefer core AI tools to stay in the hands of big companies or in the hands of the open community?"
+ ]
+}

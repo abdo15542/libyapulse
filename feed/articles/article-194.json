@@ -1,0 +1,20 @@
+{
+ "id": 194,
+ "slug": "article-194",
+ "title": "🛡️ Apple Fortifies iPhone 17 with a New Memory Protection Technology!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r103-w103-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Apple Fortifies iPhone 17 with a New Memory Protection Technology!",
+  "Apple revealed a new technology called “Memory Integrity Enforcement” that protects iPhone 17 phones, working by tagging: every piece of data is attached to a tag that the system verifies before using it, preventing attackers from exploiting common memory errors. The technology relies on the new A19 chip and requires major changes in how memory is allocated inside the system.",
+  "Simply put: memory is where your phone does its work; the new technology places a guard on every piece of data in it, making it hard for an attacker to tamper with it.",
+  "Do security features matter to you when choosing a new phone?"
+ ]
+}

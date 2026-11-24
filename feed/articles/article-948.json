@@ -1,0 +1,24 @@
+{
+ "id": 948,
+ "slug": "article-948",
+ "title": "📬 'Claude Duet' finally opens its doors! An assistant that messages you before you message it... and works while you sleep!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r245-w245-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "📬 'Claude Duet' finally opens its doors! An assistant that messages you before you message it... and works while you sleep!",
+  "Anthropic expanded access on November 13 to its proactive assistant 'Claude Duet', inviting all subscribers to the 'Pro', 'Max', and 'Ultra' plans in the United States who were on the waiting list until November 12, in a step that ends a month of waiting since it was announced on October 21.",
+  "'Duet' is not an ordinary chatbot waiting for your question, but an agent that works on your behalf: it checks your email, calendar, and connected apps, sends you a morning report every day, messages you during the day when it finds something that needs your attention, and runs on its own cloud computer, so its tasks continue even if you switch off your phone and computer completely.",
+  "Most importantly, the assistant does not act on its own in sensitive matters: before sending a message, paying an amount, signing a document, or deleting anything, it shows you what it intends to do and waits for your approval. It can also make purchases in the United States through digital wallets with a card used once per purchase.",
+  "'Duet' runs on 'Opus 5.5', the company's strongest model, as a standalone app on 'iPhone' and 'Android' and on the web. It is available during the research preview period at no extra cost to paid-plan subscribers, but its background work consumes from the usage limits of your own plan, so the company added free limit refills: three times for 'Pro' subscribers and once for 'Max' and 'Ultra' subscribers, expiring on December 15, 2026.",
+  "The limits are still clear: the assistant is available in the United States only, it has not yet reached team and business plans, it cannot see the files on your computer, and it cannot call anyone by phone. The company promised to open it in other countries 'very soon' without setting a date.",
+  "Simply put: an AI assistant that does not wait for your orders, but comes to you with what needs your attention, and works while you sleep... Do you trust it?",
+  "Would you want an assistant that messages you first with what needs your attention, or do you prefer to always take the initiative yourself?"
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "id": 614,
+ "slug": "article-614",
+ "title": "🚨 FBI warning: the AI tool \"ARTEX\" launches cyberattacks \"at machine speed\"!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r158-w158-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🚨 FBI warning: the AI tool \"ARTEX\" launches cyberattacks \"at machine speed\"!",
+  "The US Federal Bureau of Investigation warned in an urgent advisory issued on Friday, November 13, that hackers are using an AI tool called \"ARTEX\" to automate cyberattacks against institutions around the world.",
+  "The Bureau said multiple threat actors have exploited the open-source framework since at least August 2026, and that some breaches move from targeting to full access in less than 3 hours.",
+  "The tool is written in the Go language, turns targets written in natural language into commands executed by AI agents, and integrates with the Claude, GPT, DeepSeek, GLM, Grok and Kimi models.",
+  "Among the most prominent attacks linked to the tool is the \"ConnectWise\" attack in October, which breached the identities of cloud backup service apps and tried to access more than 2,250 Microsoft 365 tenants, and Microsoft attributed the campaign to a China-backed actor called \"Storm-0940\".",
+  "Other attacks targeted banks in South Korea and stole data of about 67,000 people, and Korean police arrested 7 suspects who stole about 8.2 million records from hospitals, schools and companies.",
+  "The original developer \"Automn-27\" removed the repository from GitHub on October 8, but the forked copies and a commercial version called \"ARTEX Pro\" are still available, and by early November more than 1,600 exposed \"ARTEX\" controllers were observed on the internet.",
+  "A hacking \"framework\" is a ready-made tool gathering all the attack steps in one place, so the hacker carries them out quickly without deep expertise.",
+  "Simply put: imagine an automated hacker breaching a whole company in 3 hours without touching a keyboard. That is how \"ARTEX\" works.",
+  "Are you afraid that hacking companies will become this easy and fast?"
+ ]
+}

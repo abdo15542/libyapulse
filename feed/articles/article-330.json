@@ -1,0 +1,22 @@
+{
+ "id": 330,
+ "slug": "article-330",
+ "title": "🪟 A Windows 11 update blocks some apps from working... and Microsoft admits it!",
+ "date": "2026-11-20",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r119-w119-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Microsoft"
+ ],
+ "body": [
+  "🪟 A Windows 11 update blocks some apps from working... and Microsoft admits it!",
+  "Microsoft has confirmed that the November 2026 'hotpatch' update for Windows 11 may prevent some apps from being installed or running, including 'Office' programs, on corporate devices running version 24H2 or newer. Users see an error message with code 0xC0000099 when trying to install or open an app, or even during normal use.",
+  "The problem affects devices that received the update through the 'Windows Autopatch' cloud service, which manages corporate updates automatically, while home devices and devices on the regular monthly security update are unaffected. Microsoft's investigations indicate the bug hits apps that load the 32-bit version of the Windows Installer library, which happens mostly with 32-bit programs, though it can sometimes happen with 64-bit programs too.",
+  "Until a permanent fix is released, Microsoft has published a temporary workaround for IT administrators: raise the 'HotPatchTableSize' value in the system registry to 2000, then restart the device, with a warning to back up the registry before editing it. The company has not yet announced a date for the final fix, while the update package causing the problem carries the number KB5132043 and was released on November 10.",
+  "Simply put: an update designed to fix your device without a restart has itself become the reason your programs stop — and a temporary fix exists, but it is not for the average user.",
+  "Has your device had problems after recent Windows updates?"
+ ]
+}

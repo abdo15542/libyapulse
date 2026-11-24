@@ -1,0 +1,24 @@
+{
+ "id": 463,
+ "slug": "article-463",
+ "title": "🚨 Hack Targets the US Federal Crime Database — and the FBI Is Investigating!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r133-w133-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🚨 Hack Targets the US Federal Crime Database — and the FBI Is Investigating!",
+  "The US Federal Bureau of Investigation is investigating a suspected breach of its National Crime Information Center database — the database police agencies in all states rely on to exchange information about arrest warrants, criminal records, and background checks.",
+  "The database, known as the National Crime Information Center, is a lifeline connecting federal, state, and local police, as officers on the street turn to it to learn whether the person in front of them is wanted by justice, whether the car is stolen, or whether the person has a criminal record.",
+  "This is the second breach to hit the bureau's systems in a few months, after an attack in September by a known extortion group that targeted the bureau's recruitment website, stealing data of current and former employees, and a Canadian security researcher connected to that attack was later arrested.",
+  "The incident comes in a turbulent week that saw a series of major outages and breaches, from a global outage that hit Microsoft services for hundreds of millions of users, to air traffic halting across the country and more than 18,000 flights disrupted, raising officials' concern about the security of the country's digital infrastructure.",
+  "The bureau has not responded to requests for comment, and it has not yet been revealed how much data the attackers reached or who they are, while investigators continue examining the systems to determine whether the breach enabled the attackers to view or alter sensitive criminal files.",
+  "Simply put: the database every police officer in America relies on to know who is standing in front of them may be in hackers' hands, and the investigation is still in its early stages.",
+  "Do you think police and security agencies' databases are protected enough, or has breaching them become a matter of time?"
+ ]
+}

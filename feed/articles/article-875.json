@@ -1,0 +1,24 @@
+{
+ "id": 875,
+ "slug": "article-875",
+ "title": "📺 Samsung Confirms a Data Leak from the Dark Web! Your Smart TV Sends What You Watch!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r227-w227-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "📺 Samsung Confirms a Data Leak from the Dark Web! Your Smart TV Sends What You Watch!",
+  "Samsung has confirmed a data leak after a ransomware group called \"N0N\" published about 220 megabytes of stolen files on its dark web site, after the extortion deadline it had set expired.",
+  "The company said the incident affected an outside supplier that was processing advertising data for Samsung Ads, its advertising arm in North America.",
+  "The largest leaked set contains about 150,000 smart TV viewing records from 2024, with timings, durations, and device, city, and ZIP code details, without revealing exactly what each user watched — but it confirms that TV sets send their usage data to the company's servers.",
+  "A second set contains about 42,600 records of political ads from September and October 2026, with sponsors, topics, estimated costs, and political affiliations, in addition to about 99,100 records used to train AI advertising models.",
+  "Reports say the group is relatively new and relies heavily on AI tools to build scanning and reconnaissance tools, and its alleged victims include major card companies and banks; it recently leaked more than 500 megabytes of customer data from a global travel company.",
+  "Simply put: your smart TV does not just show content, it sends a report about it — do you know what your device sends about you while you watch?",
+  "Do you trust that your smart TV respects your privacy? And what do you do to protect yourself?"
+ ]
+}

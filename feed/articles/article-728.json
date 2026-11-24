@@ -1,0 +1,21 @@
+{
+ "id": 728,
+ "slug": "article-728",
+ "title": "🏠 Critical Flaw in Shelly Smart Devices: Update Them Yourself and Do Not Wait for Your App!",
+ "date": "2026-11-22",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r189-w189-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🏠 Critical Flaw in Shelly Smart Devices: Update Them Yourself and Do Not Wait for Your App!",
+  "On November 9, Shelly published a security bulletin it rated critical at 9.5 out of 10, named Shel-2026-001, affecting its devices from the second generation onward: the Plus, Pro, third-generation, and fourth-generation lines, as well as the Blu gateway and its cameras. The problem is that the old software trusted two root certificates under which eight intermediate certificates were issued, and the private keys of those intermediate certificates were stolen.",
+  "Anyone who holds one of those keys and can intercept your device's traffic, for example through a hacked router, a deceptive Wi-Fi network, or tampering with the domain name system, can impersonate the Shelly cloud, the message broker, or the server your software calls, exposing passwords and tokens, and forging commands that operate the devices or change their settings. The company did not say the flaw was actually exploited, but it stresses the danger is real.",
+  "The fix is ready in firmware updates 1.7.6, 2.0.3, and 2.1.1 depending on your device line, and 2.3.99 for cameras, while the company is still examining the wall display. The important point is that the update only arrives through the Shelly Smart Control app or the device's local web page: if your devices live only inside Apple Home, Google Home, Alexa, or SmartThings, do not wait for those apps to offer you the update; instead, open the Shelly app or type the device's address in your browser and install it yourself.",
+  "Simply put: the lock on your smart home has a stolen key, and the update exists but will not reach you through your favorite app; so when was the last time you updated your smart devices yourself?"
+ ]
+}

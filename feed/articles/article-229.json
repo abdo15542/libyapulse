@@ -1,0 +1,20 @@
+{
+ "id": 229,
+ "slug": "article-229",
+ "title": "🔊 Amazon Polly clones your voice from minutes of recording!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r104-w104-14.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🔊 Amazon Polly clones your voice from minutes of recording!",
+  "Amazon has launched voice cloning in its 'Polly' text-to-speech service, as a restricted general release, letting companies create a custom voice from recordings of a single consenting speaker. Just one to ten recordings are enough, up to 15 minutes in total, for the system to build a new voice within 5 to 10 minutes. The feature supports seven languages — English, Spanish, German, French, Italian, Portuguese, and Hindi — and creating the voice is free while usage is billed by consumption, with a watermark embedded in the generated voice, a maximum of 10 voices per account per region, and the original recordings are not used to train models.",
+  "Simply put: instead of recording every ad or voice message again, you record your voice once, and the system reads any new text in your own voice, with a watermark proving it is a generated voice.",
+  "Would you trust a cloned voice when you cannot tell if it is real?"
+ ]
+}

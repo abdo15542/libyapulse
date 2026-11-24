@@ -1,0 +1,27 @@
+{
+ "id": 638,
+ "slug": "article-638",
+ "title": "🤖 OpenAI dissolves its robotics team — because the general model has become the robot!",
+ "date": "2026-11-21",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r163-w163-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Robots"
+ ],
+ "body": [
+  "🤖 OpenAI dissolves its robotics team — because the general model has become the robot!",
+  "OpenAI confirmed on November 13 that it has dissolved its standalone robotics team, redistributing its researchers to other teams inside the company, in a move that surprised the robotics world.",
+  "The robotics researchers moved to the main research team led by chief research officer Mark Chen, while the applied robotics and hardware team moved to the applications organisation led by president Greg Brockman.",
+  "The reason the company gave is simple: general models such as GPT-6 Astra have become able to control robots directly, so building a separate team to make robot-specific models is no longer the fastest path.",
+  "The evidence it cites is a study by Nvidia in October: it used the general model as a controller for a robot in a simulated pick-and-place test, succeeding in 74.8% of tasks, compared with only 51% for the best robot-specialised model.",
+  "But the figure needs caution: the test was a simulation, not a real robot, and each attempt cost about $36 in model tokens and took about 18 seconds per call — a cost and speed no real factory can bear yet.",
+  "The company stresses it has not abandoned robotics: it is still developing its own humanoid robot, and its CEO is targeting a first public demonstration in 2027, and robotics remains a core part of its long-term vision.",
+  "This is not the first time: the company dissolved its first robotics team in 2020, then rebuilt it in 2024 with a partnership with humanoid-robot maker Figure, and that partnership ended in February 2025.",
+  "Even the company's booth at the CoRL robotics science conference in Austin stood empty this week, even though its name was printed on the hall layout.",
+  "Simply put: the company is betting that general AI has become the robot's brain, so there is no need for a special brain for every robot — but the real test will come when the robot picks up a cup without breaking it.",
+  "Do you believe a general language model can run a real robot?"
+ ]
+}

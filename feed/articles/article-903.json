@@ -1,0 +1,25 @@
+{
+ "id": 903,
+ "slug": "article-903",
+ "title": "💾 An AI agent running on a computer from 1981! A 4.77 MHz processor writes code and runs it!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r234-w234-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "💾 An AI agent running on a computer from 1981! A 4.77 MHz processor writes code and runs it!",
+  "A developer has proved that an AI agent does not need a supercomputer, after running a full coding agent on an original IBM PC XT from 1981, with an 8088 processor running at 4.77 MHz and just 640 KB of memory.",
+  "The project, called \"ClawDOS\", is a small program of 176 KB that talks to the Claude model over the internet — just type \"CLAWDOS\" at the DOS prompt to start chatting with it: it reads your files and edits them, writes programs, compiles them with the Turbo C compiler, runs them, then reads what they print on the screen.",
+  "In the first demo, the developer asked the agent to write a program that prints the prime numbers smaller than 100, compile it, and run it — the result appeared on the screen just 64 seconds after pressing Enter, including 26 seconds for compiling, linking, and running, an amazing speed for a computer thousands of times slower than your phone.",
+  "And the agent did not stop at simple programs: it wrote by itself a tribute to the 1983 film \"WarGames\", with a world map, missile streaks, a tic-tac-toe game, and music for the computer's speaker, in five source files totaling 15 KB and an executable smaller than 10 KB, filmed working on the computer's original screen.",
+  "The agent has 18 tools: reading, writing, and searching files, running programs, capturing screenshots and encoding them as images, reading memory and ports, playing music, and saving its own notes in a \"C:\\MEMORY\" folder so it remembers what it built with you in later conversations, with a safe mode that asks you before any change to a file.",
+  "The only obstacle is encryption: the 1981 processor cannot encrypt the connection, so a modern computer in the middle handles secure communication, while the old computer does everything else itself — and the whole project, about 13,000 lines of code, was written by Claude itself, and is available free of charge under an open-source license.",
+  "Simply put: the brain works in the cloud, and the old computer only needs to send and receive messages — so why do we buy more powerful devices every year? Do AI agents really need supercomputers?",
+  "Would you try an AI agent on an old computer if you could?"
+ ]
+}

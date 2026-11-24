@@ -1,0 +1,22 @@
+{
+ "id": 543,
+ "slug": "article-543",
+ "title": "📄 LlamaIndex Launches a New Benchmark That Grades Document-Reading Errors by Their Severity!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r145-w145-07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "📄 LlamaIndex Launches a New Benchmark That Grades Document-Reading Errors by Their Severity!",
+  "LlamaIndex launched a new benchmark called ParseBench 2 to measure the quality of converting documents into text that AI can understand, after discovering that old benchmarks give near-perfect scores to tools that change important facts without anyone noticing. The benchmark was published on November 11 and includes 4,317 page-level test cases, taken from 2,645 real documents.",
+  "The benchmark measures six dimensions: text, formatting, tables, charts, locating elements on the page, and forms — a new dimension in this version. The core idea is grading by severity: a page's score is the lower of two scores — a content-retrieval score and a cap set by the severity of the error. If the parser changes a single number in a financial table, flips a negation into an affirmation, or misreads a form value, the whole page's score drops, even if the rest of the content is 99% correct.",
+  "The most famous example makes the picture clear: when a parser wrote 1282 instead of 1822 in a revenue table, an entire region's income became wrong by $540 million — yet the old benchmarks gave it 99.8 out of 100, while the new benchmark gave it only 90. The company calibrated its metrics against 330 controlled error scenarios, classified from critical to harmless, and it detects more than 140 types of errors. On the leaderboard, the company's own product, LlamaParse, topped with 90.07 points, followed by Claude Opus 5.5 with 85.73 points — noting that the company measured its own product itself.",
+  "Simply put: imagine a student who answered every exam question correctly except one, in which he flipped the result upside down; the old benchmarks would give him a near-perfect score, while the new benchmark deducts according to the severity of the error, not the number of correct words.",
+  "Would you trust a document that AI converted into text, or do you always check the important numbers yourself?"
+ ]
+}

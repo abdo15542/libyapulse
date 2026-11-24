@@ -1,0 +1,21 @@
+{
+ "id": 142,
+ "slug": "article-142",
+ "title": "An Important Change in Google’s Gemini ✨",
+ "date": "2026-11-19",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r12-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Gemini"
+ ],
+ "body": [
+  "An Important Change in Google’s Gemini ✨",
+  "Google has started separating your chat history from AI model training: you can now stop your chats from being used in training while keeping the history saved, or vice versa, through two separate switches.",
+  "Simply put: previously, turning off history was the only way to stop your chats from being used in training, but now the two options are independent. The change applies only to new chats, while chats Google reviewed for quality purposes may be kept for up to three years.",
+  "The retention period for chats when history is turned off has become about two months instead of 72 hours.",
+  "Will you change your privacy settings in Gemini after this update?"
+ ]
+}

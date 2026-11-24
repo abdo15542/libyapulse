@@ -1,0 +1,22 @@
+{
+ "id": 271,
+ "slug": "article-271",
+ "title": "💳 Old Windows flaw steals data from more than a million bank cards!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r108-w108-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "💳 Old Windows flaw steals data from more than a million bank cards!",
+  "Security researchers have discovered that attackers stole data from more than a million credit and debit cards from payment devices in stores in more than 20 countries, exploiting an old Windows flaw fixed about two years ago.",
+  "The attackers exploited a flaw in the Windows file system known as CVE-2024-49138, which Microsoft had fixed in December 2024, but hundreds of payment devices remained unpatched. After breaching them, the attackers planted spyware that records the data of every card passing through the device during payment, including the card number, the issuing bank, the expiry date, and the country of issue.",
+  "The attack hit more than 700 payment devices, most of them in Brazil, where many stores use old versions of Windows. The attack was discovered by chance when the attackers left their server exposed on the internet, and researchers found in it the full attack tools and the stolen card data. The server was shut down at the end of August, and Brazilian authorities were notified in September.",
+  "Simply put: imagine your store's door has been broken for two years and you never fixed it; thieves need no new trick — they only need to find the door open.",
+  "Do you make sure your devices are updated constantly, or do you postpone updates?"
+ ]
+}

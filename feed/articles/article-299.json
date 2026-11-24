@@ -1,0 +1,21 @@
+{
+ "id": 299,
+ "slug": "article-299",
+ "title": "🌱 Taiwan puts an 'efficiency card' on AI data centers!",
+ "date": "2026-11-20",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r112-w112-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "EnvironmentTech"
+ ],
+ "body": [
+  "🌱 Taiwan puts an 'efficiency card' on AI data centers!",
+  "Taiwan is working on an energy-efficiency labeling system for AI computing centers, to cut electricity consumption and carbon emissions as demand grows for processing units, servers, and cooling systems.",
+  "Under the new amendments, any new or expanded data center with contracted capacity of 5 megawatts or more must submit an 'energy use guide' before construction begins and adopt the best available technologies, with a 7-item checklist covering equipment and software choice, data management, cooling, the power system, monitoring, and overall performance. Power usage effectiveness has been adopted as an official standard: no more than 1.3 for hyperscale computing centers and 1.4 for colocation centers. This comes as the state power company needs about two years to build the high-voltage lines needed for new centers, which could delay their operation until 2028 at the earliest.",
+  "Simply put: imagine every data center carrying an efficiency card like the card on the fridge in your home; the lower the number, the less electricity it consumes, and the lighter AI centers become on the power grid and the environment.",
+  "Should every country impose an efficiency card on data centers?"
+ ]
+}

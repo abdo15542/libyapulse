@@ -1,0 +1,21 @@
+{
+ "id": 869,
+ "slug": "article-869",
+ "title": "💰 An AI agent moves your company's money! Stripe opens transfers to agents!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r224-w224-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "💰 An AI agent moves your company's money! Stripe opens transfers to agents!",
+  "On 19 November, Stripe announced that AI agents can now actually move money from company accounts, not just read balances. After the agent used to only review transactions, build cash-flow models, and match payments, it can now transfer money, convert currencies, and pay suppliers, within limits set by the company itself.",
+  "More than 24,000 companies already use Stripe Treasury for agents. The company connects its agent — such as Claude or Codex — through a Model Context Protocol server, and sets what data it can see, what it can do, and when it needs human approval.",
+  "There are two ways to connect: the first is through an authorised user, where the agent inherits that user's permissions, and every action that moves money — including a refund or a payment — must be confirmed before it is completed. The second is through an agent-specific key that gives it its own identity, permissions, expiry date, and rotation schedule set by the company, so it works in the background, such as preparing a nightly report. Human approval remains required by default for any refund, payment, or outgoing transfer, but the company can adjust the rules, for example allowing transfers under $50 automatically and sending larger ones for approval. The new capability is now available in public preview, and the next step is cards with spending limits set by the agent.",
+  "Simply put: the agent no longer just tells you your balance — it can pay your bills and transfer your employees' salaries. Would you trust an agent to move your company's money within limits you set yourself, or should money stay in human hands alone?"
+ ]
+}

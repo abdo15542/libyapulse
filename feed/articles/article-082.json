@@ -1,0 +1,20 @@
+{
+ "id": 82,
+ "slug": "article-082",
+ "title": "Breach Exposes Data of 1.6 Million Customers at a Japanese Clinic Group! 🏥",
+ "date": "2026-11-19",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r06-c05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "Breach Exposes Data of 1.6 Million Customers at a Japanese Clinic Group! 🏥",
+  "The Japanese medical group \"SBC\" confirmed that an unauthorized party extracted customer information from databases managed by its subsidiary in Japan. The breach was discovered on Monday, November 16, and disclosed today. The largest category is the basic personal information of about 1,624,000 customers (records from 2010 to 2023): names, phone numbers, email addresses, home addresses, dates of birth, patient card numbers, membership IDs, questionnaire answers, and passwords.",
+  "Clinics keep booking records — your name, your phone, and the type of treatment you asked about. The attackers stole booking records, not the medical files themselves — but a booking alone can reveal sensitive health interests, and the stolen passwords make fake messages more convincing. Other categories were also affected: about 255,000 booking requests, 218,000 inquiries via the website, and about 20,000 employee account records, including 459 employees whose data included bank accounts, retirement, and tax information. No misuse of the stolen data has been confirmed so far.",
+  "Do you use the same password on more than one site? 🔒"
+ ]
+}

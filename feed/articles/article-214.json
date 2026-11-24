@@ -1,0 +1,20 @@
+{
+ "id": 214,
+ "slug": "article-214",
+ "title": "🧠 China Trains the Giant Xing 4 Model Without a Single Nvidia Card!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r103-w103-25.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🧠 China Trains the Giant Xing 4 Model Without a Single Nvidia Card!",
+  "The Xingchen General AI Lab of China Telecom published a technical report on the “Xing 4” model — a giant model with 285 billion parameters, of which 17 billion are active, using a mixture-of-experts architecture, trained entirely on 8,192 Huawei “Ascend 910C” neural processing units with the “MindSpore” platform, without any Nvidia card or CUDA platform. An open-weights version was also released, with 29 billion parameters of which 4 billion are active, a context ranging from 256,000 to one million tokens, and the model achieved a 4.68x gain in prefill speed — noting that these figures come from the authors and have not been independently reproduced yet.",
+  "Simply put: training a giant model was once exclusive to Nvidia cards; now a Chinese team has proven it is possible with fully local hardware.",
+  "Are chip restrictions changing the global AI map?"
+ ]
+}

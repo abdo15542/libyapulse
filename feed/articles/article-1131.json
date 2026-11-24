@@ -1,0 +1,24 @@
+{
+ "id": 1131,
+ "slug": "article-1131",
+ "title": "⚽ A Breach Hits Football Fans! 'La Liga' Confirms Fans' and Clubs' Data Stolen!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r289-w289-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "⚽ A Breach Hits Football Fans! 'La Liga' Confirms Fans' and Clubs' Data Stolen!",
+  "Spain's football league, La Liga, has confirmed it suffered a cyberattack in which an attacker stole personal data belonging to users of its digital services and some of its affiliated clubs — the latest incident to hit the world of sport.",
+  "The attack took place between 14 and 16 November, when the attacker gained unauthorized access to one of the league's technical platforms for fan services and extracted personal data of users registered in the digital services offered by the league and some clubs.",
+  "The security team discovered the source of the unauthorized access on 16 November, stopped the attack, and prevented further data extraction, then launched an investigation to determine the scale of the incident, with heightened monitoring to detect any future intrusion attempts.",
+  "The league confirmed that the incident was limited to that platform specifically and did not extend to the other systems that run the competitions, and it notified the Spanish data protection agency, filed a complaint with the cybercrime unit of the National Police, and directly alerted the affected clubs while coordinating the notification of affected fans.",
+  "No ransomware gang has claimed responsibility for the attack so far, and the exact nature of the stolen data and the names of the affected clubs have not yet been revealed.",
+  "Simply put: even football fans' data has become a target for hackers — do you trust that your data is safe with club and league apps?",
+  "Will you change your password after the breach of La Liga's fan services platform?"
+ ]
+}

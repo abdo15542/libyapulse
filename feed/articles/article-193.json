@@ -1,0 +1,20 @@
+{
+ "id": 193,
+ "slug": "article-193",
+ "title": "🔒 Urgent Security Warning: Billions of Android Phones at Risk!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r103-w103-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔒 Urgent Security Warning: Billions of Android Phones at Risk!",
+  "India’s Computer Emergency Response Team issued a security warning affecting billions of devices running Android, after discovering high-severity vulnerabilities in Android 13, 14, 15, and 16. Some of these flaws let an attacker take control of the device or steal its data, so users are advised to install the latest security update as soon as it reaches their phones, and not to delay it.",
+  "Simply put: vulnerabilities are open doors in your phone’s system that attackers could enter through; the security update closes these doors, so don’t delay it.",
+  "Do you install security updates as soon as they reach your phone?"
+ ]
+}

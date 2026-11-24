@@ -1,0 +1,20 @@
+{
+ "id": 61,
+ "slug": "article-061",
+ "title": "Nvidia stops selling H200 AI chips in China after its founder's departure! 🔌",
+ "date": "2026-11-19",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r06-a04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Nvidia"
+ ],
+ "body": [
+  "Nvidia stops selling H200 AI chips in China after its founder's departure! 🔌",
+  "Nvidia announced on Tuesday that it will no longer sell its H200 AI chips in China, in its first earnings call since founder Jensen Huang stepped down last week. The chips were shipped through the United States under an arrangement allowing the government to collect a 25% fee, and the company has now closed that door itself. On the same day, the company announced a board-level committee to oversee national security policies and compliance with export controls.",
+  "The H200 is a powerful chip used to train AI models, and \"export controls\" are government rules determining which advanced technology may be sold abroad. The decision came after new US rules issued on Monday barring advanced chips from reaching foreign data centers serving Chinese customers remotely. Notably, China itself was already refusing to receive these chips, preferring to rely on its own domestic industry.",
+  "Will China succeed in building its own chips without relying on Nvidia? 🇨🇳"
+ ]
+}

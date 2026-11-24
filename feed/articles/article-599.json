@@ -1,0 +1,23 @@
+{
+ "id": 599,
+ "slug": "article-599",
+ "title": "⚡ Microsoft unveils the \"Maia 300\" chip — a new brain powering its AI with higher efficiency!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r156-w156-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "⚡ Microsoft unveils the \"Maia 300\" chip — a new brain powering its AI with higher efficiency!",
+  "Microsoft announced on Monday, November 16, its new AI chip \"Maia 300\", which will become the main inference system for all the company's products and services.",
+  "The company says the new chip delivers 40% more tokens per megawatt of power, compared with inference systems built on traditional graphics cards — meaning it does more work with less electricity.",
+  "The chip is designed specifically for modern AI workloads: long contexts in which models remember huge conversations, memory-heavy tasks, and sequential answer-generation operations, with a precise balance between computing power, memory speed, networks and energy efficiency at huge cloud scale.",
+  "\"Inference\" is the stage of running the model after it has been trained — the moment it answers your question — and it is the stage that consumes most of data centres' energy today.",
+  "Simply put: imagine Microsoft built its own engine to run its AI, faster and cheaper than ready-made engines. That is \"Maia 300\".",
+  "Do you think the big companies will all make their own chips instead of buying them?"
+ ]
+}

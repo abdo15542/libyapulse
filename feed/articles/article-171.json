@@ -1,0 +1,20 @@
+{
+ "id": 171,
+ "slug": "article-171",
+ "title": "🔓 Apple Closes a Flaw Used to Modify iPhones Without Jailbreak!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r101-w101-14.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔓 Apple Closes a Flaw Used to Modify iPhones Without Jailbreak!",
+  "Apple closed a well-known security flaw called “WorseQuery” in the second beta of iOS 27.3, which had allowed apps to escape their sandboxes and access other apps’ data and shared system files. Developers built tools around the flaw to modify the system, such as unlocking Always-On Display and Dynamic Island features on older phones, bypassing regional eSIM restrictions in China, installing foreign SIMs remotely, and managing app files. After the update, all these tools stopped working immediately. The final version of iOS 27.3 is expected in December. Experts advise those who rely on these tools to delay the update, but staying on an old version leaves the phone exposed to other vulnerabilities.",
+  "Simply put: the flaw was a backdoor that allowed modifications Apple does not normally permit; the company closed the door, so every modification that depended on it stopped.",
+  "Do you prefer modifying your phone freely, or staying on the safe official updates?"
+ ]
+}

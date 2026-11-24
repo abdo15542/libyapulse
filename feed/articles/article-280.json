@@ -1,0 +1,21 @@
+{
+ "id": 280,
+ "slug": "article-280",
+ "title": "🛰️ Google sends AI data centers to space!",
+ "date": "2026-11-20",
+ "category": "space",
+ "category_name": "Space",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r109-w109-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Space"
+ ],
+ "body": [
+  "🛰️ Google sends AI data centers to space!",
+  "Google has announced its partnership with 'Blue Origin' to launch the first heavy flight under the 'Suncatcher' project, a long-term project aiming to run AI systems in space using the abundant solar energy in orbit.",
+  "The mission will launch in the first quarter of 2029 aboard the heavy 'New Glenn' rocket, carrying several satellites into a sun-synchronous orbit, each carrying Google's own 'TPU' processors, with computing power roughly equal to a full rack in a traditional data center. The idea is simple: data centers on Earth consume enormous electricity and need land and cooling, while space offers continuous, uninterrupted solar energy. Google says this flight is an important step in its long roadmap to expand the limits of computing, and that the project is still experimental, aimed at testing whether AI can be run in orbit at large scale.",
+  "Simply put: imagine lifting your computer server onto your roof, where the sun never sets, so it runs on solar power with no electricity bill; that is how Google wants to run AI in space.",
+  "Do you support moving data centers to space, or is Earth their natural place?"
+ ]
+}

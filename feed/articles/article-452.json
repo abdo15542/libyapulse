@@ -1,0 +1,23 @@
+{
+ "id": 452,
+ "slug": "article-452",
+ "title": "🏛️ US Government Report: AI Doubles the Power of Cyberattacks — and Proposes 16 Solutions!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r131-w131-08.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🏛️ US Government Report: AI Doubles the Power of Cyberattacks — and Proposes 16 Solutions!",
+  "The US Government Accountability Office published on November 20 a new report titled 'Artificial Intelligence and Cybersecurity: Technologies That May Amplify Cyber Attacks and Enhance Cyber Defense', examining how AI changes the balance of attack and defense in cyberspace. The report came in response to requests from Congress, and it is a technical assessment different from the Office's earlier report on chatbots and attack plans.",
+  "The report warns that AI lowers the technical barriers for attackers significantly: individuals and nations use commercial and open models to automate reconnaissance, craft highly convincing phishing messages, generate polymorphic malware, and discover unknown vulnerabilities. Most alarming, autonomous AI agents have become able to link several stages of an attack together, from discovering the vulnerability to executing the exploit, without direct human intervention.",
+  "On the other hand, federal agencies and infrastructure operators rely on AI to analyze network data, isolate abnormal behavior, speed up verification of fixes, and automate routine incident triage. But the report warns that defensive AI itself opens new gaps, such as training data poisoning, model weight theft, and prompt manipulation — risks that could disrupt vital operations if not managed carefully.",
+  "The report proposes four main policy goals supported by 16 legislative and executive options: setting objective testing standards for AI defense tools, closing research gaps in measuring offensive versus defensive model capabilities, governing the model lifecycle against poisoning and manipulation, and expanding the technical workforce in cybersecurity. Congressional committees plan to hold hearings early in the next legislative session to discuss defensive readiness.",
+  "Simply put: AI speeds up attack and defense together, and the report calls for clear testing and governance rules before the gap between attacker and defender widens.",
+  "Do you think laws can keep pace with AI's speed, or will attackers always stay one step ahead?"
+ ]
+}

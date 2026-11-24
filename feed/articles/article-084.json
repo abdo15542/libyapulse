@@ -1,0 +1,20 @@
+{
+ "id": 84,
+ "slug": "article-084",
+ "title": "AI-Powered Cyberattack Paralyzes European Commission Systems for Over 10 Days! 🇪🇺",
+ "date": "2026-11-19",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r06-c07.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "AI-Powered Cyberattack Paralyzes European Commission Systems for Over 10 Days! 🇪🇺",
+  "European Commission systems were out of service for more than ten days due to a cyberattack in which the attackers used an AI tool called \"Artex\" to search for vulnerabilities in IT systems. Among the systems stopped as a precaution: the \"Sysper\" HR system — payroll, working hours, and leave requests — and the \"My PMO\" system for medical expenses, and translation services were disrupted on Tuesday, then \"Sysper\" stopped again briefly on Wednesday. Most of the affected applications are back in service.",
+  "\"Artex\" is a publicly available tool that automatically searches for vulnerabilities in systems — like a robot testing every door and window in a building. And the open question investigators still can't answer: did the attackers actually reach or steal employee data? Data theft is unconfirmed so far, and there is no announced record count or attacker group name. An FBI warning was cited saying that attacks assisted by \"Artex\" moved from initial targeting to privileged access in under three hours in some campaigns.",
+  "Do you trust that your government's systems are protected from AI attacks? 🛡️"
+ ]
+}

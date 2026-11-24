@@ -1,0 +1,22 @@
+{
+ "id": 360,
+ "slug": "article-360",
+ "title": "🤖 'Inkling 2 Mini' — a Powerful AI Model That Runs on Your Laptop Without the Internet!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r122-w122-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🤖 'Inkling 2 Mini' — a Powerful AI Model That Runs on Your Laptop Without the Internet!",
+  "\"Thinking Machines Lab\" has launched its new model \"Inkling 2 Mini\" on November 20 — a small AI model that can run on an ordinary laptop, with open weights any developer can download and use. The model relies on a clever idea: it re-runs its middle layers three times for every word it generates, thinking deeper without growing larger.",
+  "The model has 26.4 billion parameters in total, only 3.4 billion of which are active at each step, and needs about 20GB of memory — so it runs on \"MacBook\" computers with 32GB of memory or more, and on desktop AI computers. The company showed the model running offline on an airplane, where it built a playable flight-simulation game in just a few minutes.",
+  "The company says the model beats every open-weights model smaller than 100 billion parameters on coding tests, solving 48.2% of the \"SWE-bench\" test tasks, and supports a context window of up to one million tokens and accepts text and images together. It is available now through the \"Tinker\" platform and through \"Hugging Face\" under the \"Apache 2.0\" license.",
+  "Simply put: instead of sending your questions to a distant cloud, you can now run a powerful model on your own device — your AI travels with you, even on a plane.",
+  "Do you prefer an AI model that runs on your device or a stronger one in the cloud?"
+ ]
+}

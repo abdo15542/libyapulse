@@ -1,0 +1,25 @@
+{
+ "id": 971,
+ "slug": "article-971",
+ "title": "🤖 'Palantir' launches a smart assistant inside 'Insight'! Ask in plain language and it builds you a full analysis notebook!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r250-w250-02.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🤖 'Palantir' launches a smart assistant inside 'Insight'! Ask in plain language and it builds you a full analysis notebook!",
+  "On November 19, 'Palantir' announced a new AI assistant called 'AIP Insight', built directly inside the analysis tool 'Insight', to turn users' questions into ready-made analytical workbooks.",
+  "The assistant works by letting the user write their question in ordinary natural language about their organization's data, then it searches for the relevant data and builds a workbook that answers the question, showing all the analysis steps inside the workbook.",
+  "The analysis steps the assistant creates are visible and editable, so the user can inspect how the assistant reached its results and change the steps themselves, then save the workbook and return to it whenever their questions evolve.",
+  "To start using it, the user selects the 'Start an analysis with AIP' option from the 'Insight' home page, or the 'AIP' button inside the analysis breadcrumb bar in the workbook, and these options appear to users who have access to the AI platform.",
+  "The assistant is available to all subscriptions that have activated the AI platform, but it is still in a beta phase: it can create and modify analysis paths, while table layouts, charts and maps must still be adjusted manually.",
+  "Some 'Insight' features are also not yet supported by the assistant, such as interfaces and derived properties, which means the assistant helps with analysis but does not replace the platform's own tools.",
+  "Simply put: instead of learning complicated analysis tools, you ask in your plain language and the assistant builds you a full analysis notebook... do you trust analysis built by AI?",
+  "Would you prefer AI to build your data analyses, or would you rather build them yourself step by step?"
+ ]
+}

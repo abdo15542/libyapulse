@@ -1,0 +1,20 @@
+{
+ "id": 170,
+ "slug": "article-170",
+ "title": "💻 OpenAI Launches GPT-6.2 Astra for Pro Work and Sol for Everyday Tasks!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r101-w101-13.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "OpenAI"
+ ],
+ "body": [
+  "💻 OpenAI Launches GPT-6.2 Astra for Pro Work and Sol for Everyday Tasks!",
+  "OpenAI launched its two new models, GPT-6.2 Astra and GPT-6.2 Sol. The first is built for complex professional work, and the company says it beats its predecessor by 5.2 points on a test measuring multi-step professional work, at less than a third of the cost, and it also beat the rival Claude model by five and a half points at no more than 5% of its cost. The model was trained to create presentations, spreadsheets, and documents that match the conventions of different professions, such as law, accounting, and sales. Sol, meanwhile, is for everyday tasks, and nearly matches Astra on the coding test at five times lower cost. Both models are available to Plus, Pro, Business, and Education subscribers, and to developers through the API. Notably, Astra is the company’s first model to reach a high threshold in self-improvement capability — its ability to speed up AI research itself — so the company launched it with stricter controls for high-risk cybersecurity assistance.",
+  "Simply put: Astra is for hard tasks that need professional precision, and Sol is for ordinary everyday tasks — and both are cheaper than the previous generation.",
+  "Do you use AI models in your daily work?"
+ ]
+}

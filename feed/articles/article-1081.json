@@ -1,0 +1,24 @@
+{
+ "id": 1081,
+ "slug": "article-1081",
+ "title": "🤖 Hugging Face teaches open models to work inside coding tools — higher performance at lower cost!",
+ "date": "2026-11-23",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r281-w281-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "HuggingFace"
+ ],
+ "body": [
+  "🤖 Hugging Face teaches open models to work inside coding tools — higher performance at lower cost!",
+  "Hugging Face has launched a new method called Tool Adapters, which makes open-source models work more efficiently inside coding agent tools, without needing a huge or expensive model.",
+  "The idea is simple: a single model behaves differently inside each coding tool, because each tool has its own tools and way of working — so instead of training a complete model for each tool, a small add-on called LoRA is trained with reinforcement learning inside the tool itself, as it is, without modification, learning how to work with it in the best way.",
+  "The team tested the method on the open model Qwen 3.8-27B with three coding tools — Pi, OpenCode, and Hermes Agent. The score on the Terminal-Bench 2.1 test with the Pi tool jumped from 39% to 55%, and the average tokens consumed per task dropped from 2,900 to 1,500 tokens — meaning the model now thinks less, calls fewer tools, and succeeds on the first attempt more often.",
+  "And it did not stop at three separate add-ons: the team merged the three adapters into a single “super adapter” that works unchanged under all three tools, and all the pieces are available to everyone, from the add-ons to the training tasks.",
+  "To keep training safe, every tool-call attempt is checked by a guard tool called SafeAgents before it runs, blocking attempts to game the reward system, and the model's safety improves with each training step.",
+  "Simply put: instead of one huge model for everything, a small add-on trained on your tool makes the open model smarter and cheaper — will local coding tools soon rival the big cloud tools in power?",
+  "If an open model on your own computer could do your coding tasks at half the cost, would you give up your cloud subscriptions?"
+ ]
+}

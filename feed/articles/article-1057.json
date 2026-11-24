@@ -1,0 +1,24 @@
+{
+ "id": 1057,
+ "slug": "article-1057",
+ "title": "🛡️ Hack Hits a Supplier of Britain's Next… and the Company Reassures: Customer Data Was Not Touched!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r274-w274-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Hack Hits a Supplier of Britain's Next… and the Company Reassures: Customer Data Was Not Touched!",
+  "British retailer Next announced on Monday 23 November that one of its external electronic-services suppliers had suffered a cyber incident, which allowed attackers to gain unauthorized access to some data relating to the company.",
+  "The breach did not happen in Next's own systems, but in the supplier's systems — which means the attackers reached the company through the back door: via a third party it trusts and shares its data with.",
+  "The company said its investigations are still ongoing, but current evidence indicates that no customer personal data was breached, and that the affected information is limited in nature and cannot, in its current assessment, be used to defraud its customers or the company itself.",
+  "The company did not reveal the supplier's name, nor the nature of the data the attackers reached, nor how they got into its systems, nor how long they had been there — saying only that its core systems and its customers' data were not affected.",
+  "The incident comes in a busy week of attacks targeting suppliers: just one week earlier, attackers exploited a flaw in the account-registration process at Optimizely to plant malicious code on the websites of 178 organizations at once, including big names, and the code could steal payment-card data typed into forms.",
+  "Simply put: your data may be safe in your favourite store, but it passes through dozens of other companies you never see... Is trusting the store alone enough, or must you trust everyone who handles your data?",
+  "If an attacker breaches a supplier that works with your favourite store, do you still feel your data is safe?"
+ ]
+}

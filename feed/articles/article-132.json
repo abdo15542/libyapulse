@@ -1,0 +1,21 @@
+{
+ "id": 132,
+ "slug": "article-132",
+ "title": "⚡ AI That Writes AI Code!",
+ "date": "2026-11-19",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r11-05.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "⚡ AI That Writes AI Code!",
+  "Japanese company Sakana announced a new tool called “AI CUDA Engineer,” a framework that speeds up the development and deployment of AI models.",
+  "The tool improves model code to make training and inference faster, and the whole process is carried out by AI agents from start to finish with no human intervention.",
+  "Simply put, AI has started building itself, and the programmer becomes a supervisor who guides it and reviews it.",
+  "Would you trust code written by AI? Or would you review it line by line?"
+ ]
+}

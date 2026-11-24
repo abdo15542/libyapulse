@@ -1,0 +1,24 @@
+{
+ "id": 1153,
+ "slug": "article-1153",
+ "title": "🛡️ AI Agents Are Taking Orders From Strangers! A Study Examines Half a Million Components... and Instructions Have Become a Weapon!",
+ "date": "2026-11-24",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r292-w292-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ AI Agents Are Taking Orders From Strangers! A Study Examines Half a Million Components... and Instructions Have Become a Weapon!",
+  "Ox Security analyzed 542,207 open-source components between July and October 2026, spanning npm and PyPI packages, MCP servers, and agent skills, to reveal that supply-chain attacks have shifted from 'executing code' to 'directing instructions.'",
+  "Prompt injection and tool poisoning appeared in 22% of suspicious MCP servers, compared with only 16% for code execution on install or import — meaning that deceiving an agent with words has become more common than planting malicious software in this ecosystem.",
+  "The gap was even clearer in agent skills: not a single one of 179 suspicious skills executed code on installation, yet 44% of them contained instructions ordering the agent to send data out, exploiting the permissions the agent already has to access files, credentials, and company systems.",
+  "The study also uncovered a major trust gap: the owner of about a third of the MCP servers examined was unknown — the owner was identified in only 69.8% of them, compared with 92.8% of npm packages — and 67% of suspicious servers run on the publisher's own infrastructure, so no one can verify the code that actually runs.",
+  "The danger grew as just two accounts published 44% of the suspicious servers, one of them publishing 2,364 servers in just 17 days, and the report, titled 'Plug and Pray,' was published on November 23.",
+  "Simply put: the attacker no longer needs to plant a virus... All it takes is writing malicious instructions that your agent obeys with its permissions... Do you know where your AI agent's tools come from?",
+  "Do you trust AI add-ons and tools you install without knowing their source?"
+ ]
+}

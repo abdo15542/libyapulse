@@ -1,0 +1,22 @@
+{
+ "id": 687,
+ "slug": "article-687",
+ "title": "🖥️ A serious flaw in Apache Tomcat lets attackers join trusted servers with no verification at all!",
+ "date": "2026-11-21",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r181-w181-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🖥️ A serious flaw in Apache Tomcat lets attackers join trusted servers with no verification at all!",
+  "The Apache Software Foundation has revealed a critical flaw in the Tomcat web server that lets a remote attacker join a group of trusted servers without any authentication, provided the group uses TLS 1.3 encryption with a pre-shared key.",
+  "The flaw carries the number CVE-2026-133325 and a severity score of 9.8 out of 10. The warning was published on November 19, and the foundation credited its discovery to researcher Mike Reed. It affects versions 11.0.28 and 11.0.29, 10.1.62, and 9.0.124. Tomcat components handle communication between the group's servers to share session data, so a user stays signed in if another server takes over the task.",
+  "The problem is that Tomcat, in the affected configuration, does not verify the identity of the server on the other end of the connection, so the connection can be encrypted without proving that the server is allowed to join. An attacker needs network access to the service the group's servers use to communicate, and the fact that a public site runs on Tomcat does not necessarily mean this service is exposed.",
+  "The foundation was not told of any actual exploitation of the flaw, and did not say that joining the group gives the attacker remote code execution. It recommended switching temporarily to TLS 1.2 encryption while keeping the pre-shared key enabled, until the fixed versions 11.0.30, 10.1.63 and 9.0.125 are released — they are still being issued.",
+  "Simply put: strong encryption with no identity check is like a closed door with no lock. Will server admins review their cluster settings today before the update arrives?"
+ ]
+}

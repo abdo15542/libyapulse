@@ -1,0 +1,25 @@
+{
+ "id": 1051,
+ "slug": "article-1051",
+ "title": "🕵️ A New Backdoor Hides in Cloud Linux Servers... Disguised as Trusted Software!",
+ "date": "2026-11-23",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r272-w272-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Linux"
+ ],
+ "body": [
+  "🕵️ A New Backdoor Hides in Cloud Linux Servers... Disguised as Trusted Software!",
+  "Security researchers have uncovered a new Linux backdoor called VMClawdor, targeting cloud virtual machines, and it is so good at hiding that system administrators may walk right past it without noticing.",
+  "The malware primarily targets Alibaba Cloud environments, and it also recognizes Tencent Cloud and Huawei Cloud setups, changing its appearance depending on where it runs: on Alibaba servers it disguises itself as 'Aliyun CS Assist', a name resembling a real cloud assistance component, and if it does not recognize its environment it hides as a Linux kernel worker, running from a hidden folder.",
+  "Once a machine is infected, the program gathers precise information about it: the host name, operating system, kernel version, processor architecture and available memory, along with installed antivirus programs and threat detection tools, using this information to build a complete inventory of the machine, and even suggesting waiting periods between its connections based on the protection tools present.",
+  "It also lets the attacker transfer files in both directions: downloading files to the infected machine and uploading files from it, provided full paths are used and files are smaller than 100 megabytes, and it forwards command requests to a second module called 'Core' that is supposed to execute commands, but researchers have not obtained a standalone copy of it, so the program's full execution capabilities remain not fully understood.",
+  "Most dangerous of all, the program does not connect to a server owned by the attacker; instead it uses Alibaba's OSS cloud storage service to receive instructions, periodically checking a storage container for tasks linked to the infected machine and a specific time window, making its traffic look like ordinary legitimate cloud activity, and it has a backup fallback through a repository on the Gitee platform that supplies it with alternative container settings if the first one stops.",
+  "Researchers found a second sample sharing around 88% of its code with the first, suggesting both come from the same family with adjustments to timing and connection behavior, but they could not determine how the program reached systems in the first place, nor how many machines are infected, nor the identity of its operators with certainty.",
+  "Simply put: imagine a thief wearing a maintenance worker's uniform and speaking on the company's own phone... Is it enough for a program to look trustworthy for you to judge it safe?",
+  "If malware can impersonate the name of an official cloud tool, how can you be sure that the processes running on your server are genuinely what they claim to be?"
+ ]
+}

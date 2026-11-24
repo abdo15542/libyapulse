@@ -1,0 +1,22 @@
+{
+ "id": 369,
+ "slug": "article-369",
+ "title": "💻 'GitHub' Lets You Wait for Pull Request Events with a Single Command — No More Polling Loops!",
+ "date": "2026-11-21",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r122-w122-10.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "💻 'GitHub' Lets You Wait for Pull Request Events with a Single Command — No More Polling Loops!",
+  "\"GitHub\" announced on November 18 that its command-line tool \"GitHub CLI\", in version 2.105.0, now supports the \"event streaming\" service, so developers and AI agents can wait for a pull request to change with a single command, instead of asking the server repeatedly in a polling loop.",
+  "The new command \"gh event listen\" works like this: you pass it a pull request link and the events you care about, such as a new review being submitted, and it creates a subscription, opens a stream, and prints each event as a line of \"JSON\". The command ends automatically after the first event, suiting scripts and agent loops, and also supports options to wait for multiple events, keep listening, stop after a set timeout, or extract only specific fields.",
+  "Supported events include review submissions, changes to a pull request's status or branch head, merge conflicts appearing, and check suites completing. Even GitHub's current commands, like creating and viewing a pull request and following a workflow, now suggest the new command instead of repeated polling. The feature is still in preview and may change, and requires joining the event-streaming service waitlist.",
+  "Simply put: instead of asking the server every few seconds \"did anything happen? did anything happen?\", the server now tells you the moment it happens — smart waiting that saves requests and time.",
+  "Do you use command-line tools in your daily work, or do you prefer graphical interfaces?"
+ ]
+}

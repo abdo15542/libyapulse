@@ -1,0 +1,23 @@
+{
+ "id": 509,
+ "slug": "article-509",
+ "title": "🎙️ A Tiny Model That Understands You in 40 Languages — and Rivals Giants 60 Times Its Size!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r141-w141-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🎙️ A Tiny Model That Understands You in 40 Languages — and Rivals Giants 60 Times Its Size!",
+  "Company Reason 8 released its Ramble 2 Flash model as open-source software under the Apache 2.0 license on November 18 — a speech-recognition model with just 0.5 billion parameters that understands more than 40 languages and detects the language automatically.",
+  "Despite its small size, the model achieved an average error rate of 6.96% on the multilingual track of Hugging Face's open speech-recognition leaderboard, beating OpenAI's Whisper Large v3 and Meta's Omni ASR, which is 15 times larger — and the company says it rivals models 3 to 60 times its size.",
+  "The model is also extremely fast: it processes a full hour of audio in about half a second when batches are full — more than 7,000 times real time — and at just 1.39 GB, it runs on a laptop or local server without your audio ever leaving your device.",
+  "The model works directly with the popular Transformers and vLLM tools with no custom code, and the company also offers it via a cloud service starting at 0.01 euros per hour of audio — noting that some features, such as speaker recognition, are reserved for the larger Ramble 2 model.",
+  "Simply put: imagine a small, lightweight assistant that hears and understands you in any language, writes down your words faster than the big players, and lives on your own device rather than in a distant cloud — that is Ramble 2 Flash.",
+  "Would you prefer a small open model that runs on your device, or a huge model in the cloud?"
+ ]
+}

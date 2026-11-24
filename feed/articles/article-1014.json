@@ -1,0 +1,23 @@
+{
+ "id": 1014,
+ "slug": "article-1014",
+ "title": "💻 Nvidia launches local AI computers in India.. 128GB memory and petaflop performance!",
+ "date": "2026-11-23",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r260-w260-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Nvidia"
+ ],
+ "body": [
+  "💻 Nvidia launches local AI computers in India.. 128GB memory and petaflop performance!",
+  "Nvidia hosted the 'RTX Spark Experience' event in New Delhi, where it showed off a new class of slim Windows laptops and compact desktop computers, built for AI that runs entirely on the device itself.",
+  "Five major companies took part in the showcase — Asus, Dell, HP, Lenovo and MSI — with devices built on the RTX Spark superchip, which pairs a Blackwell RTX graphics card with a Grace CPU, with unified memory of up to 128GB and AI performance of up to one petaflop.",
+  "The idea is that unified memory removes the usual bottleneck between graphics-card memory and system memory, so the device can run local AI agents that write code, create content and complete tasks without relying on the cloud — and it can edit 8K video and huge 3D scenes even without being plugged in.",
+  "Prices in India start at around 300,000 rupees for the Lenovo Yoga Pro 9i, and reach around 900,000 rupees for the compact desktop Asus ProArt GR1 X, while the Dell XPS 16 has been on sale since November 20, and HP opens pre-orders for its OmniBook Ultra on November 24.",
+  "Simply put: a laptop with giant memory that runs AI in your pocket.. so would you pay for a supercomputer to do without the cloud?",
+  "Do you prefer AI that runs inside your device or over the internet?"
+ ]
+}

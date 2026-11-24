@@ -1,0 +1,21 @@
+{
+ "id": 734,
+ "slug": "article-734",
+ "title": "🛡️ Microsoft Launches Project Perception: AI Agents That Defend You Before the Attack Happens!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r191-w191-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Microsoft"
+ ],
+ "body": [
+  "🛡️ Microsoft Launches Project Perception: AI Agents That Defend You Before the Attack Happens!",
+  "Microsoft announced this week a new security system called Project Perception, designed specifically to face attacks carried out by AI tools themselves, at a time when these tools discover flaws and turn them into attacks within hours.",
+  "The new system relies on specialized AI agents working together: a red team whose job is to find the ways an attacker could exploit to break into a company's technical infrastructure, a blue team that handles defense and repels attacks, and a green team that fixes flaws and returns systems to a safe state. The system brings signals, context, models, and agents together, so it can think about the threat, prioritize it, and take action itself without waiting for human intervention at every step.",
+  "This step comes at a critical moment: automated attacks are accelerating, and attackers are using the agents themselves to target companies, while human security teams cannot keep up with this speed alone. The idea here is for AI to face AI, so the system discovers the flaw and closes it before it turns into a real breach.",
+  "Simply put: when a smart agent attacks you, you need a smarter agent to defend you; so would you trust automated defense to decide to act on its own, or should security decisions always stay in human hands?"
+ ]
+}

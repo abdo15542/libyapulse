@@ -1,0 +1,22 @@
+{
+ "id": 519,
+ "slug": "article-519",
+ "title": "🧠 An AI Model Rewrites Its Own Weights — and Fixes Itself With No Training at All!",
+ "date": "2026-11-21",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r143-w143-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🧠 An AI Model Rewrites Its Own Weights — and Fixes Itself With No Training at All!",
+  "New research published on November 16 showed that an open language model with 27 billion parameters can inspect its own weights, diagnose the cause of its errors, and write new values into its weights — improving without any additional training or computed gradients — in a phenomenon the researchers called self-rewriting.",
+  "In the experiment, the model improved its own accuracy by 6.6 points on 490 problems it had never seen, and kept improving across its first eight sessions, because its improvement stays saved in its weights and does not disappear when the task ends — unlike the temporary improvement that comes from instructions. Stranger still, it repaired a damaged copy of itself: it identified the corrupted matrix and wrote replacement values on its own without seeing the healthy copy, jumping the damaged copy's accuracy on six unseen image tests from 7% to 70%.",
+  "It turned out this ability only appears with scale: the small 2-billion-parameter model edited nothing, and the 4- and 9-billion-parameter models damaged themselves with random attempts, while only the 27-billion-parameter model succeeded in working on itself as a human would — by comparing its internal states in completed answers and answers that ran out of tokens.",
+  "Simply put: imagine a writer reading his draft, spotting his mistake, then rewriting the broken paragraph himself without a teacher — that is literally what the model did with its own digital mind.",
+  "Does it reassure you that AI can now fix itself, or does it worry you?"
+ ]
+}

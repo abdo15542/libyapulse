@@ -1,0 +1,20 @@
+{
+ "id": 221,
+ "slug": "article-221",
+ "title": "📊 Splunk Fixes About 140 Flaws, Including Critical Ones!",
+ "date": "2026-11-20",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r104-w104-06.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "📊 Splunk Fixes About 140 Flaws, Including Critical Ones!",
+  "Splunk announced fixes for about 140 security vulnerabilities in its core products: Enterprise, Enterprise Security, and SOAR, including five critical flaws with scores reaching 9.9 out of 10. The fixes include 38 flaws in Enterprise, including two that allow authentication bypass through an empty shared secret, 42 flaws in Enterprise Security including a remote code execution flaw, and 59 flaws in SOAR including two critical code-execution flaws. The fixes came in versions 10.6.1, 8.7.0, and 8.8.0, in addition to about 160 flaws in third-party packages, and the company did not mention any actual exploitation of these flaws so far.",
+  "Simply put: Splunk is the eye that watches companies’ networks and detects attacks; a flaw in it means the guard itself could turn into a door for attackers, and the update restores its defenses.",
+  "Do you apply updates for protection tools as soon as they come out?"
+ ]
+}

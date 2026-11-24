@@ -1,0 +1,22 @@
+{
+ "id": 765,
+ "slug": "article-765",
+ "title": "🎛️ Kendo Raises $30 Million to Monitor AI Agents Inside Companies!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r198-w198-04.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🎛️ Kendo Raises $30 Million to Monitor AI Agents Inside Companies!",
+  "On November 12, Kendo announced it had raised $30 million in a round jointly led by Crosspoint Capital and Forgepoint Capital, bringing its total funding to $57.6 million. The company says its revenue grew by about 800% during 2026, as AI agents spread through large companies.",
+  "Kendo is a platform that gives security, IT, compliance, and finance teams one place to discover every AI agent working in the company, monitor it, and control it, whether it was built inside the platform or outside it. Agents today investigate alerts, update customer records, approve requests, and change production systems around the clock, and the same permissions that let them work could expose sensitive data, break a policy, or run up a huge bill.",
+  "The platform works on four levels: discovering agents, including unapproved ones, monitoring every activity, access, cost, and outcome in a single dashboard, controlling permissions centrally, and intervening directly when something goes wrong, even taking over an agent yourself at 3 a.m. It also offers DeepHat add-ons that cut costs by up to 95%, for example by turning repeated steps into code instead of calling the model.",
+  "One example the company cites is aviation data provider Aerion, which saved more than $2 million a year using the platform in security operations. The platform runs in the company's cloud, the customer's cloud, on its own servers, or even in an environment completely isolated from the internet.",
+  "Simply put: when thousands of agents work without stopping, the question becomes who watches the watchers; do you think every company will need a control center for its agents just as it needs a security operations center, or will agents themselves learn to regulate themselves?"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": 906,
+ "slug": "article-906",
+ "title": "🧠 DARPA funds AI that shows its proof.. AI you can trust!",
+ "date": "2026-11-22",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r235-w235-03.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🧠 DARPA funds AI that shows its proof.. AI you can trust!",
+  "The US Defense Advanced Research Projects Agency (DARPA) has awarded a team at New Mexico State University a grant worth $600,000 over two years to develop AI that can be trusted in life-changing decisions.",
+  "The project, called \"SPARTA\", is one of only ten teams selected across America under the \"CLARA\" program, a program that aims to merge two branches of AI that have remained separate: one that recognizes patterns quickly, and another that follows strict logic step by step.",
+  "The idea is simple: today's AI is fast but does not explain itself — it gives you an answer without showing you how it reached it, which is acceptable when writing a message, but not acceptable when it comes to designing an aircraft, running a vital system, or making a fateful decision.",
+  "The team is working on combining machine learning with automated reasoning — mathematical logical proofs that engineers and auditors can examine and verify — so that AI becomes as fast as current models, but also able to \"show its work\", just as a student does when writing out the steps of a solution.",
+  "The project is led by the university's computer science department head, Professor Son Tran, together with Assistant Professor Stylianos Vassiliou, in cooperation with teams from Arizona State University and the University of Nebraska Omaha.",
+  "The final goal is bigger than one project: building one trusted, reusable foundation for dozens of sensitive industries, without needing to rebuild a new system from scratch for every critical task.",
+  "Simply put: instead of AI that says \"trust me\", researchers want AI that says \"here is the proof\" — would you trust the decisions of AI that does not explain itself?",
+  "Would you prefer slower but trustworthy AI, or faster but mysterious AI?"
+ ]
+}

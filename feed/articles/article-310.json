@@ -1,0 +1,22 @@
+{
+ "id": 310,
+ "slug": "article-310",
+ "title": "🗜️ A billion bytes in 105 megabytes: AI compresses all of Wikipedia!",
+ "date": "2026-11-20",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r114-w114-01.jpg",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🗜️ A billion bytes in 105 megabytes: AI compresses all of Wikipedia!",
+  "Tuva Labs has managed to compress a billion bytes of English Wikipedia text into just 105.39 megabytes, without losing a single byte, using an open-source program called 'TuvaZip' based on a relatively small AI model.",
+  "The system runs on a 12-layer Transformer model with just 163 million parameters, which learns during compression which word is likely to come next, giving expected words short codes and rare words longer ones, then turns these predictions into a compressed file through arithmetic coding. With this result, it took second place in the famous large-text compression benchmark, as the best entry relying on a neural network alone for prediction.",
+  "But the miracle comes at a steep price: decompression takes about seven and a half days on two of the most powerful graphics cards, and the result is tuned to one specific file, so it is not a daily compression tool. Even so, the project proves that small models can understand the structure of language deeply, and that good compression is a real measure of a model's intelligence.",
+  "Simply put: imagine squeezing an entire library into a tiny pocket, but opening it takes a full week and a supercomputer; an amazing scientific achievement — not a compression program for daily use.",
+  "Do you think compressing data this way will change the future of storage, or is it just a lab experiment?"
+ ]
+}
