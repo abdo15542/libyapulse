@@ -1,0 +1,26 @@
+{
+ "id": 1250,
+ "slug": "article-1250",
+ "title": "🏛️ Hack Hits the Carnegie Endowment — Donor Data Leaked Through an Outside Vendor!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-06.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CyberSecurity"
+ ],
+ "body": [
+  "🏛️ Hack Hits the Carnegie Endowment — Donor Data Leaked Through an Outside Vendor!",
+  "The Carnegie Endowment for International Peace, one of Washington's leading foreign-policy think tanks, has announced a breach that exposed the contact details and donation records of some of its donors.",
+  "The breach hit Soapbox Engage, an outside vendor the Endowment uses to process online donations, and lasted from October 28 to 30, before the attackers' access was cut off.",
+  "Through the link between the platform and the Endowment's database, the attackers temporarily gained access to names, email addresses and phone numbers, along with donors' donation records, while the Endowment confirmed that full credit-card numbers were not exposed.",
+  "The Endowment described those affected as a 'small percentage' of its database, without giving a number, and notified everyone in the database as a precaution, bringing in an outside cybersecurity firm to make sure the attackers were fully removed.",
+  "The incident carries special weight because the Endowment is currently led by Avril Haines, the former U.S. Director of National Intelligence, and was previously led by former CIA director William Burns, making its donor data a tempting target for fraud and phishing.",
+  "The Endowment warned donors to watch out for unexpected messages or calls asking for sensitive information or payments, even if they appear to come from it, because the stolen data could help scammers craft convincing messages.",
+  "Simply put: a breach at a single vendor can expose an entire organization's data; your security is only as strong as the weakest company connected to your database.",
+  "Do you know how many outside vendors have access to your data, or your organization's data?"
+ ]
+}

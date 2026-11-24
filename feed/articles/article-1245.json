@@ -1,0 +1,24 @@
+{
+ "id": 1245,
+ "slug": "article-1245",
+ "title": "🕵️ Breach Hits the CIA and the Office of the Director of National Intelligence — Unclassified Information Exposed!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-01.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CyberSecurity"
+ ],
+ "body": [
+  "🕵️ Breach Hits the CIA and the Office of the Director of National Intelligence — Unclassified Information Exposed!",
+  "The CIA and the Office of the Director of National Intelligence discovered a cyber breach that exposed some of their unclassified information, according to an American newspaper citing people familiar with the incident.",
+  "The breach hit a network used to search for intelligence insights in unclassified public material — in other words, the compromised network deals mainly with open-source information — but exactly what was stolen from it is still unclear.",
+  "Reports also indicated that information held by other government agencies is believed to have been exposed in the same incident, without naming those agencies or the scale of what was affected.",
+  "The news comes amid a wave of consecutive cyber incidents and technical outages in the United States, including a reported breach at the U.S. Department of Agriculture, raising concern about the security of government networks even in their least sensitive systems.",
+  "Simply put: even networks that hold no classified secrets can be a target; public information becomes valuable once it is gathered and analyzed, and an attacker makes no distinction between classified and unclassified when it finds an open door.",
+  "Do you think breaching “unclassified” information is less dangerous than breaching secrets?"
+ ]
+}

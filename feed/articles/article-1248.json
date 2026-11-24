@@ -1,0 +1,26 @@
+{
+ "id": 1248,
+ "slug": "article-1248",
+ "title": "🤖 “GT13” Campaign Breaches Check Point Servers at 22 Organizations — and AI Is at the Heart of the Attack!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-04.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CyberSecurity"
+ ],
+ "body": [
+  "🤖 “GT13” Campaign Breaches Check Point Servers at 22 Organizations — and AI Is at the Heart of the Attack!",
+  "Threat intelligence company GreyNoise uncovered a large-scale breach campaign targeting Check Point firewall management servers at at least 22 organizations in 17 countries, in an attack that is believed to still be ongoing.",
+  "Researchers tracked the attacker under the name “GT13” and recorded its confirmed activity between 17 October and 2 November, but they lost direct visibility after that date. They believe the campaign is continuing because the attacker retained persistent access to the compromised devices.",
+  "The attacks were launched from 99 IP addresses, mostly compromised Check Point devices or exit nodes of the ExpressVPN service, and the attacker used a compromised file server as a relay station to manage the breaches and collect the stolen data.",
+  "Among what the attacker stole: firewall databases, passwords, configuration files, and internal authority certificates — it even issued a new certificate inside one victim's environment and actually disabled security policies, meaning the protection itself was switched off.",
+  "The attacker exploited known flaws in other products to move around inside networks, including an authentication-bypass flaw in Check Point's own controller that grants administrator privileges, which the company had warned about in July as actively exploited.",
+  "Notably, researchers believe the attacker used AI-powered attack tools, based on the speed of exploitation, the automation, and the custom tools they observed — although the use of AI itself remains unconfirmed.",
+  "Simply put: when the management system that writes your firewalls' policies is breached, the attacker has not hacked a single device but the keys to your entire network; and when tools move at machine speed, slow patching becomes more dangerous than the flaw itself.",
+  "Do you trust that your security management systems are as updated and protected as the devices they manage?"
+ ]
+}

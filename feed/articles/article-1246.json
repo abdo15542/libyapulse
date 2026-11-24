@@ -1,0 +1,25 @@
+{
+ "id": 1246,
+ "slug": "article-1246",
+ "title": "🔓 Backdoor in 6 WordPress Plugins — Steals Passwords and Takes Over Websites!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-02.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CyberSecurity"
+ ],
+ "body": [
+  "🔓 Backdoor in 6 WordPress Plugins — Steals Passwords and Takes Over Websites!",
+  "Security researchers uncovered a deliberately planted backdoor in 6 popular WordPress plugins that gives an attacker full control over any site using them. The flaw was assigned CVE-2026-135202 and a severity score of 9.8 out of 10.",
+  "All six plugins come from the same publisher, WP Connect, and they connect WordPress to services such as Airtable, Notion, Brevo, and WooCommerce. Together they are used by more than 3,600 websites.",
+  "The backdoor works through a malicious file loaded with every request that reaches the site. It sends site data to a server controlled by the attacker, then runs any code that server sends, so it can execute system commands, read, edit, and delete files, access databases, and steal usernames and encrypted passwords, as well as plant a persistent backdoor in the uploads folder.",
+  "Worse still, the infected versions were pushed through the developer's own account in the WordPress repository within two hours on 22 November, apparently after his account was compromised — but new protections in the repository stopped the versions before they were distributed to sites, and no actual exploitation has been reported so far.",
+  "There is no fix for the infected plugins; all six versions were permanently closed in the repository, and the advice is clear: delete any plugin from this list immediately and scan your entire site for malware.",
+  "Simply put: the backdoor here is not a coding mistake but something an attacker planted deliberately; and when updates come from the developer's own account, verifying them becomes harder, so never put off removing a suspicious plugin, even for a single day.",
+  "Do you check your site's plugins regularly, or do you trust updates automatically?"
+ ]
+}

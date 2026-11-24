@@ -1,0 +1,26 @@
+{
+ "id": 1251,
+ "slug": "article-1251",
+ "title": "🖥️ ScreenConnect Flaw Hijacks IT Technicians' Computers — in Just 9 Seconds!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-07.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CyberSecurity"
+ ],
+ "body": [
+  "🖥️ ScreenConnect Flaw Hijacks IT Technicians' Computers — in Just 9 Seconds!",
+  "Attackers are exploiting a critical flaw in the remote support tool ScreenConnect to hijack the computers of technicians at IT service companies — an attack targeting the most valuable machine in the whole company.",
+  "The flaw, tracked as CVE-2026-84869 and rated 9.9 out of 10, lets a guest in a support session push a file onto the technician's computer and run it without any confirmation or warning, even though only the technician is supposed to decide what gets transferred and executed.",
+  "Security firm Hunters recorded more than 688,000 guest file-execution requests between October 20 and November 16, aimed at 42 servers from 29 IP addresses, and in one confirmed case on November 12, a technician's computer was breached in just 9 seconds.",
+  "In those nine seconds, the pushed file ran a script that reported the victim through a Telegram bot, then downloaded an installer disguised as a Windows update and launched a fake ScreenConnect client connecting to the attacker's server — giving the attacker a remote channel into the machine.",
+  "Worse still, a technician's computer usually holds remote-management dashboards, saved passwords and access to every client the company supports, so breaching it means reaching dozens of companies through a single door.",
+  "The flaw was fixed in the technician client in version 26.6.5 back in September, but the update has to reach every technician's computer individually, so many machines still run old versions, and related activity has been spotted on 118 servers at 109 organizations.",
+  "Simply put: the technician who fixes everyone's computers has become the target; when a guest can push a file that runs automatically, the attacker doesn't need to crack a password — the technician just has to join the session.",
+  "Have you updated the ScreenConnect client on your computer to the latest version?"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": 1260,
+ "slug": "article-1260",
+ "title": "🔑 Even after Microsoft shut it down… EvilTokens is still stealing Microsoft 365 accounts with a real sign-in code!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-06.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CyberSecurity"
+ ],
+ "body": [
+  "🔑 Even after Microsoft shut it down… EvilTokens is still stealing Microsoft 365 accounts with a real sign-in code!",
+  "Cybercriminals are still running phishing campaigns with the EvilTokens kit to steal Microsoft 365 accounts, even though Microsoft and its partners shut the service down on 22 September 2026 and London police arrested two men linked to it — a new report published on 24 November found new phishing hosts still appearing through October and November.",
+  "EvilTokens was a phishing-as-a-service kit sold through Telegram, linked to more than 12,000 compromised mailboxes in over 10,000 organisations. Its signature trick is that it doesn't fake a sign-in page: it abuses the device-code flow in the authentication system, showing the victim a short code valid for 15 minutes and asking them to enter it on Microsoft's real sign-in page, so the tokens reach the attacker without any password.",
+  "The lure page is usually wrapped as an Adobe, DocuSign, OneDrive or SharePoint document, and the attacker's server keeps checking the code's status until the victim approves it — then it receives access and refresh tokens. The stolen tokens are used to read email, create hidden inbox rules and register new devices for permanent access, and the kit's AI features help pick targets and write business email compromise messages.",
+  "The report's figures show confirmed hosts peaked at 237 in March and 200 in April, then fell to 4 in late September after the shutdown — but they climbed back to 25 in October, and a lure page examined on 28 October was still generating live device codes. Many of the new hosts have moved to the Banyan CDN network instead of Workers.dev domains.",
+  "The best defence is to disable the device-code flow entirely through a conditional access policy in Microsoft Entra ID, testing the policy in report-only mode first. Anyone who can't disable it should filter sign-in logs for the device-code protocol and revoke sessions and tokens immediately if a suspicious approval is spotted.",
+  "Simply put: the trick here doesn't steal your password — it gets you to hand over the key yourself, on the real page. Never enter a sign-in code you didn't request yourself, no matter how urgent the document looks.",
+  "Have your company's staff been trained not to approve codes they didn't request?"
+ ]
+}

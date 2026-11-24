@@ -1,0 +1,26 @@
+{
+ "id": 1264,
+ "slug": "article-1264",
+ "title": "🪪 150 million US driving licences for sale on the dark web — Congress summons identity-verification firms!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-10.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CyberSecurity"
+ ],
+ "body": [
+  "🪪 150 million US driving licences for sale on the dark web — Congress summons identity-verification firms!",
+  "Six US lawmakers from both parties sent an official letter on 24 November to identity-verification companies, led by IDScan, demanding they explain how they protect the ID photos they collect — after a massive breach whose traces surfaced on the dark web.",
+  "Last September, researchers discovered a dark-web identity-theft service called Nexus offering stolen personal data for sale, including more than 150 million US driving licences and around 600,000 medical cards, along with work permits, access cards for government facilities and travel documents — including data on senior military and intelligence officials.",
+  "Reports suggest the data leaked \"continuously\" over months from a breach at a major identity-verification company, and the FBI is currently investigating the source of the data. The Nexus service has since disappeared from the internet, but the consequences of the theft could last a long time, because stolen data can't be retrieved.",
+  "The problem runs deeper than one company: the journalist who first uncovered the breach found more than 24 identity-verification firms storing scanned ID photos by default, unless the customer pays to opt out of collection — meaning millions of IDs remain stored in the cloud after the verification process itself is over.",
+  "The lawmakers asked the companies to answer by 5 January 2027 specific questions: do they minimise the data they collect, retain and share? Do they sell the data or share it with third parties? What is their retention schedule? Is it stored in the cloud? What are their cybersecurity practices? And have they suffered an identity-related breach in the past year?",
+  "The letter warned that foreign adversaries can infer Americans' behaviour from commercial data linked to government documents, and that AI makes attacks more common and more damaging — calling for \"zero trust\" architectures, proactive vulnerability hunting and minimising exposure of personal data as much as possible.",
+  "Simply put: when you verify your identity with a photo of your licence, a copy of it may stay in the company's cloud forever. A breach doesn't steal one licence — it steals 150 million at once — and there is no \"undo\" button for data that has spread.",
+  "Do you know whether the services that verify your identity keep a photo of your ID after the check?"
+ ]
+}

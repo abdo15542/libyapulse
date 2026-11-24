@@ -1,0 +1,26 @@
+{
+ "id": 1263,
+ "slug": "article-1263",
+ "title": "⚖️ UK's Financial Conduct Authority warns: AI agents that move money need a licence — or face penalties!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-09.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "FinanceAI"
+ ],
+ "body": [
+  "⚖️ UK's Financial Conduct Authority warns: AI agents that move money need a licence — or face penalties!",
+  "The UK's Financial Conduct Authority warned financial firms and tech companies on 24 November that AI agents that move money, execute transactions or offer investment advice fall within the scope of financial regulation, and they must address their security risks or face regulatory action.",
+  "The regulator said these products could blur the line between regulated and unregulated activity, weakening the protection consumers get for their money and data, while banks are already using such agents to initiate transactions, transfer money and make investment decisions.",
+  "Agents with inadequate controls have been observed taking dangerous actions, such as accessing sensitive systems and data, even while pursuing legitimate goals — so the regulator called on the senior managers responsible for AI models to take \"reasonable steps\" to understand the risks and ensure effective oversight, governance and escalation.",
+  "The regulator also called on regulated institutions to consider their responsibility for accepting an agent's instructions, whether it is appropriate to accept payments ordered by an AI agent, and to help consumers understand the limits of the financial information and advice their models generate, through clear, proportionate and consistent disclaimers.",
+  "The regulator stressed that responsibility for regulatory compliance remains with senior managers and the firm as a whole, whether they deploy the agents themselves or rely on an external provider, and that it will assess services delivered through agent products as they evolve. Breaching the requirements — including data-protection laws — can lead to financial penalties, bans on individuals from regulated activity, public censure and prosecution.",
+  "The regulator also welcomed early engagement from firms deploying AI agents and offered support services, including testing whether these tools meet regulatory requirements.",
+  "Simply put: an AI agent that moves your money isn't \"just software\" in the eyes of the law. Whoever lets it loose without controls carries full responsibility, and calling yourself a \"tech company\" doesn't exempt you from licensing.",
+  "Would you trust an AI agent to move your money for you?"
+ ]
+}

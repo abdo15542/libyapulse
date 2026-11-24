@@ -1,0 +1,26 @@
+{
+ "id": 1249,
+ "slug": "article-1249",
+ "title": "💻 Broadcom Patches 23 VMware Flaws — Three of Them Score 9.8 out of 10!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-05.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CyberSecurity"
+ ],
+ "body": [
+  "💻 Broadcom Patches 23 VMware Flaws — Three of Them Score 9.8 out of 10!",
+  "Broadcom announced a major patch package for VMware products, fixing 23 security flaws, including 4 critical ones — three of them with a severity score of 9.8 out of 10, nearly the highest possible.",
+  "The most dangerous flaw is a new authentication bypass in the directory service of the vCenter platform, assigned CVE-2026-123903. It lets an attacker who can reach the network bypass login and access the system without a password.",
+  "The company itself confirmed that this flaw is completely different from a similar one it patched just 5 days earlier, CVE-2026-123890, which a spy group suspected of links to China has been exploiting since last September.",
+  "The other two critical flaws hit the Input/Output filtering service in the ESXi system and let an attacker who can reach the host run code directly on it, along with a fourth flaw scoring 9.3 in the virtual USB controller.",
+  "The package also includes fixes for Avi Load Balancer, Workstation, Fusion, and VMware Tools, with an important warning: fixes for the ESXi system version 9.0 are still pending, so anyone using it should restrict access to the management interfaces until the fix is released.",
+  "Broadcom mentioned no actual exploitation of these new flaws, but the history of the previous flaw is a reminder that attackers do not wait long.",
+  "Simply put: a single authentication-bypass flaw in vCenter could open every virtual machine it manages; the platform that runs everything is itself the most dangerous target, and updating it is not an option but a priority.",
+  "Are your virtual machines updated with the latest VMware fixes?"
+ ]
+}

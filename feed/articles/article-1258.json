@@ -1,0 +1,25 @@
+{
+ "id": 1258,
+ "slug": "article-1258",
+ "title": "🕸️ 'Webworm' Rebuilds a Legitimate VPN Program to Hide Inside Government Networks!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-04.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CyberSecurity"
+ ],
+ "body": [
+  "🕸️ 'Webworm' Rebuilds a Legitimate VPN Program to Hide Inside Government Networks!",
+  "Security researchers have found that the China-linked group 'Webworm' uses a modified version of the open-source SoftEther VPN tool to establish hidden access to breached networks, after rebuilding the tool from its source code and wiping its known fingerprints.",
+  "The findings center on an executable file named 'NetKappa.exe,' a modified version of the SoftEther VPN bridge version 4.44, renamed to 'NT Monitor VPN' and presented as a network-monitoring program from a fake company called 'Network Systems Solutions' — even though its internal file paths still point to the original SoftEther code.",
+  "Among the most notable changes: the usual endpoints were replaced with innocent-looking addresses like '/update/alive.cgi' and '/update/picture.cgi,' so the traffic looks like updates or image uploads; the watermark in the handshake was swapped from GIF to PNG format to bypass signatures based on the old mark; the resource archive was embedded inside the executable itself, adding about 1.5 MB to its size; and the config file was renamed to 'setting.conf' and encrypted with a method whose bytes begin with the letters 'RCEIN.'",
+  "Strikingly, the attackers added no new functionality to the tool at all; the whole goal was stealth — they systematically analyzed every point that could expose the tool and closed them one by one, in a blend of custom malware and legitimate dual-use tools.",
+  "The sample is attributed to Webworm with medium confidence. The group was first described publicly in September 2022 and has targeted government entities, tech services, and power companies in Russia, Georgia, Mongolia, and other Asian countries, and the sample was uploaded to VirusTotal in mid-January 2026.",
+  "Simply put: when a legitimate program is rebuilt from its source to hide its identity, the question is no longer 'Is this file malicious?' but 'Should this program be here at all?' — the displayed name can lie; the function is the truth.",
+  "Do you regularly review the list of programs installed on your devices?"
+ ]
+}

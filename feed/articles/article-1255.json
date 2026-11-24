@@ -1,0 +1,25 @@
+{
+ "id": 1255,
+ "slug": "article-1255",
+ "title": "🔍 New Spy Group 'Volant Manticore' Hides in a File-Sharing Network — Targeting Airlines and Hospitals!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-01.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CyberSecurity"
+ ],
+ "body": [
+  "🔍 New Spy Group 'Volant Manticore' Hides in a File-Sharing Network — Targeting Airlines and Hospitals!",
+  "Security researchers have uncovered a previously undocumented Iranian cyber-espionage group called 'Volant Manticore,' believed to be made up of former operators of the well-known 'MuddyWater' group who broke away and now operate independently. It has been active since late August 2025.",
+  "The group targets telecom and aviation companies and critical infrastructure in Cyprus, then in September 2026 suddenly turned its attention to healthcare institutions in Saudi Arabia, at a time coinciding with rising tensions in the region. Among its targets is a Cypriot airline operating flights between Cyprus and Israel.",
+  "Its attack relies on a new backdoor called 'Kubo Shell' that uses the decentralized file-sharing system IPFS as its control channel: the infected device registers itself using its network card address, then checks a command file on Pinata every 60 seconds and executes whatever it contains through a hidden PowerShell window, making it hard to trace because it never contacts an attacker's server directly.",
+  "The attacks usually begin with AI-generated fake CVs inviting the victim to download the full résumé from a link that hides a malicious file, or with compressed files carrying health-themed titles like 'AI in Healthcare Symposium,' some of which were sent from a compromised account belonging to a private Saudi hospital.",
+  "Alongside the backdoor, the group deploys the 'Huma' post-exploitation framework and legitimate remote-management tools such as 'MeshCentral' to stay inside the network, as well as campaigns to steal email login credentials and corporate accounts.",
+  "Simply put: when a public file-sharing network becomes an attacker's command channel, malicious traffic hides in plain sight among ordinary traffic; and a fake CV can be more dangerous than any suspicious attachment.",
+  "Do you open CV attachments from senders you don't know?"
+ ]
+}

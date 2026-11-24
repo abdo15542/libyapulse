@@ -1,0 +1,26 @@
+{
+ "id": 1254,
+ "slug": "article-1254",
+ "title": "🌐 Urgent Chrome Update — a Critical Flaw Could Let Code Escape the Browser!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-10.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CyberSecurity"
+ ],
+ "body": [
+  "🌐 Urgent Chrome Update — a Critical Flaw Could Let Code Escape the Browser!",
+  "Google has released an urgent security update for Chrome that fixes a critical flaw which could let a malicious web page run code outside the sandbox that isolates the browser from the rest of the device.",
+  "The flaw, tracked as CVE-2026-134401, is described by Google as improper input validation in the Variations component — the experiments system Chrome uses to test new features on users.",
+  "The danger here is specifically that the flaw could break the sandbox, the wall that is supposed to stop any code inside a web page from reaching your device's files or programs — so a single malicious page could be enough to get beyond the browser.",
+  "The flaw was reported internally at Google on August 28, and the company has not mentioned any real-world exploitation so far, but its severity prompted an emergency fix about 3 months after the report.",
+  "The fixed versions are 158.0.8127.88 or 158.0.8127.89 on Windows and Mac, 158.0.8127.88 on Linux, 158.0.8127.92 on Android, and 156.0.8078.114 for the extended stable channel in enterprises.",
+  "One important warning: the update alone is not enough — protection only starts after restarting the browser, and many people put off restarting for weeks while believing they are protected.",
+  "Simply put: your browser relies on a sandbox separating it from your device, and a single flaw could break that wall; so when Chrome asks you to restart after an update, don't put it off — it is part of the fix itself.",
+  "Have you restarted your browser after the latest security update?"
+ ]
+}

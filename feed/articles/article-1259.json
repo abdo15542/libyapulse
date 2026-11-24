@@ -1,0 +1,25 @@
+{
+ "id": 1259,
+ "slug": "article-1259",
+ "title": "🖥️ New 'ZQ Agent' Backdoor Hides in Linux Servers — and AI Plants It on Human Orders!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-05.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CyberSecurity"
+ ],
+ "body": [
+  "🖥️ New 'ZQ Agent' Backdoor Hides in Linux Servers — and AI Plants It on Human Orders!",
+  "Security analysts have discovered a new Linux backdoor called 'ZQ Agent' that gives attackers a permanent foothold in compromised servers, found while responding to an incident in Belgium, with similar samples also reported in Taiwan.",
+  "The strange part is that the backdoor was planted by 'Artex,' an AI-powered multi-agent attack framework; AI-powered tool attacks are usually fast — stealing passwords and leaving — whereas planting a permanent backdoor for long-term persistence is unusual behavior, and analysts believe it came from a human operator's instructions rather than the tool's own decision.",
+  "'ZQ Agent' hides cleverly: it copies itself to a temporary file held only in memory, so it shows up in the process list as 'memfd:a (deleted),' then restarts itself as a separate process impersonating the 'dbus-daemon' tool and its command line, looking to a quick glance like an ordinary system process.",
+  "The backdoor protects its settings with encryption so they only open when needed, encrypts its network traffic in several layers including ChaCha20, executes commands, browses, copies, and deletes files, opens interactive shells and network tunnels, and even runs programs straight from memory without writing them to disk.",
+  "It survives reboots through a system service described as a 'hardware event log server' that restarts itself every 30 seconds if stopped, and through a scheduled task at boot; it also changes its files' timestamps to make cleanup harder, and it contacts a control server via a specific IP address and domain that analysts linked to a group tracked as 'FOG-0003,' believed to have used it in Asia against government entities and human rights organizations.",
+  "Simply put: AI can now plant permanent backdoors too, not just steal passwords; and a process that looks 'ordinary' in the process list may be the breach itself.",
+  "Do you check your servers' processes for familiar names with strange behavior?"
+ ]
+}

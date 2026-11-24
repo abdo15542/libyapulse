@@ -1,7 +1,207 @@
 {
- "count": 1244,
- "generated": "2026-11-24T20:32:48.241779Z",
+ "count": 1264,
+ "generated": "2026-11-24T22:33:06.190236Z",
  "articles": [
+  {
+   "id": 1264,
+   "slug": "article-1264",
+   "title": "🪪 150 million US driving licences for sale on the dark web — Congress summons identity-verification firms!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1263,
+   "slug": "article-1263",
+   "title": "⚖️ UK's Financial Conduct Authority warns: AI agents that move money need a licence — or face penalties!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1262,
+   "slug": "article-1262",
+   "title": "🧩 A fake extension posing as Google Chrome steals passwords and spies through the webcam!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1261,
+   "slug": "article-1261",
+   "title": "🎮 GTA 6's first update didn't fix the crash — PlayStation 5 players are still being thrown back to the home screen!",
+   "date": "2026-11-24",
+   "category": "science",
+   "category_name": "Science & Innovation",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1260,
+   "slug": "article-1260",
+   "title": "🔑 Even after Microsoft shut it down… EvilTokens is still stealing Microsoft 365 accounts with a real sign-in code!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1259,
+   "slug": "article-1259",
+   "title": "🖥️ New 'ZQ Agent' Backdoor Hides in Linux Servers — and AI Plants It on Human Orders!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1258,
+   "slug": "article-1258",
+   "title": "🕸️ 'Webworm' Rebuilds a Legitimate VPN Program to Hide Inside Government Networks!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1257,
+   "slug": "article-1257",
+   "title": "💻 One Bit Flips Security Upside Down — How Did a Google Researcher Bypass Windows and VirtualBox Protections Together?",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1256,
+   "slug": "article-1256",
+   "title": "🔓 WHMCS Flaw Exposes Customer Data and Admin Passwords — Without Even Logging In!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1255,
+   "slug": "article-1255",
+   "title": "🔍 New Spy Group 'Volant Manticore' Hides in a File-Sharing Network — Targeting Airlines and Hospitals!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-01.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1254,
+   "slug": "article-1254",
+   "title": "🌐 Urgent Chrome Update — a Critical Flaw Could Let Code Escape the Browser!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1253,
+   "slug": "article-1253",
+   "title": "💻 Huawei Unveils the MateBook Fold S — a Foldable Laptop with Three Screens!",
+   "date": "2026-11-24",
+   "category": "computing",
+   "category_name": "Computing & Programming",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1252,
+   "slug": "article-1252",
+   "title": "📺 European Police Shut Down 57 Illegal Streaming Services — and Trace €26 Million in Crypto!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1251,
+   "slug": "article-1251",
+   "title": "🖥️ ScreenConnect Flaw Hijacks IT Technicians' Computers — in Just 9 Seconds!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1250,
+   "slug": "article-1250",
+   "title": "🏛️ Hack Hits the Carnegie Endowment — Donor Data Leaked Through an Outside Vendor!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1249,
+   "slug": "article-1249",
+   "title": "💻 Broadcom Patches 23 VMware Flaws — Three of Them Score 9.8 out of 10!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1248,
+   "slug": "article-1248",
+   "title": "🤖 “GT13” Campaign Breaches Check Point Servers at 22 Organizations — and AI Is at the Heart of the Attack!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1247,
+   "slug": "article-1247",
+   "title": "🔥 Two Critical Flaws in Palo Alto Firewalls — Code Execution Without a Password!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1246,
+   "slug": "article-1246",
+   "title": "🔓 Backdoor in 6 WordPress Plugins — Steals Passwords and Takes Over Websites!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1245,
+   "slug": "article-1245",
+   "title": "🕵️ Breach Hits the CIA and the Office of the Director of National Intelligence — Unclassified Information Exposed!",
+   "date": "2026-11-24",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1244,
    "slug": "article-1244",

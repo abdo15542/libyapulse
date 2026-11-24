@@ -1,0 +1,25 @@
+{
+ "id": 1261,
+ "slug": "article-1261",
+ "title": "🎮 GTA 6's first update didn't fix the crash — PlayStation 5 players are still being thrown back to the home screen!",
+ "date": "2026-11-24",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-07.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Gaming"
+ ],
+ "body": [
+  "🎮 GTA 6's first update didn't fix the crash — PlayStation 5 players are still being thrown back to the home screen!",
+  "PlayStation 5 players of GTA 6 are still suffering a crash that throws the game out to the home screen with error code CE-108255-1, even after the first post-launch update — according to player reports published on 24 November.",
+  "The error usually appears minutes into a game, sometimes right after the opening scene or after about 40 minutes, and players say clearing the cache, rebuilding the database, reinstalling the game and restoring licences all fail to stop it coming back. Some also report losing hours of progress despite autosave.",
+  "Rockstar released update 01.002.002 on 23 November, around 603 MB on PlayStation 5, fixing several crashes and an autosave issue — but its patch notes made no mention of this code in particular, and players report the error still happening after installing it. The company has not announced a cause for the crash or a date for a fix, and it has not updated its error guidance page since 18 November.",
+  "The code itself isn't specific to this game; it's Sony's general code meaning a game has crashed or failed to launch, and it has appeared in other games at launch. Sony officially recommends updating the game first and making sure the latest PlayStation 5 system update is installed — the game requires system version 26.07-14.23.00.",
+  "While players wait for an official fix, experts advise saving manually, repeatedly and in more than one slot, since the crash can wipe everything after the last save — and reporting to Rockstar support with the console type, game version and where the crash happens, since the company fixes what it can reproduce.",
+  "Simply put: the biggest launch in gaming history is still stumbling for some players over a generic error with no announced cause. The first update fixed other crashes but didn't touch this one, so manual saving is your lifeline until further notice.",
+  "Have you hit this error in GTA 6, or have you played it without any trouble?"
+ ]
+}

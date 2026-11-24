@@ -1,0 +1,25 @@
+{
+ "id": 1256,
+ "slug": "article-1256",
+ "title": "🔓 WHMCS Flaw Exposes Customer Data and Admin Passwords — Without Even Logging In!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-02.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CyberSecurity"
+ ],
+ "body": [
+  "🔓 WHMCS Flaw Exposes Customer Data and Admin Passwords — Without Even Logging In!",
+  "WHMCS, the billing and customer-management platform that thousands of hosting companies rely on, has disclosed a serious flaw in its shopping cart that lets anyone on the internet pull customer records and administrators' encrypted passwords from the database, with no account or login needed.",
+  "The flaw, CVE-2026-82981, rated 8.7 out of 10, is a database injection reachable by anyone who can open a shopping cart in an affected version. Among what can be extracted are customers' personal data, support ticket information, and admin account records with their encrypted passwords, which can then be cracked offline.",
+  "The flaw was disclosed on 23 November alongside two others reported by the same researcher: the first, CVE-2026-82979, rated 7.1, sits in the client area and requires a registered client with permission to manage contacts; the second, CVE-2026-93700, rated 9.0, sits in email campaigns and allows reading sensitive configuration files on the server, including database credentials, and executing code on it.",
+  "The company issued fixes in versions 9.0.10, 8.13.8, and 9.1.2, with an important warning: there are no fixes for versions 8.0 to 8.12, so users of those must upgrade to a supported version. Cloud customers' copies are updated automatically, while administrators of self-hosted copies must apply the update themselves.",
+  "The company has not reported any actual exploitation of the three flaws so far, but it advised email-campaign administrators to delete all scheduled and running campaigns and clear the template cache after updating — this is at least the company's third round of security fixes this year.",
+  "Simply put: a flaw that needs no login means the door is open to everyone; and a stolen encrypted password is not safe forever, only a matter of time before it's cracked — so updating immediately is the only fix.",
+  "Do you know whether your website's host uses this platform and has updated it?"
+ ]
+}

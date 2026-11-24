@@ -1,0 +1,25 @@
+{
+ "id": 1247,
+ "slug": "article-1247",
+ "title": "🔥 Two Critical Flaws in Palo Alto Firewalls — Code Execution Without a Password!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r306-w306-03.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CyberSecurity"
+ ],
+ "body": [
+  "🔥 Two Critical Flaws in Palo Alto Firewalls — Code Execution Without a Password!",
+  "Palo Alto Networks disclosed two critical vulnerabilities in its PAN-OS firewalls and its Panorama management system that could let an attacker with no account run code remotely or knock the service offline. They scored 9.2 out of 10.",
+  "The two flaws are part of a set of vulnerabilities discovered in the widely used NGINX web server software, which researchers dubbed “NGINX2Root.” The set includes five flaws, each of which could lead to unauthenticated remote code execution.",
+  "The first is a memory-management flaw when routing requests, and the second is an arithmetic error in controlling data flow over the HTTP/2 protocol. Either one could let an attacker crash the server process or run its code with that process's privileges.",
+  "But the risk is limited by precise conditions: the flaws only affect devices that have enabled the HTTP/2 option in the management interface, an option that is disabled by default and has existed since version 11.2.8. The company has reported no actual exploitation so far, although a public proof of concept for one of the flaws is circulating.",
+  "The company released urgent fixes for the affected versions and advised anyone who cannot update immediately to disable HTTP/2 and fall back to HTTP/1.1.",
+  "Simply put: your firewall itself can become the door; a flaw in a widely used program like NGINX spreads to every product that uses it, and checking a small option like HTTP/2 can be the difference between security and a breach.",
+  "Do you know whether your firewall uses HTTP/2 or not?"
+ ]
+}

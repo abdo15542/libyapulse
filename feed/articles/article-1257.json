@@ -1,0 +1,25 @@
+{
+ "id": 1257,
+ "slug": "article-1257",
+ "title": "💻 One Bit Flips Security Upside Down — How Did a Google Researcher Bypass Windows and VirtualBox Protections Together?",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r307-w307-03.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CyberSecurity"
+ ],
+ "body": [
+  "💻 One Bit Flips Security Upside Down — How Did a Google Researcher Bypass Windows and VirtualBox Protections Together?",
+  "A researcher on Google's Project Zero team showed that changing a single bit in a .NET program file is enough to bypass two separate Windows protections designed to block untrusted code from running — a discovery that exposes a single flaw in how programs are loaded.",
+  "The trick revolves around fallback behavior in .NET Framework 4: when loading a program file fails in the normal way as an executable image, the framework runs a plain copy of the file in memory, and that copy skips the image checks that a normally loaded program goes through.",
+  "The researcher exploited that against VirtualBox's process hardening on Windows, which watches file-loading calls in its virtual machine processes but rejects all .NET files built as 'Any CPU,' pushing them down the unchecked path; he then used COM object hijacking to get the file loaded while a virtual machine was running. That flaw is known as CVE-2026-87268, rated 7.8, and Oracle fixed it in September.",
+  "The same idea worked against Windows' own code integrity checks: clearing a single bit in the file header — the 'IMAGE_FILE_EXECUTABLE_IMAGE' flag — made the system call reject the file while .NET ran it anyway, and the researcher tried it on Windows 11 in S Mode, which restricts allowed programs, and the load succeeded despite the policy being on. That flaw is CVE-2026-108398, rated 8.8, and Microsoft fixed it on 13 October.",
+  "Most alarmingly, the researcher used the same method to reach Protected Process Light processes — the highest level of protection in Windows, which even programs with admin privileges cannot enter — through a COM object loaded by the 'Wear Secure Vault' program. He says the October fix corrects the policy check but does not change loading in protected processes, so he believes that path is still open.",
+  "Simply put: the protection here rested on a single assumption shared by two systems, so when one bit broke it, both fell together; the lesson is that each layer of protection must check for itself rather than trust another.",
+  "Have you updated VirtualBox and Windows on your machine to the latest October fixes?"
+ ]
+}
