@@ -4,27 +4,27 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
-<title>🖼️ &quot;Bubble Loader&quot; turns your trusted programs into a carrier for malware — with just two images! | Libya Pulse</title>
+<title>🖼️ &quot;Bubble Loader&quot; turns your trusted programs into a carrier for malware — with just two images! | TechPulse</title>
 <meta name="description" content="🖼️ &quot;Bubble Loader&quot; turns your trusted programs into a carrier for malware — with just two images! Security researchers have spotted a new piece of malware called &quot;Bubble Loader&quot; that hijacks famous, trusted programs su…">
-<link rel="canonical" href="https://abdo15542.github.io/libyapulse/articles/article-679.html">
-<meta property="og:site_name" content="Libya Pulse">
-<meta property="og:title" content="🖼️ &quot;Bubble Loader&quot; turns your trusted programs into a carrier for malware — with just two images! | Libya Pulse">
+<link rel="canonical" href="https://abdo15542.github.io/techpulse/articles/article-679.html">
+<meta property="og:site_name" content="TechPulse">
+<meta property="og:title" content="🖼️ &quot;Bubble Loader&quot; turns your trusted programs into a carrier for malware — with just two images! | TechPulse">
 <meta property="og:description" content="🖼️ &quot;Bubble Loader&quot; turns your trusted programs into a carrier for malware — with just two images! Security researchers have spotted a new piece of malware called &quot;Bubble Loader&quot; that hijacks famous, trusted programs su…">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://abdo15542.github.io/libyapulse/articles/article-679.html">
+<meta property="og:url" content="https://abdo15542.github.io/techpulse/articles/article-679.html">
 <meta property="og:image" content="https://abdo15542.github.io/wamdalibya/images/r179-w179-03.jpg">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" type="image/png" href="https://abdo15542.github.io/wamdalibya/assets/logo.png">
+<link rel="icon" type="image/png" href="https://abdo15542.github.io/techpulse/assets/techpulse-logo.png">
 <link rel="stylesheet" href="../assets/style.css">
 <link rel="manifest" href="../manifest.json">
-<meta name="theme-color" content="#0b1e3a">
-<link rel="apple-touch-icon" href="https://abdo15542.github.io/wamdalibya/assets/apple-touch-icon.png">
+<meta name="theme-color" content="#0B2B33">
+<link rel="apple-touch-icon" href="https://abdo15542.github.io/techpulse/assets/techpulse-logo.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="Libya Pulse">
+<meta name="apple-mobile-web-app-title" content="TechPulse">
 
-<script>if (/WamdaApp/.test(navigator.userAgent)) document.documentElement.classList.add('wamda-app');</script>
+<script>if (/(WamdaApp|TechPulseApp)/.test(navigator.userAgent)) document.documentElement.classList.add('wamda-app');</script>
 <style>.wamda-app .adsbygoogle, .wamda-app ins.adsbygoogle, .wamda-app .ad-slot { display:none !important; }</style>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6317687886565811" crossorigin="anonymous"></script>
 <script>
@@ -39,8 +39,8 @@ window.addEventListener('load', function () {
 <header class="site-header">
   <div class="container header-inner">
     <a class="brand" href="../index.html">
-      <img src="https://abdo15542.github.io/wamdalibya/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
-      <span class="brand-text"><strong>Libya Pulse</strong><small>Tech news from Libya to the world</small></span>
+      <img src="https://abdo15542.github.io/techpulse/assets/techpulse-logo.png" alt="TechPulse logo" class="logo" width="48" height="48">
+      <span class="brand-text"><strong>TechPulse</strong><small>Tech, AI & news, as it happens</small></span>
     </a>
     <button class="menu-toggle" id="menuToggle" aria-label="Menu" aria-expanded="false">☰</button>
     <nav class="main-nav" id="mainNav"><a href="../index.html">Home</a><a href="../about.html">About</a><a href="../contact.html">Contact</a><a href="../privacy-policy.html">Privacy Policy</a><a href="../announcements.html">📢 Announcements</a></nav>
@@ -53,27 +53,27 @@ window.addEventListener('load', function () {
   <article>
     <a class="badge" href="../categories/security.html">Cybersecurity</a>
     <h1>🖼️ &quot;Bubble Loader&quot; turns your trusted programs into a carrier for malware — with just two images!</h1>
-    <p class="article-meta"><time datetime="2026-11-21">21 November 2026</time> · Website · Libya Pulse</p>
+    <p class="article-meta"><time datetime="2026-11-21">21 November 2026</time> · Website · TechPulse</p>
     <figure><img src="https://abdo15542.github.io/wamdalibya/images/r179-w179-03.jpg" alt="🖼️ &quot;Bubble Loader&quot; turns your trusted programs into a carrier for malware — with just two images!" width="1200" height="675"></figure>
     <div class="article-body"><p>Security researchers have spotted a new piece of malware called &quot;Bubble Loader&quot; that hijacks famous, trusted programs such as WinRAR, Windows Media Player and x64dbg, changing their entry point and adding two images to them, so the programs themselves become a way to deliver other malware.</p><p>The trick is cunning: the first image is harmless and provides a changing digital key, while the second image is fake and hides inside it a small code and an encrypted third stage. When the hijacked program runs, the code unpacks the third stage, which in turn unpacks the final payload and loads it directly into memory without writing files to disk, with tricks to confuse analysis programs.</p><p>&quot;Reflective loading&quot; means running the malware inside the computer&#x27;s memory without saving it as a file, which makes it harder for protection programs to detect. The first samples of Bubble Loader appeared in February 2026, with new activity spotted in September and October, and the final payload varies by campaign — meaning the malware is a delivery tool that can carry any other malware, from ransomware to data stealers.</p><div class="ad-slot ad-rectangle" data-ad-slot="article-mid" data-ad-format="rectangle" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div><p>The lesson here is that danger may come from a program you trust and use every day, not from a strange file — scanning alone may not be enough when malicious code hides inside an image that looks completely ordinary.</p><p>Simply put: two images inside a trusted program are enough to open a back door in your device without you noticing. Do you check your programs even when they come from sources you know?</p></div>
-    <div class="tags"><a class="chip" href="../index.html">#LibyaPulse</a><a class="chip" href="../index.html">#TechNews</a><a class="chip" href="../index.html">#Cybersecurity</a></div>
+    <div class="tags"><a class="chip" href="../index.html">#TechPulse</a><a class="chip" href="../index.html">#TechNews</a><a class="chip" href="../index.html">#Cybersecurity</a></div>
     <div class="share">
       <span>Share this story:</span>
-      <a href="https://wa.me/?text=%F0%9F%96%BC%EF%B8%8F%20%22Bubble%20Loader%22%20turns%20your%20trusted%20programs%20into%20a%20carrier%20for%20malware%20%E2%80%94%20with%20just%20two%20images%21%20https%3A//abdo15542.github.io/libyapulse/articles/article-679.html" target="_blank" rel="noopener" class="btn">WhatsApp</a>
-      <a href="https://twitter.com/intent/tweet?text=%F0%9F%96%BC%EF%B8%8F%20%22Bubble%20Loader%22%20turns%20your%20trusted%20programs%20into%20a%20carrier%20for%20malware%20%E2%80%94%20with%20just%20two%20images%21%20https%3A//abdo15542.github.io/libyapulse/articles/article-679.html&url=https%3A//abdo15542.github.io/libyapulse/articles/article-679.html" target="_blank" rel="noopener" class="btn">X</a>
-      <button class="btn" id="copyLinkBtn" data-url="https://abdo15542.github.io/libyapulse/articles/article-679.html">Copy link</button>
+      <a href="https://wa.me/?text=%F0%9F%96%BC%EF%B8%8F%20%22Bubble%20Loader%22%20turns%20your%20trusted%20programs%20into%20a%20carrier%20for%20malware%20%E2%80%94%20with%20just%20two%20images%21%20https%3A//abdo15542.github.io/techpulse/articles/article-679.html" target="_blank" rel="noopener" class="btn">WhatsApp</a>
+      <a href="https://twitter.com/intent/tweet?text=%F0%9F%96%BC%EF%B8%8F%20%22Bubble%20Loader%22%20turns%20your%20trusted%20programs%20into%20a%20carrier%20for%20malware%20%E2%80%94%20with%20just%20two%20images%21%20https%3A//abdo15542.github.io/techpulse/articles/article-679.html&url=https%3A//abdo15542.github.io/techpulse/articles/article-679.html" target="_blank" rel="noopener" class="btn">X</a>
+      <button class="btn" id="copyLinkBtn" data-url="https://abdo15542.github.io/techpulse/articles/article-679.html">Copy link</button>
     </div>
   </article>
   <div class="ad-slot ad-horizontal" data-ad-slot="header-leaderboard" data-ad-format="horizontal" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div>
   <nav class="prev-next"><a class="prev" href="article-678.html">← Previous: 🔓 A British test breaks the protection of GPT-6.2 before its launch — </a><a class="next" href="article-680.html">Next: 💰 Ransom over $500 million — a suspect who targeted American schools a →</a></nav>
 </div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🖼️ \"Bubble Loader\" turns your trusted programs into a carrier for malware — with just two images!", "inLanguage": "en", "datePublished": "2026-11-21", "dateModified": "2026-11-21", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://abdo15542.github.io/wamdalibya/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-679.html", "image": "https://abdo15542.github.io/wamdalibya/images/r179-w179-03.jpg", "articleSection": "Cybersecurity"}</script></main>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🖼️ \"Bubble Loader\" turns your trusted programs into a carrier for malware — with just two images!", "inLanguage": "en", "datePublished": "2026-11-21", "dateModified": "2026-11-21", "author": {"@type": "Organization", "name": "TechPulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "TechPulse", "logo": {"@type": "ImageObject", "url": "https://abdo15542.github.io/techpulse/assets/techpulse-logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/techpulse/articles/article-679.html", "image": "https://abdo15542.github.io/wamdalibya/images/r179-w179-03.jpg", "articleSection": "Cybersecurity"}</script></main>
 <footer class="site-footer">
   <div class="container footer-grid">
     <div>
-      <h3>Libya Pulse</h3>
-      <p>A general tech page from Libya to the whole world: news, explainers, apps, and artificial intelligence — in clear, simple English.</p>
-      <p><a class="btn btn-gold" href="https://www.facebook.com/profile.php?id=61596701491859" target="_blank" rel="noopener">Follow us on Facebook</a></p>
+      <h3>TechPulse</h3>
+      <p>Tech, AI and news from around the world — verified, explained simply, updated around the clock.</p>
+      <p><a class="btn btn-cyan" href="https://www.facebook.com/profile.php?id=61596701491859" target="_blank" rel="noopener">Follow us on Facebook</a></p>
     </div>
     <div>
       <h3>Categories</h3>
@@ -91,7 +91,7 @@ window.addEventListener('load', function () {
       <p>Email: <a href="mailto:mybook9191@gmail.com">mybook9191@gmail.com</a></p>
     </div>
   </div>
-  <div class="copyright">© 2026 Libya Pulse — All rights reserved.</div>
+  <div class="copyright">© 2026 TechPulse — All rights reserved.</div>
 </footer>
 <script src="../assets/site.js" defer></script>
 </body>

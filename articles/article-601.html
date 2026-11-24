@@ -4,27 +4,27 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
-<title>🐍 Malicious copies sneak into Microsoft&#x27;s developer tool — and silently steal cloud keys! | Libya Pulse</title>
+<title>🐍 Malicious copies sneak into Microsoft&#x27;s developer tool — and silently steal cloud keys! | TechPulse</title>
 <meta name="description" content="🐍 Malicious copies sneak into Microsoft&#x27;s developer tool — and silently steal cloud keys! A security investigation revealed that two malicious versions sneaked into Microsoft&#x27;s &quot;Agent Framework&quot; tool, which dev…">
-<link rel="canonical" href="https://abdo15542.github.io/libyapulse/articles/article-601.html">
-<meta property="og:site_name" content="Libya Pulse">
-<meta property="og:title" content="🐍 Malicious copies sneak into Microsoft&#x27;s developer tool — and silently steal cloud keys! | Libya Pulse">
+<link rel="canonical" href="https://abdo15542.github.io/techpulse/articles/article-601.html">
+<meta property="og:site_name" content="TechPulse">
+<meta property="og:title" content="🐍 Malicious copies sneak into Microsoft&#x27;s developer tool — and silently steal cloud keys! | TechPulse">
 <meta property="og:description" content="🐍 Malicious copies sneak into Microsoft&#x27;s developer tool — and silently steal cloud keys! A security investigation revealed that two malicious versions sneaked into Microsoft&#x27;s &quot;Agent Framework&quot; tool, which dev…">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://abdo15542.github.io/libyapulse/articles/article-601.html">
+<meta property="og:url" content="https://abdo15542.github.io/techpulse/articles/article-601.html">
 <meta property="og:image" content="https://abdo15542.github.io/wamdalibya/images/r157-w157-02.jpg">
 <meta property="og:locale" content="en_US">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="icon" type="image/png" href="https://abdo15542.github.io/wamdalibya/assets/logo.png">
+<link rel="icon" type="image/png" href="https://abdo15542.github.io/techpulse/assets/techpulse-logo.png">
 <link rel="stylesheet" href="../assets/style.css">
 <link rel="manifest" href="../manifest.json">
-<meta name="theme-color" content="#0b1e3a">
-<link rel="apple-touch-icon" href="https://abdo15542.github.io/wamdalibya/assets/apple-touch-icon.png">
+<meta name="theme-color" content="#0B2B33">
+<link rel="apple-touch-icon" href="https://abdo15542.github.io/techpulse/assets/techpulse-logo.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="Libya Pulse">
+<meta name="apple-mobile-web-app-title" content="TechPulse">
 
-<script>if (/WamdaApp/.test(navigator.userAgent)) document.documentElement.classList.add('wamda-app');</script>
+<script>if (/(WamdaApp|TechPulseApp)/.test(navigator.userAgent)) document.documentElement.classList.add('wamda-app');</script>
 <style>.wamda-app .adsbygoogle, .wamda-app ins.adsbygoogle, .wamda-app .ad-slot { display:none !important; }</style>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6317687886565811" crossorigin="anonymous"></script>
 <script>
@@ -39,8 +39,8 @@ window.addEventListener('load', function () {
 <header class="site-header">
   <div class="container header-inner">
     <a class="brand" href="../index.html">
-      <img src="https://abdo15542.github.io/wamdalibya/assets/logo.png" alt="Libya Pulse logo" class="logo" width="48" height="48">
-      <span class="brand-text"><strong>Libya Pulse</strong><small>Tech news from Libya to the world</small></span>
+      <img src="https://abdo15542.github.io/techpulse/assets/techpulse-logo.png" alt="TechPulse logo" class="logo" width="48" height="48">
+      <span class="brand-text"><strong>TechPulse</strong><small>Tech, AI & news, as it happens</small></span>
     </a>
     <button class="menu-toggle" id="menuToggle" aria-label="Menu" aria-expanded="false">☰</button>
     <nav class="main-nav" id="mainNav"><a href="../index.html">Home</a><a href="../about.html">About</a><a href="../contact.html">Contact</a><a href="../privacy-policy.html">Privacy Policy</a><a href="../announcements.html">📢 Announcements</a></nav>
@@ -53,27 +53,27 @@ window.addEventListener('load', function () {
   <article>
     <a class="badge" href="../categories/computing.html">Computing & Programming</a>
     <h1>🐍 Malicious copies sneak into Microsoft&#x27;s developer tool — and silently steal cloud keys!</h1>
-    <p class="article-meta"><time datetime="2026-11-21">21 November 2026</time> · Website · Libya Pulse</p>
+    <p class="article-meta"><time datetime="2026-11-21">21 November 2026</time> · Website · TechPulse</p>
     <figure><img src="https://abdo15542.github.io/wamdalibya/images/r157-w157-02.jpg" alt="🐍 Malicious copies sneak into Microsoft&#x27;s developer tool — and silently steal cloud keys!" width="1200" height="675"></figure>
     <div class="article-body"><p>A security investigation revealed that two malicious versions sneaked into Microsoft&#x27;s &quot;Agent Framework&quot; tool, which developers use to build AI assistants, via the public PyPI repository.</p><p>On Tuesday, November 17, version 1.26.1 was published at 20:35 GMT, and about 33 minutes later version 1.26.2 followed it, then both versions were removed within an hour.</p><p>The two versions contained files that run automatically as soon as the Python language is started, stealing cloud access tokens and secrets from automated build and deployment pipelines, even without the developer importing the package into his program.</p><div class="ad-slot ad-rectangle" data-ad-slot="article-mid" data-ad-format="rectangle" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div><p>No trace of the two versions was found in Microsoft&#x27;s official repository, meaning they were published from outside the company, in a supply-chain attack targeting the developers themselves.</p><p>The security company Wiz analysed the attack and found that the malicious tool identified itself as &quot;Kern&quot;, an open-source tool for testing AI penetration, and suggested that AI helped prepare the attack without proving that it carried it out alone.</p><p>As for the urgent advice to developers who installed the package in that hour: install version 1.26.0, rebuild your projects, and change all access tokens and secrets immediately.</p><p>Simply put: imagine someone placing a fake copy of your house key in the key shop, and everyone who bought it had their house opened. That is what the attackers did with Microsoft&#x27;s tool.</p><p>Do you check the source of software packages before installing them, or do you trust their name alone?</p></div>
-    <div class="tags"><a class="chip" href="../index.html">#LibyaPulse</a><a class="chip" href="../index.html">#TechNews</a><a class="chip" href="../index.html">#Programming</a></div>
+    <div class="tags"><a class="chip" href="../index.html">#TechPulse</a><a class="chip" href="../index.html">#TechNews</a><a class="chip" href="../index.html">#Programming</a></div>
     <div class="share">
       <span>Share this story:</span>
-      <a href="https://wa.me/?text=%F0%9F%90%8D%20Malicious%20copies%20sneak%20into%20Microsoft%27s%20developer%20tool%20%E2%80%94%20and%20silently%20steal%20cloud%20keys%21%20https%3A//abdo15542.github.io/libyapulse/articles/article-601.html" target="_blank" rel="noopener" class="btn">WhatsApp</a>
-      <a href="https://twitter.com/intent/tweet?text=%F0%9F%90%8D%20Malicious%20copies%20sneak%20into%20Microsoft%27s%20developer%20tool%20%E2%80%94%20and%20silently%20steal%20cloud%20keys%21%20https%3A//abdo15542.github.io/libyapulse/articles/article-601.html&url=https%3A//abdo15542.github.io/libyapulse/articles/article-601.html" target="_blank" rel="noopener" class="btn">X</a>
-      <button class="btn" id="copyLinkBtn" data-url="https://abdo15542.github.io/libyapulse/articles/article-601.html">Copy link</button>
+      <a href="https://wa.me/?text=%F0%9F%90%8D%20Malicious%20copies%20sneak%20into%20Microsoft%27s%20developer%20tool%20%E2%80%94%20and%20silently%20steal%20cloud%20keys%21%20https%3A//abdo15542.github.io/techpulse/articles/article-601.html" target="_blank" rel="noopener" class="btn">WhatsApp</a>
+      <a href="https://twitter.com/intent/tweet?text=%F0%9F%90%8D%20Malicious%20copies%20sneak%20into%20Microsoft%27s%20developer%20tool%20%E2%80%94%20and%20silently%20steal%20cloud%20keys%21%20https%3A//abdo15542.github.io/techpulse/articles/article-601.html&url=https%3A//abdo15542.github.io/techpulse/articles/article-601.html" target="_blank" rel="noopener" class="btn">X</a>
+      <button class="btn" id="copyLinkBtn" data-url="https://abdo15542.github.io/techpulse/articles/article-601.html">Copy link</button>
     </div>
   </article>
   <div class="ad-slot ad-horizontal" data-ad-slot="header-leaderboard" data-ad-format="horizontal" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div>
   <nav class="prev-next"><a class="prev" href="article-600.html">← Previous: 🛡️ Google patches two critical Android flaws — one hacks your phone wi</a><a class="next" href="article-602.html">Next: 🔐 &quot;App Lock&quot; returns to Pixel phones — lock any app with your fingerpr →</a></nav>
 </div>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🐍 Malicious copies sneak into Microsoft's developer tool — and silently steal cloud keys!", "inLanguage": "en", "datePublished": "2026-11-21", "dateModified": "2026-11-21", "author": {"@type": "Organization", "name": "Libya Pulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "Libya Pulse", "logo": {"@type": "ImageObject", "url": "https://abdo15542.github.io/wamdalibya/assets/logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/libyapulse/articles/article-601.html", "image": "https://abdo15542.github.io/wamdalibya/images/r157-w157-02.jpg", "articleSection": "Computing & Programming"}</script></main>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🐍 Malicious copies sneak into Microsoft's developer tool — and silently steal cloud keys!", "inLanguage": "en", "datePublished": "2026-11-21", "dateModified": "2026-11-21", "author": {"@type": "Organization", "name": "TechPulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "TechPulse", "logo": {"@type": "ImageObject", "url": "https://abdo15542.github.io/techpulse/assets/techpulse-logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/techpulse/articles/article-601.html", "image": "https://abdo15542.github.io/wamdalibya/images/r157-w157-02.jpg", "articleSection": "Computing & Programming"}</script></main>
 <footer class="site-footer">
   <div class="container footer-grid">
     <div>
-      <h3>Libya Pulse</h3>
-      <p>A general tech page from Libya to the whole world: news, explainers, apps, and artificial intelligence — in clear, simple English.</p>
-      <p><a class="btn btn-gold" href="https://www.facebook.com/profile.php?id=61596701491859" target="_blank" rel="noopener">Follow us on Facebook</a></p>
+      <h3>TechPulse</h3>
+      <p>Tech, AI and news from around the world — verified, explained simply, updated around the clock.</p>
+      <p><a class="btn btn-cyan" href="https://www.facebook.com/profile.php?id=61596701491859" target="_blank" rel="noopener">Follow us on Facebook</a></p>
     </div>
     <div>
       <h3>Categories</h3>
@@ -91,7 +91,7 @@ window.addEventListener('load', function () {
       <p>Email: <a href="mailto:mybook9191@gmail.com">mybook9191@gmail.com</a></p>
     </div>
   </div>
-  <div class="copyright">© 2026 Libya Pulse — All rights reserved.</div>
+  <div class="copyright">© 2026 TechPulse — All rights reserved.</div>
 </footer>
 <script src="../assets/site.js" defer></script>
 </body>
