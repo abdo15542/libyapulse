@@ -1,0 +1,26 @@
+{
+ "id": 1193,
+ "slug": "article-1193",
+ "title": "🧪 \"VentureBeat\" Test: \"Claude Fable 5.2\" Costs 3 Times \"Opus 5.5\" for a Similar Result!",
+ "date": "2026-11-24",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r298-w298-07.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🧪 \"VentureBeat\" Test: \"Claude Fable 5.2\" Costs 3 Times \"Opus 5.5\" for a Similar Result!",
+  "The \"VentureBeat\" website ran a hands-on bug-fixing test and found that the pricier model, \"Claude Fable 5.2\", did almost the same work as \"Claude Opus 5.5\" — but at three times the cost.",
+  "The test used a real codebase of 8,400 lines, with 5 bugs planted in it, 3 attempts per model and 70 tool calls per attempt, and a fix only counted if it passed hidden tests.",
+  "\"Fable 5.2\" fixed 10 of 15 attempts at a cost of about $89 ($8.90 per successful attempt), while \"Opus 5.5\" fixed 9 of 15 for just about $29 ($3.22 per successful attempt). \"Kimi K3.1 Pro\", meanwhile, fixed 5 of 15 for $10, and \"DeepSeek V4.1 Flash\" fixed 4 of 15 for one dollar.",
+  "The gap — a single attempt — is far too small to settle the matter: the two models did almost the same work, but \"Fable\" cost about 3 times as much, and no model succeeded at the hardest task (two bugs hiding each other) in any of the 12 attempts.",
+  "The reason is that \"Fable\"'s token prices are double those of \"Opus\" ($8 and $40 versus $4 and $20 per million input and output tokens), and it also used more tool calls and produced longer outputs. Even when the limit was raised to 100 calls, \"Opus\" matched \"Fable\"'s result (10 of 15) for about $33.",
+  "But the sample is small: 15 attempts in a single codebase, so the results reflect performance on this particular code, not general coding ability, and the full monthly test begins in January.",
+  "Simply put: the most expensive is not always the best; a model three times cheaper fixed almost the same bugs, and the real difference is in the bill, not the result.",
+  "Would you pay three times as much for a slight improvement in bug fixing?"
+ ]
+}

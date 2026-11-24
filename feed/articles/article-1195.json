@@ -1,0 +1,26 @@
+{
+ "id": 1195,
+ "slug": "article-1195",
+ "title": "🕵️ One Malicious Web Page Is Enough to Steal Your Muse Chats! Researchers Hack Meta's Assistant From the Browser!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r299-w299-02.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🕵️ One Malicious Web Page Is Enough to Steal Your Muse Chats! Researchers Hack Meta's Assistant From the Browser!",
+  "Security researchers from Nibou Sec showed that a single booby-trapped web page is enough to hack Muse, Meta's personal assistant that runs in the cloud and carries out tasks on the user's behalf through their connected accounts.",
+  "The trick starts inside the assistant's own browser: Muse uses Chromium to generate files and documents, so if it is asked to export a malicious page, the page runs its code inside its runtime environment, giving the researchers command execution inside the system.",
+  "The researchers then exploited a weakness in Sentinel, the system that monitors the assistant's outgoing requests, and sent the user's chat history and stored memories to an outside server without any approval prompt appearing — they were even able to edit what the assistant had saved about the user.",
+  "It didn't stop there: using flaws in the Linux kernel, the researchers escaped the assistant's isolated container and gained root privileges on the user's cloud virtual machine, reaching the stored credentials for their connected accounts.",
+  "The researchers confirmed the whole exercise was a lab experiment that targeted no real users, that Meta fixed all the flaws before publication, and that there is no evidence they were ever actually exploited — and the breach stayed confined to a single user's machine without reaching other users.",
+  "But the company has not commented publicly on the findings so far, and has not confirmed the fixes itself.",
+  "Simply put: a smart assistant that holds the keys to your accounts can turn into a back door if it is fooled by a single page, which is why monitoring and human approval remain the last line of defense.",
+  "Do you know what your AI assistant remembers about you?"
+ ]
+}

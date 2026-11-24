@@ -1,0 +1,25 @@
+{
+ "id": 1196,
+ "slug": "article-1196",
+ "title": "🔑 OpenRouter Drops Three Providers After Users' Questions Leak! The Keys You Typed Into AI May Be Exposed!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r299-w299-03.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Privacy"
+ ],
+ "body": [
+  "🔑 OpenRouter Drops Three Providers After Users' Questions Leak! The Keys You Typed Into AI May Be Exposed!",
+  "OpenRouter, the service that routes AI requests to dozens of companies hosting models, announced on November 22 that it removed three providers after tests showed users' questions were leaking to them.",
+  "The service also pulled the \"no data retention\" badge — a promise not to store requests — from 125 endpoints, after it turned out the promise was not true at those providers.",
+  "The discovery came from security firm Dragos, which sent around two million questions carrying traceable fake secrets between July and November, and found that some requests were reaching parties they were never meant for.",
+  "Reports named the three providers as Together AI, Fala and Novita, and Novita said a routing error had sent some requests to MiniMax's own interface between May 28 and November 11.",
+  "OpenRouter confirmed the results showed no breach or unauthorized access to its own systems, but the practical message is clear: any password or key typed into an AI question since late May should be changed immediately.",
+  "Simply put: the question you type to an AI may travel further than you think, so never put a secret in it that you don't want anyone to see.",
+  "Have you ever typed a password or a key into an AI question?"
+ ]
+}

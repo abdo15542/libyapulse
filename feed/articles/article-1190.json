@@ -1,0 +1,25 @@
+{
+ "id": 1190,
+ "slug": "article-1190",
+ "title": "🌐 \"Plan4D\": Alibaba Teaches AI to Imagine the Future in a Four-Dimensional World!",
+ "date": "2026-11-24",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r298-w298-04.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🌐 \"Plan4D\": Alibaba Teaches AI to Imagine the Future in a Four-Dimensional World!",
+  "Researchers from Alibaba's Amap, together with Nanyang Technological University, presented a new system called \"Plan4D\" that generates a video of the future along with a complete geometric map of the scene at the same time.",
+  "The idea is that the system does not just draw a video — it also builds the depth, the cameras, the 3D point clouds, and the movement of every element in the scene, starting from an observed scene and a written instruction, such as \"open the door and enter the room\".",
+  "The system combines two powerful ready-made models: \"Depth Anything 3\" to rebuild the scene in 3D, and \"LongCat Video\" to generate the video, linking them through one shared \"latent path\", so the image, the depth, and the movement are synchronized readings of the same world, not separate parts that might conflict.",
+  "The system can plan complex, long, and precise actions in dynamic scenes, and the researchers claim it is the best in both synthetic and real benchmarks for image quality and geometric accuracy together.",
+  "The motivation behind the design is that paired data — an action with dense four-dimensional geometry — is extremely rare, so instead of teaching the system geometry from scratch, the researchers reused what the ready-made models had already learned from video and 3D models.",
+  "Simply put: instead of a video that looks beautiful but does not understand the place, AI now builds a complete world with depth and movement, so it can plan what will happen in it step by step.",
+  "Can you imagine games and robots training inside worlds like these before they ever touch reality?"
+ ]
+}

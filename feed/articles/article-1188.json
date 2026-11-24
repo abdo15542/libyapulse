@@ -1,0 +1,26 @@
+{
+ "id": 1188,
+ "slug": "article-1188",
+ "title": "⚡ \"Atomic\" Engine Runs \"Inkling 2 Mini\" Three Times Faster With Half the Memory! Even on Your Laptop!",
+ "date": "2026-11-24",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r298-w298-02.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "⚡ \"Atomic\" Engine Runs \"Inkling 2 Mini\" Three Times Faster With Half the Memory! Even on Your Laptop!",
+  "The \"Atomic Chat\" team built a new inference engine called \"Atomic Engine\" that runs the small \"Inkling 2 Mini\" model on an ordinary laptop, faster and with far less memory than the traditional engine.",
+  "The engine sits on top of the open-source \"llama.cpp\" engine, but it adds a clever trick: you set a maximum memory limit, so it keeps the model's core layers in memory and fetches the \"experts\" — the model's specialized parts — from the hard drive only when needed, instead of loading the whole model at once.",
+  "The engine also uses a \"drafting\" technique, where a small model guesses the coming words and the big model checks them all in one batch, cutting the time short.",
+  "The result is striking: the 16.5-gigabyte version of the model ran within a limit of just 8 gigabytes at 43 tokens per second on a MacBook Pro with an M5 Max chip, compared with 38 tokens for the traditional engine, and with peak memory of 6.3 gigabytes instead of 15.8 gigabytes.",
+  "The smaller version (8.7 gigabytes) reached 84 tokens per second in an ordinary summarization task, versus 40 for the traditional engine, and hit 122 and 143 tokens per second in repeated texts, with outputs exactly matching the original engine in the tests.",
+  "But the picture is not complete: the long-text reading stage is slower at the tight memory limit (556 versus 812 tokens per second), speed falls below the traditional engine in very long texts, and the tests have run on Apple Silicon devices only so far.",
+  "Simply put: instead of buying a computer with huge memory to run an AI model, a smart engine now squeezes the model into the memory you already have — and makes it faster.",
+  "Would you try running AI models on your own device instead of the cloud?"
+ ]
+}

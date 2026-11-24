@@ -1,0 +1,26 @@
+{
+ "id": 1200,
+ "slug": "article-1200",
+ "title": "🤖 A Free-Flying Robot in Space Learns to Catch Floating Tools! \"Be Core\" Trains Astrobee to Hand an Astronaut Their Screwdriver!",
+ "date": "2026-11-24",
+ "category": "space",
+ "category_name": "Space",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r299-w299-07.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Space"
+ ],
+ "body": [
+  "🤖 A Free-Flying Robot in Space Learns to Catch Floating Tools! \"Be Core\" Trains Astrobee to Hand an Astronaut Their Screwdriver!",
+  "A British team announced a new experiment on the International Space Station: teaching Astrobee, the free-flying cube-shaped robot built by NASA, to find a tool floating in space, grab it, and hand it to an astronaut.",
+  "The experiment is called \"Be Core\", and it will be run by the UK's Satellite Applications Catapult together with its partner Arkesis. It tests whether an AI model can steer the robot toward a drifting tool in zero gravity, catch it, and deliver it to a crew member.",
+  "The model learns by imitation, not rigid programming: it watches demonstrations performed by different people using a hand controller in simulation, and learns the desired behavior itself instead of memorizing a single sequence of movements — which matters because targets in space are rarely still.",
+  "After training, the model runs inside the robot itself, using its cameras and sensors to spot the object, approach it and grab it with its dedicated grappling arm, then carry it to the waiting crew member.",
+  "The experiment is limited to everyday tools such as a wrench and a screwdriver, and it runs as software on the robot that's already there, so nothing new is being launched to the station for it.",
+  "The project moves in stages: training and testing in simulation, then verification on the ground, and finally the in-orbit demonstration over the coming months. The longer-term goal is maintaining, assembling and manufacturing satellites and spacecraft in orbit without full human intervention.",
+  "Simply put: running a space station eats up crew time searching for tools and tidying up, so if a robot takes over that job, astronauts are free for what only they can do.",
+  "If you asked a robot in space to hand you a tool, would you trust it not to make a mistake and throw it away?"
+ ]
+}

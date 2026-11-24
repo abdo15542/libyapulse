@@ -1,0 +1,24 @@
+{
+ "id": 1198,
+ "slug": "article-1198",
+ "title": "⚠️ CISA Puts N-able and MONAI Flaws on the \"Patch Now\" List! Exploitation Is Active and the Deadline Has Passed!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r299-w299-05.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "⚠️ CISA Puts N-able and MONAI Flaws on the \"Patch Now\" List! Exploitation Is Active and the Deadline Has Passed!",
+  "The US Cybersecurity and Infrastructure Security Agency (CISA) added two actively exploited flaws to its mandatory patch-now list: a flaw in the N-able Mail Assure email filtering service with a severity score of 9.3, and a path traversal flaw in the MONAI Label medical app with a score of 9.8.",
+  "This is a follow-up to an earlier story: the MONAI Label flaw is the same one independent AI agents discovered in September and used to take over a university server within minutes, and its fix was released in version 0.8.6 — what's new today is that CISA itself has ordered it patched urgently because exploitation is active.",
+  "N-able reported an outage on November 16 that affected Mail Assure and its cloud hosting service, and access was restored by November 21; the company said the exploitation was limited to a single hosted server and no other malicious activity was found after remediation.",
+  "Both flaws can be reached remotely over the internet, and one of them doesn't even require logging in, so the agency asked everyone running either product to check their exposure immediately and apply the vendor's fix without waiting.",
+  "Simply put: when CISA puts a flaw on its list, it means it isn't theoretical — it's being exploited right now, and delaying the fix is a gamble.",
+  "Do you know whether any software in your organization is on the list of flaws being actively exploited?"
+ ]
+}

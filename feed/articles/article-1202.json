@@ -1,0 +1,25 @@
+{
+ "id": 1202,
+ "slug": "article-1202",
+ "title": "💳 Cleverbridge Breach Steals Card Numbers and Security Codes! A Payment Platform for Big Companies Notifies Its Customers!",
+ "date": "2026-11-24",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r300-w300-01.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "💳 Cleverbridge Breach Steals Card Numbers and Security Codes! A Payment Platform for Big Companies Notifies Its Customers!",
+  "E-commerce platform Cleverbridge announced that hackers broke into its systems and copied its customers' payment card data, including card numbers and the CVV security codes printed on the back of cards.",
+  "The company discovered the unauthorized activity on November 4, 2026, shut down its systems to contain the attack and brought them back online the same day, then began notifying affected customers on November 20.",
+  "The company confirmed the stolen data includes the card number, its expiry date and the security code, with no other personal data such as names, contact details or billing information, according to the breach notice seen by media outlets.",
+  "The company has not yet disclosed how many customers were affected or how the attackers got in, nor which of its corporate customers had their customers affected — its customers include Red Hat, SUSE, Tenable, Veeam, Jamf, Sony and Parallels.",
+  "The company confirmed the attack was not a ransomware attack, as nothing was encrypted, and that it notified data protection authorities, law enforcement, card networks and payment partners, and is offering free credit monitoring to those affected.",
+  "Simply put: the security code on the back of your card is the last line of defense when paying online, and once it's stolen together with the card number, replacing the card and watching your account becomes urgent right away.",
+  "Do you check your bank statement regularly after any breach news?"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": 1191,
+ "slug": "article-1191",
+ "title": "💾 \"MemOnes\": AI Memory 1,313 Times Smaller! A Million Tokens in 25 Megabytes!",
+ "date": "2026-11-24",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r298-w298-05.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "💾 \"MemOnes\": AI Memory 1,313 Times Smaller! A Million Tokens in 25 Megabytes!",
+  "Researchers from Nanjing University and the University of Science and Technology of China presented a new system called \"MemOnes\" that gives AI models a long memory in a tiny size, instead of storing everything.",
+  "The known problem is that a model keeps a huge memory for every word it reads, so it swells with long texts until it fills the memory. The new system, by contrast, stores only a small part of the hidden states of the last layer, then expands them into a full memory when needed, and retrieves from it only what matters for the current question.",
+  "The numbers are striking: on the \"Qwen3.5-4B\" model with a context of one million tokens, memory shrank 1,313 times — from more than 32 gigabytes to just about 25 megabytes — the text-reading stage became 6.9 times faster, throughput rose 3.5 times, and memory-task scores improved by 5.77%.",
+  "Full memory retrieval also completes in 64.2 milliseconds — 12 times faster than the \"M+\" system and 17 times faster than traditional \"RAG\" pipelines — and the system outperformed traditional models across different sizes and multiple memory benchmarks.",
+  "But the paper is preliminary, from a single team, and no independent party has reproduced the results yet, so the numbers remain promising while awaiting confirmation.",
+  "Simply put: instead of carrying a whole library in its memory, the model now carries a small card that summarizes it — so it remembers more and consumes less.",
+  "Would you prefer an assistant that remembers your long conversations without slowing down?"
+ ]
+}
