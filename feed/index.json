@@ -1,7 +1,67 @@
 {
- "count": 1316,
- "generated": "2026-11-25T16:56:40.644945Z",
+ "count": 1322,
+ "generated": "2026-11-25T17:45:12.206894Z",
  "articles": [
+  {
+   "id": 1322,
+   "slug": "article-1322",
+   "title": "⚖️ OpenAI Tried to Bring In an AI Law Firm's Team — and Got Turned Down!",
+   "date": "2026-11-25",
+   "category": "companies",
+   "category_name": "Companies & Business",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r315-w315-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1321,
+   "slug": "article-1321",
+   "title": "📷 The New York Times Bars Its Photographers From 'Photoshop 2027' — Because of Hidden AI!",
+   "date": "2026-11-25",
+   "category": "apps",
+   "category_name": "Apps & Platforms",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r315-w315-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1320,
+   "slug": "article-1320",
+   "title": "🔌 Huawei and Flexing Link Chinese Chip-Design Tools — and Test Them on a Real Project!",
+   "date": "2026-11-25",
+   "category": "companies",
+   "category_name": "Companies & Business",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r315-w315-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1319,
+   "slug": "article-1319",
+   "title": "🏆 'Halo' Model-Training Competition: $200,000 in Prizes and $1.5 Million in Compute!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r315-w315-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1318,
+   "slug": "article-1318",
+   "title": "🧠 Anthropic Brings AI 'Neurons' Back Into Focus — Has the Model's Mind Become Readable?",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r315-w315-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1317,
+   "slug": "article-1317",
+   "title": "🧪 New 'ShellBench' Test: Top AI Agents Fail at Everyday Life Tasks!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r315-w315-02.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1316,
    "slug": "article-1316",

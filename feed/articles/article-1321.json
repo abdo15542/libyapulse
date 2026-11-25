@@ -1,0 +1,25 @@
+{
+ "id": 1321,
+ "slug": "article-1321",
+ "title": "📷 The New York Times Bars Its Photographers From 'Photoshop 2027' — Because of Hidden AI!",
+ "date": "2026-11-25",
+ "category": "apps",
+ "category_name": "Apps & Platforms",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r315-w315-06.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Photography"
+ ],
+ "body": [
+  "📷 The New York Times Bars Its Photographers From 'Photoshop 2027' — Because of Hidden AI!",
+  "The New York Times has emailed its contributing and freelance photographers asking them not to use 'Photoshop 2027' (version 28.0.0 and later updates) when working on assignments for the newspaper, because of the software's new AI features.",
+  "The message, signed by the newspaper's photography chiefs Megan Loram and Josh Haner, said some functions in the new version 'use generative AI in ways that may not be obvious to users', which could lead to photos being tagged in their metadata as AI-generated without the photographer noticing.",
+  "The newspaper's spokesperson, Graham James, confirmed the decision, explaining that the paper requires its published photos to be an accurate record of real events: no adding or removing people or objects and no distorting them, with careful cropping and only slight colour adjustment, and any use of AI must be disclosed to readers.",
+  "The new version's features include generative removal and expansion, relighting and reformatting of photos, AI upscaling, a tool that recomposes a photo for different sizes, and an assistant that explains editing steps — tools where it is sometimes hard to tell which ones use AI and which do not.",
+  "For those working for the newspaper, there is one way out: rolling back to the previous version through the 'Creative Cloud' app — but rollback is only possible as far as 'Photoshop 27.0' and no further, and Adobe had not responded to a request for comment by the time the news was published.",
+  "Simply put: the world's best-known photo-editing software now leaves an AI fingerprint you may not see — so a newspaper that refuses any AI label on its photos has simply chosen not to update the software.",
+  "Would you trust software that edits your photo with AI without telling you, or do you prefer editing to stay fully manual?"
+ ]
+}

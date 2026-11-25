@@ -1,0 +1,23 @@
+{
+ "id": 1319,
+ "slug": "article-1319",
+ "title": "🏆 'Halo' Model-Training Competition: $200,000 in Prizes and $1.5 Million in Compute!",
+ "date": "2026-11-25",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r315-w315-04.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🏆 'Halo' Model-Training Competition: $200,000 in Prizes and $1.5 Million in Compute!",
+  "White Circle has announced the largest post-training competition for models ever, built on its open-source framework 'Halo', offering more than $200,000 in cash prizes, plus $1.5 million in compute credits and API access for participants.",
+  "The competition includes 17 tracks in partnership with major AI labs, including OpenAI, Google DeepMind, Nvidia, Mistral, Gemma and Modal, in which participants compete to train the best possible model after its initial training, using the open 'Halo' framework.",
+  "The competition runs online from 1 to 10 December, applications close on 30 November, places are limited, and the goal is for participants to develop better ways to improve ready-made models instead of building a new model from scratch every time.",
+  "Simply put: a global race to see who can make a model smarter at the lowest cost — and the prizes are not just money, but compute enough to test ideas individuals could never afford.",
+  "If you had free compute, which AI model would you improve first?"
+ ]
+}

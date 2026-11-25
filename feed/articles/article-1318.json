@@ -1,0 +1,25 @@
+{
+ "id": 1318,
+ "slug": "article-1318",
+ "title": "🧠 Anthropic Brings AI 'Neurons' Back Into Focus — Has the Model's Mind Become Readable?",
+ "date": "2026-11-25",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r315-w315-03.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🧠 Anthropic Brings AI 'Neurons' Back Into Focus — Has the Model's Mind Become Readable?",
+  "Two researchers in Anthropic's fellows programme, Jasmine Shoun and Lisa Dunlap, published two papers on 23 November revisiting an old idea: can an AI model be understood by studying its neurons one by one?",
+  "Researchers had moved away from individual neurons for three reasons: a single neuron fires for unrelated inputs, a concept's meaning changes from one layer to another inside the model, and facts seem spread across many neurons rather than sitting in one.",
+  "The two papers changed the angle of view: instead of asking what makes a neuron fire, they asked what a neuron actually adds to the model's output, using a tool called 'J-Lens' to read what each neuron contributes, then testing their hypotheses by switching neurons off or moving their outputs to other layers.",
+  "The results were surprising: a neuron adds two unrelated concepts in only 1% of cases or fewer, the meaning of what it adds stays almost constant across most layers, and the researchers traced 18 facts in the 'Llama 3.1' model to specific neurons — even though retrieving a fact usually requires changing many neurons.",
+  "The second paper turned the theory into practical tools: precisely described neurons outperformed traditional methods at detecting harmful content without any prior training, and auditors using these insights reached 75% accuracy in detecting hidden behaviours inside models, compared with only 40% when analysing outputs alone.",
+  "Simply put: what looked like chaos inside the model's mind may have a system that can be read neuron by neuron — and if that holds, AI could be monitored from the inside, not just from its results.",
+  "Does knowing how AI thinks from the inside reassure you, or are results alone enough for you?"
+ ]
+}

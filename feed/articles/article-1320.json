@@ -1,0 +1,24 @@
+{
+ "id": 1320,
+ "slug": "article-1320",
+ "title": "🔌 Huawei and Flexing Link Chinese Chip-Design Tools — and Test Them on a Real Project!",
+ "date": "2026-11-25",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r315-w315-05.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "China"
+ ],
+ "body": [
+  "🔌 Huawei and Flexing Link Chinese Chip-Design Tools — and Test Them on a Real Project!",
+  "Huawei announced at its Innovation and Intellectual Property Forum in Beijing on Tuesday that it has linked Chinese chip-design software into a single working toolchain, tested on designing a real chip — not in a lab experiment.",
+  "Flexing, a company from the city of Hangzhou, contributed two tools to the chain: 'Glory EX', which extracts the resistance and capacitance of connections inside a chip to calculate how signals move, and 'Glory Bolt', which checks the safety of power distribution inside the design — two of the hardest verification steps before manufacturing.",
+  "Flexing's chairman and general manager, He Cheng, described the result as 'the industry's first successful integration of a local design toolchain', confirming that cooperation with Huawei began in 2019, and that the work recorded 27 new features in 2025 and 37 features in 2026, with 30 more planned for 2027.",
+  "The step comes amid US export restrictions on advanced design tools, dominated by the two American companies Synopsys and Cadence, so the local chain is seen as a Chinese attempt to break a bottleneck long dependent on the outside — although questions of yield and cost remain unanswered.",
+  "Simply put: chip design was a gateway controlled by two American companies; now Huawei says it has a local alternative that works on a real project, not just on paper.",
+  "Can local tools compete with the giants of chip design, or is the gap still too wide?"
+ ]
+}

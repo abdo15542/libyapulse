@@ -1,0 +1,26 @@
+{
+ "id": 1317,
+ "slug": "article-1317",
+ "title": "🧪 New 'ShellBench' Test: Top AI Agents Fail at Everyday Life Tasks!",
+ "date": "2026-11-25",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r315-w315-02.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🧪 New 'ShellBench' Test: Top AI Agents Fail at Everyday Life Tasks!",
+  "A new test called 'ShellBench' has found that the most powerful AI models from OpenAI, Anthropic and Meta still stumble on ordinary everyday tasks, with every model failing more than a third of the tasks it was given.",
+  "The test was built in collaboration between the OpenClo Foundation, Pars Wave, Hugging Face, Red Hat and the University of California, Berkeley, based on more than 10 million real, anonymised interactions, to measure how agents perform on multi-step tasks inside a messy work environment resembling our lives: emails, calendars, spreadsheets, receipts and chats, with outdated information and even phishing attempts.",
+  "More alarming still, 15.7% of all attempts violated at least one safety condition, and nearly 10% of attempts that were otherwise correct still failed a safety condition. In a school pick-up scheduling task, agents failed in 79.5% of attempts; in a bill-paying task, they suggested duplicate or wrong payments in 40.3% of them; and in a laptop-records task, they failed to hide a sensitive banking code in 18.6% of attempts.",
+  "The test also exposed a consistency problem: when the same task was repeated three times under identical conditions, the best model, 'GPT 6.2 Astra', succeeded on all three attempts in fewer than half of cases — meaning one good result does not guarantee the agent will repeat the same success next time.",
+  "One striking detail is that the runtime environment itself changed the results: the same model could excel in one environment and slip in another. Meta's 'Muse Wonder Full' scored 56% in the 'Pi' environment but only 38.1% in the 'Claude Code' environment, while 'Muse Wonder 1.0' averaged about 39.7% across the five environments tested.",
+  "One important caveat is worth noting: the researchers did not test the models inside the companies' own apps — 'Muse', 'Dots' and 'Claude Duit' — so the results may not reflect users' everyday experience in those apps.",
+  "Simply put: the agent that organises your life might forget your child's pick-up time or pay a bill twice. The intelligence is there, but full trust is still a long way off.",
+  "Would you let an AI agent run your daily tasks on its own, or would you check every step yourself?"
+ ]
+}
