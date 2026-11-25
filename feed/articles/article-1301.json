@@ -1,0 +1,26 @@
+{
+ "id": 1301,
+ "slug": "article-1301",
+ "title": "🧮 OpenAI claims to solve a decades-old math puzzle — matrix multiplication with exponent 2.25!",
+ "date": "2026-11-25",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-08.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "OpenAI"
+ ],
+ "body": [
+  "🧮 OpenAI claims to solve a decades-old math puzzle — matrix multiplication with exponent 2.25!",
+  "OpenAI published on 24 November a new mathematical paper claiming to pin down the exact exponent of matrix multiplication at 9/4, or 2.25, in a result that could settle a theoretical question in computer science that has been open since the 1960s.",
+  "The exponent, denoted by the Greek letter omega, describes how fast the number of arithmetic operations needed to multiply two square matrices grows as their size grows; the traditional method needs about (n³) operations, while a smaller exponent theoretically reduces the number of operations as the matrices get larger.",
+  "The new paper gives a lower bound matching the known upper bound: for every matrix size (n) of at least 2, any arithmetic circuit multiplying two matrices needs at least half of (n^(9/4)) multiplication or division operations, even if additions are free — meaning, if the proof is correct, that 2.25 is the final limit that cannot be beaten.",
+  "The paper builds on an earlier result the company published on 2 October, which proved the upper bound of 2.25 on complex numbers only, while the new paper extends the result to all mathematical fields and adds the lower bound that closes the gap, as part of a family of nine mathematical manuscripts published on the same day.",
+  "The company attached a partial formal version of the paper through the Lean automated proof-checking system, but the formalization covers only division-free circuits, which is narrower than the full paper's claim, and the paper itself is a preprint not yet reviewed by the mathematics community; the company describes its manuscripts as 'raw research data', not polished academic papers.",
+  "The result is purely theoretical: it counts the number of mathematical operations, not the execution speed on real processors, and does not mean graphics cards will multiply matrices faster tomorrow.",
+  "Simply put: a math question more than half a century old may have found its final answer: exactly 2.25; but until mathematicians review the proof and confirm it, the claim remains a promise, not a final verdict.",
+  "Do you believe an AI model can solve math puzzles humans failed at for decades?"
+ ]
+}

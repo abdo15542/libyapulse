@@ -1,0 +1,25 @@
+{
+ "id": 1281,
+ "slug": "article-1281",
+ "title": "💻 Claude Turns Its Tools into Desktop Apps — Install What You Build with One Click!",
+ "date": "2026-11-25",
+ "category": "phones",
+ "category_name": "Phones & Devices",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r310-w310-02.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Claude"
+ ],
+ "body": [
+  "💻 Claude Turns Its Tools into Desktop Apps — Install What You Build with One Click!",
+  "Anthropic announced on November 24 a new feature called 'Install as App', which lets Claude users turn any tool they build inside a conversation into a standalone app on their computer, running in its own window with its own icon, with no packaging, code signing, or API key needed.",
+  "The idea is simple: describe the tool you want to Claude, try it out, then choose 'Install as App' from the share menu, and you have a real app on Mac or Windows. It can send notifications, register global keyboard shortcuts, and appear in the menu bar or system tray, and it can be shared with other Claude users with no extra steps.",
+  "But the feature comes with a clear security warning: installed apps run on three permission levels, the highest of which is 'Full computer access', which lets the app run programs and read, edit, and delete your files without asking each time — and the company itself says it does not review apps before they are installed.",
+  "That is why full access is limited to apps the user builds for themselves — or, in team and business accounts, to apps built by a colleague in the same organization — and permission is requested again after every app update, even if the update comes from its owner.",
+  "The feature is available in beta on all plans, including the free one, but it needs an internet connection and a Claude sign-in to open the app, and its requests count against your plan's usage limits. It also does not work on Linux, the web, or phones, and it does not cover Claude documents, spreadsheets, or presentations.",
+  "Simply put: a small tool you built in a conversation has become an app on your desktop — but when an app asks for the keys to your whole computer, the question is not how easy it is to install, but how far trust should go.",
+  "Would you install an AI-built app with full permissions on your computer, or would you stick to the safe level?"
+ ]
+}

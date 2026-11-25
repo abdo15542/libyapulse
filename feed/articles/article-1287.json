@@ -1,0 +1,24 @@
+{
+ "id": 1287,
+ "slug": "article-1287",
+ "title": "🏦 US FinCEN Reveals a Breach of Its Systems — Banks Receive Urgent Instructions!",
+ "date": "2026-11-25",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-01.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "FinCEN"
+ ],
+ "body": [
+  "🏦 US FinCEN Reveals a Breach of Its Systems — Banks Receive Urgent Instructions!",
+  "The US Financial Crimes Enforcement Network (FinCEN) revealed on November 24 that it is investigating a cyber incident, after an unauthorized party gained access to a limited number of its systems. It shut down some systems as a precaution and asked banks to use its hotline to file reports while some services are down.",
+  "FinCEN is an agency under the US Treasury Department, tasked with monitoring illicit financial activity such as money laundering and terrorist financing. It collects and analyzes suspicious-transaction reports from banks and financial institutions across the whole country, which makes any breach of its systems extremely sensitive.",
+  "The agency has not yet revealed how much was accessed, who was responsible, or whether information was stolen, but on the same day it issued an order extending the deadline for some Bank Secrecy Act reports and beneficial ownership reports originally due on November 18, because its services were disrupted.",
+  "The announcement came just hours after reports of a breach of an open-source intelligence analysis system at the Central Intelligence Agency and the Office of the Director of National Intelligence, in a wave of successive cyber incidents hitting US government institutions over several days, with authorities yet to confirm any link between the incidents.",
+  "Simply put: the agency that watches suspicious money across all of America has itself been hacked — and when financial monitoring systems go down, the question of data safety becomes more important than the question of who the attacker was.",
+  "Do you trust that government systems this sensitive can be breached this easily?"
+ ]
+}

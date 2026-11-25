@@ -1,0 +1,25 @@
+{
+ "id": 1294,
+ "slug": "article-1294",
+ "title": "🚨 Critical Cisco Expressway flaw actively exploited — attackers get root access!",
+ "date": "2026-11-25",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-08.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cisco"
+ ],
+ "body": [
+  "🚨 Critical Cisco Expressway flaw actively exploited — attackers get root access!",
+  "Russian cybersecurity company F6 spotted the first active exploitation of a critical flaw in Cisco Expressway appliances, tracked as CVE-2026-76466 with a severity score of 9.8 out of 10, in which attackers executed commands with root privileges on the compromised devices without needing any login credentials.",
+  "The flaw lies in the database service used by devices connected in a cluster: it relies on hard-coded credentials embedded in the code, with insufficient verification of client certificates when TLS verification mode is enabled, allowing an attacker to connect to the database service and invoke remote commands that grant full control of the operating system.",
+  "The attack began by compromising two internet-connected devices, then the attackers moved through one of them to two additional nodes inside the targeted organization's internal network. After gaining root privileges, they set up Python scripts to scan the network and search for shared files, databases and servers, and inspected GitLab repositories to steal credentials and sensitive information; investigators believe the scripts were written with the help of AI tools.",
+  "The US Cybersecurity and Infrastructure Security Agency (CISA) added the flaw to its Known Exploited Vulnerabilities list on 20 November and ordered federal agencies to patch before 23 November, while Cisco updated its security advisory the same day — the company had issued the fix on 21 October in release X15.5.20, weeks before the exploitation appeared.",
+  "The attack has not been attributed to any known group so far, but the incident shows that a proof-of-concept exploit published publicly on 5 November was enough to turn a patched flaw into a real attack in just two weeks.",
+  "Simply put: a flaw that was known and fixed since October became an easy target for anyone who had not updated their devices; in cybersecurity, delaying an update is more dangerous than the flaw itself.",
+  "Do you think devices connected directly to the internet are the most dangerous weakness in any company?"
+ ]
+}

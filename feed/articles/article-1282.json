@@ -1,0 +1,25 @@
+{
+ "id": 1282,
+ "slug": "article-1282",
+ "title": "🏆 Gemini 4 Neon Tops LiveBench — 87.4 and a Clear Lead Over Its Rivals!",
+ "date": "2026-11-25",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r310-w310-03.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Gemini4"
+ ],
+ "body": [
+  "🏆 Gemini 4 Neon Tops LiveBench — 87.4 and a Clear Lead Over Its Rivals!",
+  "Google DeepMind's new model, Gemini 4 Neon, has topped LiveBench 2.0, one of the most popular benchmarks for evaluating AI models, with an overall score of 87.4%, beating Claude Opus 5.2 and GPT-6.2 Astra — tied at 84.9% — by 2.5 points.",
+  "The benchmark tests models on real practical tasks instead of theoretical questions: long agent work, coding, browser use, search, and design, plus two sets of short questions on reasoning and data analysis, and it is constantly refreshed to make it harder for models to memorize the answers.",
+  "Neon's lead was clearest in browser use, where it scored 95.6%, the highest result in that category, and it tied with Opus 5.2 in search at 94.5%, while Astra kept the best coding score among the top three.",
+  "Another striking figure is the cost of a successful task: about $2.65 for Neon, versus about $9.85 for Opus 5.2 — meaning the leading model is far cheaper per successful task, which matters to companies running models at scale.",
+  "But one leaderboard is not the final verdict: the results come from a single run per task set, different benchmarks do not always agree, and Neon is still new — launched on November 18 — so the rankings may shift with every new release.",
+  "Simply put: the model race is no longer about the smartest alone, but about the smartest at the lowest cost — and today's lead may change with the next release.",
+  "Do benchmark leaderboards matter to you when choosing an AI model, or do you try it yourself first?"
+ ]
+}

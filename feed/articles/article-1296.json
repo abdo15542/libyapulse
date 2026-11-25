@@ -1,0 +1,25 @@
+{
+ "id": 1296,
+ "slug": "article-1296",
+ "title": "✂️ Gemini adds file slicing in its API — pay only for what the model reads!",
+ "date": "2026-11-25",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-10.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Gemini"
+ ],
+ "body": [
+  "✂️ Gemini adds file slicing in its API — pay only for what the model reads!",
+  "Google DeepMind announced on 23 November a new feature in the Gemini API called file slicing, which lets developers send only selected parts of a file to the model instead of the whole file, paying token costs only for the parts the model actually examines.",
+  "The feature works with PDF files, Office documents, OpenDocument files, audio recordings and video clips: the file is uploaded once through the Files API, then the developer requests only the pages, cells or time segments needed each time — such as specific pages from a long document, a particular sheet and cells from a spreadsheet, or specific seconds from an audio recording.",
+  "Resolution can also be chosen — low, medium or high — along with content layers, such as extracted text or a page image, or data, formulas and charts in tables, or transcript, frames and audio in video, while the cost is calculated only on what is sent to the model.",
+  "The practical idea is 'scan first, then zoom in': the developer scans the whole file cheaply through extracted text or low-resolution previews to find where the information is, then examines the required page or chart at high resolution. Vercel said this method cut its token consumption by 14 times in a test case.",
+  "The feature is now available through Google AI Studio and the Gemini platform for all Gemini 4 models, with current file limits still in place, such as a maximum of 50MB and 1000 pages for PDF files, and AI agents themselves can specify the required part of a file inside a function call response while they work.",
+  "Simply put: instead of paying to read a whole book in search of one page, you can now pay for that page only; cheaper AI is not weaker AI, but smarter AI in choosing what to read.",
+  "Would you rather pay for every page the AI reads, or for the whole file?"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": 1299,
+ "slug": "article-1299",
+ "title": "⚠️ Apple removes the Talkie app after a press investigation — and 50,000 Australian children used it!",
+ "date": "2026-11-25",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-04.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Apple"
+ ],
+ "body": [
+  "⚠️ Apple removes the Talkie app after a press investigation — and 50,000 Australian children used it!",
+  "Apple removed the Talkie app from its app store after a joint press investigation by the Australian Broadcasting Corporation and a British non-profit journalism organisation revealed that the app, a chat app with AI characters, was exposing children to sexual and abusive conversations.",
+  "The app is made by Sub Sub, a Singaporean subsidiary of the Chinese company MiniMax, and was rated for adults over 18, but an official survey showed about 50,000 Australian children aged 10 to 17 had used it anyway, meaning the age rating alone did not stop them reaching it.",
+  "Company documents revealed that its engineers deliberately designed the app to deepen emotional bonds with users and keep them talking for as long as possible — users spend on average more than 70 minutes a day in the app — and that the code instructed the characters to be 'close, protective and possessive', a design experts consider especially dangerous for young people.",
+  "Parents in Australia and the US told stories of inappropriate conversations between their children and the app's characters, while the company did not answer journalists' questions. The app is still available on Google Play and through the browser, where it merely asks the user their age without verifying it.",
+  "The removal comes as the Australian government prepares to pass a Digital Duty of Care law that could impose fines of up to $100 million on makers of AI companion apps that fail to prevent harm to young people.",
+  "Simply put: an app rated for adults reached tens of thousands of children, and was designed to keep them emotionally attached; removing it from one store does not end the story while it remains available elsewhere.",
+  "Are fines worth millions of dollars enough to deter apps targeting children, or is the solution to ban them outright?"
+ ]
+}

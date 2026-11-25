@@ -1,0 +1,25 @@
+{
+ "id": 1305,
+ "slug": "article-1305",
+ "title": "🔋 National Taiwan University builds a chip that runs AI on your phone — no cloud!",
+ "date": "2026-11-25",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-14.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Taiwan"
+ ],
+ "body": [
+  "🔋 National Taiwan University builds a chip that runs AI on your phone — no cloud!",
+  "A research team at National Taiwan University developed two new chips designed to run generative AI directly on devices such as smartphones and robots, instead of sending every request to distant data centres, as announced by Taiwan's National Science and Technology Council on 25 November.",
+  "The team is led by Professor Yang Chia-Hsiang, and the research combined AI algorithms and hardware design together, aiming to reduce unnecessary calculations and data transfer, the two biggest sources of energy consumption in AI models.",
+  "The first chip identifies the important relationships between data and ignores less important calculations, using low-precision processing to save energy, and achieved a peak energy efficiency of 99.2 trillion operations per second per watt, making it more efficient than comparable Transformer inference processors by between 2.6 and 162 times, according to the team.",
+  "The second chip simplifies the training of AI models and reduces computing and memory requirements, achieving a peak energy efficiency of 157 trillion operations per second per watt, while the team has already completed a new-generation chip built on 16-nanometre technology that came off the production line last month, designed to solve the memory bandwidth bottleneck in generative AI.",
+  "The researchers say many AI services today rely on the cloud, but applications such as robots and driverless vehicles need reliable connectivity and data privacy, and running AI on the device itself reduces latency and energy consumption, complementing cloud computing instead of replacing it.",
+  "Simply put: a small chip in your phone may spare you sending your data to a distant server every time you ask the AI something; if the phone itself can think, what will be left for the cloud?",
+  "Would you rather have AI run directly on your phone, or are you comfortable sending your requests to the cloud?"
+ ]
+}

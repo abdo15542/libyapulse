@@ -1,0 +1,25 @@
+{
+ "id": 1291,
+ "slug": "article-1291",
+ "title": "🛡️ Exein Launches the Rai Agent — AI That Protects Connected Devices from Inside Their Software!",
+ "date": "2026-11-25",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-05.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Exein"
+ ],
+ "body": [
+  "🛡️ Exein Launches the Rai Agent — AI That Protects Connected Devices from Inside Their Software!",
+  "Italian cybersecurity company Exein launched on November 24 a new AI agent called Rai, whose job is to help makers of connected devices know which security risks inside their products' software are truly the most dangerous, why, and where to start fixing first — before attackers find them.",
+  "Rai works inside the Exein Analyzer platform, which scans the embedded software in devices for vulnerabilities and compliance issues, but instead of engineers browsing long lists of scan results, they ask Rai in plain language, such as: what is lowering this product's security score? Which vulnerabilities need attention first? And what are the compliance issues in this software?",
+  "The agent relies on scan results, vulnerability reachability data, and compliance findings to identify the small number of problems that pose the greatest risk, explain why they matter, and show where the same vulnerability appears across multiple products — so the team knows when fixing one problem protects a whole product line.",
+  "Importantly, Rai never acts alone: any change it suggests waits for human approval, and responsibility for decisions stays with people, and the agent is in a beta phase, available to the platform's current customers at no extra cost.",
+  "The launch comes amid growing European pressure on the security of connected products, as the European Cyber Resilience Act has required manufacturers since September 2026 to report actively exploited vulnerabilities and serious incidents, with its wider requirements taking effect in December 2027 — after recent attacks on cooling systems in European stores showed that a vulnerability in a connected device can go beyond data theft to immediate physical losses.",
+  "Simply put: the devices around us — from fridges to robots — carry thousands of software components, and no engineer can fix everything at once — so having an agent that ranks risks by their real severity could be the difference between a safe product and one that opens its door to attackers.",
+  "Would you trust an AI agent to rank the risks of your devices, or would you rather a human review every vulnerability personally?"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": 1290,
+ "slug": "article-1290",
+ "title": "🦊 Firefox 161 Arrives with Per-Site VPN Rules and a 'Fire' Button to Wipe Your Data in One Click!",
+ "date": "2026-11-25",
+ "category": "apps",
+ "category_name": "Apps & Platforms",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-04.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Firefox"
+ ],
+ "body": [
+  "🦊 Firefox 161 Arrives with Per-Site VPN Rules and a 'Fire' Button to Wipe Your Data in One Click!",
+  "Mozilla launched version 161 of the Firefox browser on November 24, and its highlight is per-site rules for the browser's built-in VPN service: users can now set sites that always go through the virtual network, and sites that always bypass it, without turning the service on or off manually each time.",
+  "The rules are managed from the VPN panel in the toolbar or from Settings, and they are available on computers in the places where the built-in service is supported, requiring a Mozilla account sign-in. They have not yet reached Android, and old exceptions are automatically converted into 'Always off' rules.",
+  "The company also announced it is raising the cap on free built-in VPN data until January 31, 2027, while noting that the built-in service only protects Firefox traffic — not full device protection like a standalone VPN app.",
+  "The second feature is the new 'Fire' button in the toolbar, which wipes browsing data in one click: browsing and download history, cookies, site data, temporary files, saved form information, and site permissions. You can choose exactly what gets wiped, but wiping everything signs you out of every site and opens a new window.",
+  "The button is rolling out gradually and does not reach all users on day one. The release also added a custom shortcut to copy the current tab's link, a read-aloud feature in Reader View on Android with on-device voices, and Firefox availability in the Google Play store for cars with built-in Google systems.",
+  "Simply put: the browser now knows when to turn the VPN on and off for each site on its own, and wipes your browsing traces at the press of a button — but the powerful button needs care, because wiping everything means signing out of all your accounts at once.",
+  "Do you use a VPN inside the browser, or do you prefer protection that covers your whole device?"
+ ]
+}

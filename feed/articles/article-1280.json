@@ -1,0 +1,25 @@
+{
+ "id": 1280,
+ "slug": "article-1280",
+ "title": "🧬 GPT-6.2 Designs Real Proteins in the Lab — 35 Proteins Bind to Therapeutic Targets!",
+ "date": "2026-11-25",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r310-w310-01.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "GPT62"
+ ],
+ "body": [
+  "🧬 GPT-6.2 Designs Real Proteins in the Lab — 35 Proteins Bind to Therapeutic Targets!",
+  "OpenAI announced on November 24 that its GPT-6.2 model designed entirely new proteins using reasoning and code-writing, and lab experiments then proved that some of them actually bind to real therapeutic targets — the company's first lab evidence that a general-purpose model can design proteins without relying on a specialized biology model in the design step itself.",
+  "In the first experiment, researchers gave the model 3D shapes of five target proteins and specified the spots where they wanted a new small protein to attach. The model wrote code to explore the possible shapes, then specialized tools suggested the amino-acid sequences, and the proteins were made and tested in the lab by a research partner.",
+  "Of 322 small proteins tested, 35 showed evidence of binding to their target — a rate of 10.9% — with results spread across all five targets: 5 for PD-L1, 3 for IL-7Rα, 1 for TrkA, 8 for VEGF-A, and 18 for IL-17A.",
+  "Sequence redesign results were even higher: 85% of the new designs for the MDM2 target kept their binding, and 62% for VEGF-A, while 70% of minibody variants kept their target, and 66% of therapeutic antibody fragments kept their binding.",
+  "But the picture is not complete: the results come from the company itself and have not yet been reviewed by an independent party, and binding in a test tube is not a medicine — no data has been published on binding strength, efficacy, or safety, and the model is still weak at predicting a protein's full shape from its sequence alone.",
+  "Simply put: a general-purpose chat model can now design molecules that might one day become medicines — but between 'sticks to the target in the lab' and 'a safe drug in the pharmacy' lies a long road of testing.",
+  "Would you trust AI to design the medicines of the future, or do you think only humans should hold that file?"
+ ]
+}

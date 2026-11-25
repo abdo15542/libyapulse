@@ -1,0 +1,25 @@
+{
+ "id": 1284,
+ "slug": "article-1284",
+ "title": "🌿 Ternary Bonsai 2.5 — A Powerful AI Model That Runs on Your Computer with Just 5.9 GB of Memory!",
+ "date": "2026-11-25",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r310-w310-05.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Bonsai"
+ ],
+ "body": [
+  "🌿 Ternary Bonsai 2.5 — A Powerful AI Model That Runs on Your Computer with Just 5.9 GB of Memory!",
+  "PrismML launched its new model, Ternary Bonsai 2.5 27B, on November 24 — a coding and AI agent model built on Qwen 3.8 27B, but one that runs on just 5.9 GB of memory, meaning it suits ordinary personal computers without the need for huge servers.",
+  "The secret of this efficiency is a technique called 'ternary weights': the model's weights are compressed to take just three values — minus 1, zero, and 1 — which shrinks its size dramatically while preserving most of its performance, according to the company.",
+  "The company says the new model improved its results on agent performance tests such as DeepSWE and Terminal-Bench compared with the previous version, and that the gap with the full original model has narrowed, while also claiming it matches the Opus 4.6 model on SWE-bench, the standard coding test.",
+  "Among its striking abilities, the model can make 180 tool calls offline, from diagnosing the cause of a coding bug to building and testing its fix, and it can rebuild a complete web page from a single screenshot and create 3D graphics.",
+  "This release is an update to the Bonsai 2 model, which came out last September, and it targets developers and researchers who want a strong coding agent running locally on their machines, keeping their work private without sending code to any server.",
+  "Simply put: a huge model now fits on your personal computer — powerful AI is no longer reserved for those who own a data center.",
+  "Would you prefer a model that runs on your own device and protects your privacy, or a stronger cloud model?"
+ ]
+}

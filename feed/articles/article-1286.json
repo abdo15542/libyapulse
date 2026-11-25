@@ -1,0 +1,25 @@
+{
+ "id": 1286,
+ "slug": "article-1286",
+ "title": "⚖️ Japan Opens the File on AI Agent Liability — Who Pays When the Agent Makes a Mistake?",
+ "date": "2026-11-25",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r310-w310-07.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AIRegulation"
+ ],
+ "body": [
+  "⚖️ Japan Opens the File on AI Agent Liability — Who Pays When the Agent Makes a Mistake?",
+  "The Japanese government held on November 24 the first meeting of a new panel of experts to discuss a question that has become urgent as AI agents spread: who bears legal responsibility when an agent causes harm or financial loss?",
+  "The panel sits under the Council for the Promotion of AI and Digital Transformation, and includes 12 experts chaired by Tokyo University law professor Goji Shishido. It aims to issue a report by June 2027 setting out a framework for civil liability and ways to compensate those harmed.",
+  "The question is not theoretical: agents now shop, book travel, and carry out financial tasks on the user's behalf, yet current law does not make clear who is responsible — the user, the service provider, or the developer — when an agent buys more than the user intended, or fails to cancel a hotel booking.",
+  "On the same day, Japan's Financial Services Agency held the first meeting of its own study group, to examine the legal liability of agents in financial transactions, the validity of contracts signed by an agent, and the risks of market swings that large-scale automated execution could cause.",
+  "The move comes after Japanese newspapers revealed days earlier that the government was preparing to form the panel — the first time the government has seriously examined the legal liability of AI agents, rather than just voluntary guidelines.",
+  "Simply put: the smart agent now acts in your name and spends your money — so before you give it wider powers, everyone needs to know who pays for its mistakes.",
+  "If your smart assistant bought something you did not ask for, who do you see as responsible: you, the company, or the developer?"
+ ]
+}

@@ -1,7 +1,267 @@
 {
- "count": 1279,
- "generated": "2026-11-25T08:31:46.653117Z",
+ "count": 1305,
+ "generated": "2026-11-25T12:32:19.568815Z",
  "articles": [
+  {
+   "id": 1305,
+   "slug": "article-1305",
+   "title": "🔋 National Taiwan University builds a chip that runs AI on your phone — no cloud!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-14.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1304,
+   "slug": "article-1304",
+   "title": "📜 GPT-6.2 Astra solves a 200-year-old historical mystery in 22 minutes!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-13.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1303,
+   "slug": "article-1303",
+   "title": "🎓 A fifth of Japanese companies are cutting graduate hiring — AI is taking office jobs!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-11.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1302,
+   "slug": "article-1302",
+   "title": "💶 Dutch company Accelera negotiates $400 million to compete with Nvidia!",
+   "date": "2026-11-25",
+   "category": "companies",
+   "category_name": "Companies & Business",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1301,
+   "slug": "article-1301",
+   "title": "🧮 OpenAI claims to solve a decades-old math puzzle — matrix multiplication with exponent 2.25!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1300,
+   "slug": "article-1300",
+   "title": "🧸 New York bans AI chatbot toys for 5 years — dolls that talk to children!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1299,
+   "slug": "article-1299",
+   "title": "⚠️ Apple removes the Talkie app after a press investigation — and 50,000 Australian children used it!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1298,
+   "slug": "article-1298",
+   "title": "💬 Muse comes to Instagram DMs — it summarizes your chats and organizes your saved posts!",
+   "date": "2026-11-25",
+   "category": "apps",
+   "category_name": "Apps & Platforms",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1297,
+   "slug": "article-1297",
+   "title": "🎵 Tidal deletes 29 million AI-generated songs — and shuts the door on them for good!",
+   "date": "2026-11-25",
+   "category": "apps",
+   "category_name": "Apps & Platforms",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1296,
+   "slug": "article-1296",
+   "title": "✂️ Gemini adds file slicing in its API — pay only for what the model reads!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1295,
+   "slug": "article-1295",
+   "title": "📸 Galaxy S27 Ultra may lose its laser autofocus sensor and 3x zoom camera!",
+   "date": "2026-11-25",
+   "category": "phones",
+   "category_name": "Phones & Devices",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1294,
+   "slug": "article-1294",
+   "title": "🚨 Critical Cisco Expressway flaw actively exploited — attackers get root access!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1293,
+   "slug": "article-1293",
+   "title": "✨ OnePlus Nord 7 leak reveals a colorful light strip and a 9000mAh battery!",
+   "date": "2026-11-25",
+   "category": "phones",
+   "category_name": "Phones & Devices",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1292,
+   "slug": "article-1292",
+   "title": "📱 iQOO 16 Arrives in Malaysia on December 8 — 2nm Chip and a 165Hz Display!",
+   "date": "2026-11-25",
+   "category": "phones",
+   "category_name": "Phones & Devices",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1291,
+   "slug": "article-1291",
+   "title": "🛡️ Exein Launches the Rai Agent — AI That Protects Connected Devices from Inside Their Software!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1290,
+   "slug": "article-1290",
+   "title": "🦊 Firefox 161 Arrives with Per-Site VPN Rules and a 'Fire' Button to Wipe Your Data in One Click!",
+   "date": "2026-11-25",
+   "category": "apps",
+   "category_name": "Apps & Platforms",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1289,
+   "slug": "article-1289",
+   "title": "📵 Sudden Outage Stops TikTok for 25,000 Users — Videos Won't Load and Profiles Are Empty!",
+   "date": "2026-11-25",
+   "category": "apps",
+   "category_name": "Apps & Platforms",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1288,
+   "slug": "article-1288",
+   "title": "⚖️ US Jury Convicts Huawei on 10 of 12 Counts — Fraud and Theft of Trade Secrets!",
+   "date": "2026-11-25",
+   "category": "companies",
+   "category_name": "Companies & Business",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1287,
+   "slug": "article-1287",
+   "title": "🏦 US FinCEN Reveals a Breach of Its Systems — Banks Receive Urgent Instructions!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r311-w311-01.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1286,
+   "slug": "article-1286",
+   "title": "⚖️ Japan Opens the File on AI Agent Liability — Who Pays When the Agent Makes a Mistake?",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r310-w310-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1285,
+   "slug": "article-1285",
+   "title": "🪐 Amateur Astronomers Discover 49 Possible Planets with the Help of AI — From NASA's Open Data!",
+   "date": "2026-11-25",
+   "category": "space",
+   "category_name": "Space",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r310-w310-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1284,
+   "slug": "article-1284",
+   "title": "🌿 Ternary Bonsai 2.5 — A Powerful AI Model That Runs on Your Computer with Just 5.9 GB of Memory!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r310-w310-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1283,
+   "slug": "article-1283",
+   "title": "🤖 ByteDance Launches Xiaodu — A Personal Assistant That Remembers You and Gets Things Done in the Background!",
+   "date": "2026-11-25",
+   "category": "apps",
+   "category_name": "Apps & Platforms",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r310-w310-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1282,
+   "slug": "article-1282",
+   "title": "🏆 Gemini 4 Neon Tops LiveBench — 87.4 and a Clear Lead Over Its Rivals!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r310-w310-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1281,
+   "slug": "article-1281",
+   "title": "💻 Claude Turns Its Tools into Desktop Apps — Install What You Build with One Click!",
+   "date": "2026-11-25",
+   "category": "phones",
+   "category_name": "Phones & Devices",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r310-w310-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1280,
+   "slug": "article-1280",
+   "title": "🧬 GPT-6.2 Designs Real Proteins in the Lab — 35 Proteins Bind to Therapeutic Targets!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r310-w310-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1279,
    "slug": "article-1279",

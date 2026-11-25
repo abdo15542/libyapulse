@@ -1,0 +1,25 @@
+{
+ "id": 1304,
+ "slug": "article-1304",
+ "title": "📜 GPT-6.2 Astra solves a 200-year-old historical mystery in 22 minutes!",
+ "date": "2026-11-25",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r312-w312-13.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "GPT62Astra"
+ ],
+ "body": [
+  "📜 GPT-6.2 Astra solves a 200-year-old historical mystery in 22 minutes!",
+  "AI model GPT-6.2 Astra solved a historical mystery that had gone unanswered for more than 200 years, in just 22 minutes, in an experiment conducted by Canadian historian Mark Humphries before the model's official launch.",
+  "The mystery was an anonymous 84-page sketchbook held at Yale University's Beinecke Library, documenting a journey from Montreal to Fort William in 1808, which had puzzled historians for years, as there was no direct indication of the artist's name, and he could have been anyone among thousands of people.",
+  "With minimal guidance, the model analysed the digitized pages, compared dates against open archival databases, and identified the artist as French aristocrat and British army officer Louis de Rohan-Chabot, then traced him through a footnote in a 2014 doctoral thesis to discover unknown travel diaries of Chabot preserved on microfilm in the Cleveland State University archive.",
+  "Humphries requested a copy of the diaries, and the handwriting in them matched the captions under the drawings, the journey's steps matched the dated drawings, and he even found rare conclusive proof: on 18 June 1808, after Chabot's canoe arrived at Fort St. Joseph, he wrote in his diaries that he 'drew' the very fort shown in the sketchbook.",
+  "The researcher later repeated the experiment with the Claude Opus 5.2 model, which identified the author in 35 minutes but failed to find the diaries, while Humphries stressed that modern models have gone beyond mathematical tasks and become capable of independent historical research: reading sources, forming a hypothesis from limited evidence, and proving it.",
+  "Simply put: a nameless sketchbook remained a mystery for two full centuries, and AI solved it in less than half an hour — and even discovered a completely new document historians in the field did not know about; historical research itself may never be the same again.",
+  "Do you think AI will become a partner for historians, or will it replace them one day?"
+ ]
+}
