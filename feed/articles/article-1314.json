@@ -1,0 +1,25 @@
+{
+ "id": 1314,
+ "slug": "article-1314",
+ "title": "🔌 MCP Protocol Passes 700 Million Monthly Downloads — and AI Agents Work More Independently!",
+ "date": "2026-11-25",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r314-w314-07.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "🔌 MCP Protocol Passes 700 Million Monthly Downloads — and AI Agents Work More Independently!",
+  "Anthropic announced on Monday 24 November that the MCP protocol, the open standard that connects AI assistants to external tools and data, has passed 700 million monthly downloads of its developer tools — just two years after its launch.",
+  "The figure is a huge jump from about 90 million monthly downloads a year ago — around eight times as many — and the number of connectors available for the Claude assistant has passed ten thousand, turning the protocol into core infrastructure for the age of agents.",
+  "Alongside the second anniversary, the company launched new features that make agents more independent: \"Tasks\" lets a server carry out long work in the background and report the result when it is ready, and \"Elicitation\" lets it stop and ask the user about a missing detail. Both are now available to everyone after public testing in October.",
+  "The company also launched \"Skills via MCP\" in beta, where a server supplies the Claude assistant with specialized knowledge, best practices, and ready-made workflows, plus upcoming support for uploading files such as spreadsheets and documents directly to servers.",
+  "Technically, the company cut context consumption by more than 85% in multi-server setups by loading tool descriptions only when needed, and the protocol has been hosted since December 2025 by the Agentic AI Foundation under the Linux Foundation, with more than 2,500 contributors.",
+  "Simply put: the protocol that began as a way to connect an assistant to tools has become the shared language of AI agents — and now agents are learning to work alone for longer stretches without constant supervision.",
+  "Will all your apps one day connect to your smart assistant through a single protocol?"
+ ]
+}

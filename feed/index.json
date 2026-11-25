@@ -1,7 +1,117 @@
 {
- "count": 1305,
- "generated": "2026-11-25T12:32:19.568815Z",
+ "count": 1316,
+ "generated": "2026-11-25T16:56:40.644945Z",
  "articles": [
+  {
+   "id": 1316,
+   "slug": "article-1316",
+   "title": "🎬 Magi-2 Generates 30-Second Video with Synced Sound — a Giant Model with 480 Billion Parameters!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r314-w314-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1315,
+   "slug": "article-1315",
+   "title": "📉 Anthropic Shares Close Below IPO Price for the First Time — and Its CEO Sold $280 Million in Stock!",
+   "date": "2026-11-25",
+   "category": "companies",
+   "category_name": "Companies & Business",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r314-w314-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1314,
+   "slug": "article-1314",
+   "title": "🔌 MCP Protocol Passes 700 Million Monthly Downloads — and AI Agents Work More Independently!",
+   "date": "2026-11-25",
+   "category": "computing",
+   "category_name": "Computing & Programming",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r314-w314-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1313,
+   "slug": "article-1313",
+   "title": "🛒 Meta's Muse Agent Takes 51% of AI-Agent Purchases — Beating Grok and ChatGPT!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r314-w314-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1312,
+   "slug": "article-1312",
+   "title": "📱 Galaxy Z TriFold 2 Appears in Leaks — and Another Limited Release!",
+   "date": "2026-11-25",
+   "category": "phones",
+   "category_name": "Phones & Devices",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r313-w313-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1311,
+   "slug": "article-1311",
+   "title": "📱 Razr 2027 Arrives Early in January — with a Bigger Outer Screen at Last!",
+   "date": "2026-11-25",
+   "category": "phones",
+   "category_name": "Phones & Devices",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r313-w313-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1310,
+   "slug": "article-1310",
+   "title": "📱 Redmi Note 18 Appears in a Chinese Certification — with an 8888 mAh Battery!",
+   "date": "2026-11-25",
+   "category": "phones",
+   "category_name": "Phones & Devices",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r313-w313-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1309,
+   "slug": "article-1309",
+   "title": "🎬 Oppo Find X10 Pro Max Shoots Like a Pro — the Blackmagic App Arrives Officially!",
+   "date": "2026-11-25",
+   "category": "phones",
+   "category_name": "Phones & Devices",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r313-w313-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1308,
+   "slug": "article-1308",
+   "title": "🤖 MONAI Label Flaw Scores 9.8 with an Official Fix — and Agents Broke In Within 11 Minutes!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r313-w313-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1307,
+   "slug": "article-1307",
+   "title": "🚁 Amazon Drone Crashes onto a Garage After Delivering Shampoo — and the FAA Is Investigating!",
+   "date": "2026-11-25",
+   "category": "science",
+   "category_name": "Science & Innovation",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r313-w313-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1306,
+   "slug": "article-1306",
+   "title": "🔔 Apple Warns iPhone Users in 99 Countries of a Spyware Attack!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r313-w313-02.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1305,
    "slug": "article-1305",

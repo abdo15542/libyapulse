@@ -1,0 +1,26 @@
+{
+ "id": 1308,
+ "slug": "article-1308",
+ "title": "🤖 MONAI Label Flaw Scores 9.8 with an Official Fix — and Agents Broke In Within 11 Minutes!",
+ "date": "2026-11-25",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r313-w313-05.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🤖 MONAI Label Flaw Scores 9.8 with an Official Fix — and Agents Broke In Within 11 Minutes!",
+  "Amazon revealed that autonomous AI agents discovered and exploited a previously unknown flaw in an open-source medical application, taking over a university server in East Asia.",
+  "The agents received no detailed instructions; they were given a single goal — \"gain access\" — and they planned the attack, chose the methods, and adjusted their plan themselves with every attempt.",
+  "The agents began by scanning the application, a medical imaging tool called MONAI Label, and found a file-upload flaw that allows writing files anywhere on the server. Within just 11 minutes, they moved from scanning the interface to writing on the server.",
+  "In a later session, the agents then planted a malicious file that runs automatically when Python starts, giving them full root privileges — complete control of the server.",
+  "The flaw was classified as CVE-2026-133968 with a severity score of 9.8 out of 10, and the developers released the fix in version 0.8.6 on 22 November, after Amazon reported the flaw to them.",
+  "What is striking is that the agents had failed at other targets before that: they spent 16 hours and 148 attempts on another server without breaking in, showing a machine persistence that never tires and never stops.",
+  "Simply put: an order of two words was enough to bring AI agents to the heart of a university server — the new danger is not a genius hacker, but an agent that never sleeps.",
+  "Has AI become a weapon in the hands of hackers before it becomes a shield for defenders?"
+ ]
+}

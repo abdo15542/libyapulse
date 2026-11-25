@@ -1,0 +1,25 @@
+{
+ "id": 1316,
+ "slug": "article-1316",
+ "title": "🎬 Magi-2 Generates 30-Second Video with Synced Sound — a Giant Model with 480 Billion Parameters!",
+ "date": "2026-11-25",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r314-w314-09.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🎬 Magi-2 Generates 30-Second Video with Synced Sound — a Giant Model with 480 Billion Parameters!",
+  "Sand AI lab launched its new video-generation model Magi-2 on Monday 24 November, currently available exclusively through the Higgsfield platform, in a new step in the race between AI video models.",
+  "The model can generate clips of 4 to 30 seconds at 1080p resolution and 25 frames per second, with synchronized sound covering dialogue, lip sync, sound effects, and music, starting from a text prompt, images, or reference clips.",
+  "The model is built on a mixture-of-experts architecture with a total of 480 billion parameters, about 28 billion of them active in each generation, and was trained on about 4 trillion tokens. It also supports up to 20 reference elements in a single request, including 10 images, 5 videos, and 5 audio clips.",
+  "The model also allows precise control over the timeline, shots, and camera movement, and editing existing clips by describing the desired change. Its API price is $0.08 per second — $2.40 for a full 30-second clip.",
+  "The lab promised to release the model's weights as open source soon, along with a detailed technical report, but they had not been published as of 25 November — meaning the model is currently available through hosting only, not for running locally.",
+  "Simply put: a complete video with sound and motion from a single sentence — making short clips is coming close to becoming a writing skill rather than a filming skill.",
+  "Would you use a video model like this to make your content, or is real video quality still far ahead?"
+ ]
+}
