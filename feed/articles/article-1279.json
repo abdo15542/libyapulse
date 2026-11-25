@@ -1,0 +1,25 @@
+{
+ "id": 1279,
+ "slug": "article-1279",
+ "title": "🎨 Midjourney launches “Niji 8” — a faster anime model and an editing tool that preserves the character!",
+ "date": "2026-11-25",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-10.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Midjourney"
+ ],
+ "body": [
+  "🎨 Midjourney launches “Niji 8” — a faster anime model and an editing tool that preserves the character!",
+  "Midjourney launched its new “Niji 8” model on 24 November in collaboration with Spellbrush, specialising in anime and illustration, describing it as the fastest and most consistent “Niji” model so far.",
+  "The model is activated by typing “--niji 8” after the command in Discord, or by choosing it from the version list in the web interface, and it features more accurate understanding of prompts, better spatial reasoning, and the ability to generate multi-panel manga pages from a single description.",
+  "Its most notable feature is the new editing tool, which replaces the old character reference feature: after generating an image, the user can place the same character in different backgrounds and poses while keeping its features, via the “Quick Edit” button — a feature many users had missed since “Niji 6”.",
+  "The company revealed that it delayed the launch until it was sure characters could be reproduced through editing, because consistency is what turns a single image into a comic series or a complete game.",
+  "The company did not announce any prices, benchmark results or an API for the new model, describing it only as combining the aesthetics of “Niji 7” and the variety of “Niji 6”.",
+  "Simply put: the new model does not just draw a prettier picture — it solves the hardest problem in AI anime art: keeping the same character from one scene to the next.",
+  "Have you ever tried generating anime art with AI?"
+ ]
+}

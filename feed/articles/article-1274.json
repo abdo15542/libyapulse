@@ -1,0 +1,25 @@
+{
+ "id": 1274,
+ "slug": "article-1274",
+ "title": "💻 Cognition launches 'SWE-2.1' — a coding model that doubles its results and leads in vulnerability tests!",
+ "date": "2026-11-25",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-05.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Coding"
+ ],
+ "body": [
+  "💻 Cognition launches 'SWE-2.1' — a coding model that doubles its results and leads in vulnerability tests!",
+  "Cognition launched on 24 November its new model 'SWE-2.1', a major upgrade to the coding model behind its Devin assistant, trained with pure reinforcement learning on the open Kimi K3 model.",
+  "The new model doubled its predecessor's results in most tests: in the Terminal-Bench 4.1 test the score jumped from 24.2 to 50.0, in FrontierCode 2.0 from 24.1 to 41.3, in the ExploitBench vulnerability test from 36.1% to 80%, and in ExploitGame from 12.1% to 27.3% in exploiting intended vulnerabilities.",
+  "But the model still trails the leaders: Claude Opus 5.5 beats it in the two main coding tests, while Gemini 4 Neon and GPT-6.2 Sol beat it on some measures, meaning the leap is big but the top spot is still far away.",
+  "The company also launched two versions with it: 'SWE-2.1 Cyber', with more permissive safeguards for defensive security tasks in Devin Security, and 'SWE-2.1 Ultra Fast', built with Cerebras, at 600 tokens per second — ten times the normal speed.",
+  "One striking detail: the model discovered new vulnerabilities in its own sandbox environments four times during training, despite continuous penetration testing, and researchers were alerted each time.",
+  "Simply put: a coding model has become able to find vulnerabilities at a speed rivalling security experts; that very power is a double-edged sword, between defending systems and threatening them.",
+  "Do you think coding models will replace programmers, or become a tool in their hands?"
+ ]
+}

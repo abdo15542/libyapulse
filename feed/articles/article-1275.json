@@ -1,0 +1,24 @@
+{
+ "id": 1275,
+ "slug": "article-1275",
+ "title": "🤖 Baidu open-sources “Ernie 5.5 Flash” for free — 280 billion parameters and a million-token memory!",
+ "date": "2026-11-25",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-06.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Baidu"
+ ],
+ "body": [
+  "🤖 Baidu open-sources “Ernie 5.5 Flash” for free — 280 billion parameters and a million-token memory!",
+  "Chinese company Baidu has released the weights of its “Ernie 5.5 Flash Preview” model as open source under the Apache 2.0 licence, as it promised, on the Hugging Face and ModelScope platforms, after announcing the model on 11 November and opening its API to developers.",
+  "The model uses a mixture-of-experts design: it has 280 billion parameters in total, but only 14 billion are active for each token it processes, making it powerful and efficient with computing resources at the same time, with a context window of up to one million tokens — meaning it can take in huge documents and codebases in one go.",
+  "The company says the model excels at programming, 3D modelling, knowledge work and content creation, and that it generates more than 200 tokens per second, with 40% higher speed at the longest context, thanks to a cost-saving attention indexing technology.",
+  "But Baidu itself describes the model as an intermediate checkpoint whose post-training is still ongoing, so some of its capabilities may be incomplete, and the announced benchmark results come from the company itself and have not yet been verified by an independent party.",
+  "Simply put: a huge model with open weights means any developer can download it, run it and modify it for free — but “open” does not mean “fully ready”, as this version is still under development.",
+  "Do you prefer open-source models or closed ready-made ones?"
+ ]
+}

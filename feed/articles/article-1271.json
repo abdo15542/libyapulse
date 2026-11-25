@@ -1,0 +1,24 @@
+{
+ "id": 1271,
+ "slug": "article-1271",
+ "title": "🚨 Microsoft declares a 'Code Red' after a 24-hour outage — the worst incident in its cloud email history!",
+ "date": "2026-11-25",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-02.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Microsoft"
+ ],
+ "body": [
+  "🚨 Microsoft declares a 'Code Red' after a 24-hour outage — the worst incident in its cloud email history!",
+  "Microsoft has declared a 'Code Red', its highest engineering alert level, to fundamentally overhaul how it prevents and handles major incidents, after an outage lasting about 24 hours on 12 and 13 November disrupted Exchange Online, Outlook, Teams, Copilot and the rest of Microsoft 365.",
+  "The head of Microsoft 365 Core described the incident as the most customer-impacting in Exchange Online's history, as internal notes said response teams exchanged more than 11,000 messages across 11 group chats, while a company vice president described the response as taking place amid the 'fog of war', because diagnostic data was scattered across disconnected systems.",
+  "The company blamed the outage on a hidden Windows scalability flaw that surfaced in July, and confirmed it had nothing to do with any cyber activity or AI agents, while the CEO publicly apologised for the disruption.",
+  "The 'Code Red' plan includes five workstreams, including load shedding, splitting traffic geographically and faster recovery mechanisms, with an ambitious goal: restoring service globally within one hour in future incidents, instead of 24 hours, and using AI agents to help engineers diagnose system health quickly.",
+  "Simply put: even the world's largest software company can be stopped by a small flaw that went undetected for months; the lesson is that the speed of the response matters no less than preventing the failure itself.",
+  "Has your work ever been disrupted by an outage in a cloud service you rely on?"
+ ]
+}

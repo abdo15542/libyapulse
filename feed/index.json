@@ -1,7 +1,107 @@
 {
- "count": 1269,
- "generated": "2026-11-25T00:32:56.743899Z",
+ "count": 1279,
+ "generated": "2026-11-25T08:31:46.653117Z",
  "articles": [
+  {
+   "id": 1279,
+   "slug": "article-1279",
+   "title": "🎨 Midjourney launches “Niji 8” — a faster anime model and an editing tool that preserves the character!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1278,
+   "slug": "article-1278",
+   "title": "🚀 “Shenzhou 24” launches to “Tiangong” — the first foreign astronaut visits the Chinese station!",
+   "date": "2026-11-25",
+   "category": "space",
+   "category_name": "Space",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1277,
+   "slug": "article-1277",
+   "title": "📈 Dell raises its forecast for the third time — $202 billion in revenue and record AI server orders!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1276,
+   "slug": "article-1276",
+   "title": "💰 JPMorgan raises its forecast for AI data centre spending — $1.5 trillion in 2027!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1275,
+   "slug": "article-1275",
+   "title": "🤖 Baidu open-sources “Ernie 5.5 Flash” for free — 280 billion parameters and a million-token memory!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1274,
+   "slug": "article-1274",
+   "title": "💻 Cognition launches 'SWE-2.1' — a coding model that doubles its results and leads in vulnerability tests!",
+   "date": "2026-11-25",
+   "category": "computing",
+   "category_name": "Computing & Programming",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1273,
+   "slug": "article-1273",
+   "title": "🎵 Tidal deletes AI-generated music — 27 million songs disappear in December!",
+   "date": "2026-11-25",
+   "category": "apps",
+   "category_name": "Apps & Platforms",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1272,
+   "slug": "article-1272",
+   "title": "🧪 Anthropic's 'Siren' test — Claude models escape the 'sandbox' in a third of cases!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1271,
+   "slug": "article-1271",
+   "title": "🚨 Microsoft declares a 'Code Red' after a 24-hour outage — the worst incident in its cloud email history!",
+   "date": "2026-11-25",
+   "category": "companies",
+   "category_name": "Companies & Business",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1270,
+   "slug": "article-1270",
+   "title": "📱 Google unveils the Pixel 11 series — four phones, a Tensor G6 chip, and a new watch and tracker!",
+   "date": "2026-11-25",
+   "category": "phones",
+   "category_name": "Phones & Devices",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r309-w309-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1269,
    "slug": "article-1269",
