@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>🚨 A 10-out-of-10 Flaw Breaches the Elixir Package Registry — An Attacker Ran Commands on 6 Servers in 13 Minutes! | TechPulse</title>
+<meta name="description" content="🚨 A 10-out-of-10 Flaw Breaches the Elixir Package Registry — An Attacker Ran Commands on 6 Servers in 13 Minutes! An unknown attacker managed to run commands on 6 of the servers of the Hex.pm package registry, the registry that develo…">
+<link rel="canonical" href="https://abdo15542.github.io/techpulse/articles/article-1331.html">
+<meta property="og:site_name" content="TechPulse">
+<meta property="og:title" content="🚨 A 10-out-of-10 Flaw Breaches the Elixir Package Registry — An Attacker Ran Commands on 6 Servers in 13 Minutes! | TechPulse">
+<meta property="og:description" content="🚨 A 10-out-of-10 Flaw Breaches the Elixir Package Registry — An Attacker Ran Commands on 6 Servers in 13 Minutes! An unknown attacker managed to run commands on 6 of the servers of the Hex.pm package registry, the registry that develo…">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://abdo15542.github.io/techpulse/articles/article-1331.html">
+<meta property="og:image" content="https://abdo15542.github.io/wamdalibya/images/r317-w317-01.jpg">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/png" href="https://abdo15542.github.io/techpulse/assets/techpulse-logo.png">
+<link rel="stylesheet" href="../assets/style.css">
+<link rel="manifest" href="../manifest.json">
+<meta name="theme-color" content="#0B2B33">
+<link rel="apple-touch-icon" href="https://abdo15542.github.io/techpulse/assets/techpulse-logo.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="TechPulse">
+
+<script>if (/(WamdaApp|TechPulseApp)/.test(navigator.userAgent)) document.documentElement.classList.add('wamda-app');</script>
+<style>.wamda-app .adsbygoogle, .wamda-app ins.adsbygoogle, .wamda-app .ad-slot { display:none !important; }</style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6317687886565811" crossorigin="anonymous"></script>
+<script>
+window.addEventListener('load', function () {
+  try {
+    if ('serviceWorker' in navigator) navigator.serviceWorker.register('../sw.js');
+  } catch (e) {}
+});
+</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="../index.html">
+      <img src="https://abdo15542.github.io/techpulse/assets/techpulse-logo.png" alt="TechPulse logo" class="logo" width="48" height="48">
+      <span class="brand-text"><strong>TechPulse</strong><small>Tech, AI & news, as it happens</small></span>
+    </a>
+    <button class="menu-toggle" id="menuToggle" aria-label="Menu" aria-expanded="false">☰</button>
+    <nav class="main-nav" id="mainNav"><a href="../index.html">Home</a><a href="../about.html">About</a><a href="../contact.html">Contact</a><a href="../privacy-policy.html">Privacy Policy</a><a href="../announcements.html">📢 Announcements</a></nav>
+  </div>
+  <div class="container cat-bar"><a href="../categories/ai.html">Artificial Intelligence</a><a href="../categories/security.html">Cybersecurity</a><a href="../categories/space.html">Space</a><a href="../categories/phones.html">Phones & Devices</a><a href="../categories/apps.html">Apps & Platforms</a><a href="../categories/companies.html">Companies & Business</a><a href="../categories/computing.html">Computing & Programming</a><a href="../categories/science.html">Science & Innovation</a><a href="../categories/tech-news.html">Tech News</a></div>
+</header>
+<main>
+<div class="container article-page">
+  <nav class="breadcrumb"><a href="../index.html">Home</a> / <a href="../categories/security.html">Cybersecurity</a> / <span>🚨 A 10-out-of-10 Flaw Breaches the Elixir Package Registry —…</span></nav>
+  <article>
+    <a class="badge" href="../categories/security.html">Cybersecurity</a>
+    <h1>🚨 A 10-out-of-10 Flaw Breaches the Elixir Package Registry — An Attacker Ran Commands on 6 Servers in 13 Minutes!</h1>
+    <p class="article-meta"><time datetime="2026-11-25">25 November 2026</time> · Website · TechPulse</p>
+    <figure><img src="https://abdo15542.github.io/wamdalibya/images/r317-w317-01.jpg" alt="🚨 A 10-out-of-10 Flaw Breaches the Elixir Package Registry — An Attacker Ran Commands on 6 Servers in 13 Minutes!" width="1200" height="675"></figure>
+    <div class="article-body"><p>An unknown attacker managed to run commands on 6 of the servers of the Hex.pm package registry, the registry that developers of the Elixir and Erlang languages rely on to fetch their software libraries, exploiting a flaw rated at the maximum severity score of 10 out of 10.</p><p>The attacker sent 69 malicious requests in just 13 minutes, between 18:16 and 18:29 GMT on Monday, November 23, from two addresses, and the first file planted by the attack appeared on one of the servers just 0.003 seconds after the request arrived — but the registry team closed the flaw on all servers by 18:31, about 15 minutes after the first request.</p><p>The flaw, tracked as CVE-2026-129514, lies in the parser that reads request bodies sent in the Erlang data format: it was supposed to reject dangerous content, but it accepted maps carrying a special key that lets a request disguise itself as any code structure loaded in the application, and that led, through database libraries, to directly executing operating system commands, without any login, because the parser runs before routing and authentication in the first place.</p><div class="ad-slot ad-rectangle" data-ad-slot="article-mid" data-ad-format="rectangle" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div><p>Worse still, the bug has been in the code since February 23, 2016, when a security check that would have stopped the attack was removed — meaning the flaw lived for ten years without anyone noticing it — and no exploitation of it had been proven before Monday, while a security report describing the very same flaw arrived by email at 19:07, after the attack had ended.</p><p>The team examined every package published during the attack, 23 releases in total, and found them matching the audit logs, with no tampering in the packages or the databases — but database reads were not logged, so it cannot be ruled out that the attacker read email addresses, hashed passwords, API keys, two-factor authentication secrets and session data, so all users were logged out of their accounts and session keys were replaced.</p><p>Anyone with an account is advised to change their password, reset two-factor authentication and log in again, to fetch packages only from the official domain and avoid external mirrors until a new client ships with an updated log-signing system, and data protection authorities in Sweden, the United States and the European Union have been notified of the incident, while fixes were published for three related libraries where similar problems appeared.</p><p>Simply put: a ten-year-old flaw opened the door to the most important package registry for the Elixir language in 13 minutes, and the packages themselves are safe, but account data may have been read — so have you changed your password after any breach affecting a service you use?</p><p>Do you trust the package registries you fetch your projects&#x27; libraries from, or do you review what you install first?</p></div>
+    <div class="tags"><a class="chip" href="../index.html">#TechPulse</a><a class="chip" href="../index.html">#TechNews</a><a class="chip" href="../index.html">#Cybersecurity</a></div>
+    <div class="share">
+      <span>Share this story:</span>
+      <a href="https://wa.me/?text=%F0%9F%9A%A8%20A%2010-out-of-10%20Flaw%20Breaches%20the%20Elixir%20Package%20Registry%20%E2%80%94%20An%20Attacker%20Ran%20Commands%20on%206%20Servers%20in%2013%20Minutes%21%20https%3A//abdo15542.github.io/techpulse/articles/article-1331.html" target="_blank" rel="noopener" class="btn">WhatsApp</a>
+      <a href="https://twitter.com/intent/tweet?text=%F0%9F%9A%A8%20A%2010-out-of-10%20Flaw%20Breaches%20the%20Elixir%20Package%20Registry%20%E2%80%94%20An%20Attacker%20Ran%20Commands%20on%206%20Servers%20in%2013%20Minutes%21%20https%3A//abdo15542.github.io/techpulse/articles/article-1331.html&url=https%3A//abdo15542.github.io/techpulse/articles/article-1331.html" target="_blank" rel="noopener" class="btn">X</a>
+      <button class="btn" id="copyLinkBtn" data-url="https://abdo15542.github.io/techpulse/articles/article-1331.html">Copy link</button>
+    </div>
+  </article>
+  <div class="ad-slot ad-horizontal" data-ad-slot="header-leaderboard" data-ad-format="horizontal" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div>
+  <nav class="prev-next"><a class="prev" href="article-1330.html">← Previous: 🏠 Robots Build Homes in a Factory — Reframe Cuts Build Time and Lowers</a><a class="next" href="article-1332.html">Next: ⚠️ Drupal Flaw Now Exploited in the Wild — U.S. Security Agency Orders →</a></nav>
+</div>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🚨 A 10-out-of-10 Flaw Breaches the Elixir Package Registry — An Attacker Ran Commands on 6 Servers in 13 Minutes!", "inLanguage": "en", "datePublished": "2026-11-25", "dateModified": "2026-11-25", "author": {"@type": "Organization", "name": "TechPulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "TechPulse", "logo": {"@type": "ImageObject", "url": "https://abdo15542.github.io/techpulse/assets/techpulse-logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/techpulse/articles/article-1331.html", "image": "https://abdo15542.github.io/wamdalibya/images/r317-w317-01.jpg", "articleSection": "Cybersecurity"}</script></main>
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div>
+      <h3>TechPulse</h3>
+      <p>Tech, AI and news from around the world — verified, explained simply, updated around the clock.</p>
+      <p><a class="btn btn-cyan" href="https://www.facebook.com/profile.php?id=61596701491859" target="_blank" rel="noopener">Follow us on Facebook</a></p>
+    </div>
+    <div>
+      <h3>Categories</h3>
+      <ul class="footer-links"><li><a href="../categories/ai.html">Artificial Intelligence</a></li><li><a href="../categories/security.html">Cybersecurity</a></li><li><a href="../categories/space.html">Space</a></li><li><a href="../categories/phones.html">Phones & Devices</a></li><li><a href="../categories/apps.html">Apps & Platforms</a></li><li><a href="../categories/companies.html">Companies & Business</a></li><li><a href="../categories/computing.html">Computing & Programming</a></li><li><a href="../categories/science.html">Science & Innovation</a></li><li><a href="../categories/tech-news.html">Tech News</a></li></ul>
+    </div>
+    <div>
+      <h3>Links</h3>
+      <ul class="footer-links">
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="../about.html">About</a></li>
+        <li><a href="../contact.html">Contact</a></li>
+        <li><a href="../privacy-policy.html">Privacy Policy</a></li>
+        <li><a href="../sitemap.xml">Sitemap</a></li>
+      </ul>
+      <p>Email: <a href="mailto:mybook9191@gmail.com">mybook9191@gmail.com</a></p>
+    </div>
+  </div>
+  <div class="copyright">© 2026 TechPulse — All rights reserved.</div>
+</footer>
+<script src="../assets/site.js" defer></script>
+</body>
+</html>
