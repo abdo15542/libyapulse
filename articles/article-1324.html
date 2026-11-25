@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>🛡️ Two GeoServer Flaws Being Exploited Right Now — and a Chain of Flaws That Gives Attackers Full Control With No Password! | TechPulse</title>
+<meta name="description" content="🛡️ Two GeoServer Flaws Being Exploited Right Now — and a Chain of Flaws That Gives Attackers Full Control With No Password! Security researchers have warned that attackers are actively exploiting two newly disclosed vulnerabilities in GeoServer…">
+<link rel="canonical" href="https://abdo15542.github.io/techpulse/articles/article-1324.html">
+<meta property="og:site_name" content="TechPulse">
+<meta property="og:title" content="🛡️ Two GeoServer Flaws Being Exploited Right Now — and a Chain of Flaws That Gives Attackers Full Control With No Password! | TechPulse">
+<meta property="og:description" content="🛡️ Two GeoServer Flaws Being Exploited Right Now — and a Chain of Flaws That Gives Attackers Full Control With No Password! Security researchers have warned that attackers are actively exploiting two newly disclosed vulnerabilities in GeoServer…">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://abdo15542.github.io/techpulse/articles/article-1324.html">
+<meta property="og:image" content="https://abdo15542.github.io/wamdalibya/images/r316-w316-02.jpg">
+<meta property="og:locale" content="en_US">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/png" href="https://abdo15542.github.io/techpulse/assets/techpulse-logo.png">
+<link rel="stylesheet" href="../assets/style.css">
+<link rel="manifest" href="../manifest.json">
+<meta name="theme-color" content="#0B2B33">
+<link rel="apple-touch-icon" href="https://abdo15542.github.io/techpulse/assets/techpulse-logo.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="TechPulse">
+
+<script>if (/(WamdaApp|TechPulseApp)/.test(navigator.userAgent)) document.documentElement.classList.add('wamda-app');</script>
+<style>.wamda-app .adsbygoogle, .wamda-app ins.adsbygoogle, .wamda-app .ad-slot { display:none !important; }</style>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6317687886565811" crossorigin="anonymous"></script>
+<script>
+window.addEventListener('load', function () {
+  try {
+    if ('serviceWorker' in navigator) navigator.serviceWorker.register('../sw.js');
+  } catch (e) {}
+});
+</script>
+</head>
+<body>
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="../index.html">
+      <img src="https://abdo15542.github.io/techpulse/assets/techpulse-logo.png" alt="TechPulse logo" class="logo" width="48" height="48">
+      <span class="brand-text"><strong>TechPulse</strong><small>Tech, AI & news, as it happens</small></span>
+    </a>
+    <button class="menu-toggle" id="menuToggle" aria-label="Menu" aria-expanded="false">☰</button>
+    <nav class="main-nav" id="mainNav"><a href="../index.html">Home</a><a href="../about.html">About</a><a href="../contact.html">Contact</a><a href="../privacy-policy.html">Privacy Policy</a><a href="../announcements.html">📢 Announcements</a></nav>
+  </div>
+  <div class="container cat-bar"><a href="../categories/ai.html">Artificial Intelligence</a><a href="../categories/security.html">Cybersecurity</a><a href="../categories/space.html">Space</a><a href="../categories/phones.html">Phones & Devices</a><a href="../categories/apps.html">Apps & Platforms</a><a href="../categories/companies.html">Companies & Business</a><a href="../categories/computing.html">Computing & Programming</a><a href="../categories/science.html">Science & Innovation</a><a href="../categories/tech-news.html">Tech News</a></div>
+</header>
+<main>
+<div class="container article-page">
+  <nav class="breadcrumb"><a href="../index.html">Home</a> / <a href="../categories/security.html">Cybersecurity</a> / <span>🛡️ Two GeoServer Flaws Being Exploited Right Now — and a Cha…</span></nav>
+  <article>
+    <a class="badge" href="../categories/security.html">Cybersecurity</a>
+    <h1>🛡️ Two GeoServer Flaws Being Exploited Right Now — and a Chain of Flaws That Gives Attackers Full Control With No Password!</h1>
+    <p class="article-meta"><time datetime="2026-11-25">25 November 2026</time> · Website · TechPulse</p>
+    <figure><img src="https://abdo15542.github.io/wamdalibya/images/r316-w316-02.jpg" alt="🛡️ Two GeoServer Flaws Being Exploited Right Now — and a Chain of Flaws That Gives Attackers Full Control With No Password!" width="1200" height="675"></figure>
+    <div class="article-body"><p>Security researchers have warned that attackers are actively exploiting two newly disclosed vulnerabilities in GeoServer, the open-source software organisations use to publish map and geographic data, and that the two flaws can be chained with others to gain full control of the server without any login.</p><p>The first flaw, rated 8.6 out of 10, lets anyone without an account read text files from the server through a single request to the geographic features service, or fetch links chosen by the attacker. The second, rated 8.8, is a permissions-check bug that lets an attacker run operations meant for administrators only, simply by adding a short prefix to the service name such as &quot;x/wfs&quot;.</p><p>A security company has spotted real exploitation attempts: the attackers sent technical probes to check whether a server was vulnerable, by creating stored queries and calling them, but so far no case has been recorded of attackers successfully running code remotely — the current activity looks like scouting for weak servers before the real attack.</p><div class="ad-slot ad-rectangle" data-ad-slot="article-mid" data-ad-format="rectangle" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div><p>More dangerous still, the two flaws are part of a longer chain: reading files exposes a file holding usernames, their encrypted passwords and a fixed signing key — the word &quot;GeoServer&quot; itself — so an attacker can forge a valid administrator profile without knowing the password, then exploit a third flaw to run code from a library they upload themselves, on both Linux and Windows.</p><p>One security company discovered this chain and reported it on 29 September, while another researcher reported a five-step chain on 2 August; security updates were published in October and early November, then official advisories were published on 24 November — so the fix has been available for weeks, yet many servers have still not been updated, even though more than 3,000 exposed copies are visible on the internet.</p><p>The warning comes just three months after another critical flaw in the same software was exploited as a zero-day in August, making an immediate update to versions 3.0.2, 2.28.6 or 2.27.7 essential for anyone running GeoServer.</p><p>Simply put: two password-free flaws open the door, and a three-step chain takes the attacker to the control room; the fix has been out for weeks — the question is who updated their server and who left it open?</p><p>Do you make sure to update your server software as soon as fixes are released, or do you put it off until you have time?</p></div>
+    <div class="tags"><a class="chip" href="../index.html">#TechPulse</a><a class="chip" href="../index.html">#TechNews</a><a class="chip" href="../index.html">#Cybersecurity</a></div>
+    <div class="share">
+      <span>Share this story:</span>
+      <a href="https://wa.me/?text=%F0%9F%9B%A1%EF%B8%8F%20Two%20GeoServer%20Flaws%20Being%20Exploited%20Right%20Now%20%E2%80%94%20and%20a%20Chain%20of%20Flaws%20That%20Gives%20Attackers%20Full%20Control%20With%20No%20Password%21%20https%3A//abdo15542.github.io/techpulse/articles/article-1324.html" target="_blank" rel="noopener" class="btn">WhatsApp</a>
+      <a href="https://twitter.com/intent/tweet?text=%F0%9F%9B%A1%EF%B8%8F%20Two%20GeoServer%20Flaws%20Being%20Exploited%20Right%20Now%20%E2%80%94%20and%20a%20Chain%20of%20Flaws%20That%20Gives%20Attackers%20Full%20Control%20With%20No%20Password%21%20https%3A//abdo15542.github.io/techpulse/articles/article-1324.html&url=https%3A//abdo15542.github.io/techpulse/articles/article-1324.html" target="_blank" rel="noopener" class="btn">X</a>
+      <button class="btn" id="copyLinkBtn" data-url="https://abdo15542.github.io/techpulse/articles/article-1324.html">Copy link</button>
+    </div>
+  </article>
+  <div class="ad-slot ad-horizontal" data-ad-slot="header-leaderboard" data-ad-format="horizontal" role="complementary" aria-label="Advertisement"><span class="ad-label">Advertisement</span></div>
+  <nav class="prev-next"><a class="prev" href="article-1323.html">← Previous: 🚨 Allstate Outage Cripples Its Website and App for a Third Day — Custo</a><a class="next" href="article-1325.html">Next: 💊 Novartis CEO: AI Won&#x27;t Cure Cancer Within 10 Years — and We Only Und →</a></nav>
+</div>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "NewsArticle", "headline": "🛡️ Two GeoServer Flaws Being Exploited Right Now — and a Chain of Flaws That Gives Attackers Full Control With No Password!", "inLanguage": "en", "datePublished": "2026-11-25", "dateModified": "2026-11-25", "author": {"@type": "Organization", "name": "TechPulse", "url": "https://www.facebook.com/profile.php?id=61596701491859"}, "publisher": {"@type": "Organization", "name": "TechPulse", "logo": {"@type": "ImageObject", "url": "https://abdo15542.github.io/techpulse/assets/techpulse-logo.png"}}, "mainEntityOfPage": "https://abdo15542.github.io/techpulse/articles/article-1324.html", "image": "https://abdo15542.github.io/wamdalibya/images/r316-w316-02.jpg", "articleSection": "Cybersecurity"}</script></main>
+<footer class="site-footer">
+  <div class="container footer-grid">
+    <div>
+      <h3>TechPulse</h3>
+      <p>Tech, AI and news from around the world — verified, explained simply, updated around the clock.</p>
+      <p><a class="btn btn-cyan" href="https://www.facebook.com/profile.php?id=61596701491859" target="_blank" rel="noopener">Follow us on Facebook</a></p>
+    </div>
+    <div>
+      <h3>Categories</h3>
+      <ul class="footer-links"><li><a href="../categories/ai.html">Artificial Intelligence</a></li><li><a href="../categories/security.html">Cybersecurity</a></li><li><a href="../categories/space.html">Space</a></li><li><a href="../categories/phones.html">Phones & Devices</a></li><li><a href="../categories/apps.html">Apps & Platforms</a></li><li><a href="../categories/companies.html">Companies & Business</a></li><li><a href="../categories/computing.html">Computing & Programming</a></li><li><a href="../categories/science.html">Science & Innovation</a></li><li><a href="../categories/tech-news.html">Tech News</a></li></ul>
+    </div>
+    <div>
+      <h3>Links</h3>
+      <ul class="footer-links">
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="../about.html">About</a></li>
+        <li><a href="../contact.html">Contact</a></li>
+        <li><a href="../privacy-policy.html">Privacy Policy</a></li>
+        <li><a href="../sitemap.xml">Sitemap</a></li>
+      </ul>
+      <p>Email: <a href="mailto:mybook9191@gmail.com">mybook9191@gmail.com</a></p>
+    </div>
+  </div>
+  <div class="copyright">© 2026 TechPulse — All rights reserved.</div>
+</footer>
+<script src="../assets/site.js" defer></script>
+</body>
+</html>
