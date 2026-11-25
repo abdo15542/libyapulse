@@ -1,7 +1,87 @@
 {
- "count": 1322,
- "generated": "2026-11-25T17:45:12.206894Z",
+ "count": 1330,
+ "generated": "2026-11-25T18:33:02.753945Z",
  "articles": [
+  {
+   "id": 1330,
+   "slug": "article-1330",
+   "title": "🏠 Robots Build Homes in a Factory — Reframe Cuts Build Time and Lowers the Cost!",
+   "date": "2026-11-25",
+   "category": "science",
+   "category_name": "Science & Innovation",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r316-w316-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1329,
+   "slug": "article-1329",
+   "title": "💆 A Robot That Massages Your Muscles With AI — Aescape Makes Recovery Sessions Available to Everyone!",
+   "date": "2026-11-25",
+   "category": "science",
+   "category_name": "Science & Innovation",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r316-w316-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1328,
+   "slug": "article-1328",
+   "title": "🩺 AI Helps Detect Lung Cancer Early — British Hospital Trials It as a Second Pair of Eyes!",
+   "date": "2026-11-25",
+   "category": "science",
+   "category_name": "Science & Innovation",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r316-w316-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1327,
+   "slug": "article-1327",
+   "title": "🖨️ Godela Launches \"Godel-1\" — AI That Designs Real Products From a Written Sentence!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r316-w316-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1326,
+   "slug": "article-1326",
+   "title": "🚗 AI Agents Diagnose Mercedes Faults 30% Faster — and Technicians Fix Them Faster Too!",
+   "date": "2026-11-25",
+   "category": "science",
+   "category_name": "Science & Innovation",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r316-w316-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1325,
+   "slug": "article-1325",
+   "title": "💊 Novartis CEO: AI Won't Cure Cancer Within 10 Years — and We Only Understand 5% of the Body!",
+   "date": "2026-11-25",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r316-w316-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1324,
+   "slug": "article-1324",
+   "title": "🛡️ Two GeoServer Flaws Being Exploited Right Now — and a Chain of Flaws That Gives Attackers Full Control With No Password!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r316-w316-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1323,
+   "slug": "article-1323",
+   "title": "🚨 Allstate Outage Cripples Its Website and App for a Third Day — Customers Left Without Claims Before Thanksgiving!",
+   "date": "2026-11-25",
+   "category": "companies",
+   "category_name": "Companies & Business",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r316-w316-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1322,
    "slug": "article-1322",

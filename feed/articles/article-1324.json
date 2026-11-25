@@ -1,0 +1,26 @@
+{
+ "id": 1324,
+ "slug": "article-1324",
+ "title": "🛡️ Two GeoServer Flaws Being Exploited Right Now — and a Chain of Flaws That Gives Attackers Full Control With No Password!",
+ "date": "2026-11-25",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r316-w316-02.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Two GeoServer Flaws Being Exploited Right Now — and a Chain of Flaws That Gives Attackers Full Control With No Password!",
+  "Security researchers have warned that attackers are actively exploiting two newly disclosed vulnerabilities in GeoServer, the open-source software organisations use to publish map and geographic data, and that the two flaws can be chained with others to gain full control of the server without any login.",
+  "The first flaw, rated 8.6 out of 10, lets anyone without an account read text files from the server through a single request to the geographic features service, or fetch links chosen by the attacker. The second, rated 8.8, is a permissions-check bug that lets an attacker run operations meant for administrators only, simply by adding a short prefix to the service name such as \"x/wfs\".",
+  "A security company has spotted real exploitation attempts: the attackers sent technical probes to check whether a server was vulnerable, by creating stored queries and calling them, but so far no case has been recorded of attackers successfully running code remotely — the current activity looks like scouting for weak servers before the real attack.",
+  "More dangerous still, the two flaws are part of a longer chain: reading files exposes a file holding usernames, their encrypted passwords and a fixed signing key — the word \"GeoServer\" itself — so an attacker can forge a valid administrator profile without knowing the password, then exploit a third flaw to run code from a library they upload themselves, on both Linux and Windows.",
+  "One security company discovered this chain and reported it on 29 September, while another researcher reported a five-step chain on 2 August; security updates were published in October and early November, then official advisories were published on 24 November — so the fix has been available for weeks, yet many servers have still not been updated, even though more than 3,000 exposed copies are visible on the internet.",
+  "The warning comes just three months after another critical flaw in the same software was exploited as a zero-day in August, making an immediate update to versions 3.0.2, 2.28.6 or 2.27.7 essential for anyone running GeoServer.",
+  "Simply put: two password-free flaws open the door, and a three-step chain takes the attacker to the control room; the fix has been out for weeks — the question is who updated their server and who left it open?",
+  "Do you make sure to update your server software as soon as fixes are released, or do you put it off until you have time?"
+ ]
+}

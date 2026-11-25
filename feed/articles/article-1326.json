@@ -1,0 +1,24 @@
+{
+ "id": 1326,
+ "slug": "article-1326",
+ "title": "🚗 AI Agents Diagnose Mercedes Faults 30% Faster — and Technicians Fix Them Faster Too!",
+ "date": "2026-11-25",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r316-w316-04.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "SmartCars"
+ ],
+ "body": [
+  "🚗 AI Agents Diagnose Mercedes Faults 30% Faster — and Technicians Fix Them Faster Too!",
+  "Mercedes-Benz has teamed up with tech company Arena Physika to bring AI agents onto its car production lines, tasked with helping technicians diagnose car faults more quickly.",
+  "The agents work through the company's platform, called Atlas, analysing diagnostic data and identifying the likely causes of electrical and electronic problems, then updating repair plans automatically, instead of the technician searching through many possibilities on their own.",
+  "Early tests showed technicians now diagnose and fix these faults 20 to 30 percent faster, which could improve production quality and reduce the need to rework the same cars.",
+  "The idea is not to replace the technician with a machine, but to give them a smart assistant that reads data quickly and suggests the most likely diagnosis, leaving the final decision and the repair in human hands — while saving the time once wasted on guesswork.",
+  "Simply put: an AI agent reads your car's data and tells the technician where the fault is before they start searching; would you trust an automated diagnosis for your car, or do you prefer the technician's experience alone?",
+  "Would you accept AI diagnosing your car's fault, or is a human inspection indispensable?"
+ ]
+}

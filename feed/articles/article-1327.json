@@ -1,0 +1,23 @@
+{
+ "id": 1327,
+ "slug": "article-1327",
+ "title": "🖨️ Godela Launches \"Godel-1\" — AI That Designs Real Products From a Written Sentence!",
+ "date": "2026-11-25",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r316-w316-05.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ArtificialIntelligence"
+ ],
+ "body": [
+  "🖨️ Godela Launches \"Godel-1\" — AI That Designs Real Products From a Written Sentence!",
+  "San Francisco AI company Godela has developed a new platform called Godel-1 that generates designs for real products and tests them from written instructions alone, in a step that could cut much of the time needed to develop hardware.",
+  "The platform combines AI agents, computer-aided design software and physics simulation, evaluating factors such as airflow, heat, structural stress and manufacturability before an engineer touches any physical prototype.",
+  "The goal is for users to explore more engineering designs and improve them faster, instead of relying on long cycles of manual drawing and testing — the AI tries dozens of alternatives and rules out the weak ones early.",
+  "Simply put: you write what you want to build in a single sentence, and the AI draws the design and tests it physically before printing it; will the engineer soon become a reviewer of machine designs instead of their maker?",
+  "If you described a product in a single sentence, what would you ask AI to design for you?"
+ ]
+}
