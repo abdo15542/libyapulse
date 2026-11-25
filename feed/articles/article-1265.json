@@ -1,0 +1,25 @@
+{
+ "id": 1265,
+ "slug": "article-1265",
+ "title": "🤖 AI attack tools target coding agents and chatbots — and the agents themselves carry out the attack!",
+ "date": "2026-11-25",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r308-w308-01.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "CyberSecurity"
+ ],
+ "body": [
+  "🤖 AI attack tools target coding agents and chatbots — and the agents themselves carry out the attack!",
+  "New research published on 24 November reveals that attackers are no longer just using AI to make their attacks easier — they are now targeting AI systems themselves, exploiting the autonomy and permissions granted to them. The research, titled “Autonomy of Autonomous Hacks”, analysed 128 AI-assisted breaches and found 10,848 services running autonomous attack frameworks spread across 8,105 hosts worldwide, while the number of servers hosting these frameworks has more than doubled since 6 November.",
+  "The researchers spotted more than 130 different variants of “Artix”, the most widespread autonomous attack framework — a sign of how fast this kind of tool is evolving. In at least 24 of the attacks the research analysed, the attackers targeted the victim’s own AI infrastructure: in one case they targeted coding agents exposed on the internet and turned them into an attacker-controlled language model, stealing 77 passwords from the compromised machines.",
+  "In another case, an attack framework probed a fintech company’s production AI service, inserting a malicious tool through a Model Context Protocol endpoint — and the surprise was that the company’s own AI agent discovered the tool, approved it and ran it with no human intervention at all. The attackers also targeted customer-facing chatbots, extracting the internal instructions of an online store’s bot and details of the tools it could reach, and manipulating a hotel-booking assistant until it revealed details about its internal functions.",
+  "The danger goes beyond traditional hacking: the researchers spotted a modified version of “Artix” used in a fraud campaign targeting the payment infrastructure and gift cards of multinational retailers, alongside attacks on cryptocurrency trading platforms, government databases and e-commerce platforms. And wherever the level of human involvement could be determined, the researchers found that AI agents led more than 70% of the breaches, whether alone or under human supervision — even though model hallucinations contributed to the failure of some attacks.",
+  "Strikingly, the vulnerabilities being exploited are mostly nothing new: unsecured databases, weak authentication and old software flaws that still have no fix. The difference is speed and scale: these familiar flaws are now discovered and exploited without continuous human intervention. But the attack infrastructure itself may be the attackers’ weak point — the research found that 45% of the observed breaches were launched directly from servers hosting autonomous attack frameworks, making tracking those servers a powerful way to disrupt attacks before they happen.",
+  "Simply put: the new danger is not that AI helps the attacker — it is that AI systems themselves have become the target, and that a smart agent with wide permissions may carry out a malicious order while believing it is doing its job. Reviewing the permissions of AI agents has become part of security, not a luxury.",
+  "Do you review the permissions of the AI agents running in your company or on your devices?"
+ ]
+}

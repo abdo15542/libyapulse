@@ -1,0 +1,24 @@
+{
+ "id": 1268,
+ "slug": "article-1268",
+ "title": "🏥 Patient data leaked at Hong Kong’s Gleneagles Hospital — the app is suspended and health authorities step in!",
+ "date": "2026-11-25",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r308-w308-04.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "DataBreach"
+ ],
+ "body": [
+  "🏥 Patient data leaked at Hong Kong’s Gleneagles Hospital — the app is suspended and health authorities step in!",
+  "Hong Kong’s health authorities have suspended Gleneagles Hospital’s registration in the government’s electronic health record system, “eHealth”, after the hospital reported unauthorised activity that leaked patients’ personal data, in an incident officially disclosed on Tuesday 24 November. The hospital discovered the suspicious activity on 18 November, in the security infrastructure supporting the patient app on phones, “My Gleneagles SmartHealth”, which is run by an external service provider — leading to unauthorised access to the personal data of some patients and others.",
+  "According to the hospital’s statement, the leaked data includes patients’ names, identity document numbers and contact details, while the hospital confirmed that patients’ medical records remained intact and that credit card and payment data were not affected. The security team isolated the affected access path immediately, suspended the app as a precaution, and the hospital brought in independent cybersecurity experts to investigate, notified law enforcement and the relevant regulators, and will notify the affected patients. The number of people affected has not yet been announced.",
+  "The eHealth office explained that the hospital’s app is not directly linked to the “eHealth” system, and that the government system itself is operating normally, with no evidence of it being breached or of any data leaking from it — but it nevertheless decided to suspend the hospital’s registration and disconnect its system from “eHealth” as a precautionary measure, to preserve the system’s security and integrity. During the suspension the hospital will not be able to access or provide the electronic health records of registered beneficiaries through the system, and the relationship will not resume until a thorough assessment confirms that the hospital’s systems pose no unacceptable risk.",
+  "The Department of Health sent staff to the hospital as soon as it received the notification, and asked it to submit a detailed investigation report within four weeks, urged it to notify all affected patients as soon as possible, and to take the necessary steps so the incident does not affect the hospital’s operations and clinical services. Police classified the case as dishonest access to a computer, and the Western District support unit is investigating it, while sources said the hospital received no ransom demands and suffered no financial losses. The Privacy Commissioner’s office confirmed that preliminary findings point to a cyberattack on the hospital’s app.",
+  "Simply put: a breach of a single app run by an external provider can cut a whole hospital off from the government’s health record system. The security of apps that touch patient data is not an internal technical matter — it is a question of public trust, and the authorities here did not wait for the investigation to finish before acting.",
+  "Do you trust the hospital and health-service apps that store your data?"
+ ]
+}

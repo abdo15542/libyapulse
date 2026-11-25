@@ -1,0 +1,25 @@
+{
+ "id": 1267,
+ "slug": "article-1267",
+ "title": "💰 Controversy over “ANT”, the tokenised Anthropic share — $140 million in two days, but was the trading real?",
+ "date": "2026-11-25",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r308-w308-03.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Crypto"
+ ],
+ "body": [
+  "💰 Controversy over “ANT”, the tokenised Anthropic share — $140 million in two days, but was the trading real?",
+  "The race among crypto platforms to tokenise Anthropic’s shares has turned into a heated dispute over whether the trading volume behind the new token is real or artificial, just days after the company listed on Nasdaq on 19 November at an IPO price of $83 per share, closing its first trading day at $97.17, with total proceeds of around $93.5 billion.",
+  "Backpack Securities moved fast, launching its “ANT” token — a tokenised version of the Anthropic share, redeemable for the real share — just nine minutes after the public offering, at 16:57 GMT that same day. The early figures looked impressive: the token’s cumulative trading volume passed $140 million in its first two days, peaking on 20 November at around $58.2 million, before falling to $6.3 million by 22 November — a drop of nearly 89%.",
+  "But doubts came quickly: Matt Blumberg, head of decentralised finance at Ondo Finance — a competitor that issues its own version of the tokenised share — accused Backpack of wash trading, describing the token’s early activity as “highly suspicious”. Critics from Ondo and Securities pointed to worrying patterns, including repeated buy and sell operations passing through the same wallets, while early analyses suggested that between 52% and 64% of the sampled trading volume could be wash trading or bot-run cycles.",
+  "Independent data supports these doubts: Jupiter, a platform that classifies every wallet as organic or non-organic, found that the organic share of “ANT” trading volume averaged just 3.20% in readings from 22 to 24 November, falling from 6.55% on Sunday to 0.87% two days later, while the declared trading volume more than quadrupled without the organic portion growing with it. Blumberg also noted that 52% of the volume came from wallets buying and selling within the same transaction, and that most of the rest came from 50 to 100 high-frequency wallets, while the average ordinary wallet traded just $32 in total.",
+  "Backpack and Sunrise, the platform listing the token on the Solana network, rejected this characterisation, defending the volume as legitimate arbitrage between different versions of the tokenised Anthropic share: when the same share trades through several wrappers, their prices differ slightly, so traders buy the cheaper version and sell the dearer one, closing the price gap and generating large volume and repeated operations that look strange from the outside. Blumberg himself confirmed he is not accusing anyone of wash trading specifically — wash trading is a specific definition — but rather pointing out that the volume looks non-organic. So far no conclusive link has been proven between the observed patterns and deliberate manipulation: the accusation remains an accusation, and the defence remains a defence.",
+  "Simply put: $140 million in two days could mean real demand, or heavy arbitrage, or artificial inflation — or a mix of all three. And the sharp 89% fall within two days suggests the launch-day excitement was not a steady trend: volume alone is not proof of demand.",
+  "Do you trust the trading volume of a new token just because the number is big?"
+ ]
+}

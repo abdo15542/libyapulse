@@ -1,7 +1,57 @@
 {
- "count": 1264,
- "generated": "2026-11-24T22:33:06.190236Z",
+ "count": 1269,
+ "generated": "2026-11-25T00:32:56.743899Z",
  "articles": [
+  {
+   "id": 1269,
+   "slug": "article-1269",
+   "title": "🛡️ Instagram protects original Reels from theft — and protection starts automatically after you enrol!",
+   "date": "2026-11-25",
+   "category": "apps",
+   "category_name": "Apps & Platforms",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r308-w308-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1268,
+   "slug": "article-1268",
+   "title": "🏥 Patient data leaked at Hong Kong’s Gleneagles Hospital — the app is suspended and health authorities step in!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r308-w308-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1267,
+   "slug": "article-1267",
+   "title": "💰 Controversy over “ANT”, the tokenised Anthropic share — $140 million in two days, but was the trading real?",
+   "date": "2026-11-25",
+   "category": "companies",
+   "category_name": "Companies & Business",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r308-w308-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1266,
+   "slug": "article-1266",
+   "title": "🧩 Critical flaw in the popular “Binary Parser” library — one malicious definition is enough to run code inside Node.js servers!",
+   "date": "2026-11-25",
+   "category": "computing",
+   "category_name": "Computing & Programming",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r308-w308-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1265,
+   "slug": "article-1265",
+   "title": "🤖 AI attack tools target coding agents and chatbots — and the agents themselves carry out the attack!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r308-w308-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1264,
    "slug": "article-1264",

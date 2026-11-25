@@ -1,0 +1,24 @@
+{
+ "id": 1266,
+ "slug": "article-1266",
+ "title": "🧩 Critical flaw in the popular “Binary Parser” library — one malicious definition is enough to run code inside Node.js servers!",
+ "date": "2026-11-25",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r308-w308-02.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Programming"
+ ],
+ "body": [
+  "🧩 Critical flaw in the popular “Binary Parser” library — one malicious definition is enough to run code inside Node.js servers!",
+  "A critical vulnerability has been disclosed in “Binary Parser”, a popular JavaScript and TypeScript package used to decode binary data such as network packets and IoT device measurements. It lets an attacker who controls the parser definitions execute arbitrary JavaScript code inside the Node.js process the moment the parser is compiled. The flaw carries the identifier CVE-2026-134814 and a severity score of 9.2 out of 10 under version 4 of the scoring system, and 8.1 under version 3. It is a code-injection flaw, needs no authentication, and is reachable over the network.",
+  "The problem lies in a function called “context.generateOption”, which passes textual parser-definition options — such as length, byte length, key, tag, offset and alias — straight into the code-generation logic without checking them. If an attacker can control or influence these values, they can embed malicious JavaScript inside them, and the code then runs inside the host application’s process when the parser is compiled, with a major impact on the confidentiality, integrity and availability of the data.",
+  "The flaw is in fact an incomplete fix for an earlier one: in January 2026 a similar vulnerability, CVE-2026-1245, rated 6.5, was fixed — it concerned insufficient validation of field names and encoding parameters before they were inserted into the generated code. But the fix did not cover every textual option, so the hole stayed open through the same door. The project’s maintainer, Keiichi Takahashi, disclosed the flaw and fixed it in version 2.3.1 on 11 November, while the vulnerability record was officially published in the National Vulnerability Database and in GitHub’s Security Advisory database on 23 November.",
+  "The new fix brings an important behavioural change: version 2.3.1 enforces strict validation of textual options, accepting only valid identifier paths and rejecting expressions that used to be accepted, such as “len - 1”, recommending a function instead. Version 3.0.0 was also released on 22 November as an ESM module with built-in TypeScript definitions, and it requires Node.js 22.12 or newer for “require” compatibility. Importantly, parsing untrusted binary data with a trusted parser definition is not affected by the flaw — the risk is limited to those who accept parser definitions from an external or untrusted source. No actual exploitation of the flaw in real attacks has been confirmed so far.",
+  "Simply put: a small dependency-free library that many use without noticing could become a doorway to full code execution — and the fix has been available since 11 November, so updating to 2.3.1 or newer is the direct solution.",
+  "Do you know whether your projects depend on this library, and which version they use?"
+ ]
+}
