@@ -1,0 +1,25 @@
+{
+ "id": 1373,
+ "slug": "article-1373",
+ "title": "➗ Claude and OpenAI Both Claim to Solve a 47-Year-Old Problem… On the Same Day!",
+ "date": "2026-11-26",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-10.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Math"
+ ],
+ "body": [
+  "➗ Claude and OpenAI Both Claim to Solve a 47-Year-Old Problem… On the Same Day!",
+  "Anthropic and OpenAI published two separate papers on November 23 and 24 claiming to prove that the complexity classes VP and VNP are different, in a mathematical problem posed by Leslie Valiant in 1979 and regarded as the algebraic version of the famous P vs NP problem.",
+  "Anthropic published first, a 70-page paper titled \"VP ≠ VNP over All Fields,\" discovered by an internal Claude research model that wrote the paper and the machine-checkable proof in Lean 4, and about five hours later OpenAI published its 30-page manuscript with its own machine-checkable proof.",
+  "The two papers claim that some polynomial computations cannot be done by small arithmetic circuits, however clever, so the class VNP is wider than VP over all fields, with different quantitative bounds between the two papers but the same conclusion.",
+  "Both companies stressed that the result does not solve the original P vs NP problem, because algebraic circuits must compute the polynomial correctly on every element of the field, while logical circuits only need to be correct on zero and one.",
+  "Most importantly, neither proof has been reviewed by any human mathematician yet, and both companies described them as raw research data awaiting examination by the mathematics community: the machine-checkable proof verifies the logical steps, but it does not guarantee that the written statement matches what the paper claims.",
+  "Simply put: two rival companies announced on the same day a solution to a 47-year-old problem, with proofs written by machines and not yet reviewed by humans; are we looking at a historic breakthrough or a publicity race?",
+  "Who do you believe more if the results conflict: Claude's proof or OpenAI's?"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": 1366,
+ "slug": "article-1366",
+ "title": "🐧 \"NFS to Root\" flaw — remote root on Linux servers with no password!",
+ "date": "2026-11-26",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-03.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Linux"
+ ],
+ "body": [
+  "🐧 \"NFS to Root\" flaw — remote root on Linux servers with no password!",
+  "A security company revealed a critical flaw in the Linux file server called \"NFS to Root\" that gives a remote attacker full root privileges on the server, with no password, no account, and no click from the victim.",
+  "The flaw is CVE-2026-99362, with a severity score of 9.8 out of 10. Its cause is that the in-kernel file server processes data arriving over port 2049 before checking who sent it, so a single connection is enough for the attacker to write 61 bytes outside a kernel memory block and turn it into a root shell.",
+  "The flaw stayed hidden in the kernel for 12 years, since Linux 3.16 in 2014. It was discovered by an automated AI system belonging to the researching company, reported to the kernel maintainers on September 22, and its details and fixes were published on November 25.",
+  "The fixes cover kernel versions 5.10.275, 5.15.226, 6.1.193, 6.6.163, 6.12.117, 6.18.61, 7.3.2, and 7.4. The recommendation is clear: update the kernel and reboot immediately, and if that is not possible, block port 2049 in the firewall for everyone who does not need it.",
+  "At risk are network storage devices, file servers, storage nodes in Kubernetes, and any Linux server running the built-in file server with access to the port, while no actual exploitation of the flaw in real attacks has been reported so far.",
+  "Simply put: a 12-year-old flaw opens an entire Linux server from a single port, with no password at all. Do you know whether your server or storage device is among those exposed?",
+  "Have you updated your Linux systems right away, or are you waiting for the updates to arrive on their own?"
+ ]
+}

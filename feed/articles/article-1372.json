@@ -1,0 +1,25 @@
+{
+ "id": 1372,
+ "slug": "article-1372",
+ "title": "🧠 Ling 3.2 Air from Ant… A Huge Open Model with a License That Allows Commercial Use!",
+ "date": "2026-11-26",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-09.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🧠 Ling 3.2 Air from Ant… A Huge Open Model with a License That Allows Commercial Use!",
+  "Ant Group launched its new Ling 3.2 Air model on November 23, a multimodal AI model that understands text, images, and video, with its weights released openly under the MIT license, which allows commercial use and modification.",
+  "The model uses a hybrid mixture-of-experts architecture, with 124 billion parameters in total and only 5.5 billion activated when processing each token, making it powerful without needing extreme hardware compared with its full size.",
+  "The model was designed specifically to automate professional work tasks, such as producing documents, working with office software, and browsing, and in the company's own task-automation test, task completion jumped from 15.7% in the previous generation to 61% in the new model.",
+  "It runs with a native context of up to 262,000 tokens, extendable to one million tokens, and comes with day-one support for the SGLang and vLLM inference engines; its weights total about 129 gigabytes spread across 13 files.",
+  "Running the model at full context requires four large graphics cards or eight 80-gigabyte cards, and it scored 23 points on an independent AI index, a strong result among open-weight models.",
+  "Simply put: a huge open Chinese model with a free license that reads your documents, images, and videos and handles office tasks; do you prefer open models you run yourself over closed ones?",
+  "Have you tried running an AI model on your own device, or do size and hardware stop you?"
+ ]
+}

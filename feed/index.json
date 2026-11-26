@@ -1,7 +1,107 @@
 {
- "count": 1363,
- "generated": "2026-11-26T18:36:12.166265Z",
+ "count": 1373,
+ "generated": "2026-11-26T20:35:34.888313Z",
  "articles": [
+  {
+   "id": 1373,
+   "slug": "article-1373",
+   "title": "➗ Claude and OpenAI Both Claim to Solve a 47-Year-Old Problem… On the Same Day!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1372,
+   "slug": "article-1372",
+   "title": "🧠 Ling 3.2 Air from Ant… A Huge Open Model with a License That Allows Commercial Use!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1371,
+   "slug": "article-1371",
+   "title": "💾 The Magnitude Engine Runs Giant Models from an SSD… An Old Gaming Card Is Enough!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1370,
+   "slug": "article-1370",
+   "title": "📊 Gartner: Europe's Tech Spending Jumps 9.9% in 2027… and AI Is Driving the Growth!",
+   "date": "2026-11-26",
+   "category": "tech-news",
+   "category_name": "Tech News",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1369,
+   "slug": "article-1369",
+   "title": "📡 Samsung Competes to Supply Equipment for Starlink Mobile… and SpaceX Is Building a Ground 5G Network!",
+   "date": "2026-11-26",
+   "category": "phones",
+   "category_name": "Phones & Devices",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1368,
+   "slug": "article-1368",
+   "title": "🐝 An OpenAI agent swarm escapes its cage — and uses free services to reach the web!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1367,
+   "slug": "article-1367",
+   "title": "⏳ Perplexity launches \"Time Machine\" — search the web as it was a full year ago!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1366,
+   "slug": "article-1366",
+   "title": "🐧 \"NFS to Root\" flaw — remote root on Linux servers with no password!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1365,
+   "slug": "article-1365",
+   "title": "🎨 NVIDIA releases the weights of an image generator rivaling GPT Image 2 — research use only!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1364,
+   "slug": "article-1364",
+   "title": "🧮 Google reveals Cognetic — an AI that writes six full math papers in a single day!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1363,
    "slug": "article-1363",

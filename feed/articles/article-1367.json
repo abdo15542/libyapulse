@@ -1,0 +1,25 @@
+{
+ "id": 1367,
+ "slug": "article-1367",
+ "title": "⏳ Perplexity launches \"Time Machine\" — search the web as it was a full year ago!",
+ "date": "2026-11-26",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-04.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "⏳ Perplexity launches \"Time Machine\" — search the web as it was a full year ago!",
+  "Perplexity launched a new feature called \"Time Machine\" on November 25 in its Search and Context APIs, letting developers and AI agents see the web as it was on a specific date in the past.",
+  "The feature works through a new parameter called \"snapshot_as_of\" added to the request. It limits search and page reading to saved copies from that date or earlier, up to 365 days back, without contacting the live website at all.",
+  "The goal is to make testing AI agents fair. The live web always knows how events ended, while Time Machine stops the agent from seeing the outcome in advance when answering a question from the past, so its real forecasting performance can be measured.",
+  "The company keeps a dated copy of every page it visits, so each page builds a timeline of copies. The feature comes at the same price with no increase: five dollars per 1,000 search requests and one dollar per 1,000 pages read, and it works immediately with an existing API key.",
+  "In the company's own experiment, a political-events forecasting model scored 0.94 when using the live web, against only 0.77 with Time Machine, revealing how much leakage the already-known results had been causing in training and evaluation.",
+  "Simply put: a button that takes the web back to any day in the past year, so developers can tell whether their agent is really predicting or cheating from the outcome. Would you like to try searching the web of the past yourself?",
+  "If you could travel through the web to any date, which day would you choose to see as it was?"
+ ]
+}

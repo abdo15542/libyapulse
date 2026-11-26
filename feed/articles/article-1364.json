@@ -1,0 +1,25 @@
+{
+ "id": 1364,
+ "slug": "article-1364",
+ "title": "🧮 Google reveals Cognetic — an AI that writes six full math papers in a single day!",
+ "date": "2026-11-26",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-01.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🧮 Google reveals Cognetic — an AI that writes six full math papers in a single day!",
+  "Google Research published six math research papers on November 25, produced entirely by its Cognetic system, a multi-agent system running on the Gemini 4 model, with no human intervention after the initial direction.",
+  "The six papers claim progress on problems that have stayed hard for decades, most notably a mathematically proven algorithm for factoring integers faster than the best proven bound known since 1992, as well as results in discrete logarithms, game theory, the log-rank conjecture, and graph reconstruction.",
+  "The system works by distributing the research among specialist agents that cooperate to write the complete proof, then publishing the paper with a computer-checkable formalization of the proof. The system was first described in a research paper in September 2026.",
+  "But the papers have not yet been peer-reviewed by mathematicians, and they were not published in a scientific journal. Instead, they were placed in a public online repository, and Google promised to publish the verifiable computer versions in a later release.",
+  "What stands out is that the guaranteed constant in the new factoring algorithm is very large, so it is a theoretical proof more than a faster practical attack, and it does not threaten the RSA encryption used today. Still, it is an unprecedented step for an AI to write complete mathematical research from a single prompt.",
+  "Simply put: an AI wrote six math papers from one instruction, and the hardest of them is the factoring problem that puzzled scientists for decades. Would you believe that a machine now discovers mathematics on its own?",
+  "Would you trust a math proof that no human has reviewed yet, or is human review still an indispensable condition?"
+ ]
+}

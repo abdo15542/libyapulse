@@ -1,0 +1,25 @@
+{
+ "id": 1365,
+ "slug": "article-1365",
+ "title": "🎨 NVIDIA releases the weights of an image generator rivaling GPT Image 2 — research use only!",
+ "date": "2026-11-26",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r321-w321-02.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🎨 NVIDIA releases the weights of an image generator rivaling GPT Image 2 — research use only!",
+  "NVIDIA released the weights of its new image generation model, Nemotron Labs Image 30B, on Hugging Face on November 24, so developers and AI enthusiasts can try it and run it locally.",
+  "The model generates images differently from most generators: it builds the image token by token, just as a language model writes text. It has 30 billion parameters, with only 3 billion activated for each token, in a mixture-of-experts architecture that combines Mamba 2 layers with traditional attention.",
+  "The model beats GPT Image 2 in the company's own tests, scoring 97.98 against 96.00 on dense text inside images, 92.86 against 89.00 on following instructions, and 86.0 against 83.2 on business image generation.",
+  "But the model is not fully open source. Its license limits use to non-commercial research and evaluation, and the rest of the framework that produced these results, including the structured graphics generation models, has not been released yet, pending legal approvals.",
+  "The weights total about 133 GB across 32 files, and the reference run needs four H100 graphics cards with 80 GB each, while within a single day the community began publishing smaller compressed versions that run on weaker hardware.",
+  "Simply put: NVIDIA released a powerful image generator that beats its rival in its own tests, but with research-only terms and a huge size. Would you still try running it?",
+  "Do you prefer open-weight image models even when they are huge, or faster ready-made services?"
+ ]
+}
