@@ -1,0 +1,25 @@
+{
+ "id": 1349,
+ "slug": "article-1349",
+ "title": "🤖 CodeMender from Google DeepMind.. an AI agent that fixes vulnerabilities by itself!",
+ "date": "2026-11-26",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-05.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🤖 CodeMender from Google DeepMind.. an AI agent that fixes vulnerabilities by itself!",
+  "Google DeepMind unveiled a new AI agent called CodeMender, which can discover security vulnerabilities in source code and fix them automatically, without any intervention from developers.",
+  "The agent analyzes the source code, pinpoints where the flaws are, then generates a fix and verifies it itself, in a step that brings programming closer to the idea of an agent that writes the fix, tests it and delivers it ready.",
+  "In early trials, CodeMender produced 72 verified fixes across major open-source projects, all of them fixes whose correctness was confirmed, and the fixes are currently being reviewed by human researchers before adoption, in a transitional stage between automated fixing and human supervision.",
+  "The new agent arrives at a time when automated attacks are accelerating, as AI tools themselves are now used to discover and exploit vulnerabilities faster than humans, so CodeMender looks like an attempt to flip the equation: an AI that fixes what another AI might exploit.",
+  "The idea is not for the developer to disappear, but to free them up for the hardest work, while the agent handles routine fixes that used to take hours of review and testing, though the open question is how much teams trust a fix no human hand wrote.",
+  "Simply put: an AI agent that finds the flaw, fixes it and verifies its own fix, producing 72 verified fixes in its first trials; would you trust a fix written by AI, or is the human developer's eye indispensable?",
+  "Do you think AI will protect software faster than it attacks it?"
+ ]
+}

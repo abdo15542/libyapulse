@@ -1,0 +1,25 @@
+{
+ "id": 1347,
+ "slug": "article-1347",
+ "title": "🎓 A cyberattack on Turnitin.. and the systems of 71 million students under review!",
+ "date": "2026-11-26",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-03.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🎓 A cyberattack on Turnitin.. and the systems of 71 million students under review!",
+  "Turnitin, the company behind the world's most famous platform for detecting plagiarism and academic cheating, disclosed unauthorized activity in some of its customer-facing systems, and activated its incident response plan and brought in outside security experts.",
+  "The company's CEO told customers in a message on 23 November that the company had spotted the strange activity recently, started an investigation with outside experts, and notified law enforcement and the competent cybersecurity regulators.",
+  "The company stresses that its systems are fully working and safe to use, and that the affected systems do not collect government ID documents or financial information from institutions, but it has not yet revealed what data was reached, when the attack began, or how many people were affected.",
+  "The company's software is used in more than 16,000 educational institutions in 185 countries, reaching 71 million students, including assignment submission portals, grading interfaces, integration interfaces with university systems and report dashboards, and the company has not specified which of them were affected by the attack.",
+  "The investigation is still underway to determine the full nature and scope of the incident, and the company is monitoring its systems for any further activity, while no ransomware gang has claimed responsibility for the attack so far, and some universities have started contacting the company to find out whether their students' data was affected.",
+  "Simply put: a platform relied on by millions of students and teachers was hit by an attack whose dimensions are still unclear, and the company insists its systems are safe while investigators keep working; do you trust that your academic data is protected on educational platforms?",
+  "Do you upload your academic work to online platforms without worry, or has this news changed your mind?"
+ ]
+}

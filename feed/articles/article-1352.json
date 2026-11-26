@@ -1,0 +1,25 @@
+{
+ "id": 1352,
+ "slug": "article-1352",
+ "title": "🔥 The Frangipania flaw gives attackers root privileges in Palo Alto firewalls.. and the fix has finally arrived!",
+ "date": "2026-11-26",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-08.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔥 The Frangipania flaw gives attackers root privileges in Palo Alto firewalls.. and the fix has finally arrived!",
+  "Palo Alto Networks confirmed that attackers are exploiting a flaw called Frangipania to gain root privileges, the highest system privileges, in its firewalls, and released fixes for five versions of its PAN-OS system.",
+  "The flaw carries the number CVE-2026-46300, a flaw in the Linux kernel that lets an attacker with limited privileges escalate to root privileges, scoring 7.8 out of 10, but it does not work alone: the only known way to exploit it starts with two other flaws called PHP2Shell that allow remote code execution without login.",
+  "The attack works as a two-step chain: the first opens the door by running code through the management interface exposed on the internet, and the second elevates the attacker to root, planting a hidden web shell with full privileges, and the US cybersecurity agency warned about this chain on 28 October, after researchers spotted a campaign targeting servers in the US, Japan, Taiwan and South Korea, including an entity affiliated with the US government.",
+  "The company said all the exploitation activity it observed targeted devices that exposed their management interface on the public internet, which goes against its recommendations, and released fixes for versions 10.2, 11.1, 11.2, 12.1 and 12.2, stressing that anyone who applied the PHP2Shell updates is already protected from these attacks, because the chain breaks at its first link.",
+  "The company advised anyone who needs to keep the management interface available remotely to restrict access to trusted internal addresses only, since the exposed interface is the door the whole attack enters through.",
+  "Simply put: two linked flaws turn a firewall exposed on the internet into an open door with root privileges, and both fixes are ready; is your device's management interface exposed on the internet without you knowing?",
+  "Do you review your network devices' settings, or do you trust the default settings?"
+ ]
+}

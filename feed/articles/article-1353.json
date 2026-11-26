@@ -1,0 +1,26 @@
+{
+ "id": 1353,
+ "slug": "article-1353",
+ "title": "🤖 AI agents steal credentials and hack entire company networks!",
+ "date": "2026-11-26",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-09.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🤖 AI agents steal credentials and hack entire company networks!",
+  "A new research report revealed that attackers used autonomous AI agents to steal credentials and hack company networks, in more than ten campaigns observed between July and September 2026, hitting government, logistics, hospitality, manufacturing, agriculture and education sectors.",
+  "The attackers started from vulnerable web apps, planting web shells in them — malicious scripts that allow running commands on the compromised server — then the agent took over the job: mapping systems, searching for credentials and trying to expand access, while a human reviewed the results and decided what to follow up.",
+  "What stood out was the agent's speed once it took over: in some cases the median time between commands dropped from 23.9 seconds during manual work to just 1.4 seconds after the agent took over, and in one case the agent executed around 800 different commands within 140 minutes spread over two days, while scanning the victim's site, databases and cloud environment.",
+  "In one case, the agent used stolen file-sharing credentials to move from a Linux server to a Windows server, and web shells were found in more than 40 locations on the server, and in another case the agent obtained cloud credentials at a US hospitality and gaming company and scanned 20 cloud services across eight regions, gathering information about storage, mail and secret management, without stealing payment records.",
+  "In a third case, the agent also found credentials for a self-hosted GitLab platform belonging to an IT supplier, on a compromised client server, without exploiting a flaw in the platform itself, and researchers found hundreds of unique malicious scripts, without a single compiled backdoor, suggesting each campaign was built with different tools.",
+  "Researchers advise patching internet-exposed apps, reviewing the places web servers can reach inside the network, checking Linux kernel security updates, and when a web shell is found, isolating the server, preserving the logs and revoking or rotating the credentials the attacker reached.",
+  "Simply put: a human picks the target and opens the door, and an AI agent runs at unimaginable speed inside the network, stealing keys and scanning the cloud; does the attacker's new speed mean the old defenses are no longer enough?",
+  "Do you watch what your servers suddenly do, or do you discover the breach after it is too late?"
+ ]
+}

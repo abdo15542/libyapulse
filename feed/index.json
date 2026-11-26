@@ -1,7 +1,97 @@
 {
- "count": 1344,
- "generated": "2026-11-25T20:33:13.410078Z",
+ "count": 1353,
+ "generated": "2026-11-26T18:01:36.031623Z",
  "articles": [
+  {
+   "id": 1353,
+   "slug": "article-1353",
+   "title": "🤖 AI agents steal credentials and hack entire company networks!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1352,
+   "slug": "article-1352",
+   "title": "🔥 The Frangipania flaw gives attackers root privileges in Palo Alto firewalls.. and the fix has finally arrived!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1351,
+   "slug": "article-1351",
+   "title": "☁️ Rackspace shuts down its Spot cloud platform after the breach.. and customers have only two weeks!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1350,
+   "slug": "article-1350",
+   "title": "🎙️ Grok finally speaks.. a new voice mode for instant conversations!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1349,
+   "slug": "article-1349",
+   "title": "🤖 CodeMender from Google DeepMind.. an AI agent that fixes vulnerabilities by itself!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1348,
+   "slug": "article-1348",
+   "title": "🔑 Microsoft's security updates break sign-in.. and the fix is temporary!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1347,
+   "slug": "article-1347",
+   "title": "🎓 A cyberattack on Turnitin.. and the systems of 71 million students under review!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1346,
+   "slug": "article-1346",
+   "title": "❄️ A 9.8-out-of-10 flaw in store fridges.. and no fix yet!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1345,
+   "slug": "article-1345",
+   "title": "🔐 1Password breach steals customer data.. but the vaults themselves were untouched!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1344,
    "slug": "article-1344",

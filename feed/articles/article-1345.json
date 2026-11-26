@@ -1,0 +1,25 @@
+{
+ "id": 1345,
+ "slug": "article-1345",
+ "title": "🔐 1Password breach steals customer data.. but the vaults themselves were untouched!",
+ "date": "2026-11-26",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-01.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔐 1Password breach steals customer data.. but the vaults themselves were untouched!",
+  "1Password, one of the world's most popular password managers, disclosed a breach that stole account data from some of its customers, after an attacker broke into an employee's account in the company's GitHub service and used it to reach its code and inject malicious code into its internal services.",
+  "The investigation began on 19 November, when the company spotted signs that the employee's account had been compromised, and found that the attacker used the account to reach the private code repositories, then pushed malicious code to the backend services, managing to download account records for a small group of users.",
+  "The stolen data includes names, email addresses, account IDs, creation dates and last login times, as well as public encryption keys, verification protocol data and codes found in invitation links and account recovery messages, plus other internal metadata.",
+  "The attacker also stole a copy of the company's private code and reached its continuous integration and delivery system, the system that builds and distributes the software, which could expose internal infrastructure credentials, so the company disabled the compromised account, revoked the stolen token and rotated every credential that may have been exposed.",
+  "The reassuring news is that the password vaults themselves were never touched at all, since their contents are encrypted with keys the company does not even hold, and it does not store customers' passwords or their secret keys, and the company found no evidence of customer accounts being taken over, while it also strengthened the verification codes in invitation and recovery messages from six digits to ten letters and digits.",
+  "Simply put: an attacker broke into a single employee's account and stole administrative data for some customers, but the passwords saved in the vaults stayed safe because the company itself cannot open them; so do you trust a password manager after it has been breached, or is its design what matters?",
+  "Do you use a password manager, or do you still keep your passwords in your memory or on a piece of paper?"
+ ]
+}

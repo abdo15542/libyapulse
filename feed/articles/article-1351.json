@@ -1,0 +1,26 @@
+{
+ "id": 1351,
+ "slug": "article-1351",
+ "title": "☁️ Rackspace shuts down its Spot cloud platform after the breach.. and customers have only two weeks!",
+ "date": "2026-11-26",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-07.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "☁️ Rackspace shuts down its Spot cloud platform after the breach.. and customers have only two weeks!",
+  "Rackspace decided to shut down its Spot cloud platform permanently after a security breach that let attackers reach customers' Kubernetes clusters and secrets, and customers have until 8 December to move their services and download their data before the platform disappears.",
+  "The Spot platform lets organizations deploy and manage apps using Kubernetes, and the company announced the shutdown decision in a new security notice sent to customers after reviewing the incident, saying the decision gives customers a clear path forward.",
+  "The service will be stopped permanently on 8 December 2026 at 5 p.m. Central Time, when all remaining work will be terminated and customer data will no longer be available, so customers were asked to retrieve their data and move their work to other platforms before the date.",
+  "The breach happened on 17 November using leaked credentials, as the attackers created unauthorized containers inside customer clusters, read the secrets stored in them — passwords, authentication tokens and interface keys — and viewed contracts and storage units, and the company learned about it the next day after a report from a customer, disabled the control panel during handling, then restored the service on 21 November.",
+  "The company now asks all Spot customers to treat interface tokens, refresh tokens, Kubernetes configuration files and stored secrets as potentially exposed, even those who did not receive an individual breach notice, and to review access logs since 16 November, looking for specific indicators, including an IP address, an address range and prefixes of suspicious payloads.",
+  "The decision angered customers who asked the company to reverse it and offered to pay more to keep the platform, praising its low price compared with alternatives, while the company gave no sign it intends to reverse course or grant extra time, and stressed that its core environment was not affected by the breach.",
+  "Simply put: a single breach closed an entire cloud platform, and customers have two weeks to move everything before their data is wiped; do you trust that your cloud services will not suddenly disappear?",
+  "Do you keep a copy of your data outside the cloud, or is everything with a single provider?"
+ ]
+}

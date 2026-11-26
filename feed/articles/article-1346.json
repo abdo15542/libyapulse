@@ -1,0 +1,25 @@
+{
+ "id": 1346,
+ "slug": "article-1346",
+ "title": "❄️ A 9.8-out-of-10 flaw in store fridges.. and no fix yet!",
+ "date": "2026-11-26",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r319-w319-02.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "❄️ A 9.8-out-of-10 flaw in store fridges.. and no fix yet!",
+  "The US cybersecurity agency warned of a critical flaw in the refrigeration control units that food stores use to manage commercial fridges, heating, ventilation and lighting, which an attacker can exploit without any login at all, and there is no fix for it even today.",
+  "The flaw carries the number CVE-2026-129713 and scored 9.8 out of 10 on the severity scale; it is a flaw in the memory of the control unit's server, through which an attacker can stop the server from working, and possibly run their own code with the server's own privileges.",
+  "The flaw affects Danfoss AK-SM 8xA units, covering models 820A, 850A and 880A, central controllers for store and small-store refrigeration, which manage display fridges and compressor units, record temperatures and alert when they change.",
+  "The company announced on 20 November that the fix will arrive in version 5.5 of the software, with no set date, and the new version will also remove the option to turn off the strict protection mode, making it mandatory, while the agency advised keeping the units off the public internet, isolating them behind firewalls and using private networks when remote access is needed.",
+  "The warning comes after a wave of attacks that targeted these same units in Europe: fridges in French stores stopped working on 11 and 12 October, then fridges in more than 115 stores across seven European countries were halted on 2 November, and the attack reached refrigeration warehouses for the French blood service, turning the store fridge into a cyber target.",
+  "Simply put: a near-maximum flaw in a device that cools your food, with no fix yet, and attackers have already shut down entire stores' fridges before; did you ever imagine a supermarket fridge could be hacked?",
+  "Do you trust that the internet-connected devices in our daily lives are protected enough?"
+ ]
+}
