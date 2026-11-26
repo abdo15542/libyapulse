@@ -1,0 +1,25 @@
+{
+ "id": 1342,
+ "slug": "article-1342",
+ "title": "🦠 Two malicious npm packages steal developers' keys — and the backdoor is called Introt0x1n!",
+ "date": "2026-11-25",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-06.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🦠 Two malicious npm packages steal developers' keys — and the backdoor is called Introt0x1n!",
+  "Security researchers have uncovered two malicious packages in the npm package registry targeting developers, published on Monday 24 November from two new accounts, in 12 releases within just 73 minutes, in an attack on the software supply chain.",
+  "The packages are named \"clamp-one\" and \"safe-clamp3\", and they copy a small innocent tool for rounding numbers, but they add an install hook that runs when the package is installed, downloading a data stealer from a Pastebin link with a backup link, aiming to steal cloud keys and credentials.",
+  "The stealer targets Windows devices only, collecting keys for Amazon, Google Cloud, Azure, Kubernetes, Docker, and Terraform services, credentials for package registries and GitHub, SSH keys, and Telegram sessions, FTP sessions, and command history, then compressing them into a single file and sending it to a Telegram bot.",
+  "Worse, the stealer itself downloads and runs a malicious program called \"Introt0x1n\", a backdoor for Windows that logs keystrokes, executes the attacker's commands and Python code remotely, and installs itself hidden in a Microsoft Store update folder with scheduled tasks.",
+  "But the audit revealed an important detail: the hook in the package downloads the stealer without running it in the versions examined, because the function that was supposed to run the file is still empty — meaning installation alone did not execute the theft yet. However, the downloaded content remains under the attacker's control and could change at any moment, so the two packages remain an active risk.",
+  "Simply put: an innocent-looking software package may carry a key stealer and a full backdoor with it, and the danger is that the attacker is building the attack step by step in plain sight. Do you review what you install from packages before adding it to your project?",
+  "Do you trust any package with a familiar name, or do you check its publisher first?"
+ ]
+}

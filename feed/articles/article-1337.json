@@ -1,0 +1,25 @@
+{
+ "id": 1337,
+ "slug": "article-1337",
+ "title": "🕵️ Breach Hits the U.S. Central Intelligence Agency — and a Suspicious AI Tool Is at the Heart of the Investigation!",
+ "date": "2026-11-25",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-01.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🕵️ Breach Hits the U.S. Central Intelligence Agency — and a Suspicious AI Tool Is at the Heart of the Investigation!",
+  "An open-source intelligence analysis system used by the U.S. Central Intelligence Agency has suffered a cyber breach that exposed some non-classified information, according to a press report published today, while sources confirmed that no classified materials were touched and that the breach has been contained.",
+  "The same system is also used by the National Geospatial-Intelligence Agency and the Office of the Director of National Intelligence, and it analyzes publicly available and commercially purchased information, including social media posts and satellite images, for analysts to use alongside other information in their assessments.",
+  "Investigators have not yet determined who carried out the attack, which took place on Tuesday, but an early investigation pointed to the possible use of an AI-powered hacking tool called Artex, raising suspicions of a possible Chinese link, without it being confirmed that the tool itself was actually used.",
+  "Artex was launched publicly earlier this year, and researchers have since linked it to attacks on companies in several countries, while an official at the Office of the Director of National Intelligence said the incident did not disrupt any critical capabilities, and neither the Agency nor the National Geospatial-Intelligence Agency has commented on the matter yet.",
+  "The breach came days after a long outage in the National Security Agency's classified internal network on November 17, which was announced resolved on November 20 and attributed to maintenance issues, and at the same time as a breach of the Federal Bureau of Investigation's crime information center, and a breach at the Department of Agriculture that affected payments to farmers.",
+  "Simply put: a single breach exposed non-classified information in a U.S. intelligence system, and suspicion centers on an AI hacking tool whose use has not yet been proven — so have AI tools become the new weapon of cyberattacks?",
+  "Do you trust that systems this sensitive are protected well enough, or have attacks become faster than the defenses?"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": 1334,
+ "slug": "article-1334",
+ "title": "🛡️ Critical Flaws in DeepSpeed and PyTorch — A Malicious Model File Could Run Code on Your Machine!",
+ "date": "2026-11-25",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r317-w317-04.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Critical Flaws in DeepSpeed and PyTorch — A Malicious Model File Could Run Code on Your Machine!",
+  "Security advisories published on November 24 reveal critical flaws in DeepSpeed, the well-known library for training AI models, allowing an attacker to execute arbitrary code on the victim's machine simply by opening a malicious model file or visiting a harmful web page.",
+  "The flaws carry three identifiers: CVE-2026-136436 in the checkpoint engine, CVE-2026-136438 in the function that builds an engine from a checkpoint, and CVE-2026-136439 in the get_zero_stage function in version 0.18.9 — all of them unsafe deserialization of untrusted data, rated 7.8 out of 10 in severity, since the absence of proper validation of the supplied data turns an ordinary file into a gateway for executing commands within the process itself.",
+  "The researchers had reported the first flaw on February 12, 2026, then asked for an acknowledgement and updates several times without a reply, until the vendor was told on November 19 of the intent to publish — so the advisories were published publicly on November 24 as a zero-day flaw that had not yet been fixed, which increases the risk for those using the affected versions.",
+  "On the same day, a flaw of the same kind appeared in the widely used PyTorch library, in the torch.save to DCP model-saving function, which likewise allows remote code execution when deserializing data crafted for that purpose — making the problem a recurring pattern in AI training tools rather than an isolated case.",
+  "The protection is simple but decisive: update DeepSpeed and PyTorch to the latest version as soon as a fix is available, do not open model files or checkpoints from sources you do not trust, and do not run training data from an unknown source, because the model file itself may be the attack weapon.",
+  "Simply put: a single AI model file could carry malicious code that runs as soon as you open it, so do not trust any model file before confirming its source — do you check the source of the models you download before running them?",
+  "Have you ever downloaded a ready-made AI model from the internet without knowing who made it?"
+ ]
+}

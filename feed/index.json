@@ -1,7 +1,147 @@
 {
- "count": 1330,
- "generated": "2026-11-25T18:33:02.753945Z",
+ "count": 1344,
+ "generated": "2026-11-25T20:33:13.410078Z",
  "articles": [
+  {
+   "id": 1344,
+   "slug": "article-1344",
+   "title": "📝 A blank white window crashes Word, Excel, and Outlook — and Microsoft finally fixes the bug!",
+   "date": "2026-11-25",
+   "category": "apps",
+   "category_name": "Apps & Platforms",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1343,
+   "slug": "article-1343",
+   "title": "📱 Hack shuts down Colorado's digital ID app — and 150,000 people are left without a digital driving licence!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1342,
+   "slug": "article-1342",
+   "title": "🦠 Two malicious npm packages steal developers' keys — and the backdoor is called Introt0x1n!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1341,
+   "slug": "article-1341",
+   "title": "🛒 Decathlon breach exposes data of 163,000 customers — and fake delivery messages lie in wait for victims!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1340,
+   "slug": "article-1340",
+   "title": "🛡️ Switzerland confirms first cyberattacks by AI agents — and every case ended in a breach!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1339,
+   "slug": "article-1339",
+   "title": "🚢 Cyberattack on 50 merchant ships: Fortinet flaws open the door to control rooms!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1338,
+   "slug": "article-1338",
+   "title": "✅ Todoist app hacked: data of 6% of users and old passwords in the attacker's hands!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1337,
+   "slug": "article-1337",
+   "title": "🕵️ Breach Hits the U.S. Central Intelligence Agency — and a Suspicious AI Tool Is at the Heart of the Investigation!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-01.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1336,
+   "slug": "article-1336",
+   "title": "🚁 Dragonfly Gets Its Eyes — 7 Cameras Ready to Explore Titan!",
+   "date": "2026-11-25",
+   "category": "space",
+   "category_name": "Space",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r317-w317-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1335,
+   "slug": "article-1335",
+   "title": "🪨 Hera's First Images Reveal a Stadium-Sized Crater on Asteroid Dimorphos — and Hundreds of Rocks Orbiting It!",
+   "date": "2026-11-25",
+   "category": "space",
+   "category_name": "Space",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r317-w317-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1334,
+   "slug": "article-1334",
+   "title": "🛡️ Critical Flaws in DeepSpeed and PyTorch — A Malicious Model File Could Run Code on Your Machine!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r317-w317-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1333,
+   "slug": "article-1333",
+   "title": "⚖️ Judge Freezes Evidence-Gathering in Amazon's Case Against Perplexity — Fate of Shopping Agent Comet Hangs in the Balance!",
+   "date": "2026-11-25",
+   "category": "companies",
+   "category_name": "Companies & Business",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r317-w317-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1332,
+   "slug": "article-1332",
+   "title": "⚠️ Drupal Flaw Now Exploited in the Wild — U.S. Security Agency Orders a Fix Before November 27!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r317-w317-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1331,
+   "slug": "article-1331",
+   "title": "🚨 A 10-out-of-10 Flaw Breaches the Elixir Package Registry — An Attacker Ran Commands on 6 Servers in 13 Minutes!",
+   "date": "2026-11-25",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r317-w317-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1330,
    "slug": "article-1330",

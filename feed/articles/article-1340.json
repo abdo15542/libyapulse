@@ -1,0 +1,25 @@
+{
+ "id": 1340,
+ "slug": "article-1340",
+ "title": "🛡️ Switzerland confirms first cyberattacks by AI agents — and every case ended in a breach!",
+ "date": "2026-11-25",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-04.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ Switzerland confirms first cyberattacks by AI agents — and every case ended in a breach!",
+  "Switzerland's National Cyber Security Centre has confirmed the country's first documented cases of cyberattacks carried out by AI agents, targeting companies and critical-infrastructure operators in at least two sectors, in a warning published on Monday 24 November.",
+  "Strikingly, every case known to the centre ended with the attackers successfully breaching the victims' systems, while the centre did not reveal the victims' identities, the two sectors, or the number of attacks, nor did it attribute them to any party or specify the flaws exploited.",
+  "The centre describes what the attackers used as \"agentic attack frameworks\" — AI agents that search for vulnerabilities themselves, choose attack tools, evaluate results, and plan and execute the next steps, at a speed no human can match.",
+  "The centre noted that the number of AI agents available online has almost doubled since last October, and named the tools Artex and CyberStrike AI as examples of such tools, without confirming that they were used in the Swiss cases themselves.",
+  "The centre expects faster and more successful attacks as these tools spread, and advised organisations to patch internet-connected systems within 24 hours, verify multi-factor authentication for remote access, and test incident response outside working hours, when security teams are smaller.",
+  "Simply put: for the first time in Switzerland, an AI agent found the flaw and breached the system by itself, and every known case succeeded. Has traditional defence become too slow against an attacker that never sleeps?",
+  "Does your organisation keep its security updates up to date, or is patching postponed to another time?"
+ ]
+}

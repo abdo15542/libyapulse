@@ -1,0 +1,25 @@
+{
+ "id": 1339,
+ "slug": "article-1339",
+ "title": "🚢 Cyberattack on 50 merchant ships: Fortinet flaws open the door to control rooms!",
+ "date": "2026-11-25",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-03.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🚢 Cyberattack on 50 merchant ships: Fortinet flaws open the door to control rooms!",
+  "US authorities are investigating a wave of cyberattacks believed to have hit as many as 50 merchant ships carrying oil, liquefied gas, chemicals, and other explosive materials, in one of the widest campaigns targeting the maritime sector.",
+  "Sources familiar with the matter say Iran is the prime suspect, and Russia is also being examined, but a US administration official said no evidence linking Iran to the attacks has been found so far, so attributing the attacks to any party remains unconfirmed.",
+  "According to the same sources, the attackers exploited known flaws in FortiGate routers from Fortinet, widely used on ships, after the Coast Guard and the FBI warned in September that state-backed actors were exploiting these flaws in maritime environments.",
+  "The breach did not stop at the ships' IT systems: the attackers moved from them into the network of devices controlling physical operations on board. Crews on some ships noticed email disruption and login failures, and in one case a prolonged communications outage, while other ships received bomb threats and intimidation messages, some in Persian.",
+  "The Coast Guard sent specialist cyber teams to at least four ships approaching US ports, including the tankers VL Prosperity and Kohaku, targeted in September while en route to Texas, and the gas carrier Vivit Africa while transporting liquefied gas from the US to Italy, with no reports so far of operational disruption or danger to crews or the environment.",
+  "Simply put: a flaw in a common router turned ships carrying explosive materials into cyber targets, and the investigation is still hunting for the culprit. Did you ever imagine that a giant ship could be hacked just like a computer?",
+  "Are security updates enough to protect ships, or has separating control systems from the internet become a necessity?"
+ ]
+}

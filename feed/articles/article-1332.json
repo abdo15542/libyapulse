@@ -1,0 +1,25 @@
+{
+ "id": 1332,
+ "slug": "article-1332",
+ "title": "⚠️ Drupal Flaw Now Exploited in the Wild — U.S. Security Agency Orders a Fix Before November 27!",
+ "date": "2026-11-25",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r317-w317-02.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "⚠️ Drupal Flaw Now Exploited in the Wild — U.S. Security Agency Orders a Fix Before November 27!",
+  "The security team of the Drupal content management system has confirmed that a critical flaw in the system's installer is being actively exploited on live websites since at least Thursday, November 19, after the first announcement about it had said no attacks had been observed yet.",
+  "The flaw, tracked as CVE-2026-132165, lets an unauthenticated attacker with no account reinstall the site through the installer file, taking it over completely and executing malicious code. It was discovered by an open-source software scanner run by an AI company, and its fix shipped in Drupal versions 10.6.22, 11.3.22 and 11.4.13 on November 18.",
+  "On Tuesday, the U.S. Cybersecurity and Infrastructure Security Agency added the flaw to its list of known exploited vulnerabilities and ordered federal agencies to secure their systems against the ongoing attacks before Friday, November 27, warning that this type of flaw is a recurring attack path that poses a major risk to organizations.",
+  "Anyone who cannot update immediately should block access to the installer file from the web server settings or the .htaccess file, while the service's paid firewall protects its users from the known attack methods — though updating remains the recommended fix in case other methods appear.",
+  "Notably, this is the fifth Drupal flaw added to the exploited-vulnerabilities list since November 2021, and two of them were exploited by ransomware groups, which makes closing off the installer file a priority that cannot wait.",
+  "Simply put: a flaw that was thought to be theoretical has become a real attack on live websites, and the official deadline ends on November 27 — so have you updated your site's system to the latest version?",
+  "Do you know which version your site is running right now, or have updates been postponed for a long time?"
+ ]
+}

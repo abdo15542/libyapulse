@@ -1,0 +1,26 @@
+{
+ "id": 1331,
+ "slug": "article-1331",
+ "title": "🚨 A 10-out-of-10 Flaw Breaches the Elixir Package Registry — An Attacker Ran Commands on 6 Servers in 13 Minutes!",
+ "date": "2026-11-25",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r317-w317-01.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🚨 A 10-out-of-10 Flaw Breaches the Elixir Package Registry — An Attacker Ran Commands on 6 Servers in 13 Minutes!",
+  "An unknown attacker managed to run commands on 6 of the servers of the Hex.pm package registry, the registry that developers of the Elixir and Erlang languages rely on to fetch their software libraries, exploiting a flaw rated at the maximum severity score of 10 out of 10.",
+  "The attacker sent 69 malicious requests in just 13 minutes, between 18:16 and 18:29 GMT on Monday, November 23, from two addresses, and the first file planted by the attack appeared on one of the servers just 0.003 seconds after the request arrived — but the registry team closed the flaw on all servers by 18:31, about 15 minutes after the first request.",
+  "The flaw, tracked as CVE-2026-129514, lies in the parser that reads request bodies sent in the Erlang data format: it was supposed to reject dangerous content, but it accepted maps carrying a special key that lets a request disguise itself as any code structure loaded in the application, and that led, through database libraries, to directly executing operating system commands, without any login, because the parser runs before routing and authentication in the first place.",
+  "Worse still, the bug has been in the code since February 23, 2016, when a security check that would have stopped the attack was removed — meaning the flaw lived for ten years without anyone noticing it — and no exploitation of it had been proven before Monday, while a security report describing the very same flaw arrived by email at 19:07, after the attack had ended.",
+  "The team examined every package published during the attack, 23 releases in total, and found them matching the audit logs, with no tampering in the packages or the databases — but database reads were not logged, so it cannot be ruled out that the attacker read email addresses, hashed passwords, API keys, two-factor authentication secrets and session data, so all users were logged out of their accounts and session keys were replaced.",
+  "Anyone with an account is advised to change their password, reset two-factor authentication and log in again, to fetch packages only from the official domain and avoid external mirrors until a new client ships with an updated log-signing system, and data protection authorities in Sweden, the United States and the European Union have been notified of the incident, while fixes were published for three related libraries where similar problems appeared.",
+  "Simply put: a ten-year-old flaw opened the door to the most important package registry for the Elixir language in 13 minutes, and the packages themselves are safe, but account data may have been read — so have you changed your password after any breach affecting a service you use?",
+  "Do you trust the package registries you fetch your projects' libraries from, or do you review what you install first?"
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "id": 1333,
+ "slug": "article-1333",
+ "title": "⚖️ Judge Freezes Evidence-Gathering in Amazon's Case Against Perplexity — Fate of Shopping Agent Comet Hangs in the Balance!",
+ "date": "2026-11-25",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r317-w317-03.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "⚖️ Judge Freezes Evidence-Gathering in Amazon's Case Against Perplexity — Fate of Shopping Agent Comet Hangs in the Balance!",
+  "A federal judge on November 20 froze evidence-gathering in the lawsuit Amazon filed against Perplexity over the shopping agent in its Comet browser, and referred the company's request to dismiss the case for a decision, without issuing any ruling yet — so the case remains open and the legal battle over AI agents continues.",
+  "Amazon had filed the lawsuit in November 2025, accusing Comet of accessing its customers' accounts, comparing products and completing orders on their behalf, of disguising itself as an ordinary browser and ignoring cease-and-desist letters, and of sending private account data to the company's servers, raising concerns over data security.",
+  "In March 2026, a judge granted a preliminary order temporarily blocking the agent, but an appeals court overturned that order on August 4, holding that the agent is a tool in the user's hands rather than an independent party, and that the user themselves is the one accessing Amazon's servers for purposes of the computer fraud law — and the court then refused to reconsider on September 10.",
+  "Amazon returned on September 21 with an amended complaint focused on the iPhone version, accusing it of sending users' cookies to Perplexity's cloud servers between March 18 and May 11 at least, of choosing Amazon for shopping requests in two tests without the user naming it, and of company employees testing the agent inside password-protected accounts.",
+  "Perplexity responded on October 13 by asking for the complaint to be dismissed, saying users are still the ones who activate the assistant and direct it, that communicating through servers does not change who performed the access under the appeals court's logic, and describing the claim about employee testing as speculation. The request was heard at the November 20 session, evidence-gathering stopped, and the dismissal request remains awaiting a written decision with no set date.",
+  "The case matters beyond the two companies, because it is the first major court test of the limits of AI agents' responsibility when they shop and pay on the user's behalf, and the court still preserves retailers' right to enforce their sites' terms of use and pursue other legal theories beyond computer fraud.",
+  "Simply put: the court froze evidence-gathering and has not yet decided whether the smart agent is a 'person' hacking accounts or a tool in the user's hands — so who is responsible when an AI agent buys something you never asked for?",
+  "Would you let an AI agent shop and pay from your account, or do you prefer to complete the purchase yourself?"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": 1338,
+ "slug": "article-1338",
+ "title": "✅ Todoist app hacked: data of 6% of users and old passwords in the attacker's hands!",
+ "date": "2026-11-25",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-02.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "✅ Todoist app hacked: data of 6% of users and old passwords in the attacker's hands!",
+  "Task-management app Todoist announced that an attacker breached its production systems on Monday 23 November and downloaded account records of around 6% of its users, containing email addresses, account creation dates, and old password fingerprints.",
+  "The attack began on Sunday 22 November with stolen credentials for the code-management system, which the attacker used to alter an automated workflow in three repositories, gain more credentials, then take over an employee's work account and enter the company's cloud, reaching the production databases on Monday morning.",
+  "The stolen passwords were stored with an old encryption algorithm the company stopped using more than ten years ago, but they remained in accounts whose owners had not changed their passwords since then. They are not readable passwords, but the attacker may try to crack the weak ones and reuse them on other services.",
+  "The attack did not stop at the records: the attacker also obtained the app's API tokens and Slack integration tokens for around 0.003% of users, searched the tasks, comments, and attachment names of around 0.001% for keys and credentials, and viewed parts of connected emails via the Outlook add-in for the same share.",
+  "Monitoring systems spotted an unexpected admin account at 17:01 GMT, and the company stopped the attack within about 40 minutes, reset the affected passwords, disabled the Outlook add-in, and confirmed it found no changes to the code and no evidence the attacker entered the affected users' accounts.",
+  "Simply put: a single stolen credential opened the attacker a path from the company's code to its databases, and old passwords unchanged for ten years are now exposed. Have you changed your old password in your apps, or is it still the same as it was years ago?",
+  "Do you use the same password for more than one service, or a different password for each account?"
+ ]
+}

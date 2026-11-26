@@ -1,0 +1,25 @@
+{
+ "id": 1341,
+ "slug": "article-1341",
+ "title": "🛒 Decathlon breach exposes data of 163,000 customers — and fake delivery messages lie in wait for victims!",
+ "date": "2026-11-25",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r318-w318-05.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛒 Decathlon breach exposes data of 163,000 customers — and fake delivery messages lie in wait for victims!",
+  "French sports retailer Decathlon has confirmed a breach that stole the data of around 163,000 customers, after an attacker broke into an external delivery provider the company works with on 22 November.",
+  "The stolen data includes names, email addresses, phone numbers, postal addresses, and order references, along with precise delivery details, including shipping notes that may carry building access codes, and delivery dates and statuses, for orders dating back to July 2021.",
+  "The attacker, using the name \"4M3I\", put the files up for sale on a well-known cybercrime forum in the early hours of 23 November, before the company confirmed the breach to a French newspaper, explaining that it stopped the compromised access immediately and will notify the affected customers and inform the data protection authority.",
+  "The company confirmed that passwords and bank details were untouched, but the real danger lies in the nature of the data itself: order and delivery details allow attackers to send convincing phishing messages impersonating the delivery company, asking for fake fees or malicious links, just as shoppers prepare for year-end offers.",
+  "The incident follows a breach the company confirmed in October at a sports-training subsidiary, and reports said the two incidents are unrelated, while the new breach highlights the risk of external suppliers — compromising a single provider is enough to expose a whole company's customer data.",
+  "Simply put: breaching one delivery provider exposed the addresses and orders of 163,000 customers, and the next fake message may know your name, address, and order. Do you check delivery messages before clicking any link?",
+  "Do you give shops precise details about your home when you order, or do you stick to the bare minimum?"
+ ]
+}
