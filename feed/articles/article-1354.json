@@ -1,0 +1,25 @@
+{
+ "id": 1354,
+ "slug": "article-1354",
+ "title": "🛰️ One million satellites for data centers in space.. SpaceX wins historic approval!",
+ "date": "2026-11-26",
+ "category": "space",
+ "category_name": "Space",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-01.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Space"
+ ],
+ "body": [
+  "🛰️ One million satellites for data centers in space.. SpaceX wins historic approval!",
+  "The U.S. Federal Communications Commission has approved SpaceX's plan to deploy up to one million satellites that work as AI data centers in space, in the first license of its kind in U.S. history for a complete orbital computing network.",
+  "The network is called StarMind: orbital computing units that process huge amounts of data in space for use on Earth, powered by solar energy and communicating with each other by laser beams, with wireless backup links for control and emergencies.",
+  "The approval gives the company until November 2033 to launch the first working satellite, then 100,000 satellites by 2035, half the network by 2038, and the full network by 2040, at altitudes between 500 and 1,002 kilometers.",
+  "The approval came despite objections from Amazon, Viasat and the American Astronomical Society, which warned of orbital debris, congestion, radio interference and the network's impact on astronomical observatories, while the commission described the decision as a historic step in the AI race.",
+  "The company plans to launch its first space data centers in 2027, noting that the current Starlink network has more than 11,000 satellites, so StarMind would multiply the number of satellites in Earth orbit by about fifty times if completed.",
+  "Simply put: a million giant computers orbiting the Earth instead of sitting in buildings on its surface, and the approval is out but building it takes 14 years; do you really believe data centers will move to space?",
+  "Would you rather AI data centers be built in space, or does a sky crowded with satellites worry you?"
+ ]
+}

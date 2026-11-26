@@ -1,0 +1,25 @@
+{
+ "id": 1356,
+ "slug": "article-1356",
+ "title": "💻 Nvidia halts AI server shipments to four Asian countries.. the reason is new U.S. restrictions!",
+ "date": "2026-11-26",
+ "category": "companies",
+ "category_name": "Companies & Business",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-03.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Nvidia"
+ ],
+ "body": [
+  "💻 Nvidia halts AI server shipments to four Asian countries.. the reason is new U.S. restrictions!",
+  "Nvidia has told its manufacturing partners Dell and Supermicro to stop shipping servers carrying its chips to Malaysia, Singapore, Thailand and Indonesia, in a move aimed at complying with new U.S. export restrictions on advanced chips.",
+  "The two partners told buyers in the four countries that their orders would not be shipped, though it is not yet clear whether the halt is temporary while the method of complying with the new rules becomes clear, or whether it will last longer.",
+  "The new rules, issued by the Bureau of Industry and Security at the U.S. Department of Commerce and effective on 19 November, require a license to export advanced semiconductors to those four countries in addition to Brazil, describing them as countries carrying a higher-than-usual risk of diverting chips to banned parties.",
+  "The rules also target data centers abroad that supply Chinese companies with large amounts of remote computing, a loophole Chinese companies used to rent computing capacity after direct chip exports to them were banned, and the parties concerned were given 90 days to obtain the required licenses.",
+  "End users whose companies are headquartered in the United States are exempt from the license requirement, provided sales are reported, while neither the company nor its partners have officially confirmed the details of the halt so far.",
+  "Simply put: AI chips have become a commodity that needs a passport and a license, and whole countries saw their shipments stop overnight; will the restrictions succeed in keeping the chips from reaching those they should not reach?",
+  "Do you support restricting AI chip exports for security reasons, or does that harm innovation around the world?"
+ ]
+}

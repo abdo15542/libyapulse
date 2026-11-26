@@ -1,0 +1,25 @@
+{
+ "id": 1357,
+ "slug": "article-1357",
+ "title": "🔑 152,000 AI requests were exposed to the attacker.. and Fal admits its cloud root key was stolen!",
+ "date": "2026-11-26",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-04.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔑 152,000 AI requests were exposed to the attacker.. and Fal admits its cloud root key was stolen!",
+  "Fal revealed in its final report on the incident that an attacker managed to read user requests sent through the OpenRouter service to one of its test servers, then stole the root key of its legacy cloud key management service.",
+  "The story began on 20 October, when the company ran a trial version of the DeepSeek model on a new GPU server, and received real traffic from OpenRouter before production controls were complete, without the gateway verifying the server's safety.",
+  "That same evening, the attacker entered the Grafana monitoring system with the default administrator password, which had never been changed, and from there reached the server management interface, replaced the virtual machine's startup script and planted spyware that read the contents of requests. The exposure lasted from 21 October to 1 November, and 152,092 requests reached that server.",
+  "The same attacker then returned on 4 and 5 November to management interfaces on two other cloud servers, and obtained the root key of the legacy key management service seven times on 5 November, because it was enough for the caller to run a known operating system, and the attacker still holds a copy of the old key.",
+  "The company rebuilt its infrastructure with a new key service and a new root key, and migrated 2,179 of 2,271 affected workloads by 21 November, the affected users were notified, and the practical advice is clear: immediately change any password or key you sent inside an AI request through that server during that period.",
+  "Simply put: a question you wrote to an AI traveled to an unprotected test server, where an attacker read it and stole along with it a key that opens other doors; do you still type your secrets inside AI questions?",
+  "Have you ever changed a password you once typed inside a chat with an AI?"
+ ]
+}

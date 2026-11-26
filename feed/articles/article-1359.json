@@ -1,0 +1,25 @@
+{
+ "id": 1359,
+ "slug": "article-1359",
+ "title": "💬 ChatGPT unifies its usage meter.. chat and work from a single balance, and heavy users may hit the limit sooner!",
+ "date": "2026-11-26",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-06.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "ChatGPT"
+ ],
+ "body": [
+  "💬 ChatGPT unifies its usage meter.. chat and work from a single balance, and heavy users may hit the limit sooner!",
+  "OpenAI has begun rolling out a unified chat and work experience inside ChatGPT to a small group of Pro plan subscribers, with a single usage meter combining both after each used to have a separate limit.",
+  "The company's product lead announced the rollout in a post on X, following an earlier email that informed users of the merge, with the shared meter set to expand to more users in December.",
+  "The company explained that most users will not notice the limits resetting faster, but a small percentage of the heaviest users may reach their limit sooner, because long work tasks and daily chats will now draw from the same balance.",
+  "One important exception remains: Instant model chats stay unlimited and are not counted in the shared meter, and can continue to be used even after the balance is exhausted, while the remaining balance and its reset time can be followed from the account settings.",
+  "The change comes as part of a broader restructuring of how payment works, as subscribers to the Plus, Pro and Business plans will share, starting in December, a single token balance across ChatGPT and the Codex coding tool together, while keeping instant chats outside the count.",
+  "Simply put: your daily chat and your long coding project now eat from the same plate, and the heaviest users will feel the difference first; does it bother you that your chats and work tasks are counted from one balance?",
+  "Do you prefer a single simple meter, or separate limits for each service?"
+ ]
+}

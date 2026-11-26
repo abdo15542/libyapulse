@@ -1,0 +1,25 @@
+{
+ "id": 1360,
+ "slug": "article-1360",
+ "title": "🔒 OpenAI tests 'Private Inference'.. an AI that cannot see your company's data even while processing it!",
+ "date": "2026-11-26",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-07.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "OpenAI"
+ ],
+ "body": [
+  "🔒 OpenAI tests 'Private Inference'.. an AI that cannot see your company's data even while processing it!",
+  "OpenAI's CEO has announced the start of testing a new service called Private Inference with a small group of customers, a service designed to protect companies' questions and the models' answers while they are being processed, not just before and after.",
+  "The service relies on confidential computing and strict verifiable controls, so requests run on isolated hardware whose security can be independently verified, keeping data protected even at the moment the model works on it, a stage that had resisted full protection until now.",
+  "The service comes within the company's Private AI package for businesses, unveiled at the developer conference on 29 September, and works alongside a 'no data retention' option that prevents storing questions and answers after processing, and an option for automated safety reviews without company staff seeing the content.",
+  "The company says stronger privacy protection will make advanced AI useful to far more businesses, especially in sensitive sectors such as health, finance and law, and it has already begun securing additional confidential computing capacity to expand the service later.",
+  "The service is still in an early testing phase, and the company has not yet announced which models it covers, its price, or when it will be available to everyone, and registration of interest is available through a special form for companies.",
+  "Simply put: imagine asking an AI about your company's secrets, and it answers you without ever seeing your question; is this protection enough for companies to trust sending their sensitive data to AI?",
+  "Do privacy concerns stop you from using AI in your work?"
+ ]
+}

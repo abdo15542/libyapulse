@@ -1,0 +1,25 @@
+{
+ "id": 1363,
+ "slug": "article-1363",
+ "title": "🎙️ Qwen Audio 3.1 speaks 65 languages.. a huge voice update from Alibaba!",
+ "date": "2026-11-26",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-10.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🎙️ Qwen Audio 3.1 speaks 65 languages.. a huge voice update from Alibaba!",
+  "Alibaba's Qwen team has announced a wide update to the Qwen Audio 3.1 voice models, expanding language support across its three services without changing the architecture or prices.",
+  "Speech-to-text now covers 59 languages and 8 Chinese dialects, after covering only 30 languages before, while text-to-speech now covers 65 languages and 6 dialects, and real-time voice chat now covers 53 languages and 6 dialects.",
+  "The models rely on a mixture-of-experts architecture trained on about 20 million hours of multilingual audio, through stages including pretraining, fine-tuning and reinforcement learning, and are offered as cloud services through APIs without downloadable weights.",
+  "The series first appeared on 23 September at the Apsara conference, with five models covering recognition, synthesis and real-time chat, with price cuts reaching 95% on some services, and the new update only expands the languages on the three production services.",
+  "The technical documentation noted a striking paradox: despite the number of languages nearly doubling, the documented number of Chinese dialects fell from 16 to 8, with no explanation from the company of how this number is measured.",
+  "Simply put: an AI that hears you and talks with you in 65 languages, and the Chinese dialects alone fill a list; are many languages enough to make a voice assistant truly global?",
+  "Do you talk to a voice assistant in your language, or do you still prefer typing?"
+ ]
+}

@@ -1,7 +1,107 @@
 {
- "count": 1353,
- "generated": "2026-11-26T18:01:36.031623Z",
+ "count": 1363,
+ "generated": "2026-11-26T18:36:12.166265Z",
  "articles": [
+  {
+   "id": 1363,
+   "slug": "article-1363",
+   "title": "🎙️ Qwen Audio 3.1 speaks 65 languages.. a huge voice update from Alibaba!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1362,
+   "slug": "article-1362",
+   "title": "🛒 Amazon and Meta negotiate to bring Muse back to the Amazon store.. before Black Friday!",
+   "date": "2026-11-26",
+   "category": "companies",
+   "category_name": "Companies & Business",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1361,
+   "slug": "article-1361",
+   "title": "⚖️ Australia passes a 'Digital Duty of Care'.. fines of up to 5% of global tech companies' revenue!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1360,
+   "slug": "article-1360",
+   "title": "🔒 OpenAI tests 'Private Inference'.. an AI that cannot see your company's data even while processing it!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1359,
+   "slug": "article-1359",
+   "title": "💬 ChatGPT unifies its usage meter.. chat and work from a single balance, and heavy users may hit the limit sooner!",
+   "date": "2026-11-26",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1358,
+   "slug": "article-1358",
+   "title": "🤖 Claude rebuilds Anthropic's interface in Rust.. and saves 70% of CPU without stopping the service!",
+   "date": "2026-11-26",
+   "category": "computing",
+   "category_name": "Computing & Programming",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1357,
+   "slug": "article-1357",
+   "title": "🔑 152,000 AI requests were exposed to the attacker.. and Fal admits its cloud root key was stolen!",
+   "date": "2026-11-26",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1356,
+   "slug": "article-1356",
+   "title": "💻 Nvidia halts AI server shipments to four Asian countries.. the reason is new U.S. restrictions!",
+   "date": "2026-11-26",
+   "category": "companies",
+   "category_name": "Companies & Business",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1355,
+   "slug": "article-1355",
+   "title": "🧠 U.S. approval for the first pivotal brain-chip trial.. Neuralink tests thought control in ALS patients!",
+   "date": "2026-11-26",
+   "category": "science",
+   "category_name": "Science & Innovation",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1354,
+   "slug": "article-1354",
+   "title": "🛰️ One million satellites for data centers in space.. SpaceX wins historic approval!",
+   "date": "2026-11-26",
+   "category": "space",
+   "category_name": "Space",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r320-w320-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1353,
    "slug": "article-1353",
