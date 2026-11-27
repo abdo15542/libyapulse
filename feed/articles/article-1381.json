@@ -1,0 +1,25 @@
+{
+ "id": 1381,
+ "slug": "article-1381",
+ "title": "💻 JetBrains Launches 'Mellum 2.1 Instruct'… Direct Answers Without Long Thinking!",
+ "date": "2026-11-26",
+ "category": "computing",
+ "category_name": "Computing & Programming",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r322-w322-08.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "JetBrains"
+ ],
+ "body": [
+  "💻 JetBrains Launches 'Mellum 2.1 Instruct'… Direct Answers Without Long Thinking!",
+  "JetBrains has launched its new coding model 'Mellum 2.1 Instruct', an open model that answers directly without showing a long chain of thought, as a faster and lighter alternative to the 'Thinking' version released in October.",
+  "The model has 12 billion parameters, with only 2.5 billion activated on each response, in a mixture-of-experts architecture, and it is available under the Apache 2.0 license on Hugging Face, with files for running it locally on your own device.",
+  "The model carries a multi-token prediction head that makes text generation up to 1.8 times faster, and it was designed for small, fast tasks such as simple fixes, commands, and questions about code, not hard algorithmic problems.",
+  "In agentic coding tasks, the model uses about half the tokens the 'Thinking' version uses: 5.6 thousand tokens per task versus 10.1 thousand, and excluding tool calls the number drops to 2.4 thousand versus 8.8 thousand, which is 73% less.",
+  "But speed has a price: the model scored 40.4 points on SWE-bench versus 47.0 for the 'Thinking' version, and 53.7 versus 82.0 on LiveCodeBench, and the company says the 'Thinking' version remains better for hard math and algorithmic problems.",
+  "Simply put: a small coding model that answers fast and at half the cost, but is weaker on hard problems; do you prefer speed or accuracy when AI writes your code?",
+  "Do you use AI models to write code, or do you write everything yourself?"
+ ]
+}

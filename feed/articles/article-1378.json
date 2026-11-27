@@ -1,0 +1,25 @@
+{
+ "id": 1378,
+ "slug": "article-1378",
+ "title": "🔐 Zero-Day Flaw in Ivanti… Login Bypass and Command Execution With No Account!",
+ "date": "2026-11-26",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r322-w322-05.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🔐 Zero-Day Flaw in Ivanti… Login Bypass and Command Execution With No Account!",
+  "A dangerous zero-day flaw has been revealed in Ivanti Connect Secure, the VPN system, carrying the number CVE-2026-104935 and a severity score of 8.6 out of 10, and letting an attacker with no account bypass the login screen and run commands on the device.",
+  "The flaw works through a trick in identity verification using fake headers, such as 'X-DSCGI-Path' and 'X-Forwarded-For', letting the attacker reach internal handlers that were supposed to stay hidden from strangers.",
+  "What is worse is that the flaw can be chained with another flaw carrying the number CVE-2026-111357 to reach full root privileges on the device, turning the VPN gateway, which is supposed to be the first line of defense, into an open back door.",
+  "Researchers confirmed that exploitation is already happening in attacks, with 46 attempts spotted on October 26 and 27, which means attackers know the flaw and are using it before many have noticed it.",
+  "The company released the fix in version ICS 25.1.3.0, and the advice is clear: update internet-facing Ivanti devices immediately, and do not leave your VPN gateway unpatched.",
+  "Simply put: a flaw that opens your whole company network from the login page without any password; do you know whether your company's system is among those exposed?",
+  "Do you trust VPNs after all these flaws, or are you reviewing your security settings right now?"
+ ]
+}

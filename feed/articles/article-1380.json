@@ -1,0 +1,25 @@
+{
+ "id": 1380,
+ "slug": "article-1380",
+ "title": "🎭 'Free Wallpaper' Ads Steal Meta Business Accounts… Beware the 'SIS 010' Campaign!",
+ "date": "2026-11-26",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r322-w322-07.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🎭 'Free Wallpaper' Ads Steal Meta Business Accounts… Beware the 'SIS 010' Campaign!",
+  "Security researchers have uncovered a malicious ad campaign named 'SIS 010' that exploits Meta's own ads to offer 'free animated wallpapers'; if the victim downloads them, it installs malicious browser extensions that steal Meta Business accounts.",
+  "After installation, the extensions steal cookies and business account data; the Chrome version can even read emails and delete them, to hide the security alerts that might warn the victim.",
+  "The campaign spreads through Chrome, Firefox, and Edge browsers, and exploits browser and device management features to make removal harder, while its activity has been spotted around the world since October 16, including the United States, with no activity in Vietnam, suggesting the operators are Vietnamese speakers.",
+  "The biggest danger is for page owners, small businesses, and content creators: stealing a business account could mean hijacked ad budgets, lost access to pages, and a damaged reputation when the accounts are used in new scams.",
+  "The golden rule here is simple: do not download 'free wallpapers' from ads, do not install any browser extension from outside the official store, and review your browser extensions now and delete anything you do not recognize.",
+  "Simply put: an innocent-looking ad for a free wallpaper could steal your whole page and ad budget; have you reviewed your browser extensions recently?",
+  "Do you install browser extensions from any ad you like, or do you check them first?"
+ ]
+}
