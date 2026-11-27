@@ -1,0 +1,25 @@
+{
+ "id": 1391,
+ "slug": "article-1391",
+ "title": "🛡️ OpenAI and Cisco Launch \"Sherwood\"… Temporary Shields That Protect Linux Without Stopping the Service!",
+ "date": "2026-11-27",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-08.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🛡️ OpenAI and Cisco Launch \"Sherwood\"… Temporary Shields That Protect Linux Without Stopping the Service!",
+  "OpenAI and Cisco have launched a new project called \"Sherwood\", aimed at protecting Linux systems from attacks without needing to stop services.",
+  "The idea is based on temporary protection measures known as \"shields\", installed quickly to close a vulnerability while the permanent fix is being prepared, so the system is not left exposed during the wait.",
+  "\"Sherwood\" works with eBPF technology, which makes it possible to intercept exploitation attempts and block them, without disrupting the system's normal activity or stopping the services users rely on.",
+  "The project also supports AI agents that can scan for security vulnerabilities, develop protection measures, and test them before deployment, in a step that makes AI a partner in defense, not just a tool for attack.",
+  "The two companies demonstrated the idea in practice: the \"Codex\" model used a shield to block the exploitation of a \"Log4Shell\" vulnerability targeting a search service running at the time of the demo, stopping the attack without the service going down.",
+  "Simply put: a temporary shield protects your system until the permanent fix arrives; would you prefer a quick temporary protection or waiting for the full fix?",
+  "Would you trust an AI agent to write protection for your system by itself?"
+ ]
+}

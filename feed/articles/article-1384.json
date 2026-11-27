@@ -1,0 +1,25 @@
+{
+ "id": 1384,
+ "slug": "article-1384",
+ "title": "🤖 Google Warns: Fully Autonomous Cyberattacks Within Months… AI Agents Attack on Their Own!",
+ "date": "2026-11-27",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-01.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🤖 Google Warns: Fully Autonomous Cyberattacks Within Months… AI Agents Attack on Their Own!",
+  "Google's Threat Analysis Group has published its findings on how attackers exploit large language models to carry out attacks, warning that fully autonomous attacks are closer than many think.",
+  "According to the group's timeline for how attackers' use of these models is evolving, the world is now in stage five, where complete attack cycles are carried out with tools powered by language models.",
+  "The group expects stage six to arrive within one to three months, when attackers start carrying out attacks relying on multiple agents with little expertise and almost no human intervention.",
+  "Stage seven, meanwhile, is expected within three to six months, when attackers become able to carry out sophisticated and fully independent attacks using AI agents.",
+  "The message is clear: the attacker no longer needs a whole team or deep expertise, just a smart agent working on their behalf; defenses that rely on the slowness of the human attacker may not withstand the speed of the machine.",
+  "Simply put: cyberattacks are shifting from a slow human job to a fast automated process; are security teams ready to face an attacker that never sleeps and never tires?",
+  "Do you trust that current security systems can stop an attack carried out by AI alone?"
+ ]
+}

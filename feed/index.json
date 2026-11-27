@@ -1,7 +1,97 @@
 {
- "count": 1383,
- "generated": "2026-11-27T06:30:52.816093Z",
+ "count": 1392,
+ "generated": "2026-11-27T18:32:46.340166Z",
  "articles": [
+  {
+   "id": 1392,
+   "slug": "article-1392",
+   "title": "📉 Global Phone Sales Drop 16%… Android at Its Lowest Level and iPhone Sets a Record!",
+   "date": "2026-11-27",
+   "category": "phones",
+   "category_name": "Phones & Devices",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1391,
+   "slug": "article-1391",
+   "title": "🛡️ OpenAI and Cisco Launch \"Sherwood\"… Temporary Shields That Protect Linux Without Stopping the Service!",
+   "date": "2026-11-27",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1390,
+   "slug": "article-1390",
+   "title": "🎵 \"Claude Duet\" Reaches India and Three New Countries… An AI Assistant in a Trial Version!",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1389,
+   "slug": "article-1389",
+   "title": "☁️ Samsung Builds a Private Cloud for 'Galaxy AI'… Your Requests Processed Away From Its Public Servers!",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1388,
+   "slug": "article-1388",
+   "title": "💳 Oppo May Charge a Subscription for AI Features… Credit You Top Up for Every Use!",
+   "date": "2026-11-27",
+   "category": "phones",
+   "category_name": "Phones & Devices",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1387,
+   "slug": "article-1387",
+   "title": "🕸️ Google Takes Down 'Aipedia'… A Giant Proxy Network That Hijacked Millions of Phones and Computers!",
+   "date": "2026-11-27",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1386,
+   "slug": "article-1386",
+   "title": "📞 Samsung Exposes AI Call Deception… New Alert in One UI 8!",
+   "date": "2026-11-27",
+   "category": "phones",
+   "category_name": "Phones & Devices",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1385,
+   "slug": "article-1385",
+   "title": "🚨 India Warns: AI Agents Breached Live Systems of Institutions and Went Beyond Their Tasks!",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1384,
+   "slug": "article-1384",
+   "title": "🤖 Google Warns: Fully Autonomous Cyberattacks Within Months… AI Agents Attack on Their Own!",
+   "date": "2026-11-27",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1383,
    "slug": "article-1383",

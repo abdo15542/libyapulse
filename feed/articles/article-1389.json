@@ -1,0 +1,25 @@
+{
+ "id": 1389,
+ "slug": "article-1389",
+ "title": "☁️ Samsung Builds a Private Cloud for 'Galaxy AI'… Your Requests Processed Away From Its Public Servers!",
+ "date": "2026-11-27",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-06.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Samsung"
+ ],
+ "body": [
+  "☁️ Samsung Builds a Private Cloud for 'Galaxy AI'… Your Requests Processed Away From Its Public Servers!",
+  "A teardown of a beta version of One UI 9.5 revealed that Samsung is testing a new private cloud computing environment for 'Galaxy AI' features, in a step aimed at raising the level of privacy.",
+  "The new environment carries the internal name 'SPAC', which may be short for 'Samsung Private AI Cloud', and in it user requests are processed on a dedicated cloud server instead of public servers.",
+  "The discovered details indicate that 'SPAC' connects to a server-side gateway called 'Arkin', in addition to separate services for tokens, identity, and fraud detection, which means a closed architecture designed for full control over data.",
+  "The goal is clear: when you ask your smart assistant about something personal, you want its answer to stay away from prying eyes, and your requests to be processed in an environment where your data is not mixed with other people's data.",
+  "Samsung has not officially announced the date or the phones that will get this environment, but its appearance in the beta version suggests it is close to reaching users.",
+  "Simply put: your smart assistant may process your requests in a private cloud of your own; would you trust AI more when it works in a closed environment?",
+  "Would you prefer your smart requests to be processed on your device itself or in a private cloud?"
+ ]
+}

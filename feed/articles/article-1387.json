@@ -1,0 +1,25 @@
+{
+ "id": 1387,
+ "slug": "article-1387",
+ "title": "🕸️ Google Takes Down 'Aipedia'… A Giant Proxy Network That Hijacked Millions of Phones and Computers!",
+ "date": "2026-11-27",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r323-w323-04.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "🕸️ Google Takes Down 'Aipedia'… A Giant Proxy Network That Hijacked Millions of Phones and Computers!",
+  "Google's Threat Analysis Group and its partners have announced the takedown of one of the largest proxy networks in the world, in an operation that ended years of work in the shadows.",
+  "The network is called 'Aipedia', and it was one of the most notorious hidden proxy networks, having seized millions of smartphones and computers and turned them into proxies through which cyberattacks pass without their owners knowing.",
+  "Proxy networks work by hacking ordinary devices, then using their internet connection to hide the source of attacks, so an attack looks as if it is coming from thousands of innocent devices around the world.",
+  "Google confirmed that it succeeded in taking the network down together with its partners last week, in a strong blow to a system that exploits hacked devices to carry out large-scale attacks.",
+  "But the fall of one network does not mean the end of the danger, as similar networks are many, and your device may be part of one of them without you noticing anything strange about it.",
+  "Simply put: your phone may be working as a proxy for attackers without you knowing; do you check your device regularly to make sure it is safe?",
+  "Do you know whether your device is part of a hidden proxy network?"
+ ]
+}
