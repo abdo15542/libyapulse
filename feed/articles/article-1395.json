@@ -1,0 +1,25 @@
+{
+ "id": 1395,
+ "slug": "article-1395",
+ "title": "🧮 OpenAI Publishes Nine Math Papers — Claims of Solving Decades-Old Problems Without Review!",
+ "date": "2026-11-27",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-03.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🧮 OpenAI Publishes Nine Math Papers — Claims of Solving Decades-Old Problems Without Review!",
+  "OpenAI has added nine mathematical manuscripts to its public repository, claiming to solve open problems that have stood for decades in computer science and mathematics, including a famous problem from mathematician Stephen Smale's list.",
+  "One paper claims to present a deterministic algorithm for solving linear programming in a number of steps bounded by the problem's dimensions alone — known as Smale's ninth problem — while another claims to separate two famous algebraic classes known as \"VP\" and \"VNP\", the algebraic version of the famous \"P versus NP\" problem.",
+  "This batch came just one day after a rival company published a similar proof of the same separation, in a strange race between AI labs over mathematical problems that have remained unsolved since 1979.",
+  "But caution is warranted: none of these papers has undergone independent peer review yet, and the company itself describes them as \"raw research data\" from an undisclosed internal model, acknowledging that some results may contain errors.",
+  "Automated computer verification also covers only parts of the proofs, while other parts remain formally unverified so far.",
+  "Simply put: AI is now writing mathematics faster than humans can read it; would you trust a proof no human mathematician has reviewed yet?",
+  "Do you think machines will outpace humans in solving the hardest scientific problems?"
+ ]
+}

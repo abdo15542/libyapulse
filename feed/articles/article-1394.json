@@ -1,0 +1,25 @@
+{
+ "id": 1394,
+ "slug": "article-1394",
+ "title": "🎙️ DeepL Launches \"Ori 2\" — Instant Voice Translation With No Waiting!",
+ "date": "2026-11-27",
+ "category": "ai",
+ "category_name": "Artificial Intelligence",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-02.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "AI"
+ ],
+ "body": [
+  "🎙️ DeepL Launches \"Ori 2\" — Instant Voice Translation With No Waiting!",
+  "DeepL has launched its new model \"Ori 2\" for instant voice translation, at a special event in Tokyo, promising faster multilingual conversations that feel closer to natural speech.",
+  "The new model cuts translation waiting time in half compared to its predecessor, with higher accuracy and better expression, so meeting participants can respond to ideas the moment they are raised.",
+  "The secret lies in the new architecture: instead of three separate steps — turning speech into text, translating it, then turning it back into speech — \"Ori 2\" translates directly from speech to speech in a single step.",
+  "The model was also trained to know the right moment to start translating, so it does not start too early and lose context, nor too late and slow down the conversation — a difficult skill, especially in languages where the key information comes at the end of the sentence.",
+  "The model supports six languages at launch: English, German, French, Spanish, Japanese, and Korean, and works automatically inside video meetings and live conversations.",
+  "Simply put: instant translation is catching up with the speed of natural speech; do you use voice translation in your work or studies?",
+  "Which language do you wish you could understand instantly without learning it?"
+ ]
+}

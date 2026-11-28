@@ -1,0 +1,25 @@
+{
+ "id": 1396,
+ "slug": "article-1396",
+ "title": "⚠️ Urgent Warning: Serious WhatsApp Vulnerabilities — Update Your App Now!",
+ "date": "2026-11-27",
+ "category": "security",
+ "category_name": "Cybersecurity",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-04.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Cybersecurity"
+ ],
+ "body": [
+  "⚠️ Urgent Warning: Serious WhatsApp Vulnerabilities — Update Your App Now!",
+  "India's computer emergency response team has issued a high-severity warning about multiple vulnerabilities in WhatsApp that could allow a remote attacker to run malicious commands and access sensitive information.",
+  "The flaws include a bug in WhatsApp for Android that could allow stored files to be deleted when a rigged message about \"order details\", sent from an unofficial client, is tapped.",
+  "They also include a certificate-validation flaw inside the verification system linked to the AI service, and a third flaw that could expose the user's internet address through rigged advertising links.",
+  "The warning covers WhatsApp and WhatsApp Business on Android and iPhone, as well as the desktop versions for Mac and Windows, all in specific versions older than the latest update.",
+  "The fix is simple and straightforward: update the app from the app store to the latest version, as the company has already fixed these flaws in its recent updates.",
+  "Simply put: a single message could be enough to hack your phone if your app is old; do you update your apps as soon as updates arrive?",
+  "When was the last time you checked for a WhatsApp update on your phone?"
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": 1401,
+ "slug": "article-1401",
+ "title": "🤖 SenseTime Launches a Robot That Learns in Simulation and Succeeds in Reality — 9 Out of 10 Tries!",
+ "date": "2026-11-27",
+ "category": "science",
+ "category_name": "Science & Innovation",
+ "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-09.jpg",
+ "fb_url": "",
+ "hashtags": [
+  "TechPulse",
+  "TechNews",
+  "Science"
+ ],
+ "body": [
+  "🤖 SenseTime Launches a Robot That Learns in Simulation and Succeeds in Reality — 9 Out of 10 Tries!",
+  "SenseTime has released the full version of its robotics model, SenseNova Robo RSI 27B, which learned to control a robotic arm inside simulation only, then succeeded in the real world without any training on real robot data.",
+  "In real-world tests, one robotic arm stacked cubes 9 times out of 10, while another arm picked up various objects and placed them in their spots 6 times out of 10.",
+  "What's new is that the model decides for itself when to use the learned motion policy, when to write code to calculate the target's position and control the arm directly, and when to revise its plan based on what happens during execution.",
+  "On the RoboDojo simulation benchmark, the model scored 34.7 points — more than three times its trial version — outperforming a much larger model, despite running at a lower operating cost.",
+  "The model learned through repeated rounds of self-improvement, in which the model and the execution framework evolve together, step by step.",
+  "Simply put: a robot trains in a virtual world and then works in the real one — can you imagine a home robot doing your daily tasks soon?",
+  "What is the first task you would want a robot to do in your home?"
+ ]
+}

@@ -1,7 +1,107 @@
 {
- "count": 1392,
- "generated": "2026-11-27T18:32:46.340166Z",
+ "count": 1402,
+ "generated": "2026-11-27T21:52:03.142423Z",
  "articles": [
+  {
+   "id": 1402,
+   "slug": "article-1402",
+   "title": "🇯🇵 Japan Launches Its \"AI Vision for Defense\" — The Human Has the Final Say!",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-10.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1401,
+   "slug": "article-1401",
+   "title": "🤖 SenseTime Launches a Robot That Learns in Simulation and Succeeds in Reality — 9 Out of 10 Tries!",
+   "date": "2026-11-27",
+   "category": "science",
+   "category_name": "Science & Innovation",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-09.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1400,
+   "slug": "article-1400",
+   "title": "🎖️ Poland Signs a $300 Million Deal with Palantir — AI to Guide Army Decisions!",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-08.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1399,
+   "slug": "article-1399",
+   "title": "⌚ ChatGPT Health Arrives on Android — Your Watch and Fitness Inside the Chat!",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-07.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1398,
+   "slug": "article-1398",
+   "title": "🔌 Google Forces AI Agents to Go Through Its Servers — Deadline: February 2027!",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-06.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1397,
+   "slug": "article-1397",
+   "title": "🛡️ X Finally Launches Parental Controls — Daily Limits and Follower Approval!",
+   "date": "2026-11-27",
+   "category": "apps",
+   "category_name": "Apps & Platforms",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-05.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1396,
+   "slug": "article-1396",
+   "title": "⚠️ Urgent Warning: Serious WhatsApp Vulnerabilities — Update Your App Now!",
+   "date": "2026-11-27",
+   "category": "security",
+   "category_name": "Cybersecurity",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-04.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1395,
+   "slug": "article-1395",
+   "title": "🧮 OpenAI Publishes Nine Math Papers — Claims of Solving Decades-Old Problems Without Review!",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-03.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1394,
+   "slug": "article-1394",
+   "title": "🎙️ DeepL Launches \"Ori 2\" — Instant Voice Translation With No Waiting!",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-02.jpg",
+   "fb_url": ""
+  },
+  {
+   "id": 1393,
+   "slug": "article-1393",
+   "title": "🏢 SAP Weighs Cutting 10,000 Jobs — A Full Restructure in the Name of AI!",
+   "date": "2026-11-27",
+   "category": "ai",
+   "category_name": "Artificial Intelligence",
+   "image": "https://abdo15542.github.io/wamdalibya/images/r324-w324-01.jpg",
+   "fb_url": ""
+  },
   {
    "id": 1392,
    "slug": "article-1392",
